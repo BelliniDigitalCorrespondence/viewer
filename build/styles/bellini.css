@@ -1,0 +1,271 @@
+#div-div
+{
+	margin: 15px 0px 30px 20px;
+}
+
+*[data-value^="LL1."]{
+	font-variant-caps: all-small-caps;
+}
+
+span.ab[data-type='paratext'] span.lb#null:first-child{
+	height: 0px;
+	display: block;
+}
+
+span.ab[data-type='paratext'] span.inLine+span.lb#null{
+	height: 0px;
+	display: block;
+}
+
+
+
+span.lb[data-break='no']::before {
+	content: '=';
+ }
+
+span.ab[data-part='F']>span.lb[data-n='1']::before, span.s[data-part='F']>span.lb[data-n='1']::before,  span.w>span.lb[data-n='1']::before {
+    content: '';
+}
+
+span.w[data-part="I"]::after {
+    content: " =";
+}
+
+span.respStmt > span.resp {
+    display: block;
+}
+
+span.hi[data-rend="sup"]{
+	line-height: 20px; vertical-align: 20%;
+}
+
+span.div:last-child span.ab:last-child span.s:last-child span.w[data-part='N']:last-child::after {
+    content: ' =';
+}
+
+hi.ng-scope{
+
+	display: block;
+ }
+/* pop-up delle opere / work */
+
+ span.msItem span.idno{
+	display: block;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: 20px;
+ }
+ /* idno per msItem della sezione msDesc */
+
+ span.fw{
+	display: block;
+	font-style: oblique;
+	/*font-family: "Times New Roman", Times, serif;*/
+ }
+
+ span.head{
+	display: block;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+
+ }
+
+ span.addName[data-type="epiteth"]::before {
+    content: " - ";
+}
+span.roleName[data-type="honorific"]::before {
+    content: " - ";
+}
+
+div.diplomatic span.supplied{
+	background-color: orange;
+}
+
+
+*[data-type="visColl"]{
+	display: none;
+}
+
+.gap[data-unit="chars"]{
+	background-color: red;
+}
+
+.lb .lineN {
+	text-align: right !important;
+	color: grey !important;
+	font-size: .8em !important;
+	margin-right: 10px !important;
+	height: 100% !important;
+	width: 24px !important;
+	margin-bottom: 2.5ex !important;
+	display: inline-block !important;
+}
+
+.div {
+    display: inline !important;
+}
+
+.div[data-type="paratext"]#div-div {
+	margin: 0px 0px 0px 0px !important;
+
+}
+
+.div[data-type="stamp"]#div-div {
+	margin: 0px 0px 0px 0px !important;
+
+}
+
+.div[data-type="sent"]#div-div {
+	margin: 0px 0px 0px 0px !important;
+
+}
+
+.address {
+    display: inline !important;
+}
+
+#mainContentToTranform{
+	display: block;
+	margin: 10px 50px 100px 50px !important;
+}
+
+*[data-type="paratext"]{
+	font-style: oblique;
+	background-color: #E3E3E3;
+	display: block;
+	padding-top: 10px;
+}
+
+*[data-type="extratext"]{
+	font-style: oblique;
+	color: #A4A4A4;
+	display: block;
+	font-size: larger;
+
+}
+
+*[data-rend~="underline"] {
+	text-decoration: underline;
+}
+
+*[data-rend~="align(right)"] {
+	margin-left: 10em;
+	/*float: right;*/
+}
+
+*[data-rend~="align(center)"] {
+	padding-left: 30%;
+
+}
+
+.head {
+	margin-top: 0.5rem;
+	margin-bottom: 0rem;
+}
+
+hi[rend=italic] {
+	font-style: italic;
+  }
+
+.box #msDesc{
+	  padding-bottom: 60px;
+  }
+
+div.toc_doc_details > div:nth-child(1) {
+	display: none;
+}
+
+button-switch[data-type="thumbs"], button-switch[data-type="schema"], button-switch[data-type="searchIndex"] {
+	display: none;
+}
+
+span.lb[data-rend="2-lines"] {
+    display: block;
+    padding-top: 10px;
+}
+
+span.lb[data-rend="4-lines"] {
+    display: block;
+    padding-top: 20px;
+}
+
+span.lb[data-rend="1-lines"] {
+    display: block;
+    padding-top: 5px;
+}
+
+
+
+div.diplomatic span.unclear[data-reason="illegible"]{
+	color: orange;
+    font-weight: bold;
+}
+
+.box.box-text .box-body,
+.box.box-version .box-body,
+.box.box-witness .box-body {
+position:relative;
+overflow-x:hidden;
+overflow-y:auto;
+background-color: #ededed;
+}
+
+#mainContentToTranform{
+	display: block;
+	margin: 10px 50px 100px 50px !important;
+	background-color: white;
+	border: 5px solid rgb(255, 255, 255);
+}
+
+span.settlement[data-type="provincia"]::after, span.settlement[data-type="département"]::after,  span.settlement[data-type="country"]::after{
+	content: ')';
+}
+span.settlement[data-type="provincia"]::before, span.settlement[data-type="département"]::before, span.settlement[data-type="country"]::before{
+	content: '(';
+
+}
+
+.evt-bibliography__header {
+ display: none;
+}
+
+span.namedEntity__detail-text-content>span.event, span.namedEntity__detail-text-content>span.head{
+	display: none;
+}
+
+*[data-rend="first_line_indented"].ab .s:first-child > .lb:first-child {
+ margin-right: 3rem;
+}
+
+*[data-rend="first_line_indented"].ab span.textNode.inLine:first-child+span.s > .lb:first-child {
+	margin-right: 3rem;
+   }
+
+
+*[data-rend="first_line_indented"].s > .lb:first-child {
+	margin-right: 3rem;
+}
+
+*[data-rend="first_line_indented"].s > span.textNode.inLine:first-child+span.lb {
+	margin-right: 3rem;
+}
+
+*[data-rend="first_line_indented"].salute .s:first-child > .lb:first-child {
+	margin-right: 3rem;
+}
+
+*[data-rend="first_line_indented"].salute span.textNode.inLine:first-child+span.s > .lb:first-child {
+	margin-right: 3rem;
+}
+
+.biblRef .author{
+	font-variant: small-caps;
+}
+
+.biblRef .title{
+	font-style: italic;
+}
+
+.popover_tooltip.expanded {
+    font-style: normal !important;
+}

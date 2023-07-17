@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Virginia Martini Giovio della Torre, in Parigi, [26 luglio 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2021-04" instant="false">April 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Progetto edizione digitale coordinato da</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Codifica di</resp>
+					<name full="yes" instant="false">Valeria Dionisi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="SP" full="yes" instant="false">Santa Pellino</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_33.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="488" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="562" to="562" unit="page">562</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.33</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, VI (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.33"><idno type="inventory">LL1.33</idno><title>Vincenzo Bellini a Virginia Martini Giovio della Torre, in Parigi, [26 luglio 1835]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="488"><locus from="562" to="562">n. 488, p. 562.</locus></citedRange></bibl><bibl>Amore, 1892, p. 369. </bibl><bibl>Cambi, 1943, p. 568-569. </bibl><bibl>Neri, 2005, p. 433. </bibl><incipit><fw>Incipit </fw>
+						
+							Mia cara
+							Contessa</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-07-26" instant="false">26 luglio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#GioviodellaTorreMartiniVirginia">Virginia Martini Giovio della Torre</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.33_facsimile">
+		<!--le misure delle zone sono tutte da moltiplicare per 2. La dimensione dell'immagine è metà di quella vera-->
+		<surface n="LL1.33.1" xml:id="LL1.33_folio_1r" corresp="#LL1.33_fol_1r"><graphic url="data/test-img/LL1.33/LL1-33_0001.dzi" width="818.5px" height="1235.5px"/><zone ulx="128.08" uly="103.35" lrx="367.46" lry="146.63" rendition="line" xml:id="LL1.33_line_1r_01"/><zone ulx="249.98" uly="193.45" lrx="693.41" lry="234.96" rendition="line" xml:id="LL1.33_line_1r_02"/><zone ulx="70.67" uly="238.50" lrx="699.59" lry="269.41" rendition="line" xml:id="LL1.33_line_1r_03"/><zone ulx="73.32" uly="277.36" lrx="705.78" lry="304.75" rendition="line" xml:id="LL1.33_line_1r_04"/><zone ulx="69.78" uly="319.76" lrx="677.51" lry="353.33" rendition="line" xml:id="LL1.33_line_1r_05"/><zone ulx="68.90" uly="358.63" lrx="705.78" lry="401.03" rendition="line" xml:id="LL1.33_line_1r_06"/><zone ulx="68.02" uly="404.56" lrx="700.48" lry="437.24" rendition="line" xml:id="LL1.33_line_1r_07"/><zone ulx="69.78" uly="445.19" lrx="696.94" lry="481.41" rendition="line" xml:id="LL1.33_line_1r_08"/><zone ulx="69.78" uly="488.48" lrx="704.89" lry="519.39" rendition="line" xml:id="LL1.33_line_1r_09"/><zone ulx="72.43" uly="529.99" lrx="704.89" lry="569.74" rendition="line" xml:id="LL1.33_line_1r_10"/><zone ulx="63.60" uly="579.46" lrx="704.89" lry="611.26" rendition="line" xml:id="LL1.33_line_1r_11"/><zone ulx="67.13" uly="620.98" lrx="658.08" lry="646.59" rendition="line" xml:id="LL1.33_line_1r_12"/><zone ulx="68.02" uly="661.61" lrx="686.34" lry="689.88" rendition="line" xml:id="LL1.33_line_1r_13"/><zone ulx="68.90" uly="699.59" lrx="693.41" lry="727.86" rendition="line" xml:id="LL1.33_line_1r_14"/><zone ulx="70.67" uly="738.46" lrx="446.96" lry="769.37" rendition="line" xml:id="LL1.33_line_1r_15"/><zone ulx="476.11" uly="787.04" lrx="595.36" lry="1058.22" rendition="HotSpot" xml:id="LL1.33_hotspot_1r_01" corresp="#LL1.33_hotspot_1r_01h" start="#LL1.33_hotspot_1r_01h"/></surface>
+		<surface n="LL1.33.2" xml:id="LL1.33_folio_1v" corresp="#LL1.33_fol_1v"><graphic url="data/test-img/LL1.33/LL1-33_0002.dzi" width="834.5px" height="1235.5px"/></surface>
+		<surface n="LL1.33.3" xml:id="LL1.33_folio_2r" corresp="#LL1.33_fol_2r"><graphic url="data/test-img/LL1.33/LL1-33_0003.dzi" width="818.5px" height="1235.5px"/></surface>
+		<surface n="LL1.33.4" xml:id="LL1.33_folio_2v" corresp="#LL1.33_fol_2v"><graphic url="data/test-img/LL1.33/LL1-33_0004.dzi" width="834.5px" height="1235.5px"/><zone ulx="141.22" uly="104.83" lrx="531.96" lry="410.67" rendition="HotSpot" xml:id="LL1.33_hotspot_2v_01" corresp="#LL1.33_hotspot_2v_01h" start="#LL1.33_hotspot_2v_01h"/><zone ulx="532.83" uly="904.51" lrx="620.33" lry="968.62" rendition="HotSpot" xml:id="LL1.33_hotspot_2v_02" corresp="#LL1.33_hotspot_2v_02h" start="#LL1.33_hotspot_2v_02h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.33" xml:id="LL1.33">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Virginia Martini Giovio della Torre, in Parigi, [26 luglio 1835]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        488  p. 562</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Minuta di lettera.La data di redazione della lettera è stata attribuita da Seminara e non presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.33</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiosto marrone.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>204x134<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio) e reca il testo sulla carta 1r. Il folio è piegato a metà nel senso dell'altezza così da risultare suddiviso in quattro carte.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in discrete condizioni fisiche. Sulle carte 2r e 2v è presente una macchia in posizione centrale. Sulla parte centrale in alto di ogni facciata del folio è visibile l'impronta di una graffetta.
+										Gli angoli del folio presentano delle pieghe e sulla parte inferiore è presente un piccolo foro e una leggera lacerazione.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile.
+								
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									Dixième
+									significa
+									decimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								Sulla carta 2v è visibile il codice "N 26" scritto con matita blu.
+							 
+								
+								Sulla carta 2v è visibile un codice scritto con matita blu, probabilmente un 6 tra parentesi tonde.
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[26 luglio 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>Virginia Martini Giovio della Torre</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.33.1r" xml:id="LL1.33_fol_1r" facs="data/test-img/LL1.33/LL1-33_0001.dzi"/>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.33_line_1r_01" n="1" xml:id="LL1.33_lb_1r_01"/>
+							Mia cara
+							<persName ref="#GioviodellaTorreMartiniVirginia">Contessa</persName></s>
+				</salute>
+				<lb rend="2-line"/> <!-- prossemica -->
+				<ab n="ab_02" rend="first_line_indented" type="parag" part="N">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.33_line_1r_02" n="2" rend="align(right)" xml:id="LL1.33_lb_1r_02"/>
+						La
+						<choice><abbr>vra<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ra</expan></choice>
+						lettera mi giunse un mese
+						<lb facs="#LL1.33_line_1r_03" n="3" xml:id="LL1.33_lb_1r_03"/>
+						dopo che l'avete scritto; quindi sapeva la nuova
+						<lb facs="#LL1.33_line_1r_04" n="4" xml:id="LL1.33_lb_1r_04"/>
+						e più dolorosa perdita che venivate di fare.
+						<ptr target="#LL1.33_note1"/><note>(Nota Seminara, 2017: p. 562 n. 952)<p part="N">
+							Il 15 giugno 1835 si era spento il marito di Virginia Giovio della Torre, il conte Francesco Martini.
+						</p></note>
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						Povera
+						<lb facs="#LL1.33_line_1r_05" n="5" xml:id="LL1.33_lb_1r_05"/>
+						<persName ref="#GioviodellaTorreMartiniVirginia" type="person">mia amica,</persName>
+						quante disgrazie sul
+						<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+						capo in
+						<lb facs="#LL1.33_line_1r_06" n="6" xml:id="LL1.33_lb_1r_06"/>
+						un punto solo! Ma la
+						<choice><abbr>vra<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ra</expan></choice>
+						sofferenza<w part="N">
+							sostenu
+							<lb break="no" facs="#LL1.33_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.33_lb_1r_07"/>
+							to</w>
+						d'una ragione necessaria ha dovuto in parte
+						<lb facs="#LL1.33_line_1r_08" n="8" xml:id="LL1.33_lb_1r_08"/>
+						liberarvi da nuova malattia, e spero, e voglio
+						<lb facs="#LL1.33_line_1r_09" n="9" xml:id="LL1.33_lb_1r_09"/>
+						credere che la
+						<choice><abbr>vra<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ra</expan></choice>
+						salute vada benino.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						Avrei
+						<lb facs="#LL1.33_line_1r_10" n="10" xml:id="LL1.33_lb_1r_10"/>
+						desiderato novelle di voi; ma persona mi scrive
+						<lb facs="#LL1.33_line_1r_11" n="11" xml:id="LL1.33_lb_1r_11"/>
+						più, che v'accosti intimamente; e se
+						<persName ref="#PonzaniPietro">Ponzani</persName>
+						<lb facs="#LL1.33_line_1r_12" n="12" xml:id="LL1.33_lb_1r_12"/>
+						non avesse avuto l'osccasione di darmi una
+						<lb facs="#LL1.33_line_1r_13" n="13" xml:id="LL1.33_lb_1r_13"/>
+						commissione, neanche avrei saputo il
+						<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+						<lb facs="#LL1.33_line_1r_14" n="14" xml:id="LL1.33_lb_1r_14"/>
+						nuovo dolore; perché essendo in campagna
+						<lb facs="#LL1.33_line_1r_15" n="15" xml:id="LL1.33_lb_1r_15"/>
+						non vedo alcuno di
+						<placeName ref="#MI">Milano</placeName>
+						<ptr target="#LL1.33_note2"/><note resp="#GS" xml:id="LL1.33_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.33_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.33_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Dixième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.33.1v" xml:id="LL1.33_fol_1v" facs="data/test-img/LL1.33/LL1-33_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.33.2r" xml:id="LL1.33_fol_2r" facs="data/test-img/LL1.33/LL1-33_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.33.2v" xml:id="LL1.33_fol_2v" facs="data/test-img/LL1.33/LL1-33_0004.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.33_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.33_hs_2v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 26</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.33_hotspot_2v_02" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.33_hs_2v_02" part="N">
+					<fw type="catalogNum">
+						<unclear instant="false">
+							<idno type="oldCat">(6)</idno>
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.33_hotspot_1r_01h" facs="#LL1.33_hotspot_1r_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									Dixième
+									significa
+									decimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.33_hotspot_2v_01h" facs="#LL1.33_hotspot_2v_01"><p>codice "N 26" scritto con matita blu</p></div><div xml:id="LL1.33_hotspot_2v_02h" facs="#LL1.33_hotspot_2v_02"><p>codice scritto con matita blu, probabilmente un 6 tra parentesi tonde</p></div></div></back>
+	</text>
+</TEI>

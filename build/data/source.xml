@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bellini Correspondence</title>
+                <author ref="#VB">Vincenzo Bellini</author>
+                <respStmt>
+                    <resp>transcription by</resp>
+                    <name xml:id="GS">Graziella Seminara</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Digital Edition
+                    <date when="2021-09">September 2021</date>
+                </edition>
+                <respStmt>
+                    <resp>encoding by</resp>
+                    <name xml:id="AMDG">Angelo Mario Del Grosso</name>
+                    <name xml:id="EC">Erica Capizzi</name>
+                    <name xml:id="DS">Daria Spampinato</name>
+                    <name xml:id="SP">Santa Pellino</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Fondazione Bellini</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="filename">BelliniCorrespondence.xml</idno>
+                <date when="2021-09">September 2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="TEI-ListBibl.xml#Seminara2017" resp="#GS"></bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <settlement>Catania</settlement>
+                        <repository role="museum" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" n="I-CATm">Museo Belliniano Catania</repository>
+                        <idno type="inventory">LL1</idno>
+                        <altIdentifier>
+                            <idno type="collocation">in esposizione Casa Natale</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <!-- qui copiamo <msitem> -->
+                        
+                        <xi:include href="BelliniLetters/LL1_1T.xml" xpointer="msItem-LL1.1" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>
+                        
+                        <xi:include href="BelliniLetters/LL1_2T.xml" xpointer="msItem-LL1.2" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_3T.xml" xpointer="msItem-LL1.3" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_4T.xml" xpointer="msItem-LL1.4" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_5T.xml" xpointer="msItem-LL1.5" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>
+                        
+                        <xi:include href="BelliniLetters/LL1_6T.xml" xpointer="msItem-LL1.6" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_7T.xml" xpointer="msItem-LL1.7" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_8T.xml" xpointer="msItem-LL1.8" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                       
+                        <xi:include href="BelliniLetters/LL1_9T.xml" xpointer="msItem-LL1.9" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_10T.xml" xpointer="msItem-LL1.10" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_11T.xml" xpointer="msItem-LL1.11" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        
+                        <xi:include href="BelliniLetters/LL1_12T.xml" xpointer="msItem-LL1.12" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_13.IT.xml" xpointer="msItem-LL1.13.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_13.IIT.xml" xpointer="msItem-LL1.13.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_14T.xml" xpointer="msItem-LL1.14" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>  
+                        
+                        <xi:include href="BelliniLetters/LL1_15T.xml" xpointer="msItem-LL1.15" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_16T.xml" xpointer="msItem-LL1.16" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                            
+                        </xi:include> 
+                        
+                         <xi:include href="BelliniLetters/LL1_17T.xml" xpointer="msItem-LL1.17" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>
+                        
+                        <xi:include href="BelliniLetters/LL1_18T.xml" xpointer="msItem-LL1.18" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_19T.xml" xpointer="msItem-LL1.19" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_20T.xml" xpointer="msItem-LL1.20" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_21T.xml" xpointer="msItem-LL1.21" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        
+                       <xi:include href="BelliniLetters/LL1_22T.xml" xpointer="msItem-LL1.22" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+
+                        
+                     <xi:include href="BelliniLetters/LL1_23.IT.xml" xpointer="msItem-LL1.23.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                            
+                            
+                        <xi:include href="BelliniLetters/LL1_23.IIT.xml" xpointer="msItem-LL1.23.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_24.IT.xml" xpointer="msItem-LL1.24.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_24.IIT.xml" xpointer="msItem-LL1.24.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_25T.xml" xpointer="msItem-LL1.25" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_26T.xml" xpointer="msItem-LL1.26" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_27T.xml" xpointer="msItem-LL1.27" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_28T.xml" xpointer="msItem-LL1.28" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_29T.xml" xpointer="msItem-LL1.29" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_30T.xml" xpointer="msItem-LL1.30" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_31.IT.xml" xpointer="msItem-LL1.31.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>
+                        
+                        <xi:include href="BelliniLetters/LL1_31.IIT.xml" xpointer="msItem-LL1.31.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>
+                        
+                      <xi:include href="BelliniLetters/LL1_32.IT.xml" xpointer="msItem-LL1.32.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include>
+                        
+                        <xi:include href="BelliniLetters/LL1_32.IIT.xml" xpointer="msItem-LL1.32.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_33T.xml" xpointer="msItem-LL1.33" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_34.IT.xml" xpointer="msItem-LL1.34.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <xi:include href="BelliniLetters/LL1_35T.xml" xpointer="msItem-LL1.35" xmlns:xi="http://www.w3.org/2001/XInclude">
+                            <xi:fallback>
+                                <p>
+                                    Contenuto non trovato
+                                </p>
+                            </xi:fallback>
+                        </xi:include> 
+                        
+                        <!-- fine <msitem> -->  
+                    </msContents>
+
+                </msDesc>
+                
+                <!-- qui copiamo le liste -->
+                
+              <!--  <listPerson> -->
+                    
+                <xi:include href="BelliniLetters/lists/TEI-ListPerson.xml" xpointer="listperson" xmlns:xi="http://www.w3.org/2001/XInclude">
+                    <xi:fallback>
+                        <p>
+                            Contenuto non trovato
+                        </p>
+                    </xi:fallback>
+                </xi:include>  
+                
+               <!-- <listPlace>-->
+                    
+                <xi:include href="BelliniLetters/lists/TEI-ListPlace.xml" xpointer="listplace" xmlns:xi="http://www.w3.org/2001/XInclude">
+                    <xi:fallback>
+                        <p>
+                            Contenuto non trovato
+                        </p>
+                    </xi:fallback>
+                </xi:include> 
+                
+              <!--  <listOrg>-->
+                <xi:include href="BelliniLetters/lists/TEI-ListOrganization.xml" xpointer="listorg" xmlns:xi="http://www.w3.org/2001/XInclude">
+                        <xi:fallback>
+                            <p>
+                                Contenuto non trovato
+                            </p>
+                        </xi:fallback>
+                    </xi:include> 
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+           
+            
+            <textClass>
+                <keywords scheme="http://thes.bncf.firenze.sbn.it">
+                    <!-- soggettario della Biblioteca Nazionale di Firenze -->
+                    <term>
+                        lettere e minute
+                        <!-- un termine tra:  lettera, biglietto, minuta, copia -->
+                    </term>
+                </keywords>
+            </textClass>
+            <langUsage xml:id="ita">
+                <language ident="it-IT">italiano</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+                
+    <!--<facsimile>-->
+    
+        
+        <xi:include href="BelliniLetters/LL1_1T.xml" xpointer="LL1.1_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_2T.xml" xpointer="LL1.2_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_3T.xml" xpointer="LL1.3_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_4T.xml" xpointer="LL1.4_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+        <xi:include href="BelliniLetters/LL1_5T.xml" xpointer="LL1.5_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+        <xi:include href="BelliniLetters/LL1_6T.xml" xpointer="LL1.6_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_7T.xml" xpointer="LL1.7_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_8T.xml" xpointer="LL1.8_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+    
+        <xi:include href="BelliniLetters/LL1_9T.xml" xpointer="LL1.9_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include>
+        
+        <xi:include href="BelliniLetters/LL1_10T.xml" xpointer="LL1.10_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+        <xi:include href="BelliniLetters/LL1_11T.xml" xpointer="LL1.11_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_12T.xml" xpointer="LL1.12_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_13.IT.xml" xpointer="LL1.13.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+    
+        <xi:include href="BelliniLetters/LL1_13.IIT.xml" xpointer="LL1.13.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_14T.xml" xpointer="LL1.14_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_15T.xml" xpointer="LL1.15_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_16T.xml" xpointer="LL1.16_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+        <xi:include href="BelliniLetters/LL1_17T.xml" xpointer="LL1.17_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_18T.xml" xpointer="LL1.18_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_19T.xml" xpointer="LL1.19_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_20T.xml" xpointer="LL1.20_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_21T.xml" xpointer="LL1.21_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+      <xi:include href="BelliniLetters/LL1_22T.xml" xpointer="LL1.22_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_23.IT.xml" xpointer="LL1.23.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+    <xi:include href="BelliniLetters/LL1_23.IIT.xml" xpointer="LL1.23.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+        <xi:include href="BelliniLetters/LL1_24.IT.xml" xpointer="LL1.24.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_24.IIT.xml" xpointer="LL1.24.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include>  
+        
+        <xi:include href="BelliniLetters/LL1_25T.xml" xpointer="LL1.25_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_26T.xml" xpointer="LL1.26_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_27T.xml" xpointer="LL1.27_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+        <xi:include href="BelliniLetters/LL1_28T.xml" xpointer="LL1.28_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_29T.xml" xpointer="LL1.29_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_30T.xml" xpointer="LL1.30_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_31.IT.xml" xpointer="LL1.31.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include>
+        
+        <xi:include href="BelliniLetters/LL1_31.IIT.xml" xpointer="LL1.31.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include>
+        
+       <xi:include href="BelliniLetters/LL1_32.IT.xml" xpointer="LL1.32.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include>
+        
+        
+        <xi:include href="BelliniLetters/LL1_32.IIT.xml" xpointer="LL1.32.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_33T.xml" xpointer="LL1.33_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        <xi:include href="BelliniLetters/LL1_34.IT.xml" xpointer="LL1.34.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+
+        
+        <xi:include href="BelliniLetters/LL1_35T.xml" xpointer="LL1.35_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+    <!-- fine di <facsimile>-->  
+
+
+
+    <!--<text> -->
+    
+    <xi:include href="BelliniLetters/LL1_1T.xml" xpointer="LL1.1" xmlns:xi="http://www.w3.org/2001/XInclude">
+            <xi:fallback>
+                <p>
+                    Contenuto non trovato
+                </p>
+            </xi:fallback>
+        </xi:include> 
+        
+        
+    <xi:include href="BelliniLetters/LL1_2T.xml" xpointer="LL1.2" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_3T.xml" xpointer="LL1.3" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_4T.xml" xpointer="LL1.4" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_5T.xml" xpointer="LL1.5" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_6T.xml" xpointer="LL1.6" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_7T.xml" xpointer="LL1.7" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_8T.xml" xpointer="LL1.8" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_9T.xml" xpointer="LL1.9" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_10T.xml" xpointer="LL1.10" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+
+    <xi:include href="BelliniLetters/LL1_11T.xml" xpointer="LL1.11" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_12T.xml" xpointer="LL1.12" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_13.IT.xml" xpointer="LL1.13.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_13.IIT.xml" xpointer="LL1.13.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>  
+    
+    <xi:include href="BelliniLetters/LL1_14T.xml" xpointer="LL1.14" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_15T.xml" xpointer="LL1.15" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_16T.xml" xpointer="LL1.16" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_17T.xml" xpointer="LL1.17" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>  
+    
+    <xi:include href="BelliniLetters/LL1_18T.xml" xpointer="LL1.18" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_19T.xml" xpointer="LL1.19" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_20T.xml" xpointer="LL1.20" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_21T.xml" xpointer="LL1.21" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    
+    <xi:include href="BelliniLetters/LL1_22T.xml" xpointer="LL1.22" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+    
+  <xi:include href="BelliniLetters/LL1_23.IT.xml" xpointer="LL1.23.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+    
+     <xi:include href="BelliniLetters/LL1_23.IIT.xml" xpointer="LL1.23.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_24.IT.xml" xpointer="LL1.24.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+    
+    <xi:include href="BelliniLetters/LL1_24.IIT.xml" xpointer="LL1.24.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_25T.xml" xpointer="LL1.25" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_26T.xml" xpointer="LL1.26" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_27T.xml" xpointer="LL1.27" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_28T.xml" xpointer="LL1.28" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_29T.xml" xpointer="LL1.29" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    
+    <xi:include href="BelliniLetters/LL1_30T.xml" xpointer="LL1.30" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_31.IT.xml" xpointer="LL1.31.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_31.IIT.xml" xpointer="LL1.31.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_32.IT.xml" xpointer="LL1.32.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+    
+    <xi:include href="BelliniLetters/LL1_32.IIT.xml" xpointer="LL1.32.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include> 
+    
+    <xi:include href="BelliniLetters/LL1_33T.xml" xpointer="LL1.33" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+    
+    <xi:include href="BelliniLetters/LL1_34.IT.xml" xpointer="LL1.34.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+    
+    
+    <xi:include href="BelliniLetters/LL1_35T.xml" xpointer="LL1.35" xmlns:xi="http://www.w3.org/2001/XInclude">
+        <xi:fallback>
+            <p>
+                Contenuto non trovato
+            </p>
+        </xi:fallback>
+    </xi:include>
+
+</TEI>

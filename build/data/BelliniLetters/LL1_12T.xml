@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 23 agosto 1833</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2018-05" instant="false">May 2018</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Elvira Mercatanti</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_12.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="246" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="308" to="308" unit="page">308</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<!-- riferimento al catalogo delle sigle dei musei in cui è definito I-CATm -->
+						<idno type="inventory">LL1.12</idno>
+						<!--segnatura della singola lettera-->
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.12"><idno type="inventory">LL1.12</idno><title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 23 agosto 1833</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="246"><locus from="308" to="308">n. 246, p. 308.</locus></citedRange></bibl><bibl>Neri, 2005, p. 264. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						Mi
+						pare impossibile! Mi
+						spiego? Già farai
+						
+						pel raccomandato dei qui nostri amici, ciò che hai
+						
+						fatto
+						
+							mio caro Titta —
+						 per gl'istessi
+						: non è vero?
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Addio
+						
+						mio Zerbino
+					
+				
+				
+					
+						
+						Il tuo
+					
+				
+				
+					Bellini
+				
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="high" resp="#GS" instant="false">23 agosto 1833</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<!-- soggettario della Biblioteca Nazionale di Firenze -->
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.12_facsimile">
+		<surface n="LL1.12.1" xml:id="LL1.12_folio_1r" corresp="#LL1.12_fol_1r"><graphic url="data/test-img/LL1.12/LL1-12_0001.dzi" width="1632px" height="2417px"/><zone ulx="71.77" uly="36.33" lrx="699.96" lry="111.64" rendition="line" xml:id="LL1.12_line_1r_01"/><zone ulx="39.87" uly="80.63" lrx="696.42" lry="155.06" rendition="line" xml:id="LL1.12_line_1r_02"/><zone ulx="27.47" uly="120.50" lrx="702.18" lry="212.20" rendition="line" xml:id="LL1.12_line_1r_03"/><zone ulx="28.80" uly="181.19" lrx="195.81" lry="214.42" rendition="line" xml:id="LL1.12_line_1r_04"/><zone ulx="73.10" uly="214.42" lrx="256.51" lry="253.40" rendition="line" xml:id="LL1.12_line_1r_05"/><zone ulx="26.58" uly="203.79" lrx="709.71" lry="1053.49" rendition="HotSpot" xml:id="LL1.12_hotspot_1r_01" corresp="#LL1.12_hotspot_1r_01h" start="#LL1.12_hotspot_1r_01h"/></surface>
+		<!--1v-->
+		<surface n="LL1.12.2" xml:id="LL1.12_folio_1v" corresp="#LL1.12_fol_1v"><graphic url="data/test-img/LL1.12/LL1-12_0002.dzi" width="1661px" height="2417px"/></surface>
+		<!--2r-->
+		<surface n="LL1.12.3" xml:id="LL1.12_folio_2r" corresp="#LL1.12_fol_2r"><graphic url="data/test-img/LL1.12/LL1-12_0003.dzi" width="1632px" height="2417px"/></surface>
+		<!--2v-->
+		<surface n="LL1.12.4" xml:id="LL1.12_folio_2v" corresp="#LL1.12_fol_2v"><graphic url="data/test-img/LL1.12/LL1-12_0004.dzi" width="1632px" height="2417px"/><zone ulx="31.90" uly="23.48" lrx="139.55" lry="60.25" rendition="HotSpot" xml:id="LL1.12_hotspot_2v_01" corresp="#LL1.12_hotspot_2v_01h" start="#LL1.12_hotspot_2v_01h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.12" xml:id="LL1.12">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 23 agosto 1833</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        246  p. 308</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Messaggio inserito in una lettera di Michele Carafa. Lettera facente parte del Carteggio Perucchini e in esso precedentemente catalogata con la segnatura CP1.78. Il luogo e la data di spedizione sono presenti sulla lettera del Carteggio Perucchini.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.12</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>199x132<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di sigilli, timbri o francobolli. Nella carta 2v in alto a sinistra è presente un'annotazione a matita.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio): il testo è scritto su una facciata. Il folio presenta segni di piegature simmetriche: una orizzontale e una verticale che lo dividono in quattro sezioni.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche. La carta 1v presenta in trasparenza segni di ricalco di scrittura ed alcune macchioline marroni.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera abbastanza leggibile. La carta 1r, nella parte centrale e nella parte inferiore, presenta una seconda mano (la lettera di Michele Carafa).
+							 
+								Lettera di Michele Carafa.
+							 
+								In alto a sinistra nella carta 2v è presente un'annotazione a matita di terza mano (probabilemente un catalogatore), riportante "AM840".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[23 agosto 1833]</p><p><fw> 
+                            Destinatario
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.12.1r" xml:id="LL1.12_fol_1r" facs="data/test-img/LL1.12/LL1-12_0001.dzi"/>
+			<!--FRONTE RECTO-->
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_01" type="parag" part="N">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.12_note1"/><note resp="#GS" xml:id="LL1.12_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+						<lb facs="#LL1.12_line_1r_01" n="1" xml:id="LL1.12_lb_1r_01"/>
+						Mi
+						<hi rend="underline">pare impossibile</hi>! Mi
+						<hi rend="underline">spiego</hi>? Già farai
+						<lb facs="#LL1.12_line_1r_02" n="2" xml:id="LL1.12_lb_1r_02"/>
+						pel raccomandato dei qui nostri amici, ciò che hai
+						<lb facs="#LL1.12_line_1r_03" n="3" xml:id="LL1.12_lb_1r_03"/>
+						fatto
+						<add place="supralinear" instant="false" status="unremarkable">
+							<persName ref="#PerucchiniGiovanniBattista" type="person">mio caro Titta</persName> —
+						</add> per gl'istessi
+						<unclear reason="illegible" instant="false">+++</unclear>: non è vero?
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_02" part="N">
+					<s n="s_02" type="sentence" part="N">
+						Addio
+						<lb facs="#LL1.12_line_1r_04" n="4" xml:id="LL1.12_lb_1r_04"/>
+						<persName type="person">mio Zerbino</persName>
+					</s>
+				</ab>
+				<salute n="ab_03">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.12_line_1r_05" n="5" xml:id="LL1.12_lb_1r_05"/>
+						Il tuo 
+					</s>
+				</salute>
+				<signed>
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName>
+				</signed>
+				<lb/>
+			</div>
+			<pb n="LL1.12.1v" xml:id="LL1.12_fol_1v" facs="data/test-img/LL1.12/LL1-12_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.12.2r" xml:id="LL1.12_fol_2r" facs="data/test-img/LL1.12/LL1-12_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.12.2v" xml:id="LL1.12_fol_2v" facs="data/test-img/LL1.12/LL1-12_0004.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<!--annotazione illeggibile a matita in alto a sinistra-->
+				<ab facs="#LL1.12_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.12_hs_2v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">AM840</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.12_hotspot_1r_01h" facs="#LL1.12_hotspot_1r_01"><p>
+								Lettera di Michele Carafa.
+							</p></div><div xml:id="LL1.12_hotspot_2v_01h" facs="#LL1.12_hotspot_2v_01"><p>annotazione a matita di terza mano (probabilemente un catalogatore), riportante "AM840"</p></div></div></back>
+	</text>
+</TEI>

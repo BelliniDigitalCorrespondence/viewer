@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834</title>
+				<!--formato titolo: mittente a destinatario, in luogo, data di scrittura della lettera -->
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2018-06">June 2018</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="EC">Erica Capizzi</name>
+					<name ref="#DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_16.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="304" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="368" to="368" unit="page">368</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.16</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#PepoliCarlo">Carlo Pepoli</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName>,
+								<date cert="high" resp="#GS" type="writing" when="1834-06-26">26 giugno 1834</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="it fr">Italiano di inizio Ottocento con indirizzo in francese e segni di seconda mano in italiano.</textLang>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Nella carta 2v sono presenti un
+										<hi facs="#LL1.16_hotspot_2v_05">timbro di partenza recante la scritta "NEUILLY - SUR - SEINE 27 JUIN 1834"</hi> e
+										<hi facs="#LL1.16_hotspot_2v_03">
+											<hi facs="#LL1.16_hotspot_2v_04">un timbro di arrivo parzialmente leggibile a cavallo su due piegature (superiore e inferiore)</hi></hi>.
+									</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<!--  va inserita la quantità dell'oggetto, indicando in type il tipo descritto -->
+									<dimensions unit="mm">
+										<height>135</height>
+										<width>204</width>
+									</dimensions>
+								</extent>
+								<collation>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su una facciata, con indirizzo nella carta 2v. Il folio presenta una duplice piegatura asimmetrica, con piegatura più ampia sul margine inferiore.
+								</collation>
+								<condition>
+									<!-- descrizione delle condizioni fisiche di conservazione della lettera -->
+									<p>Lettera in buone condizioni fisiche.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<handNote>
+								<p>Scrittura a mano libera leggibile sia nel testo sia nell'indirizzo.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<!-- indica la terza mano del catalogatore -->
+								<p>La carta 2v riporta un'<hi facs="#LL1.16_hotspot_2v_02">annotazione, probabilmente dovuta ad un catalogatore, che presenta il numero 27 e la dicitura "Lettera del Bellini sul Duetto del p:° Atto dei Puritani".</hi>
+								</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<!-- indica la seconda mano con la firma probabilmente di Pepoli-->
+								<p>Nella carta 2v è presente un'<hi facs="#LL1.16_hotspot_2v_01">annotazione composta dalla firma autografa di Pepoli e da due piccoli disegni.</hi>
+								</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<!-- indica una diversa mano nonidentificabile -->
+								<p>
+									Nella carta 2r si intravede un'<hi facs="#LL1.16_hotspot_2r_01">annotazione non leggibile.</hi>
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<!-- inserire eventuali sigilli presenti -->
+							<seal>
+								<p>Nella carta 2r si riconosce l'ombra di un sigillo (del tutto mancante).</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#NSS" type="postmark">Neuilly-sur-Seine</placeName>
+					<date type="postmark" when="1834-06-27">27 giugno 1834</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#PepoliCarlo" role="librettist">Carlo Pepoli</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris" type="writing">Parigi</placeName>
+					<date type="postmark" when="1834-06">Giugno 1834</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.16_folio_1r">
+			<!-- FRONTE RECTO -->
+			<graphic height="1639px" url="LL1.16_0001.jpg" width="1265px" />
+			<zone lrx="1236" lry="134" rendition="Line" ulx="43" uly="31" xml:id="LL1.16_line_1r_01" />
+			<zone lrx="1236" lry="210" rendition="Line" ulx="920" uly="100" xml:id="LL1.16_line_1r_02" />
+			<zone lrx="910" lry="288" rendition="Line" ulx="227" uly="202" xml:id="LL1.16_line_1r_03" />
+			<zone lrx="1236" lry="456" rendition="Line" ulx="322" uly="352" xml:id="LL1.16_line_1r_04" />
+			<zone lrx="1236" lry="627" rendition="Line" ulx="150" uly="472" xml:id="LL1.16_line_1r_05" />
+			<zone lrx="1236" lry="753" rendition="Line" ulx="150" uly="632" xml:id="LL1.16_line_1r_06" />
+			<zone lrx="1236" lry="909" rendition="Line" ulx="150" uly="758" xml:id="LL1.16_line_1r_07" />
+			<zone lrx="1236" lry="1112" rendition="Line" ulx="150" uly="915" xml:id="LL1.16_line_1r_08" />
+			<zone lrx="1236" lry="1257" rendition="Line" ulx="150" uly="1100" xml:id="LL1.16_line_1r_09" />
+			<zone lrx="1236" lry="1395" rendition="Line" ulx="150" uly="1258" xml:id="LL1.16_line_1r_10" />
+			<zone lrx="1236" lry="1490" rendition="Line" ulx="150" uly="1363" xml:id="LL1.16_line_1r_11" />
+			<zone lrx="1138" lry="1548" rendition="Line" ulx="112" uly="1470" xml:id="LL1.16_line_1r_12" />
+			<zone lrx="1170" lry="1593" rendition="Line" ulx="683" uly="1530" xml:id="LL1.16_line_1r_13" />
+		</surface>
+		<surface n="2" xml:id="LL1.16_folio_1v">
+			<graphic height="1646px" url="LL1.16_0002.jpg" width="1283px" />
+		</surface>
+		<surface n="3" xml:id="LL1.16_folio_2r">
+			<graphic height="1639px" url="LL1.16_0003.jpg" width="1265px" />
+			<zone lrx="1242" lry="782" rendition="HotSpot" ulx="1128" uly="262" xml:id="LL1.16_hotspot_2r_01" />
+		</surface>
+		<surface n="4" xml:id="LL1.16_folio_2v">
+			<graphic height="1646px" url="LL1.16_0004.jpg" width="1268px" />
+			<!-- zona con l'indirizzo del destinario -->
+			<zone lrx="1236" lry="646" rendition="Line" ulx="43" uly="529" xml:id="LL1.16_line_2v_01" />
+			<zone lrx="1236" lry="761" rendition="Line" ulx="43" uly="643" xml:id="LL1.16_line_2v_02" />
+			<zone lrx="1236" lry="884" rendition="Line" ulx="43" uly="761" xml:id="LL1.16_line_2v_03" />
+			<zone lrx="1236" lry="962" rendition="Line" ulx="43" uly="840" xml:id="LL1.16_line_2v_04" />
+			<zone lrx="684" lry="1502" rendition="HotSpot" ulx="365" uly="1017" xml:id="LL1.16_hotspot_2v_01" />
+			<!-- seconda mano-->
+			<zone lrx="1186" lry="1588" rendition="HotSpot" ulx="654" uly="977" xml:id="LL1.16_hotspot_2v_02" />
+			<!--terza mano -->
+			<zone lrx="382" lry="226" rendition="HotSpot" ulx="45" uly="36" xml:id="LL1.16_hotspot_2v_03" />
+			<!-- timbro incompleto in alto a sinistra destinatario -->
+			<zone lrx="413" lry="1445" rendition="HotSpot" ulx="52" uly="1143" xml:id="LL1.16_hotspot_2v_04" />
+			<!-- timbro incompleto in basso a sinistra destinatario -->
+			<zone lrx="1165" lry="724" rendition="HotSpot" ulx="795" uly="357" xml:id="LL1.16_hotspot_2v_05" />
+			<!-- timbro al centro a destra mittente -->
+		</surface>
+	</facsimile>
+	<text n="LL1.16" subtype="manuscript" type="lettera" xml:id="LL1.16">
+		<front xml:lang="fr">
+			<!-- 2v -->
+			<pb facs="#LL1.16_folio_2v" n="4" xml:id="LL1.16_fol_2v_front" />
+			<div type="envelope">
+				<div type="sent">
+					<ab copyOf="#LL1.16_hs_2v_05" facs="#LL1.16_hotspot_2v_05" xml:id="LL1.16_hs_2v_05_front">
+						<stamp type="postmark">
+							<!-- timbro del mittente con data -->
+							<mentioned>
+								<placeName ref="TEI-ListPlace.xml#NSS">NEUILLY - SUR - SEINE</placeName>
+								<date when="1834-06-27">27 JUIN 1834</date>
+							</mentioned>
+						</stamp>
+					</ab>
+				</div>
+				<div type="destination">
+					<ab copyOf="#LL1.16_hs_2v_03-2v_04" facs="#LL1.16_hotspot_2v_03 #LL1.16_hotspot_2v_04" xml:id="LL1.16_hs_2v_03-2v_04_front">
+						<!-- timbro del destinatario composto da 2 immagini incomplete -->
+						<stamp type="postmark">
+							<!-- timbro del destinatario con data -->
+							<placeName>
+								<gap reason="illegible" extent="unknown"/>
+							</placeName>
+							<mentioned>
+								<date when="1834-06-27"> 27
+									<unclear reason="illegible"> juin </unclear>1834</date>
+							</mentioned>
+						</stamp>
+					</ab>
+					<ab copyOf="#LL1.16_hs_2v_multiple" facs="#LL1.16_hotspot_2v_03 #LL1.16_hotspot_2v_04" type="receiver" xml:id="LL1.16_hs_2v_multiple_front">
+						<address>
+							<!-- informazioni del destinatario -->
+							<lb facs="#LL1.16_line_2v_01" n="1" xml:id="LL1.16_lb_2v_01_front" />
+							<addrLine>à Monsieur</addrLine>
+							<lb facs="#LL1.16_line_2v_02" n="2" xml:id="LL1.16_lb_2v_02_front" />
+							<addrLine>Monsieur le Comte
+								<persName ref="TEI-ListPerson.xml#PepoliCarlo" role="librettist">Pepoli</persName>
+							</addrLine>
+							<lb facs="#LL1.16_line_2v_03" n="3" xml:id="LL1.16_lb_2v_03_front" />
+							<street>
+								<choice>
+										<abbr>N<am>:</am>°</abbr>
+										<expan>numero </expan>
+								</choice>1<am>:</am> passage des petits Pères
+							</street>
+								<lb facs="#LL1.16_line_2v_04" n="4" xml:id="LL1.16_lb_2v_04_front" />
+							<addrLine>à
+								<placeName ref="TEI-ListPlace.xml#Paris">Paris</placeName>
+							</addrLine>
+						</address>
+					</ab>
+				</div>
+			</div>
+		</front>
+
+		<body xml:lang="it">
+			<pb facs="#LL1.16_folio_1r" n="1" xml:id="LL1.16_fol_1r" />
+			<!-- Fronte-recto -->
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.16_line_1r_01" n="1" xml:id="LL1.16_lb_1r_01" />
+						<date when="1834-06-26">Juin 26</date>:
+						<address>
+							<placeName ref="TEI-ListPlace.xml#Put">Puteau - </placeName>
+							<street>N:° 19 bis rampe</street>
+							<lb facs="#LL1.16_line_1r_02" n="2" xml:id="LL1.16_lb_1r_02" />
+							<placeName ref="TEI-ListPlace.xml#NSS"><hi rend="underline align(right)">de Neuilly</hi></placeName>
+						</address>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.16_line_1r_03" n="3" xml:id="LL1.16_lb_1r_03" />
+						Mio caro
+							<persName ref="TEI-ListPerson.xml#PepoliCarlo" role="librettist">Carluccio</persName>
+							<ptr target="#LL1.16_note1" /></s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.16_line_1r_04" n="4" xml:id="LL1.16_lb_1r_04" />
+						Avendo steso l'intero
+						<term ref="TEI-ListTerm.xml#duetto" subtype="music-term">duetto</term>
+						<ptr target="#LL1.16_note2" />
+						<lb facs="#LL1.16_line_1r_05" n="5" xml:id="LL1.16_lb_1r_05" />
+						e mancando in esso qualche
+						<lb facs="#LL1.16_line_1r_06" n="6" xml:id="LL1.16_lb_1r_06" />
+						cosetta, desidererei che tu
+						<lb facs="#LL1.16_line_1r_07" n="7" xml:id="LL1.16_lb_1r_07" />
+						t'incommodassi a venire à
+						<lb facs="#LL1.16_line_1r_08" n="8" xml:id="LL1.16_lb_1r_08" />
+						<placeName ref="TEI-ListPlace.xml#Put">Puteau</placeName> per tutto fissare, e
+						<lb facs="#LL1.16_line_1r_09" n="9" xml:id="LL1.16_lb_1r_09" />
+						nell'istesso tempo darmi la
+						<lb facs="#LL1.16_line_1r_10" n="10" xml:id="LL1.16_lb_1r_10" />
+						<term ref="TEI-ListTerm.xml#sortita" subtype="music-term">sortita</term> di
+						<persName ref="TEI-ListPerson.xml#RubiniGiovanniBattista" role="tenore">Rubini,</persName>
+						<ptr target="#LL1.16_note3" /> se è <w>termi
+							<lb break="no" facs="#LL1.16_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.16_lb_1r_11" />
+							nata.</w>
+					</s>
+					<s n="s_04" type="sentence">
+						T'aspetto in qual giorno
+						<lb facs="#LL1.16_line_1r_12" n="12" xml:id="LL1.16_lb_1r_12" />
+						ed in qual'ora vorrai —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<ab n="ab_04">
+					<s n="s_05" type="sentence">
+						Addio
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_06" type="sentence" >
+						<lb facs="#LL1.16_line_1r_13" n="13" xml:id="LL1.16_lb_1r_13" />
+						<hi rend="align(right)">Il tuo</hi>
+					</s>
+				</salute>
+				<signed>
+					<hi rend="underline">
+						<persName rend="underline" ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzillo</persName>
+					</hi>
+				</signed>
+				<lb/>
+			</div>
+			<pb facs="#LL1.16_folio_1v" n="2" xml:id="LL1.16_fol_1v" />
+			<pb facs="#LL1.16_folio_2r" n="3" xml:id="LL1.16_fol_2r" />
+			<div type="paratext">
+				<ab facs="#LL1.16_hotspot_2r_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.16_hs_2r_01">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+			</div>
+			<pb facs="#LL1.16_folio_2v" n="4" xml:id="LL1.16_fol_2v" />
+			<div type="destination">
+				<ab type="receiver" xml:id="LL1.16_hs_2v_multiple">
+					<address>
+						<!-- informazioni del destinatario -->
+						<lb facs="#LL1.16_line_2v_01" n="1" xml:id="LL1.16_lb_2v_01" />
+						<addrLine>à Monsieur</addrLine>
+						<lb facs="#LL1.16_line_2v_02" n="2" xml:id="LL1.16_lb_2v_02" />
+						<addrLine>Monsieur le Comte
+							<persName ref="TEI-ListPerson.xml#PepoliCarlo" role="librettist">Pepoli</persName>
+						</addrLine>
+						<lb facs="#LL1.16_line_2v_03" n="3" xml:id="LL1.16_lb_2v_03" />
+						<addrLine>N:° 1<am>:</am> passage des petits Pères</addrLine>
+						<lb facs="#LL1.16_line_2v_04" n="4" xml:id="LL1.16_lb_2v_04" />
+						<addrLine rend="align(right)">à
+							<placeName ref="TEI-ListPlace.xml#Paris">Paris</placeName>
+						</addrLine>
+					</address>
+				</ab>
+				<ab facs="#LL1.16_hotspot_2v_03 #LL1.16_hotspot_2v_04" type="paratext" xml:id="LL1.16_hs_2v_03-2v_04">
+					<!-- timbro del destinatario composto da 2 immagini incomplete -->
+					<lb />
+					<stamp type="postmark">
+						<!-- timbro del destinatario con data -->
+						<placeName>
+							<gap reason="illegible" extent="unknown"/>
+						</placeName>
+						<mentioned>
+							<date when="27" xml:id="LL1.16_2v_01_1834-06-27" next="LL1.16_2v_02_1834-06-27">27</date>
+						</mentioned>
+						<mentioned>
+								<date when="1834-06" xml:id="LL1.16_2v_02_1834-06-27" prev="LL1.16_2v_01_1834-06-27">
+									<unclear reason="illegible"> JUIN </unclear>1834
+								</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="sent">
+				<ab facs="#LL1.16_hotspot_2v_05" type="paratext" xml:id="LL1.16_hs_2v_05">
+					<stamp type="postmark">
+						<!-- timbro del mittente con data -->
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#NSS">NEUILLY - SUR - SEINE</placeName>
+						</mentioned>
+						<mentioned>
+							<date when="1834-06-27">27 JUIN 1834</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.16_hotspot_2v_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.16_hs_2v_02">
+					<!-- terza mano del bibliotecario -->
+					<lb />
+					<fw type="catalogNum">
+						<idno type="oldCat">27</idno>
+					</fw>
+					<lb />
+					<fw>
+						Lettera del
+						<lb/>
+						Bellini sul <term ref="TEI-ListTerm.xml#duetto" subtype="music-term">Duetto</term>
+						<lb/>
+						del p:° <term ref="TEI-ListTerm.xml#atto" subtype="music-term">Atto</term> dei <rs ref="TEI-ListWork.xml#Puritani" type="work">Puritani</rs>
+					</fw>
+				</ab>
+				<ab facs="#LL1.16_hotspot_2v_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.16_hs_2v_01">
+					<!-- seconda mano di Pepoli -->
+					<persName ref="TEI-ListPerson.xml#PepoliCarlo" role="librettist">
+						C Pepoli
+					</persName>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<!-- inserire le note -->
+			<div type="notes">
+				<div type="ann_notes">
+					<note resp="#EC" xml:id="LL1.16_note1">
+						<p>
+							Bellini si riferiva al conte Carlo Pepoli, che aveva predisposto il libretto dei <hi rend="italic">Puritani.</hi>
+						</p>
+					</note>
+					<note resp="#EC" xml:id="LL1.16_note2">
+						<p>
+							Bellini si riferisce al terzo numero musicale del primo atto dei <hi rend="italic">Puritani,</hi> il duetto fra Elvira e Giorgio "Sai come arde in petto mio".
+						</p>
+					</note>
+					<note resp="#EC" xml:id="LL1.16_note3">
+						<p>
+							Bellini si riferisce alla cavatina di Arturo "Ad Arturo - A te, o cara, amor talora", che segue il Coro nel quarto numero musicale del primo atto dei <hi rend="italic">Puritani.</hi>
+						</p>
+					</note>
+				</div>
+				<div type="bibliography">
+					<listBibl xml:id="LL1_16_bibliography">
+
+						<head>Bibliografia della lettera LL1.16</head>
+						<bibl xml:id="LL1_16_Pastura">
+							<ref target="TEI-ListBibl.xml#Pastura1959">
+								<bibl>
+									<author>Pastura</author>
+									<date when="1959">1959</date>
+									<citedRange from="422" to="422" unit="page">422</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_16_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="301" to="302" unit="page">301-302</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

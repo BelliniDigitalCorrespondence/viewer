@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giuseppe Denza, in Parigi, 10 maggio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-06">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Sara Maenza</name>
+					<name>Fabiola Frontuto</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_23.I.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="426" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="501" to="501" unit="page">501</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.23.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 1, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+								a <persName ref="TEI-ListPerson.xml#DenzaGiuseppe">Giuseppe Denza</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="high" resp="#GS" when="1835-05-10">10 maggio 1835</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr">Italiano di inizio Ottocento con altre mani in francese.</textLang>
+							<note>La carta contiene due lettere che fanno parte della stessa unità codicologica: sono separate da una linea, al di sotto della quale si trova la <hi facs="#LL1.23.I_hotspot_1r_03">lettera LL1.23.II</hi>.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>204</height>
+										<width>133</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Minuta di lettera composta da un solo folio, con testo autografo e altre due mani sulla carta 1r, oltre a un'ulteriore mano aggiunta in blu sulla carta 1v.
+								</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<handNote>
+								<p>
+									Scrittura a mano libera leggibile.
+								</p>
+							</handNote>
+							<handNote facs="#LL1.23.I_hotspot_1r_01" xml:id="h1">
+								<!-- seconda mano-->
+								<p>
+									Seconda mano corsiva, in francese, difficilmente leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term>
+									indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">quinzième</term>
+									significa<space />
+									<num type="ordinal" value="15">quindicesimo</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term>
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<!-- terza mano del catalogatore-->
+								<p>
+									Nella carta 1r è riconoscibile <hi facs="#LL1.23.I_hotspot_1r_02">una terza mano, dovuta probabilmente ad un catalogatore, che riporta in blu il numero 103.</hi>
+								</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<!-- quarta mano del catalogatore-->
+								<p>
+									Nella carta 1v è riconoscibile <hi facs="#LL1.23.I_hotspot_1v_01">una quarta mano, dovuta probabilmente ad un catalogatore, che riporta in blu il numero 13 tra parentesi.</hi>
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris" type="writing">Parigi</placeName>
+					<date when="1835-05-10"><date type="writing">10 maggio</date>
+					<date resp="#GS" cert="high">1835</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#DenzaGiuseppe">Giuseppe Denza</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.23.I_folio_1r">
+			<graphic height="2468px" url="LL1.23.I_0001.jpg" width="1635px" />
+			<zone lrx="1580" lry="360" rendition="Line" ulx="980" uly="206" xml:id="LL1.23.I_line_1r_01" />
+			<zone lrx="1210" lry="460" rendition="Line" ulx="514" uly="290" xml:id="LL1.23.I_line_1r_02" />
+			<zone lrx="1413" lry="650" rendition="Line" ulx="514" uly="500" xml:id="LL1.23.I_line_1r_03" />
+			<zone lrx="513" lry="1090" rendition="HotSpot" ulx="214" uly="105" xml:id="LL1.23.I_hotspot_1r_01" />
+			<!--testo di seconda mano e firma di catalogatore-->
+			<zone lrx="933" lry="479" rendition="HotSpot" ulx="620" uly="125" xml:id="LL1.23.I_hotspot_1r_02" />
+			<!--aggiunta terza mano in blu a matita-->
+			<zone lrx="1604" lry="2028" rendition="HotSpot" ulx="85" uly="680" xml:id="LL1.23.I_hotspot_1r_03" />
+			<!--lettera LL1.23_II-->
+		</surface>
+		<surface n="2" xml:id="LL1.23.I_folio_1v">
+			<graphic height="2468px" url="LL1.23.I_0002.jpg" width="1635px" />
+			<zone lrx="773" lry="2363" rendition="HotSpot" ulx="512" uly="2193" xml:id="LL1.23.I_hotspot_1v_01" />
+			<!--aggiunta quarta mano in blu a matita-->
+		</surface>
+	</facsimile>
+	<text n="LL1.23.I" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.23.I">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.23.I_folio_1r" n="1" xml:id="LL1.23.I_fol_1r" />
+			<!-- recto -->
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<ptr target="#LL1.23.I_note1" />
+						<lb facs="#LL1.23.I_line_1r_01" n="1" xml:id="LL1.23.I_lb_1r_01" />
+						<hi  rend="align(right)">
+							<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+							<date when="1835-05-10">10: Maggio</date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" rend="first_line_indented" type="sentence">
+						<lb facs="#LL1.23.I_line_1r_02" n="2" xml:id="LL1.23.I_lb_1r_02" />
+						Mio caro
+						<persName ref="TEI-ListPerson.xml#DenzaGiuseppe">Denza</persName>
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.23.I_line_1r_03" n="3" xml:id="LL1.23.I_lb_1r_03" />
+						Se
+						<persName ref="TEI-ListPerson.xml#CurioniAlberico">Curioni</persName>
+						vi domanderà
+						<ptr target="#LL1.23.I_note2" />
+					</s>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.23.I_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.23.I_hs_1r_01">
+					<fw>
+						<unclear>
+							<lb />
+							quinzième
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.23.I_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.23.I_hs_1r_02">
+					<fw type="catalogNum">
+						<idno type="oldCat">103</idno>
+					</fw>
+				</ab>
+			</div>
+			<pb facs="#LL1.23.I_folio_1v" n="2" xml:id="LL1.23.I_fol_1v" />
+			<div type="paratext">
+				<ab facs="#LL1.23.I_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.23.I_hs_1v_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">(13)</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<!--note-->
+				<div type="ann_notes">
+					<note ana="850" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.23.I_note1">
+						<bibl>
+							<citedRange from="501" to="501" unit="page">501</citedRange>
+						</bibl>
+						<p>Nel margine inferiore della medesima facciata è tracciata una minuta a un destinatario sconosciuto <supplied resp="#DS">(Lettera 427 catalogata come LL1.23.II).</supplied></p>
+					</note>
+					<note resp="#GS" xml:id="LL1.23.I_note2">
+						<p>
+							La lettera è incompleta.
+						</p>
+					</note>
+				</div>
+				<!--bibliografia-->
+				<div type="bibliography">
+					<listBibl xml:id="LL1.23.I_bibliography">
+
+						<head>Bibliografia della lettera LL1.23.I</head>
+						<bibl xml:id="LL1.23.I_Cambi">
+							<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+								<bibl>
+									<author>Cambi</author>
+									<date when="1943">1943</date>
+									<citedRange from="549" to="549" unit="page">549</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1.23.I_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="404" to="404" unit="page">404</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [giugno 1835]</title>
+				<!--formato titolo: mittente a destinatario, in luogo, data di scrittura della lettera -->
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-06" instant="false">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Ada Desideri</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_31.I.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="455" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="525" to="526" unit="page">525-526</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.31.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 1, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.31.I"><idno type="inventory">LL1.31.I</idno><title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [giugno 1835]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="455"><locus from="525" to="526">n. 455, p. 525-526.</locus></citedRange></bibl><bibl>Policastro, 1943, p. 83. </bibl><bibl>Cambi, 1943, p. 466. </bibl><bibl>Neri, 2005, p. 342. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						Monsieur
+						Bellini
+						prie Monsieur
+						
+						Frederic
+						de vouloir passer de chez lui,
+						
+						aux
+						Bains Chinois
+						pour
+						
+							
+								affiner 
+							
+							accorder
+						
+						son
+						
+						piano, et dans le même temps
+						
+						lui apporter une
+						cléf d'accorder n'ayant
+						
+						recû la sienne, qui
+						
+							
+								erait
+							
+							
+								était
+							
+						
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-06" instant="false">Giugno 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<!--******************************************************************************************************************-->
+	<!--******************************************************************************************************************-->
+	<facsimile xml:id="LL1.31.I_facsimile">
+		<surface n="LL1.31.I.1" xml:id="LL1.31.I_folio_1r" corresp="#LL1.31.I_fol_1r"><graphic url="data/test-img/LL1.31.I/LL1-31-I_0001.dzi" width="1645px" height="2642px"/><zone ulx="38.24" uly="19.34" lrx="564.34" lry="717.29" rendition="HotSpot" xml:id="LL1.31.I_hotspot_1r_01" corresp="#LL1.31.I_hotspot_1r_01h" start="#LL1.31.I_hotspot_1r_01h"/><zone ulx="354.69" uly="657.51" lrx="506.32" lry="1031.54" rendition="HotSpot" xml:id="LL1.31.I_hotspot_1r_02" corresp="#LL1.31.I_hotspot_1r_02h" start="#LL1.31.I_hotspot_1r_02h"/><zone ulx="181.08" uly="861.01" lrx="634.66" lry="916.83" rendition="line" xml:id="LL1.31.I_line_1r_01"/><zone ulx="143.28" uly="908.04" lrx="683.00" lry="970.89" rendition="line" xml:id="LL1.31.I_line_1r_02"/><zone ulx="137.13" uly="959.46" lrx="674.65" lry="1004.73" rendition="line" xml:id="LL1.31.I_line_1r_03"/><zone ulx="128.34" uly="1004.73" lrx="641.25" lry="1046.92" rendition="line" xml:id="LL1.31.I_line_1r_04"/><zone ulx="130.98" uly="1046.04" lrx="710.25" lry="1089.55" rendition="line" xml:id="LL1.31.I_line_1r_05"/><zone ulx="129.22" uly="1086.48" lrx="663.23" lry="1127.79" rendition="line" xml:id="LL1.31.I_line_1r_06"/></surface>
+		<surface n="LL1.31.I.2" xml:id="LL1.31.I_folio_1v" corresp="#LL1.31.I_fol_1v"><graphic url="data/test-img/LL1.31.I/LL1-31-I_0002.dzi" width="1645px" height="2646px"/></surface>
+	</facsimile>
+	<!--******************************************************************************************************************-->
+	<!--******************************************************************************************************************-->
+	<text type="minuta_di_lettera" n="1.31.I" xml:id="LL1.31.I">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [giugno 1835]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        455  p. 525-526</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La data di redazione della minuta di lettera è stata attribuita da Seminara e non è presente nel documento originale. Il foglio della lettera è incollato, nella parte superiore, ad un altro foglio, contenente la
+								<hi facs="#LL1.31.I_hotspot_1r_01">minuta di lettera LL1.31.II</hi>. Le due minute, quindi, fanno parte della stessa unità codicologica.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Testo e altre mani in Francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.31.I</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>97x133<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Minuta di lettera composta da un singolo foglio, col testo redatto sulla carta 1r.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									
+										Il foglio non è conservato nella sua interezza, ed è rovinato su tutti i lati. Nella parte superiore è presente la colla che tiene insieme le due unità codicologiche. Il testo rimane leggibile.
+									
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile. Presenti due correzioni ed una cancellatura.
+								
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									quatorzième
+									significa
+									quattordicesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Giugno 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="fr">
+			<pb n="LL1.31.I.1r" xml:id="LL1.31.I_fol_1r" facs="data/test-img/LL1.31.I/LL1-31-I_0001.dzi"/>
+			<!--fronte -->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_02" rend="first_line_indented" type="parag" part="N">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.31.I_note1"/><note resp="#GS" xml:id="LL1.31.I_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+						<lb facs="#LL1.31.I_line_1r_01" n="1" xml:id="LL1.31.I_lb_1r_01"/>
+						Monsieur
+						<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName>
+						prie Monsieur
+						<lb facs="#LL1.31.I_line_1r_02" n="2" xml:id="LL1.31.I_lb_1r_02"/>
+						<persName>Frederic</persName>
+						de vouloir passer de chez lui,
+						<lb xml:id="LL1.31.I_lb_1r_03" n="3" facs="#LL1.31.I_line_1r_03"/>
+						aux
+						<orgName ref="#Bains_Chinois">Bains Chinois</orgName>
+						pour
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough underline" instant="false" status="unremarkable">
+								<unclear reason="deleted" quantity="1" unit="word" cert="medium" resp="#LM" instant="false">affiner </unclear>
+							</del>
+							<add place="above" instant="false" status="unremarkable">accorder</add>
+						</subst>
+						son
+						<lb facs="#LL1.31.I_line_1r_04" n="4" xml:id="LL1.31.I_lb_1r_04"/>
+						piano, et dans le même temps
+						<lb facs="#LL1.31.I_line_1r_05" n="5" xml:id="LL1.31.I_lb_1r_05"/>
+						lui apporter une
+						<hi rend="underline">cléf d'accorder</hi> n'ayant
+						<lb facs="#LL1.31.I_line_1r_06" n="6" xml:id="LL1.31.I_lb_1r_06"/>
+						recû la sienne, qui
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">
+								erait
+							</del>
+							<add place="above" instant="false" status="unremarkable">
+								était
+							</add>
+						</subst>
+						+++
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.31.I_hotspot_1r_02" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.31.I_hs_1r_02" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Quatorzième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.31.I.1v" xml:id="LL1.31.I_fol_1v" facs="data/test-img/LL1.31.I/LL1-31-I_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.31.I_hotspot_1r_01h" facs="#LL1.31.I_hotspot_1r_01"><p>minuta di lettera LL1.31.II</p></div><div xml:id="LL1.31.I_hotspot_1r_02h" facs="#LL1.31.I_hotspot_1r_02"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									quatorzième
+									significa
+									quattordicesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div></div></back>
+	</text>
+</TEI>

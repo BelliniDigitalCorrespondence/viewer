@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Federico Massimiliano Doca, in Parigi, 21 giugno 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2021-04" instant="false">April 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name ref="#SP" full="yes" instant="false">Santa Pellino</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_32.II.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="465" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="535" to="535" unit="page">535</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.32.II</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nela casa natale, sala B, vetrina 6, ripiano 2, III (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.32.II"><idno type="inventory">LL1.32.II</idno><title>Vincenzo Bellini a Federico Massimiliano Doca, in Parigi, 21 giugno 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="465"><locus from="535" to="535">n. 465, p. 535.</locus></citedRange></bibl><bibl>Amore, 1892, p. 383. </bibl><bibl>Cambi, 1943, p. 568. </bibl><bibl>Neri, 2005, p. 425. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						
+							Parigi
+							21:Giugno
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date when="1835-06-21" instant="false"><date type="writing" instant="false">21 giugno</date>
+					<date resp="#GS" cert="high" instant="false">1835</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#DocaFedericoMassimiliano">Federico Massimiliano Doca</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.32.II_facsimile">
+		<surface n="LL1.32.II.1" xml:id="LL1.32.II_folio_1r" corresp="#LL1.32.II_fol_1r"><graphic url="data/test-img/LL1.32.II/LL1-32-II_0001.dzi" width="1635px" height="2471px"/><zone ulx="267.09" uly="36.26" lrx="610.68" lry="98.61" rendition="line" xml:id="LL1.32.II_line_1r_01"/><zone ulx="160.96" uly="83.58" lrx="447.07" lry="122.49" rendition="line" xml:id="LL1.32.II_line_1r_02"/><zone ulx="194.13" uly="159.63" lrx="709.29" lry="229.50" rendition="line" xml:id="LL1.32.II_line_1r_03"/><zone ulx="70.75" uly="212.26" lrx="709.29" lry="268.42" rendition="line" xml:id="LL1.32.II_line_1r_04"/><zone ulx="70.75" uly="259.13" lrx="709.29" lry="309.98" rendition="line" xml:id="LL1.32.II_line_1r_05"/><zone ulx="70.75" uly="297.16" lrx="709.29" lry="346.69" rendition="line" xml:id="LL1.32.II_line_1r_06"/><zone ulx="70.75" uly="338.73" lrx="709.29" lry="399.31" rendition="line" xml:id="LL1.32.II_line_1r_07"/><zone ulx="70.75" uly="382.06" lrx="709.29" lry="439.11" rendition="line" xml:id="LL1.32.II_line_1r_08"/><zone ulx="70.75" uly="423.19" lrx="709.29" lry="480.67" rendition="line" xml:id="LL1.32.II_line_1r_09"/><zone ulx="70.75" uly="465.20" lrx="709.29" lry="520.03" rendition="line" xml:id="LL1.32.II_line_1r_10"/><zone ulx="70.75" uly="506.76" lrx="709.29" lry="558.06" rendition="line" xml:id="LL1.32.II_line_1r_11"/><zone ulx="70.75" uly="549.66" lrx="709.29" lry="606.70" rendition="line" xml:id="LL1.32.II_line_1r_12"/><zone ulx="70.75" uly="596.97" lrx="709.29" lry="663.30" rendition="line" xml:id="LL1.32.II_line_1r_13"/><zone ulx="18.57" uly="639.87" lrx="709.29" lry="688.51" rendition="line" xml:id="LL1.32.II_line_1r_14"/><zone ulx="70.75" uly="681.43" lrx="709.29" lry="740.25" rendition="line" xml:id="LL1.32.II_line_1r_15"/><zone ulx="70.75" uly="725.65" lrx="709.29" lry="776.51" rendition="line" xml:id="LL1.32.II_line_1r_16"/><zone ulx="70.75" uly="765.01" lrx="709.29" lry="826.03" rendition="line" xml:id="LL1.32.II_line_1r_17"/><zone ulx="70.75" uly="803.92" lrx="387.81" lry="866.72" rendition="line" xml:id="LL1.32.II_line_1r_18"/><zone ulx="80.48" uly="858.31" lrx="253.82" lry="1029.45" rendition="HotSpot" xml:id="LL1.32.II_hotspot_1r_01" corresp="#LL1.32.II_hotspot_1r_01h" start="#LL1.32.II_hotspot_1r_01h"/><zone ulx="293.18" uly="921.55" lrx="372.78" lry="1020.16" rendition="HotSpot" xml:id="LL1.32.II_hotspot_1r_02" corresp="#LL1.32.II_hotspot_1r_02h" start="#LL1.32.II_hotspot_1r_02h"/></surface>
+		<surface n="LL1.32.II.2" xml:id="LL1.32.II_folio_1v" corresp="#LL1.32.II_fol_1v"><graphic url="data/test-img/LL1.32.II/LL1-32-II_0002.dzi" width="1636px" height="2446px"/><zone ulx="401.72" uly="41.10" lrx="552.41" lry="207.71" rendition="HotSpot" xml:id="LL1.32.II_hotspot_1v_01" corresp="#LL1.32.II_hotspot_1v_01h" start="#LL1.32.II_hotspot_1v_01h"/><zone ulx="70.71" uly="132.58" lrx="707.09" lry="731.40" rendition="HotSpot" xml:id="LL1.32.II_hotspot_1v_02" corresp="#LL1.32.II_hotspot_1v_02h" start="#LL1.32.II_hotspot_1v_02h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.32.II" xml:id="LL1.32.II">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Federico Massimiliano Doca, in Parigi, 21 giugno 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        465  p. 535</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>L'anno di redazione della minuta di lettera è stato attribuito da Seminara e non è presente nel documento originale. Sulla carta 1v è presente la
+								<hi facs="#LL1.32.II_hotspot_1v_02">minuta LL.1.32.I</hi>, che fa parte della stessa unità codicologica.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo e altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.32.II</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>134x203<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera si compone di un folio con testo solo sulla carta 1r.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									
+										Lettera in buone condizioni fisiche. Il folio non presenta piegature, è visibile solo una piccola piega in alto sulla parte sinistra. Sul folio sono presenti alcuni strappi di piccole dimensioni e qualche piegatura lungo il bordo. Inoltre sono visibili alcune macchie e segni di copiatura o ombre di scritte sullo sfondo.
+									
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile.
+								
+							 
+								
+								
+									Sulla carta 1v è presente un'annotazione con matita blu probabilmente dovuta ad un catalogatore riportante il testo "N 18".
+								
+							 
+								
+								
+									Sulla carta 1v è presente un'annotazione con matita blu probabilmente dovuta ad un catalogatore riportante il numero 21 tra parentesi.
+								
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico, ma il numero ordinale risulta illegibile. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non è presente alcun sigillo.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[21 giugno
+					1835]</p><p><fw> 
+                            Destinatario
+                        </fw>Federico Massimiliano Doca</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.32.II.1r" xml:id="LL1.32.II_fol_1r" facs="data/test-img/LL1.32.II/LL1-32-II_0001.dzi"/>
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.32.II_note1"/><note>(Nota Seminara, 2017: p. 535 n. 911)<p part="N">
+							Nel <hi rend="italic">verso</hi> del medesimo foglio, vi è una minuta indirizzata a Eleonora Statella, Duchessa di Sammartino <supplied resp="#GS" instant="false">(Lettera 458/1, catalogata come LL1.32.I).</supplied>
+						</p></note>
+						<lb facs="#LL1.32.II_line_1r_01" n="1" xml:id="LL1.32.II_lb_1r_01"/>
+						<hi rend="align(right)">
+							<placeName ref="#Paris">Parigi</placeName>
+							<date resp="#GS" when="1835-06-21" instant="false">21<am instant="false">:</am> Giugno</date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.32.II_line_1r_02" n="2" xml:id="LL1.32.II_lb_1r_02"/>
+							Mio caro
+							<persName ref="#DocaFedericoMassimiliano">Doca</persName></s>
+				</salute>
+				<lb rend="2-line"/> <!-- prossemica -->
+				<ab n="ab_03" rend="first_line_indented" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.32.II_line_1r_03" n="3" xml:id="LL1.32.II_lb_1r_03"/>
+						Vi ringrazio della
+						<choice><abbr>vra<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ra</expan></choice>
+						amabile
+						<lb facs="#LL1.32.II_line_1r_04" n="4" xml:id="LL1.32.II_lb_1r_04"/>
+						lettera che mi dà raguaglio del
+						<lb facs="#LL1.32.II_line_1r_05" n="5" xml:id="LL1.32.II_lb_1r_05"/>
+						sentimento di cotesti giornali, e
+						<lb facs="#LL1.32.II_line_1r_06" n="6" xml:id="LL1.32.II_lb_1r_06"/>
+						più, perché apportatrice di
+						<choice><abbr>vre<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>re</expan></choice>
+						novelle.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						<lb facs="#LL1.32.II_line_1r_07" n="7" xml:id="LL1.32.II_lb_1r_07"/>
+						Ora che il caldo delle
+						<choice><abbr>rappr<hi rend="sup">ni</hi></abbr><expan instant="false">rappr<ex instant="false">esentazio</ex>ni</expan></choice>
+						è<w part="N">
+							pas
+							<lb break="no" facs="#LL1.32.II_line_1r_08" n="8" rend="double-stroke" xml:id="LL1.32.II_lb_1r_08"/>
+							sato</w>
+						non desidero più d'avere i giornali
+						<lb facs="#LL1.32.II_line_1r_09" n="9" xml:id="LL1.32.II_lb_1r_09"/>
+						che parlano dei
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">Puritani,</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						ma se l'<w part="N">a
+							<lb break="no" facs="#LL1.32.II_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.32.II_lb_1r_10"/>
+							vete</w> di già potrete darli a
+						<persName ref="#PepoliCarlo">Pepoli</persName>
+						<lb facs="#LL1.32.II_line_1r_11" n="11" xml:id="LL1.32.II_lb_1r_11"/>
+						che me li porterà al suo ritorno
+						<lb facs="#LL1.32.II_line_1r_12" n="12" xml:id="LL1.32.II_lb_1r_12"/>
+						a
+						<placeName ref="#Paris">Parigi</placeName>
+						—
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						E voi che fate? Venite
+						<lb facs="#LL1.32.II_line_1r_13" n="13" xml:id="LL1.32.II_lb_1r_13"/>
+						per ora in
+						<placeName>francia</placeName>
+						o no?
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						<persName ref="#CostaMichele">Costa</persName><w part="N">
+							fini
+							<lb break="no" facs="#LL1.32.II_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.32.II_lb_1r_14"/>
+							rà</w>
+						la sua
+						<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera?</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						Stà bene in salute?
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						<lb facs="#LL1.32.II_line_1r_15" n="15" xml:id="LL1.32.II_lb_1r_15"/>
+						<persName ref="#PepoliCarlo">Pepoli</persName>
+						contenta i due maestri?
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						Il Grande
+						<lb facs="#LL1.32.II_line_1r_16" n="16" xml:id="LL1.32.II_lb_1r_16"/>
+						<persName ref="#GabussiVincenzo">Gabussi</persName>
+						che vita tiene? Dice male di tutto
+						<lb facs="#LL1.32.II_line_1r_17" n="17" xml:id="LL1.32.II_lb_1r_17"/>
+						il mondo? farà dare
+						<subst instant="false" status="unremarkable">
+							<del instant="true" rend="strikethrough" status="unremarkable">la sua </del>
+							<add place="inline" instant="false" status="unremarkable">il suo</add>
+						</subst>
+						<rs ref="TEI-ListWork.xml#Ernani" type="work">Ernani?</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>Ernani<label rend="bold"> [Compositore]: </label>
+							
+							Vincenzo Gabussi
+						<label rend="bold"> [Librettista]: </label>
+							Gaetano Rossi
+						<label rend="bold"> [Prima rappresentazione]: </label>
+							Théâtre Italien
+						, 
+							Parigi
+						, 
+							25 novembre 1834
+						<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng">(Seminara, 2017: p. 426 n. 709)<p>
+								<gap reason="editorial"/> Opera <hi rend="italic">Ernani</hi> su libretto di Gaetano Rossi, con la quale Gabussi – fidando nel sostegno di Rossini – aveva deciso di cimentarsi di nuovo nel teatro musicale.
+							</p></note></note>
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						<lb facs="#LL1.32.II_line_1r_18" n="18" xml:id="LL1.32.II_lb_1r_18"/>
+						<persName ref="#LaportePierreFrancois">Laporte</persName>
+						fà denari?
+						<ptr target="#LL1.32.II_note2"/><note resp="#GS" xml:id="LL1.32.II_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.32.II_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.32.II_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 18</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.32.II_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.32.II_hs_1r_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(21)</idno>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.32.II.1v" xml:id="LL1.32.II_fol_1v" facs="data/test-img/LL1.32.II/LL1-32-II_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.32.II_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.32.II_hs_1v_01" part="N">
+					<fw>
+						+++
+						<lb/>
+						<unclear instant="false">Cotefil</unclear>
+						<lb/>
+						+++
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.32.II_hotspot_1r_01h" facs="#LL1.32.II_hotspot_1r_01"><p>annotazione con matita blu probabilmente dovuta ad un catalogatore riportante il testo "N 18"</p></div><div xml:id="LL1.32.II_hotspot_1r_02h" facs="#LL1.32.II_hotspot_1r_02"><p>annotazione con matita blu probabilmente dovuta ad un catalogatore riportante il numero 21 tra parentesi</p></div><div xml:id="LL1.32.II_hotspot_1v_01h" facs="#LL1.32.II_hotspot_1v_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico, ma il numero ordinale risulta illegibile. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.32.II_hotspot_1v_02h" facs="#LL1.32.II_hotspot_1v_02"><p>minuta LL.1.32.I</p></div></div></back>
+	</text>
+</TEI>

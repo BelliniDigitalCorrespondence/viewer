@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Pietro Ponzani, in Parigi, 30 maggio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2018-06" instant="false">June 2018</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Matteo Sarzanini</name>
+					<name full="yes" instant="false">Mattia Filosa</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_29.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="442/2" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="512" to="512" unit="page">512</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.29</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 2, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.29"><idno type="inventory">LL1.29</idno><title>Vincenzo Bellini a Pietro Ponzani, in Parigi, 30 maggio 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="442/2"><locus from="512" to="512">n. 442/2, p. 512.</locus></citedRange></bibl><bibl>Amore, 1892, p. 365-366. </bibl><bibl>Cambi, 1943, p. 558. </bibl><bibl>Neri, 2005, p. 413. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							
+								rampe de pont de 
+								Neuilly
+								N:19:bis
+							
+								
+							près de
+							Paris
+							àPuteaux
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="high" resp="#GS" when="1835-05-30" instant="false">30 maggio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#PonzaniPietro">Pietro Ponzani</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.29_facsimile">
+		<surface n="LL1.29.1" xml:id="LL1.29_folio_1r" corresp="#LL1.29_fol_1r"><graphic url="data/test-img/LL1.29/LL1-29_0001.dzi" width="560.666666px" height="844.666666px"/><zone ulx="23.21" uly="215.35" lrx="141.85" lry="606.08" rendition="HotSpot" xml:id="LL1.29_hotspot_1r_01" corresp="#LL1.29_hotspot_1r_01h" start="#LL1.29_hotspot_1r_01h"/><zone ulx="163.77" uly="50.29" lrx="710.53" lry="83.82" rendition="line" xml:id="LL1.29_line_1r_01"/><zone ulx="198.59" uly="83.82" lrx="683.45" lry="122.51" rendition="line" xml:id="LL1.29_line_1r_02"/><zone ulx="109.61" uly="128.95" lrx="375.26" lry="167.64" rendition="line" xml:id="LL1.29_line_1r_03"/><zone ulx="299.17" uly="167.64" lrx="709.24" lry="205.04" rendition="line" xml:id="LL1.29_line_1r_04"/><zone ulx="91.56" uly="220.51" lrx="696.35" lry="245.01" rendition="line" xml:id="LL1.29_line_1r_05"/><zone ulx="99.29" uly="260.49" lrx="704.09" lry="303.04" rendition="line" xml:id="LL1.29_line_1r_06"/><zone ulx="101.87" uly="303.04" lrx="692.48" lry="341.73" rendition="line" xml:id="LL1.29_line_1r_07"/><zone ulx="105.74" uly="341.73" lrx="680.88" lry="386.86" rendition="line" xml:id="LL1.29_line_1r_08"/><zone ulx="109.61" uly="386.86" lrx="713.11" lry="425.55" rendition="line" xml:id="LL1.29_line_1r_09"/><zone ulx="90.27" uly="425.55" lrx="705.38" lry="460.36" rendition="line" xml:id="LL1.29_line_1r_10"/><zone ulx="96.72" uly="464.23" lrx="670.56" lry="515.81" rendition="line" xml:id="LL1.29_line_1r_11"/><zone ulx="96.72" uly="509.37" lrx="692.48" lry="554.50" rendition="line" xml:id="LL1.29_line_1r_12"/><zone ulx="104.45" uly="554.50" lrx="709.24" lry="599.63" rendition="line" xml:id="LL1.29_line_1r_13"/><zone ulx="104.45" uly="593.19" lrx="709.24" lry="630.58" rendition="line" xml:id="LL1.29_line_1r_14"/><zone ulx="108.32" uly="631.87" lrx="697.64" lry="677.01" rendition="line" xml:id="LL1.29_line_1r_15"/><zone ulx="105.74" uly="677.01" lrx="697.64" lry="715.69" rendition="line" xml:id="LL1.29_line_1r_16"/><zone ulx="110.90" uly="715.69" lrx="702.80" lry="754.38" rendition="line" xml:id="LL1.29_line_1r_17"/><zone ulx="114.77" uly="754.38" lrx="696.35" lry="794.35" rendition="line" xml:id="LL1.29_line_1r_18"/><zone ulx="110.90" uly="799.51" lrx="670.56" lry="838.20" rendition="line" xml:id="LL1.29_line_1r_19"/><zone ulx="114.77" uly="838.20" lrx="660.24" lry="883.33" rendition="line" xml:id="LL1.29_line_1r_20"/><zone ulx="105.74" uly="883.33" lrx="702.80" lry="925.89" rendition="line" xml:id="LL1.29_line_1r_21"/><zone ulx="108.32" uly="928.47" lrx="702.80" lry="973.60" rendition="line" xml:id="LL1.29_line_1r_22"/><zone ulx="105.74" uly="973.60" lrx="702.80" lry="1018.73" rendition="line" xml:id="LL1.29_line_1r_23"/><zone ulx="109.61" uly="1018.73" lrx="680.88" lry="1063.87" rendition="line" xml:id="LL1.29_line_1r_24"/></surface>
+		<surface n="LL1.29.2" xml:id="LL1.29_folio_1v" corresp="#LL1.29_fol_1v"><graphic url="data/test-img/LL1.29/LL1-29_0002.dzi" width="561px" height="845px"/><zone ulx="54.13" uly="38.66" lrx="692.07" lry="83.77" rendition="line" xml:id="LL1.29_line_1v_01"/><zone ulx="47.68" uly="90.21" lrx="695.94" lry="122.43" rendition="line" xml:id="LL1.29_line_1v_02"/><zone ulx="48.97" uly="128.88" lrx="693.36" lry="162.39" rendition="line" xml:id="LL1.29_line_1v_03"/><zone ulx="38.66" uly="167.54" lrx="702.38" lry="204.91" rendition="line" xml:id="LL1.29_line_1v_04"/></surface>
+		<surface n="LL1.29.3" xml:id="LL1.29_folio_2r" corresp="#LL1.29_fol_2r"><graphic url="data/test-img/LL1.29/LL1-29_0003.dzi" width="561px" height="845px"/></surface>
+		<surface n="LL1.29.4" xml:id="LL1.29_folio_2v" corresp="#LL1.29_fol_2v"><graphic url="data/test-img/LL1.29/LL1-29_0004.dzi" width="561px" height="845px"/><zone ulx="90.21" uly="605.72" lrx="206.20" lry="730.73" rendition="HotSpot" xml:id="LL1.29_hotspot_2v_01" corresp="#LL1.29_hotspot_2v_01h" start="#LL1.29_hotspot_2v_01h"/><zone ulx="489.73" uly="683.05" lrx="592.83" lry="889.25" rendition="HotSpot" xml:id="LL1.29_hotspot_2v_02" corresp="#LL1.29_hotspot_2v_02h" start="#LL1.29_hotspot_2v_02h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.29" xml:id="LL1.29">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Pietro Ponzani, in Parigi, 30 maggio 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        442/2  p. 512</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La data di redazione della minuta di lettera è stata attribuita da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo e altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.29</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>134x204<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti francobolli né timbri.
+									</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio) ed è scritta su due facciate. Il folio presenta una duplice piegatura asimmetrica, con il margine inferiore piegato più ampio.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera leggibile.
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									huitième
+									significa
+									ottavo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+								
+									Sulla carta 2v è presente un'annotazione a matita blu, probabilmente dovuta a un catalogatore, che riporta il numero 5 cerchiato.
+								
+							 
+								
+								
+									Sulla carta 2v è inoltre presente un'annotazione a matita blu, probabilmente dovuta a un catalogatore, che riporta "N 19".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[30 maggio 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>Pietro Ponzani</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.29.1r" xml:id="LL1.29_fol_1r" facs="data/test-img/LL1.29/LL1-29_0001.dzi"/>
+			<!--fronte-recto -->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<ab n="ab_01" part="N">
+					<s n="s_01" type="sentence" rend="align(right)" part="N">
+						<lb facs="#LL1.29_line_1r_01" n="1" xml:id="LL1.29_lb_1r_01"/>
+						<address xml:lang="fr">
+							<street rend="align(right)">
+								rampe de pont de 
+								<placeName ref="#NSS">Neuilly</placeName>
+								N<am instant="false">:</am> <num type="cardinal" value="19">19<am instant="false">:</am></num> bis
+							</street>
+								<lb facs="#LL1.29_line_1r_02" n="2" xml:id="LL1.29_lb_1r_02"/>
+							<region rend="align(right)">près de
+							<placeName ref="#Paris">Paris</placeName>
+							à <placeName ref="#Put">Puteaux</placeName></region>
+						</address>
+					</s>
+				</ab>
+			</div>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.29_line_1r_03" n="3" xml:id="LL1.29_lb_1r_03"/>
+						Mio caro
+						<persName ref="#PonzaniPietro">Ponzani</persName>
+					</s>
+				</salute>
+				<ab n="ab_03" next="#LL1.29_ab_03_1v" part="I" rend="first_line_indented" type="parag" xml:id="LL1.29_ab_03_1r">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.29_line_1r_04" n="4" xml:id="LL1.29_lb_1r_04"/>
+						<persName ref="#BarboGiacomo">Barbò</persName>
+						ha dovuto scriverti
+						<lb facs="#LL1.29_line_1r_05" n="5" xml:id="LL1.29_lb_1r_05"/>
+						ch'io avea ricevuto la tua lettera, ed
+						<lb facs="#LL1.29_line_1r_06" n="6" xml:id="LL1.29_lb_1r_06"/>
+						inviato a
+						<placeName ref="#London">Londra</placeName>
+						quella per
+						<persName ref="#LevySolomon">Levy,</persName>
+						ove
+						<lb facs="#LL1.29_line_1r_07" n="7" xml:id="LL1.29_lb_1r_07"/>
+						questi si trovava: ora è quà arrivato,
+						<lb facs="#LL1.29_line_1r_08" n="8" xml:id="LL1.29_lb_1r_08"/>
+						e mi prega di pagarti il suo debito,
+						<lb facs="#LL1.29_line_1r_09" n="9" xml:id="LL1.29_lb_1r_09"/>
+						del quale non ne comprende la cifra, ed
+						<lb facs="#LL1.29_line_1r_10" n="10" xml:id="LL1.29_lb_1r_10"/>
+						infatti non si sà se la tua lettera
+						<lb facs="#LL1.29_line_1r_11" n="11" xml:id="LL1.29_lb_1r_11"/>
+						dica <num>160<am instant="false">:</am></num> o <num>60<am instant="false">:</am></num> 
+						<choice><abbr>f<hi rend="sup">i</hi>,</abbr><expan instant="false">f<ex instant="false">ranch</ex>i,</expan></choice>
+						quindi ti prego
+						<lb facs="#LL1.29_line_1r_12" n="12" xml:id="LL1.29_lb_1r_12"/>
+						a rispondermi e precisarne il numero,
+						<lb facs="#LL1.29_line_1r_13" n="13" xml:id="LL1.29_lb_1r_13"/>
+						che subito te ne farò pagare la somma
+						<lb facs="#LL1.29_line_1r_14" n="14" xml:id="LL1.29_lb_1r_14"/>
+						a
+						<placeName ref="#MI">Milano.</placeName>
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						<persName ref="#LevySolomon">Levy</persName>
+						mi dice di salutarti
+						<lb facs="#LL1.29_line_1r_15" n="15" xml:id="LL1.29_lb_1r_15"/>
+						cara­mente e di dirti che egli stesso
+						<lb facs="#LL1.29_line_1r_16" n="16" xml:id="LL1.29_lb_1r_16"/>
+						risponderà alla tua cara fra pochi
+						<lb facs="#LL1.29_line_1r_17" n="17" xml:id="LL1.29_lb_1r_17"/>
+						giorni. —
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Io mi trovo in campagna
+						<lb facs="#LL1.29_line_1r_18" n="18" xml:id="LL1.29_lb_1r_18"/>
+						con
+						<persName ref="#LevySolomon">Levy,</persName>
+						ove ci divertiamo<w part="N">
+							estrema
+							<lb break="no" facs="#LL1.29_line_1r_19" n="19" rend="double-stroke" xml:id="LL1.29_lb_1r_19"/>
+							mente.</w>
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						Vicino di
+						<placeName ref="#Paris">Parigi,</placeName>
+						se vogliamo
+						<lb facs="#LL1.29_line_1r_20" n="20" xml:id="LL1.29_lb_1r_20"/>
+						fracassi nei piaceri accorriamo: in
+						<lb facs="#LL1.29_line_1r_21" n="21" xml:id="LL1.29_lb_1r_21"/>
+						campagna poi ci abbiamo i tranquilli
+						<lb facs="#LL1.29_line_1r_22" n="22" xml:id="LL1.29_lb_1r_22"/>
+						nella vita monotona. —
+					</s>
+					<s n="s_07" next="#LL1.29_s_07_1v" part="I" type="sentence" xml:id="LL1.29_s_07_1r">
+						Delle guerre
+						<lb facs="#LL1.29_line_1r_23" n="23" xml:id="LL1.29_lb_1r_23"/>
+						insorte fra i Direttori della
+						<orgName ref="#Opera_Paris">
+							Grand Op<choice resp="#LM"><orig>e</orig><reg instant="false">é</reg></choice>
+						</orgName>
+						<lb break="no" facs="#LL1.29_line_1r_24" n="24" rend="double-stroke" xml:id="LL1.29_lb_1r_24"/>
+						<orgName ref="#Opera_Paris">ra</orgName> ed il ministero, fanno che il
+					</s>
+				</ab>
+				<ab facs="#LL1.29_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.29_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Huitième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+				<pb n="LL1.29.1v" xml:id="LL1.29_fol_1v" facs="data/test-img/LL1.29/LL1-29_0002.dzi"/>
+				<ab n="ab_03" part="F" prev="#LL1.29_ab_03_1r" type="parag" xml:id="LL1.29_ab_03_1v">
+					<s n="s_07" part="F" prev="#LL1.29_s_07_1r" type="sentence" xml:id="LL1.29_s_07_1v">
+						<lb facs="#LL1.29_line_1v_01" n="1" xml:id="LL1.29_lb_1v_01"/>
+						mio contratto non è ancora finito, ed
+						<lb facs="#LL1.29_line_1v_02" n="2" xml:id="LL1.29_lb_1v_02"/>
+						io sono in ozio; ma si spera in meno di
+						<lb facs="#LL1.29_line_1v_03" n="3" xml:id="LL1.29_lb_1v_03"/><num>15<am instant="false">:</am></num> giorni vedere tutte le difficoltà<w part="N">
+							ap
+							<lb break="no" facs="#LL1.29_line_1v_04" n="4" rend="double-stroke" xml:id="LL1.29_lb_1v_04"/>
+							pianate,</w>
+						ed io riapplicarmi e lavorare.
+						<ptr target="#LL1.29_note1"/><note resp="#GS" xml:id="LL1.29_note1" anchored="true">
+						<p part="N">
+							Le trattative per la commissione di un'opera da rappresentarsi all'Académie Royale de Musique erano state avviate da Bellini con Louis-Désiré Véron (Parigi, 1798 - 1867), che dal 1831 era direttore dell'Opéra. Véron tenne la carica sino al primo settembre del 1835, quando gli subentrò Charles-Edmond Duponchel (Parigi, 1795 - 1868).
+						</p>
+					</note>
+						<ptr target="#LL1.29_note2"/><note resp="#GS" xml:id="LL1.29_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<pb n="LL1.29.2r" xml:id="LL1.29_fol_2r" facs="data/test-img/LL1.29/LL1-29_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.29.2v" xml:id="LL1.29_fol_2v" facs="data/test-img/LL1.29/LL1-29_0004.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.29_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.29_hs_2v_01" part="N">
+					<!--ANNOTAZIONE NUMERO-->
+					<fw type="catalogNum">
+						<idno type="oldCat">5</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.29_hotspot_2v_02" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.29_hs_2v_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 19</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.29_hotspot_1r_01h" facs="#LL1.29_hotspot_1r_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									huitième
+									significa
+									ottavo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.29_hotspot_2v_01h" facs="#LL1.29_hotspot_2v_01"><p>annotazione a matita blu, probabilmente dovuta a un catalogatore, che riporta il numero 5 cerchiato</p></div><div xml:id="LL1.29_hotspot_2v_02h" facs="#LL1.29_hotspot_2v_02"><p>annotazione a matita blu, probabilmente dovuta a un catalogatore, che riporta "N 19"</p></div></div></back>
+	</text>
+</TEI>

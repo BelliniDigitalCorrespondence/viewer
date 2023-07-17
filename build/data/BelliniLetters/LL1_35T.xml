@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a [Giovanni Ricordi], in Puteaux, 3 settembre 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-07" instant="false">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordineted by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Maria Iacono</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_35.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="513" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="591" to="591" unit="page">591</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.35</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 1, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.35"><idno type="inventory">LL1.35</idno><title>Vincenzo Bellini a [Giovanni Ricordi], in Puteaux, 3 settembre 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="513"><locus from="591" to="591">n. 513, p. 591.</locus></citedRange></bibl><bibl>Amore, 1892, p. 354-355. </bibl><bibl>Cambi, 1943, p. 592-593. </bibl><bibl>Neri, 2005, p. 444-445. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							Puteaux
+							3:Settembre 35:
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Put">Puteaux, Parigi</placeName>
+					<date type="writing" when="1835-09-03" instant="false">3 settembre 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#RicordiGiovanni">Giovanni Ricordi</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+				<language ident="scn">Siciliano</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.35_facsimile">
+		<surface n="LL1.35.1" xml:id="LL1.35_folio_1r" corresp="#LL1.35_fol_1r"><graphic url="data/test-img/LL1.35/LL1-35_0001.dzi" width="1616px" height="2482px"/><zone ulx="221.46" uly="21.03" lrx="581.17" lry="66.22" rendition="line" xml:id="LL1.35_line_1r_01"/><zone ulx="476.93" uly="903.75" lrx="634.86" lry="1085.84" rendition="line" xml:id="LL1.35_hotspot_1r_01"/><zone ulx="129.75" uly="63.98" lrx="697.95" lry="107.38" rendition="line" xml:id="LL1.35_line_1r_02"/><zone ulx="53.24" uly="102.90" lrx="696.16" lry="157.04" rendition="line" xml:id="LL1.35_line_1r_03"/><zone ulx="47.42" uly="151.67" lrx="670.65" lry="203.12" rendition="line" xml:id="LL1.35_line_1r_04"/><zone ulx="47.42" uly="199.99" lrx="683.18" lry="244.73" rendition="line" xml:id="LL1.35_line_1r_05"/><zone ulx="47.42" uly="237.12" lrx="699.29" lry="285.44" rendition="line" xml:id="LL1.35_line_1r_06"/><zone ulx="47.42" uly="279.18" lrx="699.74" lry="324.37" rendition="line" xml:id="LL1.35_line_1r_07"/><zone ulx="47.42" uly="315.42" lrx="706.45" lry="368.66" rendition="line" xml:id="LL1.35_line_1r_08"/><zone ulx="47.42" uly="370.00" lrx="700.63" lry="412.50" rendition="line" xml:id="LL1.35_line_1r_09"/><zone ulx="47.42" uly="404.45" lrx="700.63" lry="448.74" rendition="line" xml:id="LL1.35_line_1r_10"/><zone ulx="47.42" uly="447.40" lrx="701.97" lry="491.69" rendition="line" xml:id="LL1.35_line_1r_11"/><zone ulx="47.42" uly="480.96" lrx="691.68" lry="525.70" rendition="line" xml:id="LL1.35_line_1r_12"/><zone ulx="47.42" uly="527.04" lrx="706.89" lry="574.46" rendition="line" xml:id="LL1.35_line_1r_13"/><zone ulx="47.42" uly="570.88" lrx="654.10" lry="617.41" rendition="line" xml:id="LL1.35_line_1r_14"/><zone ulx="47.42" uly="618.76" lrx="701.97" lry="657.23" rendition="line" xml:id="LL1.35_line_1r_15"/><zone ulx="47.42" uly="658.13" lrx="681.39" lry="704.66" rendition="line" xml:id="LL1.35_line_1r_16"/><zone ulx="47.42" uly="705.10" lrx="709.13" lry="751.63" rendition="line" xml:id="LL1.35_line_1r_17"/><zone ulx="47.42" uly="740.00" lrx="688.55" lry="787.43" rendition="line" xml:id="LL1.35_line_1r_18"/><zone ulx="47.42" uly="783.40" lrx="701.97" lry="829.93" rendition="line" xml:id="LL1.35_line_1r_19"/><zone ulx="47.42" uly="833.51" lrx="702.42" lry="883.17" rendition="line" xml:id="LL1.35_line_1r_20"/><zone ulx="47.42" uly="870.19" lrx="673.79" lry="936.41" rendition="line" xml:id="LL1.35_line_1r_21"/><zone ulx="47.42" uly="918.96" lrx="436.22" lry="965.04" rendition="line" xml:id="LL1.35_line_1r_22"/></surface>
+		<surface n="LL1.35.2" xml:id="LL1.35_folio_1v" corresp="#LL1.35_fol_1v"><graphic url="data/test-img/LL1.35/LL1-35_0002.dzi" width="1616px" height="2482px"/><zone ulx="62.64" uly="27.74" lrx="189.70" lry="61.74" rendition="HotSpot" xml:id="LL1.35_hotspot_1v_04" corresp="#LL1.35_hotspot_1v_04h" start="#LL1.35_hotspot_1v_04h"/><zone ulx="180.30" uly="68.90" lrx="212.52" lry="100.67" rendition="HotSpot" xml:id="LL1.35_hotspot_1v_01" corresp="#LL1.35_hotspot_1v_01h" start="#LL1.35_hotspot_1v_01h"/><zone ulx="340.47" uly="723.45" lrx="548.07" lry="996.81" rendition="HotSpot" xml:id="LL1.35_hotspot_1v_02" corresp="#LL1.35_hotspot_1v_02h" start="#LL1.35_hotspot_1v_02h"/><zone ulx="95.30" uly="961.02" lrx="208.49" lry="1050.94" rendition="HotSpot" xml:id="LL1.35_hotspot_1v_03" corresp="#LL1.35_hotspot_1v_03h" start="#LL1.35_hotspot_1v_03h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.35" xml:id="LL1.35">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a [Giovanni Ricordi], in Puteaux, 3 settembre 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        513  p. 591</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Il nome del destinatario è stato attribuito da Seminara ma non è espresso in maniera esplicita nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese e un termine in siciliano.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.35</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>204x132<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>Minuta di lettera, un foglio a due facciate con testo sul recto. Il folio non presenta piegature.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buona condizioni fisiche. Il verso presenta qualche strappo lugo il contorno della lettera.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura dell'autore a mano libera leggibile.
+								
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingtsixième
+									significa
+									ventiseiesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+									Sul verso sono presenti
+									parole dalla calligrafia simile a quella dell'autore. Si può ipotizzare che ci sia scritto "Jait bont", espressione che potrebbe risalire al francese dell'800.
+								
+							 
+								
+									Sul verso in alto,
+									annotazione che presenta il numero 3 scritto, con inchiostro nero, probabilmente da un catalogatore.
+								
+							 
+								
+									Sul verso in basso,
+									annotazione che presenta il codice "N 21" sottolineato e scritto con matita blu, probabilmente da un catalogatore.
+								
+							 
+								
+									Sul verso in basso,
+									annotazione che presenta il numero 20 cerchiato e scritto con matita blu, probabilmente da un catalogatore.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Puteaux, Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>3 settembre 1835</p><p><fw> 
+                            Destinatario
+                        </fw>[Giovanni Ricordi]</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.35.1r" xml:id="LL1.35_fol_1r" facs="data/test-img/LL1.35/LL1-35_0001.dzi"/>
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.35_line_1r_01" n="1" xml:id="LL1.35_lb_1r_01"/>
+						<hi rend="align(center)">
+							<placeName ref="#Put">Puteaux</placeName>
+							<date when="1835-09-03" instant="false">3<am instant="false">:</am> Settembre 35<am instant="false">:</am></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.35_line_1r_02" n="2" xml:id="LL1.35_lb_1r_02"/>
+						Mio caro
+						<persName ref="#RicordiGiovanni" type="person" role="publisher">amico</persName>
+						—
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<choice resp="#DS #LM"><orig>Si,</orig><reg instant="false">Sì,</reg></choice> ho saputo tutto
+						<lb facs="#LL1.35_line_1r_03" n="3" xml:id="LL1.35_lb_1r_03"/>
+						da
+						<persName ref="#SeveriniCarlo">Severini</persName>
+						l'infame azione del
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">r</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>r</expan></choice>
+						<persName ref="#PugniCesare">Pugni,</persName>
+						dopo
+						<lb facs="#LL1.35_line_1r_04" n="4" xml:id="LL1.35_lb_1r_04"/>
+						che feci per lui ciò che
+						<choice resp="#DS #LM"><reg instant="false">neanche</reg><orig>ne anche</orig></choice>
+						era
+						<lb facs="#LL1.35_line_1r_05" n="5" xml:id="LL1.35_lb_1r_05"/>
+						nelle mie forze:
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						senza contare i pezzi di
+						<lb facs="#LL1.35_line_1r_06" n="6" xml:id="LL1.35_lb_1r_06"/>
+						<num type="cardinal" value="5">cinque</num> franchi che freguentemente dovea
+						<lb facs="#LL1.35_line_1r_07" n="7" xml:id="LL1.35_lb_1r_07"/>
+						dargli perché si moriva di fame, con sua <w part="N">mo
+						<lb break="no" facs="#LL1.35_line_1r_08" n="8" rend="double-stroke" xml:id="LL1.35_lb_1r_08"/>
+						glie</w>
+						e
+						<num type="cardinal" value="6">sei</num> <rs type="personGrp">figli;</rs>
+						gli diedi <num type="cardinal" value="200">duecento</num> franchi
+						<lb facs="#LL1.35_line_1r_09" n="9" xml:id="LL1.35_lb_1r_09"/>
+						per avermi copiato <num type="cardinal" value="4">4<am instant="false">:</am>°</num> soli pezzi <hi rend="underline">dei</hi>
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">
+							<hi rend="underline">Puritani</hi></rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						<lb facs="#LL1.35_line_1r_10" n="10" xml:id="LL1.35_lb_1r_10"/>
+						per
+						<placeName ref="#NA">Napoli:</placeName>
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						poi gli pagai <num type="cardinal" value="250">250<am instant="false">:</am></num> <choice><abbr>f<am instant="false">:</am><hi rend="sup">i</hi></abbr><expan instant="false"><ex resp="#GS" instant="false">ranch</ex>i</expan></choice>
+						per una
+						<lb facs="#LL1.35_line_1r_11" n="11" xml:id="LL1.35_lb_1r_11"/>
+						copia intera, senza che la
+						<orgName>Società</orgName>
+						avesse
+						<lb facs="#LL1.35_line_1r_12" n="12" xml:id="LL1.35_lb_1r_12"/>
+						bisogno, tanto che l'abbiamo ancora:
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						e solo
+						<lb facs="#LL1.35_line_1r_13" n="13" xml:id="LL1.35_lb_1r_13"/>
+						si fece a mie preghiere ec: ec:
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						Mi levai
+						<lb facs="#LL1.35_line_1r_14" n="14" xml:id="LL1.35_lb_1r_14"/>
+						degli abiti quasi nuovi per vestirlo come
+						<lb facs="#LL1.35_line_1r_15" n="15" xml:id="LL1.35_lb_1r_15"/>
+						nell'inverno passato, come in quest'està:
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						<lb facs="#LL1.35_line_1r_16" n="16" xml:id="LL1.35_lb_1r_16"/>
+						pregai delle
+						<persName type="person">Signore</persName>
+						per dello
+						<distinct rend="underline" type="dialectal" xml:lang="scn">spoglio</distinct>
+						<ptr target="#LL1.35_note1"/><note>(Nota Seminara, 2017: p. 591 n. 992)<p part="N">
+							Sicilianismo, da intendersi per ‘abiti dismessi'; cfr. la voce ‘spògghiu' in TRAINA, p. 959: «veste usata e dismessa, che a volte suole regalarsi a' servitori , a' poveri».
+						</p></note>
+						<lb facs="#LL1.35_line_1r_17" n="17" xml:id="LL1.35_lb_1r_17"/>
+						per
+						<persName type="person">sua moglie,</persName>
+						e gl'inviai <num type="cardinal" value="2">due</num> pacch<supplied instant="false">i</supplied>
+						<lb facs="#LL1.35_line_1r_18" n="18" xml:id="LL1.35_lb_1r_18"/>
+						di robba ec: ec:
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						Lo raccomandai a
+						<persName ref="#RossiniGioachino">Rossini:</persName>
+					</s>
+					<s n="s_10" type="sentence" part="N">
+						<lb facs="#LL1.35_line_1r_19" n="19" xml:id="LL1.35_lb_1r_19"/>
+						questi gli procurò qualche scolaro, e gli
+						<lb facs="#LL1.35_line_1r_20" n="20" xml:id="LL1.35_lb_1r_20"/>
+						avrebbe dato la piazza di maestro de' Cori,
+						<lb facs="#LL1.35_line_1r_21" n="21" xml:id="LL1.35_lb_1r_21"/>
+						che è ben pagata, se egli avesse saputo
+						<lb facs="#LL1.35_line_1r_22" n="22" xml:id="LL1.35_lb_1r_22"/>
+						tenere il piano ec: ec:
+						<ptr target="#LL1.35_note2"/><note resp="#GS" xml:id="LL1.35_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.35_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.35_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							vingtsixième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.35.1v" xml:id="LL1.35_fol_1v" facs="data/test-img/LL1.35/LL1-35_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.35_hotspot_1v_04" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_04" part="N">
+					<!--prima riga-->
+					<fw>
+						<unclear instant="false">Jait bont</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.35_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_01" part="N">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">3</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.35_hotspot_1v_02" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_02" part="N">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">N 21</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.35_hotspot_1v_03" hand="#h5" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_03" part="N">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">20</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.35_hotspot_1v_04h" facs="#LL1.35_hotspot_1v_04"><p>parole dalla calligrafia simile a quella dell'autore. Si può ipotizzare che ci sia scritto "Jait bont", espressione che potrebbe risalire al francese dell'800</p></div><div xml:id="LL1.35_hotspot_1v_01h" facs="#LL1.35_hotspot_1v_01"><p>annotazione che presenta il numero 3 scritto, con inchiostro nero, probabilmente da un catalogatore</p></div><div xml:id="LL1.35_hotspot_1v_02h" facs="#LL1.35_hotspot_1v_02"><p>annotazione che presenta il codice "N 21" sottolineato e scritto con matita blu, probabilmente da un catalogatore</p></div><div xml:id="LL1.35_hotspot_1v_03h" facs="#LL1.35_hotspot_1v_03"><p>annotazione che presenta il numero 20 cerchiato e scritto con matita blu, probabilmente da un catalogatore</p></div></div><div type="biblCompleta"><listBibl><bibl xml:id="Amore1892" type="print" source="https://play.google.com/books/reader?id=460HAQAAMAAJ&amp;pg=GBS.PR2&amp;hl=it" default="false" status="draft"><author xml:id="AA">Amore, A. </author><date>1892</date>. <title type="main" level="m">Vincenzo Bellini. Vita</title>. <title type="sub" level="m">Studi e ricerche</title>. <pubPlace>Catania</pubPlace>. <publisher>Niccolò Giannotta</publisher></bibl><bibl xml:id="Bellini-Cambi1943" type="print" source="https://gallica.bnf.fr/ark:/12148/bpt6k1162125v/f15.item" default="false" status="draft"><author xml:id="VB">Bellini, V. </author><date>1943</date>. <title level="m">Epistolario</title>. <editor xml:id="LC">Cambi, Luisa</editor> (a cura di). <pubPlace>Milano</pubPlace>. <publisher>Mondadori</publisher></bibl><bibl xml:id="Bellini-Seminara2017" type="print" default="false" status="draft"><author ref="#VB">Bellini, V. </author><date>2017</date>. <title level="m">Carteggi</title>. <editor ref="#GS">Seminara, Graziella</editor> (a cura di). <pubPlace>Firenze</pubPlace>. <publisher>Leo S. Olschki Editore</publisher></bibl><bibl xml:id="DellaSeta2010" type="print" default="false" status="draft"><editor xml:id="FDS">Della Seta, Fabrizio</editor> (a cura di). <title level="m">Le parole del teatro musicale</title>. <pubPlace>Roma</pubPlace>. <publisher>Carocci</publisher></bibl><bibl xml:id="Delogu1931" type="print" source="https://emporium.sns.it/galleria/libro.php?volume=LXXIII&amp;pagina=LXXIII_435_165.jpg" default="false" status="draft"><author xml:id="GD">Delogu, G. </author><date>1931-03</date>. <title level="a">La casa di Bellini (nel primo centenario della "Sonnambula")</title>. In <title level="j">Emporium. Rivista mensile illustrata d'arte e cultura</title>. <pubPlace>Bergamo</pubPlace>. <publisher>Istituto italiano di arti grafiche</publisher></bibl><bibl xml:id="Ganguzza1970" type="print" default="false" status="draft"><author xml:id="NG">Ganguzza, N. </author><date>1970</date>. <title level="a">Inediti belliniani: Agosto 1830 - "La Straniera" a Bergamo</title>. In <title level="j">L'Opera</title></bibl><bibl xml:id="Libertini1935" type="print" default="false" status="draft"><author xml:id="GL">Libertini, G. </author><date>1935</date>. <title level="a">Ricerche tra gli autografi del Museo Belliniano</title>. In <title type="main" level="j">Vincenzo Bellini</title>. <title type="sub" level="j">Numero commemorativo della Rivista del Comune di Catania</title>. <pubPlace>Catania</pubPlace></bibl><bibl xml:id="Neri2005" type="print" default="false" status="draft"><author xml:id="CN">Neri, C. </author><date>2005</date>. <title level="m">Vincenzo Bellini. Nuovo Epistolario 1819-1835</title>. <pubPlace>Aci Sant'Antonio (CT)</pubPlace>. <publisher>Agorà</publisher></bibl><bibl xml:id="Nicolodi_Trovato2007" type="print" subtype="digital" default="false" status="draft"><editor xml:id="FN">Nicolodi, Fiamma</editor> (a cura di). <editor xml:id="PT">Trovato, Paolo</editor> (a cura di). <title level="m" type="main">LesMu</title>. <title level="m" type="sub">Lessico della letteratura musicale italiana 1490-1950</title>. <pubPlace>Firenze</pubPlace>. <publisher>Franco Cesati Editore</publisher></bibl><bibl xml:id="Pastura1958" type="print" default="false" status="draft"><author xml:id="FPa">Pastura, F. </author><date>1958</date>. <title level="a">Nuovi importanti documenti assicurati al Museo Belliniano</title>. In <title level="j">Rivista del Comune di Catania</title>. <pubPlace>Catania</pubPlace></bibl><bibl xml:id="Pastura1959" type="print" default="false" status="draft"><author ref="#FPa">Pastura, F. </author><date>1959</date>. <title level="m">Bellini secondo la storia</title>. <pubPlace>Parma</pubPlace>. <publisher>Guanda</publisher></bibl><bibl xml:id="Policastro1935" type="print" default="false" status="draft"><author xml:id="GP">Policastro, G. </author><date>1935</date>. <title level="m">Bellini (1801-1819)</title>. <pubPlace>Catania</pubPlace>. <publisher>Studio Editoriale Moderno</publisher></bibl><bibl xml:id="Salvioli1884" type="print" default="false" status="draft"><author xml:id="GSa">Salvioli, G. </author><date>1884</date>. <title level="m">Vincenzo Bellini. Lettere inedite</title>. <pubPlace>Milano</pubPlace>. <publisher>Ricordi</publisher></bibl><bibl xml:id="Seminara2001" type="print" default="false" status="draft"><author xml:id="GS">Seminara, G. </author><date>2001</date>. <title level="a">Itinerari di una lettera belliniana</title>. <editor>Comitato Nazionale per le Celebrazioni Belliniane, </editor> (a cura di). <title level="m">"Mio caro amico..." Per un'edizione critica dell'Epistolario belliniano</title>. <pubPlace>Valverde (CT)</pubPlace>. <publisher>Il Girasole Edizioni</publisher></bibl><bibl xml:id="Zangara1906" type="print" cert="medium" resp="#GS" source="https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&amp;cdOggetto=851#page/296/mode/2up" default="false" status="draft"><author xml:id="VMZ">Maugeri Zangara, V. </author><date>1907</date>. <title level="a">Ricordi Belliniani</title>. In <title type="main" level="j">Natura e arte</title>. <title type="sub" level="j">Rassegna quindicinale illustrata italiana e straniera di scienze, lettere ed arti</title>. <pubPlace>Milano</pubPlace>. <publisher>Casa editrice Dottor Francesco Vallardi</publisher></bibl></listBibl></div></back>
+	</text>
+</TEI>

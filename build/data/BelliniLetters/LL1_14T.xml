@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giovanni Galeota, in Parigi, [febbraio 1834]</title>
+				<!--formato titolo: mittente a destinatario, in luogo, data di scrittura della lettera -->
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-07" instant="false">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Valerio Salvetti</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_14.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="268" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="331" to="332" unit="page">pag 331-332</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.14</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.14"><idno type="inventory">LL1.14</idno><title>Vincenzo Bellini a Giovanni Galeota, in Parigi, [febbraio 1834]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="268"><locus from="331" to="332">n. 268, p. pag 331-332.</locus></citedRange></bibl><bibl>Amore, 1892, p. 338-339. </bibl><bibl>Neri, 2005, p. 279-280. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						È vero: anche
+						Florimo mi consiglia
+						a scrivere l'opera
+						a fare il possibile di
+						
+						dar l'opera
+						a
+							S. Carlo
+						 pel
+						12: Gennajo, essendo la
+						Malibran scritturata per quell'epoca.
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1834-02" instant="false">Febbraio 1834</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#GaleotaGiovanni">Giovanni Galeota</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<!-- soggettario della Biblioteca Nazionale di Firenze -->
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.14_facsimile">
+		<surface n="LL1.14.1" xml:id="LL1.14_folio_1r" corresp="#LL1.14_fol_1r"><graphic url="data/test-img/LL1.14/LL1-14_0001.dzi" width="2508px" height="3078px"/><zone ulx="30.27" uly="201.79" lrx="713.49" lry="878.09" rendition="" xml:id="LL1.14_box_1r_01"/><zone ulx="17.87" uly="157.98" lrx="296.93" lry="861.37" rendition="" xml:id="LL1.14_box_1r_02"/><zone ulx="25.94" uly="17.30" lrx="710.89" lry="167.20" rendition="" xml:id="LL1.14_box_1r_03"/><zone ulx="46.12" uly="657.27" lrx="305.57" lry="784.11" rendition="" xml:id="LL1.14_box_1r_04"/><zone ulx="96.57" uly="201.79" lrx="713.49" lry="230.05" rendition="line" xml:id="LL1.14_line_1r_01"/><zone ulx="30.27" uly="230.62" lrx="713.49" lry="258.87" rendition="line" xml:id="LL1.14_line_1r_02"/><zone ulx="30.27" uly="259.45" lrx="713.49" lry="284.24" rendition="line" xml:id="LL1.14_line_1r_03"/><zone ulx="30.27" uly="284.82" lrx="713.49" lry="315.38" rendition="line" xml:id="LL1.14_line_1r_04"/><zone ulx="30.27" uly="315.95" lrx="713.49" lry="339.59" rendition="line" xml:id="LL1.14_line_1r_05"/><zone ulx="30.27" uly="340.17" lrx="713.49" lry="369.57" rendition="line" xml:id="LL1.14_line_1r_06"/><zone ulx="30.27" uly="370.15" lrx="713.49" lry="397.82" rendition="line" xml:id="LL1.14_line_1r_07"/><zone ulx="30.27" uly="398.40" lrx="713.49" lry="426.65" rendition="line" xml:id="LL1.14_line_1r_08"/><zone ulx="30.27" uly="427.23" lrx="713.49" lry="454.33" rendition="line" xml:id="LL1.14_line_1r_09"/><zone ulx="30.27" uly="454.90" lrx="713.49" lry="489.50" rendition="line" xml:id="LL1.14_line_1r_10"/><zone ulx="30.27" uly="490.07" lrx="713.49" lry="518.32" rendition="line" xml:id="LL1.14_line_1r_11"/><zone ulx="30.27" uly="518.90" lrx="713.49" lry="551.76" rendition="line" xml:id="LL1.14_line_1r_12"/><zone ulx="30.27" uly="552.34" lrx="713.49" lry="582.90" rendition="line" xml:id="LL1.14_line_1r_13"/><zone ulx="30.27" uly="579.44" lrx="713.49" lry="614.03" rendition="line" xml:id="LL1.14_line_1r_14"/><zone ulx="30.27" uly="601.92" lrx="713.49" lry="651.51" rendition="line" xml:id="LL1.14_line_1r_15"/><zone ulx="30.27" uly="620.37" lrx="713.49" lry="684.37" rendition="line" xml:id="LL1.14_line_1r_16"/><zone ulx="30.27" uly="653.24" lrx="713.49" lry="709.74" rendition="line" xml:id="LL1.14_line_1r_17"/><zone ulx="30.27" uly="682.93" lrx="713.49" lry="752.69" rendition="line" xml:id="LL1.14_line_1r_18"/><zone ulx="30.27" uly="716.37" lrx="713.49" lry="786.71" rendition="line" xml:id="LL1.14_line_1r_19"/><zone ulx="30.27" uly="740.58" lrx="713.49" lry="814.96" rendition="line" xml:id="LL1.14_line_1r_20"/><zone ulx="30.27" uly="781.52" lrx="713.49" lry="840.33" rendition="line" xml:id="LL1.14_line_1r_21"/><zone ulx="30.27" uly="805.74" lrx="713.49" lry="863.97" rendition="line" xml:id="LL1.14_line_1r_22"/><zone ulx="30.27" uly="831.68" lrx="713.49" lry="878.09" rendition="line" xml:id="LL1.14_line_1r_23"/><zone ulx="17.87" uly="157.98" lrx="37.48" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_24"/><zone ulx="38.05" uly="157.98" lrx="59.96" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_25"/><zone ulx="60.54" uly="157.98" lrx="88.21" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_26"/><zone ulx="88.79" uly="157.98" lrx="116.46" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_27"/><zone ulx="109.55" uly="157.98" lrx="142.99" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_28"/><zone ulx="143.56" uly="157.98" lrx="175.85" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_29"/><zone ulx="176.43" uly="157.98" lrx="210.44" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_30"/><zone ulx="211.02" uly="157.98" lrx="240.42" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_31"/><zone ulx="241.00" uly="157.98" lrx="271.56" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_32"/><zone ulx="272.71" uly="676.88" lrx="296.93" lry="861.37" rendition="line" xml:id="LL1.14_line_1r_33"/><zone ulx="25.94" uly="17.30" lrx="710.89" lry="51.89" rendition="line" xml:id="LL1.14_line_1r_34"/><zone ulx="25.94" uly="51.89" lrx="710.89" lry="74.95" rendition="line" xml:id="LL1.14_line_1r_35"/><zone ulx="25.94" uly="74.95" lrx="710.89" lry="100.90" rendition="line" xml:id="LL1.14_line_1r_36"/><zone ulx="25.94" uly="100.90" lrx="710.89" lry="129.72" rendition="line" xml:id="LL1.14_line_1r_37"/><zone ulx="25.94" uly="129.72" lrx="710.89" lry="167.20" rendition="line" xml:id="LL1.14_line_1r_38"/><zone ulx="46.12" uly="657.27" lrx="305.57" lry="784.11" rendition="HotSpot" xml:id="LL1.14_hotspot_1r_01" corresp="#LL1.14_hotspot_1r_01h" start="#LL1.14_hotspot_1r_01h"/></surface>
+		<surface n="LL1.14.2" xml:id="LL1.14_folio_1v" corresp="#LL1.14_fol_1v"><graphic url="data/test-img/LL1.14/LL1-14_0002.dzi" width="2508.33334px" height="3115.33334px"/><zone ulx="100.31" uly="145.85" lrx="183.32" lry="219.06" rendition="HotSpot" xml:id="LL1.14_hotspot_1v_01" corresp="#LL1.14_hotspot_1v_01h" start="#LL1.14_hotspot_1v_01h"/><zone ulx="80.71" uly="703.30" lrx="351.65" lry="807.07" rendition="HotSpot" xml:id="LL1.14_hotspot_1v_02" corresp="#LL1.14_hotspot_1v_02h" start="#LL1.14_hotspot_1v_02h"/><zone ulx="374.71" uly="533.24" lrx="691.77" lry="879.13" rendition="HotSpot" xml:id="LL1.14_hotspot_1v_03" corresp="#LL1.14_hotspot_1v_03h" start="#LL1.14_hotspot_1v_03h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.14" xml:id="LL1.14">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Giovanni Galeota, in Parigi, [febbraio 1834]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        268  p. pag 331-332</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La data di redazione della lettera è stata attribuita da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani sia in italiano che in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.14</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>256x195<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Il folio presenta segni di piegatura simmetrica in quattro sezioni, il fronte in alto a destra presenta un'ulteriore piegatura, in maniera speculare in basso a sinistra.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in discrete condizioni fisiche, composta da un solo folio, ripiegato in più parti. La lettera ha gli angoli leggermente piegati.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera poco leggibile.
+							 
+								
+									La carta 1r presenta un'annotazione in matita blu, probabilmente dovuta ad un catalogatore, con la scritta "N 106".
+								
+							 
+								La carta 1v presenta un'annotazione in matita blu, probabilmente dovuta ad un catalogatore, che riporta il numero 18 tra parentesi.
+								
+							 
+								
+									Nella carta 1v, seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e
+									onzième significaundicesimo. I caratteri che sembrano corrispondere alla parola
+									fil terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								La carta 1v presenta un'annotazione poco leggibile, di cui si evince parte del testo ("Cav.re Galeota").
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Febbraio 1834]</p><p><fw> 
+                            Destinatario
+                        </fw>Giovanni Galeota</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.14.1r" xml:id="LL1.14_fol_1r" facs="data/test-img/LL1.14/LL1-14_0001.dzi"/>
+			<!--FRONTE-->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_01" rend="overwritten" type="parag" part="N">
+					<s n="s_01" type="sentence" rend="first_line_indented" part="N">
+						<ptr target="#LL1.14_note1"/><note resp="#GS" xml:id="LL1.14_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+						<lb facs="#LL1.14_line_1r_01" n="1" xml:id="LL1.14_lb_1r_01"/>
+						È vero: anche
+						<persName ref="#FlorimoFrancesco">Florimo</persName> mi consiglia
+						<del rend="strikethrough" instant="false" status="unremarkable">a scrivere l'</del><term ref="TEI-ListTerm.xml#opera" subtype="music-term"><del rend="strikethrough" instant="false" status="unremarkable">opera</del></term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						a fare il possibile di
+						<lb facs="#LL1.14_line_1r_02" n="2" xml:id="LL1.14_lb_1r_02"/>
+						dar l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<add place="supralinear" instant="false" status="unremarkable">a
+							<orgName ref="#San_Carlo">S. Carlo</orgName>
+						</add> pel
+						<date when="1985-01-12" instant="false">12<am instant="false">:</am> Gennajo,</date> essendo la
+						<persName ref="#MalibranMaria">Malibran</persName> scritturata per quell'epoca.
+					</s>
+					<s n="s_02" type="sentence" part="N">
+						Io
+						<lb facs="#LL1.14_line_1r_03" n="3" xml:id="LL1.14_lb_1r_03"/>
+						sinceramente le dico, che mi pare assai difficile il finirla per tal'epoca; men
+						<lb facs="#LL1.14_line_1r_04" n="4" xml:id="LL1.14_lb_1r_04"/>
+						difficile forse pei primi di <date when="1885-02" instant="false">Febrajo;</date> ma d'adesso non potrei alcuna cosa
+						<lb facs="#LL1.14_line_1r_05" n="5" xml:id="LL1.14_lb_1r_05"/>
+						promettere; quindi, se <w resp="#LM" part="N">piace</w> alla
+						<orgName>Nobile società,</orgName> proporrei quanto segue:
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.14_line_1r_06" n="6" xml:id="LL1.14_lb_1r_06"/>
+						<rs ref="#GaleotaGiovanni" role="composer">Ella</rs> abbia la bontà di inviarmi la
+						<add place="supralinear" instant="false" status="unremarkable">nota</add>
+						<choice resp="#DS #LM"><orig> </orig><reg instant="false">
+								<supplied instant="false">della</supplied>
+							</reg></choice>
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term><note type="comment" n="T"><seg>
+                [COMPAGNIA]
+            </seg><gloss xml:lang="it" target="#compagnia" source="TEI-ListBibl.xml#DellaSeta2010">
+							Insieme degli artisti che partecipano all'<term subtype="music-term">allestimento</term> di un'<term subtype="music-term" ref="#opera">opera.</term> Tra il 1600 e il 1670 circa le compagnie, formate sul modello della compagnia dell'arte da cantanti-attori, compositori, poeti e scenografi, erano itineranti: esse si spostavano di città in città per allestire le stesse opere in diversi teatri di corte o pubblici. [...]Successivamente, soprattutto in Italia fino a tutto l'Ottocento, il termine passò a indicare l'insieme dei cantanti ingaggiati da un teatro per un'intera <term subtype="music-term">stagione;</term> nel resto d'Europa, e in particolare a Parigi, le compagnie erano permanenti e restavano legate anche per diversi anni a un singolo teatro. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<add place="superimposed" instant="false" status="unremarkable">
+							<unclear reason="parterased" instant="false">che</unclear> vi
+						</add>
+						<unclear reason="eccentric_ductus" instant="false">sarà</unclear> nell'inverno
+						<lb facs="#LL1.14_line_1r_07" n="7" xml:id="LL1.14_lb_1r_07"/>
+						venturo, come quelli che probabilmente potranno
+						<unclear reason="eccentric_ductus" instant="false">avere</unclear> per
+						<del rend="strikethrough" instant="false" status="unremarkable">l'anno</del>
+						+++
+						<lb facs="#LL1.14_line_1r_08" n="8" xml:id="LL1.14_lb_1r_08"/>
+						primavera del
+						<date when="1835" instant="false">1835<am instant="false">:</am></date> —
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						Io subito finita l'<rs ref="TEI-ListWork.xml#Puritani" resp="#EC" type="work"><term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note> per
+						<placeName ref="#Paris">Parigi</placeName> imprenderò a <w part="N">scri
+							<lb break="no" facs="#LL1.14_line_1r_09" n="9" rend="double-stroke" xml:id="LL1.14_lb_1r_09"/>
+							vere</w> quella per
+						<placeName ref="#NA">Napoli,</placeName> e farò tutti gli sforzi possibili
+						<subst instant="false" status="unremarkable">
+							<del instant="true" rend="strikethrough" resp="#LM" status="unremarkable">per finirla </del> 
+							<add place="inline" resp="#LM" instant="false" status="unremarkable">per </add>
+							<lb facs="#LL1.14_line_1r_10" n="10" xml:id="LL1.14_lb_1r_10"/>
+							<add place="inline" resp="#LM" instant="false" status="unremarkable">portarla a compimento</add>
+						</subst>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">per metterla </del>
+							<add place="above" instant="false" status="unremarkable">e <unclear reason="eccentric_ductus" instant="false">darla</unclear> in</add>
+						</subst> scena, al più
+						<unclear reason="eccentric_ductus" instant="false">tardi,</unclear> il 
+						<date when="1895-02-01" instant="false">1<am instant="false">:</am>° Febrajo</date>
+						<lb facs="#LL1.14_line_1r_11" n="11" xml:id="LL1.14_lb_1r_11"/>
+						del <date when="1835" instant="false">1835<am instant="false">:</am></date>
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Ma se ciò non potrà
+						<unclear reason="eccentric_ductus" instant="false">riuscire</unclear> prometto, darne avviso nel
+						<lb break="no" facs="#LL1.14_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.14_lb_1r_12"/>
+						la fine d'<date when="--08" instant="false">Agosto</date> vegnente perché la
+						<orgName>Nobile Società</orgName> prenda le sue
+						<lb facs="#LL1.14_line_1r_13" n="13" xml:id="LL1.14_lb_1r_13"/>
+						misure, ed allora l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> la darei nella primavera dell'istess'anno.
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						<lb facs="#LL1.14_line_1r_14" n="14" xml:id="LL1.14_lb_1r_14"/>
+						Se questo piano conviene,
+						<rs ref="#GaleotaGiovanni" role="composer">ella</rs>
+						<add place="supralinear" instant="false" status="unremarkable">abbia la bontà</add> di rendermi
+						<add place="supralinear" instant="false" status="unremarkable">subito</add> avvisato, per fissar tutto con
+						<lb facs="#LL1.14_line_1r_15" n="15" xml:id="LL1.14_lb_1r_15"/>
+						un contratto legale;
+						<unclear reason="eccentric_ductus" instant="false">mentre</unclear>
+						<del rend="strikethrough" instant="false" status="unremarkable">
+							[+++] offerte
+						</del>
+						<add place="above" instant="false" status="unremarkable">per ora ho</add> paralizzato altre
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">
+								[+++]
+							</del>
+							<add place="above" instant="false" status="unremarkable">trattative</add>
+						</subst>
+						<lb facs="#LL1.14_line_1r_16" n="16" xml:id="LL1.14_lb_1r_16"/>
+						che non
+						<unclear reason="eccentric_ductus" instant="false">potrò</unclear> riprendere
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">che do </del>
+							<add place="above" instant="false" status="unremarkable">se</add>
+						</subst> non prima avrò fermato il contratto
+						<lb facs="#LL1.14_line_1r_17" n="17" xml:id="LL1.14_lb_1r_17"/>
+						con
+						<placeName ref="#NA">Napoli</placeName> —
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						<del rend="strikethrough" instant="false" status="unremarkable">Sà poi Ella qual'è la gran difficoltà</del> Di già
+						<lb facs="#LL1.14_line_1r_18" n="18" xml:id="LL1.14_lb_1r_18"/>
+						col
+						<persName ref="#PepoliCarlo">Conte Pepoli</persName> che mi scrive il
+						<term ref="TEI-ListTerm.xml#libretto" subtype="music-term">libro</term><note type="comment" n="T"><seg>
+                [LIBRETTO]
+            </seg><gloss xml:lang="it" target="#libretto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Libro di piccolo formato contenente il testo letterario di un’<term subtype="music-term" ref="#opera">opera</term> o di altra composizione vocale di carattere drammatico e, per estensione, il testo stesso, costituito dalle parole destinate a essere cantate, in versi o, più raramente, in prosa, dalle descrizioni della <term subtype="music-term">scenografia</term> e dalle didascalie relative ai movimenti dei cantanti; può inoltre contenere indicazioni riguardanti uno specifico <term subtype="music-term">allestimento</term> dell’opera, il contesto storico della sua prima rappresentazione, a volte, dichiarazioni di poetica dell’autore o degli autori. [...] Dal punto di vista strettamente letterario, il libretto è da considerarsi principalmente come parte integrante di un’opera d’arte complessiva da cui dipende e che lo trascende. Sebbene in alcuni casi esso tenda a rivendicare una propria dignità letteraria, è innegabile che molti aspetti della sua struttura siano predeterminati dalle esigenze specifiche del <term subtype="music-term">teatro musicale</term> (prima fra tutte quella della declamazione cantata) e dalle innumerevoli convenzioni specifiche dei diversi generi operistici e dei diversi contesti storico-sociali. [...] Sebbene la paternità del libretto sia generalmente riconosciuta al poeta che lo ha prodotto (<term subtype="music-term">librettista</term>), sono frequenti i casi in cui l’intervento del compositore ne modifica in modo sostanziale l’assetto, conducendo a divergenze anche notevoli fra la versione pubblicata e quella riportata in partitura. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> per
+						<placeName ref="#Paris">Parigi,</placeName>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">sono </del>
+							<add place="above" instant="false" status="unremarkable">siamo</add>
+						</subst> in cerca anche
+						<lb facs="#LL1.14_line_1r_19" n="19" xml:id="LL1.14_lb_1r_19"/>
+						di un argomento p<supplied resp="#GS" instant="false">er</supplied> <placeName ref="#NA">Napoli;</placeName> ed ancora non se ne presenta alcuno che
+						<lb facs="#LL1.14_line_1r_20" n="20" xml:id="LL1.14_lb_1r_20"/>
+						ci convenga, e per
+						<placeName ref="#Paris">Parigi</placeName> e per costì.
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						È la cosa la più difficile di
+						<lb facs="#LL1.14_line_1r_21" n="21" xml:id="LL1.14_lb_1r_21"/>
+						trovare soggetti che presentano novità ed interesse, ed è la sola ragione
+						<lb facs="#LL1.14_line_1r_22" n="22" xml:id="LL1.14_lb_1r_22"/>
+						che fa perdere tanto tempo,
+						<unclear reason="eccentric_ductus" instant="false">ma come sono convinto</unclear>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">che senza
+								[+++]
+							</del>
+							<add place="above" instant="false" status="unremarkable">che il </add>
+						</subst>
+						<term ref="TEI-ListTerm.xml#libretto" subtype="music-term">libretto</term><note type="comment" n="T"><seg>
+                [LIBRETTO]
+            </seg><gloss xml:lang="it" target="#libretto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Libro di piccolo formato contenente il testo letterario di un’<term subtype="music-term" ref="#opera">opera</term> o di altra composizione vocale di carattere drammatico e, per estensione, il testo stesso, costituito dalle parole destinate a essere cantate, in versi o, più raramente, in prosa, dalle descrizioni della <term subtype="music-term">scenografia</term> e dalle didascalie relative ai movimenti dei cantanti; può inoltre contenere indicazioni riguardanti uno specifico <term subtype="music-term">allestimento</term> dell’opera, il contesto storico della sua prima rappresentazione, a volte, dichiarazioni di poetica dell’autore o degli autori. [...] Dal punto di vista strettamente letterario, il libretto è da considerarsi principalmente come parte integrante di un’opera d’arte complessiva da cui dipende e che lo trascende. Sebbene in alcuni casi esso tenda a rivendicare una propria dignità letteraria, è innegabile che molti aspetti della sua struttura siano predeterminati dalle esigenze specifiche del <term subtype="music-term">teatro musicale</term> (prima fra tutte quella della declamazione cantata) e dalle innumerevoli convenzioni specifiche dei diversi generi operistici e dei diversi contesti storico-sociali. [...] Sebbene la paternità del libretto sia generalmente riconosciuta al poeta che lo ha prodotto (<term subtype="music-term">librettista</term>), sono frequenti i casi in cui l’intervento del compositore ne modifica in modo sostanziale l’assetto, conducendo a divergenze anche notevoli fra la versione pubblicata e quella riportata in partitura. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<lb facs="#LL1.14_line_1r_23" n="23" xml:id="LL1.14_lb_1r_23"/>
+						è il
+						<unclear reason="eccentric_ductus" instant="false">
+							<orig>pedamento</orig>
+						</unclear>
+						<ptr target="#LL1.14_note2"/><note>(Nota Seminara, 2017: p. 331 n. 552)<p part="N">
+							Da intendersi per 'fondamento'; in Tommaseo – Bellini, vol. III, p. 857, alla voce 'pedamento' si legge «Assito, tavolato».
+						</p></note> d'un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera,</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> così ho trovato bene impiegato il tempo per la ricerca.
+					</s>
+				</ab>
+				<!--seconda parte lettera-->
+				<ab n="ab_02" rend="underwritten" type="parag" part="N">
+					<s n="s_09" type="sentence" part="N">
+						<lb facs="#LL1.14_line_1r_24" n="24" xml:id="LL1.14_lb_1r_24"/>
+						<ptr target="#LL1.14_note3"/><note>(Nota Seminara, 2017: p. 332 n. 553)<p part="N">
+							Da questo punto Bellini prosegue la minuta scrivendo trasversalmente nel margine sinistro della facciata.
+						</p></note>
+						<rs ref="#GaleotaGiovanni" role="composer">Ella</rs> si compiaccia dunque di rispondermi e non faccia meraviglia se dopo le paghe
+						<lb facs="#LL1.14_line_1r_25" n="25" xml:id="LL1.14_lb_1r_25"/>
+						che ho ricevuto a
+						<placeName ref="#MI">Milano</placeName> per la
+						<rs ref="TEI-ListWork.xml#Sonnambula" type="work">Sonnambula</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>La sonnambula<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Felice Romani<label rend="bold"> [Prima rappresentazione]: </label>Teatro Carcano, Milano, 6 marzo 1831<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								<hi rend="italic">La Sonnambula</hi>, ispirata al balletto-pantomima <hi rend="italic">La Sunnambule, ou L'arrivée d'un nouveau Seigneur</hi> di Eugéne Scribe messo in musica da Louis-Ferdinand Hérold (Parigi, Opéra, 19 settembre 1827), fu commissionata a Bellini dal Teatro Carcano di Milano, dove andò in scena il 6 marzo 1831 con grande successo. La parte di Amina fu tenuta da Giuditta Pasta, quella di Elvino da Giovanni Battista Rubini: i due cantanti concorsero al successo dell'opera documentato dalla stampa dell'epoca e confermato da Bellini in una lettera ad Alessandro Lamperi del 7 marzo 1831 («Rubini e la Pasta sono due angioli, che hanno entusiasmato quasi alla follia l'intiero pubblico»).
+							</p>
+						</note></note> e la
+						<rs ref="TEI-ListWork.xml#Norma" type="work">Norma</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>Norma<label rend="bold"> [Compositore]: </label>Vincenzo Bellini<label rend="bold"> [Librettista]: </label>Felice Romani<label rend="bold"> [Prima rappresentazione]: </label>Teatro alla Scala, Milano, 26 dicembre 1831<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								<hi rend="italic">Norma</hi>, ispirata a un'omonima tragedia di Alexandre Soumet (<hi rend="italic"><rs type="work" ref="#Norma_tragedia">Norma, ou l'Infanticide</rs></hi>, 1831), fu concepita per il talento ‘enciclopedico' di Giuditta Pasta, alla quale era destinato il ruolo della prima donna. L'opera inaugurò la Stagione di Carnevale del Teatro alla Scala il 26 dicembre 1831; nonostante l'esito incerto della prima rappresentazione, si impose ben presto come il titolo più rappresentativo del compositore di Catania.
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng">(Seminara, 2017: p. 307 n. 503)<p>
+								A Londra <hi rend="italic">Norma</hi> fu messa in scena al King's Theatre il 20 giugno 1833, con Giuditta Pasta nel ruolo della protagonista. Il 21 giugno Giuditta Pasta scriveva a Rachele Negri, madre di Giuditta: «Ieri sera si rappresentò la <hi rend="italic">Norma</hi> pel beneficio della Giuditta. Né la <hi rend="italic">Medea</hi> né l'<hi rend="italic">Anna Bolena</hi> possono vantare miglior successo di questa prima rappresentazione di <hi rend="italic">Norma</hi>; mercé la mia insistenza con Laporte, e dietro la direzione di Bellini per l'orchestra e i cori, quest'opera è montata in maniera che non v'è esempio al Teatro Italiano di Londra, il trionfo quindi della stessa superò il desiderio di Giuditta, e la speranza di Bellini; vi furono applausi straordinari, e lagrime nel secondo atto» (In: Maria Ferranti Giulini, <hi rend="italic">Giuditta Pasta e i suoi tempi</hi>, Milano, Cronotipia Sormani, 1935, pp. 158-159).
+							</p></note></note>
+						<unclear reason="damage" agent="ink-blot" instant="false"> domando per</unclear>
+						<lb facs="#LL1.14_line_1r_26" n="26" xml:id="LL1.14_lb_1r_26"/>
+						l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> che mi ordina <num type="cardinal" value="4000">quattromila</num> ducati.
+					</s>
+					<s n="s_10" type="sentence" part="N">
+						<unclear reason="eccentric_ductus" instant="false">L'impresa potrà forse</unclear>
+						<lb facs="#LL1.14_line_1r_27" n="27" xml:id="LL1.14_lb_1r_27"/>
+						introitarne una
+						<sic>mettà</sic> con la vendita della proprietà d'edizione e di
+						<lb facs="#LL1.14_line_1r_28" n="28" xml:id="LL1.14_lb_1r_28"/>
+						<term ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito.</term><note type="comment" n="T"><seg>
+                [SPARTITO]
+            </seg><gloss xml:lang="it" target="#spartito" source="TEI-ListBibl.xml#DellaSeta2010">
+							Riduzione di una partitura operistica (ma anche di <term subtype="music-term">oratorio</term> o <term subtype="music-term" ref="#balletto">balletto</term>), consistente nelle parti vocali originali e in una sintesi per pianoforte delle parti orchestrali. Nacque come strumento professionale per cantanti e <term subtype="music-term">maestri accompagnatori</term> alla fine del Settecento, ma conobbe grande diffusione nei due secoli successivi, in funzione del successo mondiale del genere operistico e dell’allargamento della composizione sociale del pubblico, grazie all’abbassamento dei costi della stampa musicale consentito da tecniche quali la litografia. In questo contesto lo spartito era destinato prevalentemente al consumo domestico dei lavori teatrali più recenti e popolari: si usava infatti pubblicare dapprima solo le sezioni di maggior successo e di più facile esecuzione (<term subtype="music-term" ref="#aria">arie</term> e <term subtype="music-term" ref="#duetto">duetti</term>), e solo se l’opera si affermava stabilmente nel <term subtype="music-term">repertorio</term> veniva pubblicato lo spartito completo. Tali pubblicazioni rappresentavano spesso l’unico tramite tra il mondo del teatro e quanti avevano difficilmente accesso a esso. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+					</s>
+					<s n="s_11" type="sentence" part="N">
+						L'<orgName ref="#CasaRicordi">editore Ricordi</orgName> di
+						<placeName ref="#MI">Milano</placeName> paga di già per
+						<add place="supralinear" instant="false" status="unremarkable">i diritti soli di</add> l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<lb facs="#LL1.14_line_1r_29" n="29" xml:id="LL1.14_lb_1r_29"/>
+						che devo scrivere per
+						<placeName ref="#Paris">Parigi</placeName> 
+						<num type="cardinal" value="2000">due mila</num> franchi, e lo troverò pronto
+						<lb facs="#LL1.14_line_1r_30" n="30" xml:id="LL1.14_lb_1r_30"/>
+						a
+						<unclear reason="eccentric_ductus" instant="false">comprare</unclear> quella di
+						<placeName ref="#NA">Napoli</placeName> quanto ella lo vuole. —
+					</s>
+					<s n="s_12" type="sentence" part="N">
+						<persName ref="#TroupenasEugeneTheodore">Trupenas</persName> edito
+						<lb break="no" facs="#LL1.14_line_1r_31" n="31" rend="double-stroke" xml:id="LL1.14_lb_1r_31"/>
+						re di
+						<placeName ref="#Paris">Parigi</placeName> (è vero che è un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> per
+						<placeName ref="#Paris">Parigi</placeName> ove egli trovandosi
+						<lb facs="#LL1.14_line_1r_32" n="32" xml:id="LL1.14_lb_1r_32"/>
+						già) mi paga <num type="cardinal" value="8000">ottomila</num> franchi per gli dritti di proprietà nell'edizione
+						<lb facs="#LL1.14_line_1r_33" n="33" xml:id="LL1.14_lb_1r_33"/>
+						e su lo
+						<term ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito.</term><note type="comment" n="T"><seg>
+                [SPARTITO]
+            </seg><gloss xml:lang="it" target="#spartito" source="TEI-ListBibl.xml#DellaSeta2010">
+							Riduzione di una partitura operistica (ma anche di <term subtype="music-term">oratorio</term> o <term subtype="music-term" ref="#balletto">balletto</term>), consistente nelle parti vocali originali e in una sintesi per pianoforte delle parti orchestrali. Nacque come strumento professionale per cantanti e <term subtype="music-term">maestri accompagnatori</term> alla fine del Settecento, ma conobbe grande diffusione nei due secoli successivi, in funzione del successo mondiale del genere operistico e dell’allargamento della composizione sociale del pubblico, grazie all’abbassamento dei costi della stampa musicale consentito da tecniche quali la litografia. In questo contesto lo spartito era destinato prevalentemente al consumo domestico dei lavori teatrali più recenti e popolari: si usava infatti pubblicare dapprima solo le sezioni di maggior successo e di più facile esecuzione (<term subtype="music-term" ref="#aria">arie</term> e <term subtype="music-term" ref="#duetto">duetti</term>), e solo se l’opera si affermava stabilmente nel <term subtype="music-term">repertorio</term> veniva pubblicato lo spartito completo. Tali pubblicazioni rappresentavano spesso l’unico tramite tra il mondo del teatro e quanti avevano difficilmente accesso a esso. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+					</s>
+				</ab>
+				<!--terza parte lettera-->
+				<ab n="ab_03" type="parag" part="N">
+					<s n="s_13" type="sentence" part="N">
+						<lb facs="#LL1.14_line_1r_34" n="34" xml:id="LL1.14_lb_1r_34"/>
+						<ptr target="#LL1.14_note4"/><note>(Nota Seminara, 2017: p. 332 n. 554)<p part="N">
+							Questa sezione finale della lettera è scritta nel margine superiore del foglio, separato con una linea orizzontale dal testo sottostante.
+						</p></note>
+						Dopo tutto ciò: ella,
+						<choice><abbr>Sig<am instant="false">:</am></abbr><expan instant="false">Sig<ex instant="false">nor</ex></expan></choice>
+						<rs ref="#GaleotaGiovanni" role="composer">Cavaliere,</rs> dovrebbe indicarmi la
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term><note type="comment" n="T"><seg>
+                [COMPAGNIA]
+            </seg><gloss xml:lang="it" target="#compagnia" source="TEI-ListBibl.xml#DellaSeta2010">
+							Insieme degli artisti che partecipano all'<term subtype="music-term">allestimento</term> di un'<term subtype="music-term" ref="#opera">opera.</term> Tra il 1600 e il 1670 circa le compagnie, formate sul modello della compagnia dell'arte da cantanti-attori, compositori, poeti e scenografi, erano itineranti: esse si spostavano di città in città per allestire le stesse opere in diversi teatri di corte o pubblici. [...]Successivamente, soprattutto in Italia fino a tutto l'Ottocento, il termine passò a indicare l'insieme dei cantanti ingaggiati da un teatro per un'intera <term subtype="music-term">stagione;</term> nel resto d'Europa, e in particolare a Parigi, le compagnie erano permanenti e restavano legate anche per diversi anni a un singolo teatro. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> che sarà
+						<lb facs="#LL1.14_line_1r_35" n="35" xml:id="LL1.14_lb_1r_35"/>
+						scritturata pel Carnevale
+						<date when="1835" instant="false">1835<am instant="false">:</am>,</date> e dirmi se la
+						<orgName>Nobile Direzione</orgName> si contentasse
+						<lb facs="#LL1.14_line_1r_36" n="36" xml:id="LL1.14_lb_1r_36"/>
+						che io
+						<del rend="strikethrough" instant="false" status="unremarkable">dessi</del>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">mettessi </del>
+							<add place="above" instant="false" status="unremarkable">dessi</add>
+						</subst> l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> in scena nei primi di
+						<date when="--02" instant="false">Febrajo,</date> e se fosse <w part="N">possibi
+							<lb break="no" facs="#LL1.14_line_1r_37" n="37" rend="double-stroke" xml:id="LL1.14_lb_1r_37"/>
+							le</w> anche prima: in questo caso, finita quella per
+						<placeName ref="#Paris">Parigi</placeName> imprenderò
+						<lb facs="#LL1.14_line_1r_38" n="38" xml:id="LL1.14_lb_1r_38"/>
+						a scrivere subito per
+						<placeName ref="#NA">Napoli.</placeName>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.14_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.14_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 106</idno>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.14.1v" xml:id="LL1.14_fol_1v" facs="data/test-img/LL1.14/LL1-14_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.14_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.14_hs_1v_01" part="N">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">(18)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.14_hotspot_1v_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.14_hs_1v_02" part="N">
+					<!-- terza mano  -->
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							onzième
+							<lb/>
+							Cotefil
+							<lb/>
+								+++
+						</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.14_hotspot_1v_03" hand="#h4" type="paratext" xml:id="LL1.14_hs_1v_03" part="N">
+					<fw>
+						<unclear cert="medium" resp="#DS #AMDG #PPS #LM" instant="false">
+							+++ col
+						</unclear>Cav.re
+						<lb/>
+						<persName ref="#GaleotaGiovanni">Galeota</persName>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.14_hotspot_1r_01h" facs="#LL1.14_hotspot_1r_01"><p>annotazione in matita blu, probabilmente dovuta ad un catalogatore, con la scritta "N 106".</p></div><div xml:id="LL1.14_hotspot_1v_01h" facs="#LL1.14_hotspot_1v_01"><p>annotazione in matita blu, probabilmente dovuta ad un catalogatore, che riporta il numero 18 tra parentesi.</p></div><div xml:id="LL1.14_hotspot_1v_02h" facs="#LL1.14_hotspot_1v_02"><p>seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e
+									onzième significaundicesimo. I caratteri che sembrano corrispondere alla parola
+									fil terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.</p></div><div xml:id="LL1.14_hotspot_1v_03h" facs="#LL1.14_hotspot_1v_03"><p>annotazione poco leggibile, di cui si evince parte del testo ("Cav.re Galeota").</p></div></div></back>
+	</text>
+</TEI>

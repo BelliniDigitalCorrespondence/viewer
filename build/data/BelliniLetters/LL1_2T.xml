@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giuditta Cantù Turina, in Venezia, 20 gennaio 1830</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-08" instant="false">August 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="GDM" full="yes" instant="false">Gianmarco Di Mauro</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="EC" full="yes" instant="false">Erica Capizzi</name>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+					<name xml:id="SP" full="yes" instant="false">Santa Pellino</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_2.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="111" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="206" to="207" unit="page">206-207</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.2</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.2"><idno type="inventory">LL1.2</idno><title>Vincenzo Bellini a Giuditta Cantù Turina, in Venezia, 20 gennaio 1830</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="111"><locus from="206" to="207">n. 111, p. 206-207.</locus></citedRange></bibl><bibl>Pastura, 1958, p. 4. </bibl><bibl>Neri, 2005, p. 158-159. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						Venezia
+						20 del 1830
+						
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Gli
+						 abbracci  a
+						Ferdinando e voi
+						
+						
+						
+						ricevete i miei bacia-mano e credetemi sempre
+					
+				
+				
+					
+						
+						
+							Il
+							 vostro 
+							 affezionatissimo 
+							
+						
+					
+				
+				
+					Bellini
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#VE">Venezia</placeName>
+					<date type="writing" when="1830-01-20" instant="false">20 gennaio 1830</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#CantuTurinaGiuditta">Giuditta Cantù Turina</persName>
+					<placeName ref="#CR">Cremona</placeName>
+					<placeName ref="#Casal">Casalbuttano</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.2_facsimile">
+		<surface n="LL1.2.1" xml:id="LL1.2_folio_1r" corresp="#LL1.2_fol_1r"><graphic url="data/test-img/LL1.2/LL1-2_0001.dzi" width="1541px" height="2290px"/><zone ulx="375.34" uly="47.39" lrx="629.16" lry="94.30" rendition="line" xml:id="LL1.2_line_1r_01"/><zone ulx="102.28" uly="84.45" lrx="373.46" lry="137.94" rendition="line" xml:id="LL1.2_line_1r_02"/><zone ulx="215.35" uly="138.88" lrx="710.80" lry="192.36" rendition="line" xml:id="LL1.2_line_1r_03"/><zone ulx="78.82" uly="190.02" lrx="711.74" lry="237.87" rendition="line" xml:id="LL1.2_line_1r_04"/><zone ulx="57.24" uly="236.46" lrx="710.80" lry="278.69" rendition="line" xml:id="LL1.2_line_1r_05"/><zone ulx="58.18" uly="277.28" lrx="710.80" lry="318.10" rendition="line" xml:id="LL1.2_line_1r_06"/><zone ulx="58.65" uly="317.63" lrx="711.74" lry="364.08" rendition="line" xml:id="LL1.2_line_1r_07"/><zone ulx="57.71" uly="361.73" lrx="712.21" lry="398.33" rendition="line" xml:id="LL1.2_line_1r_08"/><zone ulx="57.71" uly="399.74" lrx="710.80" lry="445.72" rendition="line" xml:id="LL1.2_line_1r_09"/><zone ulx="54.42" uly="446.19" lrx="707.99" lry="500.14" rendition="line" xml:id="LL1.2_line_1r_10"/><zone ulx="59.12" uly="501.08" lrx="707.52" lry="533.92" rendition="line" xml:id="LL1.2_line_1r_11"/><zone ulx="56.30" uly="534.39" lrx="706.58" lry="575.68" rendition="line" xml:id="LL1.2_line_1r_12"/><zone ulx="54.42" uly="575.68" lrx="705.64" lry="629.16" rendition="line" xml:id="LL1.2_line_1r_13"/><zone ulx="51.14" uly="625.41" lrx="705.64" lry="669.98" rendition="line" xml:id="LL1.2_line_1r_14"/><zone ulx="50.67" uly="669.98" lrx="707.05" lry="716.43" rendition="line" xml:id="LL1.2_line_1r_15"/><zone ulx="49.73" uly="715.96" lrx="706.58" lry="760.06" rendition="line" xml:id="LL1.2_line_1r_16"/><zone ulx="49.26" uly="761.47" lrx="707.05" lry="810.27" rendition="line" xml:id="LL1.2_line_1r_17"/><zone ulx="50.67" uly="810.27" lrx="707.52" lry="853.90" rendition="line" xml:id="LL1.2_line_1r_18"/><zone ulx="51.61" uly="854.84" lrx="707.52" lry="891.90" rendition="line" xml:id="LL1.2_line_1r_19"/><zone ulx="52.55" uly="893.31" lrx="706.58" lry="937.41" rendition="line" xml:id="LL1.2_line_1r_20"/><zone ulx="55.36" uly="938.35" lrx="706.58" lry="979.17" rendition="line" xml:id="LL1.2_line_1r_21"/><zone ulx="55.36" uly="980.11" lrx="707.52" lry="1012.48" rendition="line" xml:id="LL1.2_line_1r_22"/><zone ulx="51.61" uly="1012.95" lrx="706.58" lry="1050.48" rendition="line" xml:id="LL1.2_line_1r_23"/></surface>
+		<surface n="LL1.2.2" xml:id="LL1.2_folio_1v" corresp="#LL1.2_fol_1v"><graphic url="data/test-img/LL1.2/LL1-2_0002.dzi" width="1555px" height="2275px"/><zone ulx="68.81" uly="133.44" lrx="705.80" lry="188.31" rendition="line" xml:id="LL1.2_line_1v_01"/><zone ulx="419.39" uly="189.70" lrx="663.49" lry="223.18" rendition="line" xml:id="LL1.2_line_1v_02"/><zone ulx="526.79" uly="225.97" lrx="667.67" lry="254.33" rendition="line" xml:id="LL1.2_line_1v_03"/><zone ulx="137.63" uly="241.77" lrx="400.32" lry="305.01" rendition="line" xml:id="LL1.2_line_1v_04"/><zone ulx="565.85" uly="414.74" lrx="722.54" lry="704.40" rendition="HotSpot" xml:id="LL1.2_hotspot_1v_01" corresp="#LL1.2_hotspot_1v_01h" start="#LL1.2_hotspot_1v_01h"/></surface>
+		<surface n="LL1.2.3" xml:id="LL1.2_folio_2r" corresp="#LL1.2_fol_2r"><graphic url="data/test-img/LL1.2/LL1-2_0003.dzi" width="1545px" height="2282px"/><zone ulx=".47" uly="455.79" lrx="136.18" lry="713.17" rendition="HotSpot" xml:id="LL1.2_hotspot_2r_01" corresp="#LL1.2_hotspot_2r_01h" start="#LL1.2_hotspot_2r_01h"/></surface>
+		<surface n="LL1.2.4" xml:id="LL1.2_folio_2v" corresp="#LL1.2_fol_2v"><graphic url="data/test-img/LL1.2/LL1-2_0004.dzi" width="1555px" height="2293px"/><zone ulx="277.58" uly="313.84" lrx="312.91" lry="494.71" rendition="line" xml:id="LL1.2_line_2v_01"/><zone ulx="314.77" uly="333.37" lrx="347.78" lry="781.12" rendition="line" xml:id="LL1.2_line_2v_02"/><zone ulx="358.94" uly="222.71" lrx="424.50" lry="776.47" rendition="line" xml:id="LL1.2_line_2v_03"/><zone ulx="147.39" uly="203.65" lrx="216.20" lry="360.80" rendition="HotSpot" xml:id="LL1.2_hotspot_2v_05" corresp="#LL1.2_hotspot_2v_05h" start="#LL1.2_hotspot_2v_05h"/><zone ulx="159.48" uly="304.08" lrx="376.15" lry="539.81" rendition="HotSpot" xml:id="LL1.2_hotspot_2v_04" corresp="#LL1.2_hotspot_2v_04h" start="#LL1.2_hotspot_2v_04h"/><zone ulx="188.31" uly="297.10" lrx="338.02" lry="554.69" rendition="HotSpot" xml:id="LL1.2_hotspot_2v_01" corresp="#LL1.2_hotspot_2v_01h" start="#LL1.2_hotspot_2v_01h"/><zone ulx="464.95" uly="576.54" lrx="547.25" lry="701.15" rendition="HotSpot" xml:id="LL1.2_hotspot_2v_02" corresp="#LL1.2_hotspot_2v_02h" start="#LL1.2_hotspot_2v_02h"/><zone ulx="457.51" uly="638.84" lrx="547.71" lry="715.10" rendition="HotSpot" xml:id="LL1.2_hotspot_2v_03" corresp="#LL1.2_hotspot_2v_03h" start="#LL1.2_hotspot_2v_03h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.2" xml:id="LL1.2">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Giuditta Cantù Turina, in Venezia, 20 gennaio 1830</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        111  p. 206-207</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Il mese di redazione della lettera è stato attribuito da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.2</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>187x125<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>
+										
+											Filigrana circolare situata in posizione centrale, evidente nella carta 1v.
+									</p><p><fw>
+                            Timbri
+                        </fw>Presenti nella carta 2v un timbro di partenza recante la scritta "Venezia".</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>La lettera è composta da due carte (un bifoglio); il testo è scritto su due facciate, l'indirizzo si trova sulla carta 2v.</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche. Il foglio presenta cinque segni di piegature in verticale e tre in orizzontale per un totale di otto piegature. Queste piegature sono servite per chiuderlo in maniera da evidenziare da un lato l'indirizzo e dall'altro il punto di chiusura in cui è applicato il sigillo. In alcuni punti sparsi della lettera sono presenti piccole macchie marroni sbiadite e il segno dell'inchiostro in trasparenza che si è impresso probabilmente quando è stata piegata la lettera appena scritta. La carta 2v presenta uno strappo probabilmente nel punto in cui era attaccato il sigillo.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera leggibile. Il folio fronte, nel verso inferiore, presenta due annotazioni di seconda e terza mano le cui righe sono per entrambe orientate da dx a sx e dall'alto al basso.
+							 
+								Numero 20, annotazione probabilmente dovuta ad un catalogatore.
+							 
+								Annotazioni poco chiare effettuate con lapis marrone.
+							 
+								Una annotazione a matita sulla carta 2v.
+							 
+								Glifo non identificabile.
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Presente sigillo in ceralacca rossa parzialmente conservata. Si nota qualche piccola macchia marrone vicino al sigillo.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Venezia</p><p><fw> 
+                            Data di spedizione 
+                        </fw>20 gennaio 1830</p><p><fw> 
+                            Destinatario
+                        </fw>Giuditta Cantù Turina</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Cremona Casalbuttano</p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.2.1r" xml:id="LL1.2_fol_1r" facs="data/test-img/LL1.2/LL1-2_0001.dzi"/>
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.2_line_1r_01" n="1" xml:id="LL1.2_lb_1r_01"/>
+						<hi rend="align(right)">
+						<placeName ref="#VE">Venezia</placeName>
+						<date when="1830-01-20" instant="false">20 del 1830</date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" rend="align(left)" type="sentence" part="N">
+						<lb facs="#LL1.2_line_1r_02" n="2" xml:id="LL1.2_lb_1r_02"/>
+						<persName ref="#CantuTurinaGiuditta" type="person">Mia cara amica</persName>
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.2_line_1r_03" n="3" xml:id="LL1.2_lb_1r_03"/>
+						<date when="1830-01-19" instant="false">Ieri</date> finalmente ho ricevuto
+						<choice><abbr>vre<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>re</expan></choice> notizie
+						<lb facs="#LL1.2_line_1r_04" n="4" xml:id="LL1.2_lb_1r_04"/>
+						per mezzo del
+						<persName type="person">Dottor
+							<hi rend="underline">maggiore,</hi></persName> e mi spiace
+						<w rend="interrupted" part="N">sen
+							<lb break="no" facs="#LL1.2_line_1r_05" n="5" rend="double-stroke" xml:id="LL1.2_lb_1r_05"/>
+							tire</w> il
+						<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+						incommodo che spero a quest'ora sparito.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						<lb facs="#LL1.2_line_1r_06" n="6" xml:id="LL1.2_lb_1r_06"/>
+						La lettera è in data del <date when="1830-01-10" instant="false">10<am instant="false">:</am></date> e vedete quanti
+						<w rend="interrupted" part="N">gior
+							<lb break="no" facs="#LL1.2_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.2_lb_1r_07"/>
+							ni</w> è stata in viaggio. —
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Di già si è risoluto
+						<date when="1830-01-19" instant="false"> jersera,</date>
+						<lb facs="#LL1.2_line_1r_08" n="8" xml:id="LL1.2_lb_1r_08"/>
+						con la venuta di
+						<persName ref="#RomaniFelice">Romani,</persName> che io devo scrivere l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<lb facs="#LL1.2_line_1r_09" n="9" xml:id="LL1.2_lb_1r_09"/>
+						per andare in scena almeno il <date when="1830-03-05" instant="false">5<am instant="false">:</am> marzo</date>: vedete che
+						<lb facs="#LL1.2_line_1r_10" n="10" xml:id="LL1.2_lb_1r_10"/>
+						strozzamento ed avete avuto ragione a farmi
+						<w rend="interrupted" part="N">sgri
+							<lb break="no" facs="#LL1.2_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.2_lb_1r_11"/>
+							dare</w> dal
+						<persName type="person">dottore;</persName> ma adesso che lo devo senza
+						<w type="interrupted" part="N">ri
+							<lb break="no" facs="#LL1.2_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.2_lb_1r_12"/>
+							medio</w> ho bisogno di incoragiamento, e quindi vi
+						<lb facs="#LL1.2_line_1r_13" n="13" xml:id="LL1.2_lb_1r_13"/>
+						prego di non abbandonarmi coi
+						<choice><abbr>vri<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ri</expan></choice> consigli e
+						<lb facs="#LL1.2_line_1r_14" n="14" xml:id="LL1.2_lb_1r_14"/>
+						spesso: ciò vi basta, e voi sapete se mi sono care
+						<lb facs="#LL1.2_line_1r_15" n="15" xml:id="LL1.2_lb_1r_15"/>
+						le
+						<choice><abbr>vre<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>re</expan></choice>
+						spesse nuove: egualmente ho
+						<lb facs="#LL1.2_line_1r_16" n="16" xml:id="LL1.2_lb_1r_16"/>
+						pregato la
+						<persName ref="#GaspariniPolliniMarianna">Pollini</persName> e
+						<persName ref="#FlorimoFrancesco">Florimo,</persName> ed aspetto a
+						<lb facs="#LL1.2_line_1r_17" n="17" xml:id="LL1.2_lb_1r_17"/>
+						vedere chi sarà la più pietosa. —
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						Se
+						<w rend="interrupted" part="N">vole
+							<lb break="no" facs="#LL1.2_line_1r_18" n="18" rend="double-stroke" xml:id="LL1.2_lb_1r_18"/>
+							te</w>
+						<add place="supralinear" instant="false" status="unremarkable">che</add> i baicoli
+						<ptr target="#LL1.2_note1"/><note>(Nota Seminara, 2017: p. 207 n. 329)<p part="N">
+							I
+							<hi rend="italic">baicoli</hi> sono biscotti secchi tipici della pasticceria veneziana; il loro nome deriva dalla denominazione dialettale dei piccoli branzini di laguna, dei quali è riprodotta la forma allungata e lievemente schiacciata.
+						</p></note>
+						<subst resp="#LM" instant="false" status="unremarkable">
+							<del rend="overwritten" instant="false" status="unremarkable">
+								[...]
+							</del>
+							<add place="superimposed" instant="false" status="unremarkable">ve</add>
+						</subst> li mandi con la diligenza,
+						<lb facs="#LL1.2_line_1r_19" n="19" xml:id="LL1.2_lb_1r_19"/>
+						avvisatemelo. —
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						Vi contenterete da qui innanzi
+						<lb facs="#LL1.2_line_1r_20" n="20" xml:id="LL1.2_lb_1r_20"/>
+						di quel poco che potrò scrivervi, sebbene di spesso,
+						<lb facs="#LL1.2_line_1r_21" n="21" xml:id="LL1.2_lb_1r_21"/>
+						e ciò lo condonerete al gran ristretto tempo.
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						Fate
+						<lb facs="#LL1.2_line_1r_22" n="22" xml:id="LL1.2_lb_1r_22"/>
+						le mie parti con tutti di casa, e ringraziate il
+						<lb facs="#LL1.2_line_1r_23" n="23" xml:id="LL1.2_lb_1r_23"/>
+						<persName type="person">Dottore</persName> da mia parte.
+					</s>
+				</ab>
+			</div>
+			
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" type="parag" part="N">
+					<s n="s_09" type="sentence" part="N">
+						Gli
+						<choice><abbr>abbr<am instant="false">:</am><hi rend="sup">ci</hi></abbr><expan instant="false">abbr<ex instant="false">ac</ex>ci</expan></choice> a
+						<persName ref="#TurinaFerdinando">Ferdinando</persName> e voi
+						<lb/>
+						<pb n="LL1.2.1v" xml:id="LL1.2_fol_1v" facs="data/test-img/LL1.2/LL1-2_0002.dzi"/>
+						<lb facs="#LL1.2_line_1v_01" n="1" xml:id="LL1.2_lb_1v_01"/>
+						ricevete i miei bacia-mano e credetemi sempre
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_10" type="sentence" part="N">
+						<lb facs="#LL1.2_line_1v_02" n="2" xml:id="LL1.2_lb_1v_02"/>
+						<hi rend="align(right)">
+							Il
+							<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+							<choice><abbr>affssmo</abbr><expan instant="false">aff<ex instant="false">ezionati</ex>ss<ex instant="false">i</ex>mo</expan></choice>
+							<lb facs="#LL1.2_line_1v_03" n="3" xml:id="LL1.2_lb_1v_03"/>
+						</hi>
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName>
+				</signed>
+			</div>
+			<div type="postscript" part="N" org="uniform" sample="complete">
+				<lb facs="#LL1.2_line_1v_04" n="4" xml:id="LL1.2_lb_1v_04"/>
+				<ab n="ab_06" rend="first_line_indented underline" part="N">
+					<s n="s_11" type="sentence" part="N">
+						<persName ref="#FlorimoFrancesco">Florimo</persName> vi saluta
+					</s>
+				</ab>
+			</div>
+			<pb n="LL1.2.2r" xml:id="LL1.2_fol_2r" facs="data/test-img/LL1.2/LL1-2_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.2.2v" xml:id="LL1.2_fol_2v" facs="data/test-img/LL1.2/LL1-2_0004.dzi"/>
+			<div type="destination" part="N" org="uniform" sample="complete">
+				<ab type="receiver" xml:id="LL1.2_line_2v_01_multiple" part="N">
+					<address xml:lang="fr">
+						<lb facs="#LL1.2_line_2v_01" n="1" xml:id="LL1.2_lb_2v_01"/>
+						<addrLine rend="align(right)">Madame</addrLine>
+						<lb facs="#LL1.2_line_2v_02" n="2" xml:id="LL1.2_lb_2v_02"/>
+						<addrLine>Madame
+							<persName ref="#CantuTurinaGiuditta">Judith Turina</persName>
+						</addrLine>
+						<lb facs="#LL1.2_line_2v_03" n="3" xml:id="LL1.2_lb_2v_03"/>
+						<addrLine>
+							<placeName ref="#CR">Cremone</placeName> pour
+							<placeName ref="#Casal"><hi rend="underline">Casalbuttano</hi></placeName>
+						</addrLine>
+					</address>
+				</ab>
+			</div>
+			<div type="sent" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.2_hotspot_2v_05" type="paratext" xml:id="LL1.2_hs_2v_05" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#VE">VENEZIA</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.2_hotspot_2v_02" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_02" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+				<ab facs="#LL1.2_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">20</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.2_hotspot_2v_03" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_03" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+				<ab facs="#LL1.2_hotspot_2v_04" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_04" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.2_hotspot_1v_01h" facs="#LL1.2_hotspot_1v_01"><p>
+											Filigrana circolare</p></div><div xml:id="LL1.2_hotspot_2r_01h" facs="#LL1.2_hotspot_2r_01"><p>Filigrana circolare</p></div><div xml:id="LL1.2_hotspot_2v_05h" facs="#LL1.2_hotspot_2v_05"><p>timbro di partenza recante la scritta "Venezia"</p></div><div xml:id="LL1.2_hotspot_2v_04h" facs="#LL1.2_hotspot_2v_04"><p>
+								Glifo non identificabile.
+							</p></div><div xml:id="LL1.2_hotspot_2v_01h" facs="#LL1.2_hotspot_2v_01"><p>
+								Annotazioni poco chiare effettuate con lapis marrone.
+							</p></div><div xml:id="LL1.2_hotspot_2v_02h" facs="#LL1.2_hotspot_2v_02"><p>
+								Numero 20, annotazione probabilmente dovuta ad un catalogatore.
+							</p></div><div xml:id="LL1.2_hotspot_2v_03h" facs="#LL1.2_hotspot_2v_03"><p>annotazione a matita</p></div></div></back>
+	</text>
+</TEI>

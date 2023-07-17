@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml-stylesheet href="collation.css" type="text/css"?>
+<!--SVG file generated on: 25 June 2018 at 10:39:18 using SAXON version PE 9.8.0.8-->
+<!DOCTYPE svg
+  PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     x="0"
+     y="0"
+     width="90.75mm"
+     height="90.75mm"
+     preserveAspectRatio="xMidYMid meet"
+     viewBox="0 0 130.75 130.75">
+   <title>Collation diagram of quire 2 for VB composed of 12 leaves</title>
+   <defs>
+      <filter id="f1" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+      </filter>
+      <filter id="f2" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+      </filter>
+      <filter id="f3" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+      </filter>
+      <pattern xmlns:xlink="http://www.w3.org/1999/xlink"
+               id="gluedPattern"
+               patternUnits="userSpaceOnUse"
+               width="2"
+               height="6"
+               xlink:type="simple"
+               xlink:show="other"
+               xlink:actuate="onLoad"
+               preserveAspectRatio="xMidYMid meet">
+         <desc>Glue pattern</desc>
+         <path d="M 0,0 L 2,12 " class="glued"/>
+      </pattern>
+   </defs>
+   <desc>Collation diagram of quire 2 for VB composed of 12 leaves</desc>
+   <svg x="-20" y="-5">
+      <g id="VB-2-1">
+         <desc>Folio #1</desc>
+         <g>
+            <g>
+               <desc>Folio #1: arc</desc>
+               <g class="leaf">
+                  <path d="M74,29 Q39,29 39,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #1: line</desc>
+               <g class="leaf">
+                  <path d="M224,29 L74,29"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-2">
+         <desc>Folio #2</desc>
+         <g>
+            <g>
+               <desc>Folio #2: arc</desc>
+               <g class="leaf">
+                  <path d="M74,35 Q45,35 45,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #2: line</desc>
+               <g class="leaf">
+                  <path d="M224,35 L74,35"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-3">
+         <desc>Folio #3</desc>
+         <g>
+            <g>
+               <desc>Folio #3: arc</desc>
+               <g class="leaf">
+                  <path d="M74,41 Q51,41 51,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #3: line</desc>
+               <g class="leaf">
+                  <path d="M224,41 L74,41"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-4">
+         <desc>Folio #4</desc>
+         <g>
+            <g>
+               <desc>Folio #4: arc</desc>
+               <g class="notLeaf">
+                  <path d="M74,47 Q57,47 57,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #4: line</desc>
+               <g class="notLeaf">
+                  <path d="M224,47 L74,47"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-5">
+         <desc>Folio #5</desc>
+         <g>
+            <g>
+               <desc>Folio #5: arc</desc>
+               <g class="leaf">
+                  <path d="M74,53 Q63,53 63,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #5: line</desc>
+               <g class="leaf">
+                  <path d="M224,53 L74,53"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-6">
+         <desc>Folio #6</desc>
+         <g>
+            <g>
+               <desc>Folio #6: arc</desc>
+               <g class="leaf">
+                  <path d="M74,59 Q69,59 69,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #6: line</desc>
+               <g class="leaf">
+                  <path d="M224,59 L74,59"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-7">
+         <desc>Folio #7</desc>
+         <g>
+            <g>
+               <desc>Folio #7: arc</desc>
+               <g class="leaf">
+                  <path d="M74,71 Q69,71 69,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #7: line</desc>
+               <g class="leaf">
+                  <path d="M224,71 L74,71"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-8">
+         <desc>Folio #8</desc>
+         <g>
+            <g>
+               <desc>Folio #8: arc</desc>
+               <g class="notLeaf">
+                  <path d="M74,77 Q63,77 63,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #8: line</desc>
+               <g class="notLeaf">
+                  <path d="M224,77 L74,77"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-9">
+         <desc>Folio #9</desc>
+         <g>
+            <g>
+               <desc>Folio #9: arc</desc>
+               <g class="leaf">
+                  <path d="M74,83 Q57,83 57,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #9: line</desc>
+               <g class="leaf">
+                  <path d="M224,83 L74,83"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-10">
+         <desc>Folio #10</desc>
+         <g>
+            <g>
+               <desc>Folio #10: arc</desc>
+               <g class="leaf">
+                  <path d="M74,89 Q51,89 51,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #10: line</desc>
+               <g class="leaf">
+                  <path d="M224,89 L74,89"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-11">
+         <desc>Folio #11</desc>
+         <g>
+            <g>
+               <desc>Folio #11: arc</desc>
+               <g class="notLeaf">
+                  <path d="M74,95 Q45,95 45,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #11: line</desc>
+               <g class="notLeaf">
+                  <path d="M224,95 L74,95"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g id="VB-2-12">
+         <desc>Folio #12</desc>
+         <g>
+            <g>
+               <desc>Folio #12: arc</desc>
+               <g class="leaf">
+                  <path d="M74,101 Q39,101 39,65"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #12: line</desc>
+               <g class="leaf">
+                  <path d="M224,101 L74,101"/>
+               </g>
+            </g>
+         </g>
+      </g>
+   </svg>
+</svg>

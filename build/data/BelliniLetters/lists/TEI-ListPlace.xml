@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					<!-- Insert title for this digital text -->
+				</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2021-09">September 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="DS">Daria Spampinato</name>
+					<name xml:id="EC">Erica Capizzi</name>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<p>
+					<!-- Insert information about the publication of this digital text -->
+				</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listPlace xml:id="listplace">
+					
+					<place xml:id="BG">
+						<placeName ref="https://www.geonames.org/3182164/ https://www.treccani.it/enciclopedia/bergamo/">Bergamo</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="Casal">
+						<placeName ref="https://www.geonames.org/3180242/ https://www.treccani.it/enciclopedia/casalbuttano-ed-uniti/">Casalbuttano</placeName>
+						<settlement type="provincia" key="CR" ref="#CR">Cremona</settlement>
+						<country key="IT">Italia</country>
+						<note resp="#GS"><p>Casalbuttano era una ridente cittadina del cremonese, dove risiedevano Ferdinando e Giuditta Turina. Bellini fu spesso ospite del loro palazzo, sito in Contrada Maggiore.</p></note>
+					</place>
+					<place xml:id="CT">
+						<placeName ref="https://www.geonames.org/2525068/ https://www.treccani.it/enciclopedia/catania/">Catania</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="CO">
+						<placeName ref="https://www.geonames.org/3178229/ https://www.treccani.it/enciclopedia/como/">Como</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="CR">
+						<placeName ref="https://www.geonames.org/3177838/ https://www.treccani.it/enciclopedia/cremona/">Cremona</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="Dresden">
+						<placeName ref="https://www.geonames.org/2935022/ https://www.treccani.it/enciclopedia/dresda/">Dresda</placeName>
+						<country key="DE">Deutschland</country>
+						<note></note>
+					</place>
+					<place xml:id="Etna">
+						<geogName ref="https://www.geonames.org/2524810/ https://www.treccani.it/enciclopedia/etna/" type="volcano">Etna</geogName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="FI">
+						<placeName ref="https://www.geonames.org/3176959/ https://www.treccani.it/enciclopedia/firenze/">Firenze</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="GE">
+						<placeName ref="https://www.geonames.org/6542282/ https://www.treccani.it/enciclopedia/genova/">Genova</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="London">
+						<placeName ref="https://www.geonames.org/2643743/ https://www.treccani.it/enciclopedia/londra/">Londra</placeName>
+						<country key="GB">Great Britain</country>
+						<note></note>
+					</place>
+					<place xml:id="Marseille">
+						<placeName ref="https://www.geonames.org/2995469/ https://www.treccani.it/enciclopedia/marsiglia/">Marsiglia</placeName>
+						<country key="FR">France</country>
+					</place>
+					<place xml:id="MI">
+						<placeName ref="https://www.geonames.org/3173435/ https://www.treccani.it/enciclopedia/milano/">Milano</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="NA">
+						<placeName ref="https://www.geonames.org/3172394/ https://www.treccani.it/enciclopedia/napoli/">Napoli</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="NSS">
+						<placeName ref="https://www.geonames.org/2990611/ https://www.treccani.it/enciclopedia/neuilly-sur-seine_(Enciclopedia-Italiana)/">Neuilly-sur-Seine</placeName>
+						<district type="arrondissement">Nanterre</district>
+						<settlement type="city">Parigi</settlement>
+						<country key="FR">France</country>
+						<note></note>
+					</place>
+					<place xml:id="PA">
+						<placeName ref="https://www.geonames.org/2523920/ https://www.treccani.it/enciclopedia/palermo/">Palermo</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="Paris">
+						<placeName ref="https://www.geonames.org/2988507/ https://www.treccani.it/enciclopedia/parigi/">Parigi</placeName>
+						<country key="FR">France</country>
+						<note></note>
+					</place>
+					<place xml:id="PR">
+						<placeName ref="https://www.geonames.org/3171457/ https://www.treccani.it/enciclopedia/parma/">Parma</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="Put">
+						<placeName ref="https://www.geonames.org/2985034/ https://www.treccani.it/enciclopedia/puteaux_(Enciclopedia-Italiana)/">Puteaux</placeName>
+						<district type="arrondissement">Nanterre</district>
+						<settlement type="city">Parigi</settlement>
+						<country key="FR">France</country>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="580">
+							<bibl>
+								<citedRange unit="page" from="346" to="346">346</citedRange>
+							</bibl>
+							<p>Puteaux era un sobborgo di Parigi, immerso nel verde e situato sulla <foreign xml:lang="fr" rend="italic">rive gauche</foreign> della Senna. Qui Bellini si stabilì dal 26 maggio al 1° novembre 1834 e di nuovo nel 1835 dall'11 maggio al 23 settembre (giorno della morte) nella residenza di Solomon Levy (o Lewis), un facoltoso ebreo inglese che verosimilmente aveva conosciuto nel 1830 a Milano. Levy, che negli anni 1834-35 si trattenne stabilmente a Parigi, apparteneva alla cerchia delle più ristrette frequentazioni francesi del musicista; risiedeva in un lussuoso appartamento in Boulevard des Capucines, ma possedeva anche la residenza di Puteaux.</p>
+						</note>
+					</place>
+					<place xml:id="SPontificio">
+						<placeName ref="https://www.treccani.it/enciclopedia/stato-pontificio/" notBefore="0751" notAfter="1870">Stato Pontificio</placeName>
+						<country key="IT">Italia</country>
+					</place>
+					<place xml:id="TO">
+						<placeName ref="https://www.geonames.org/3165524/ https://www.treccani.it/enciclopedia/torino/">Torino</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>                    
+					<place xml:id="TS">
+						<placeName ref="https://www.geonames.org/3165185/ https://www.treccani.it/enciclopedia/trieste/">Trieste</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="VE">
+						<placeName ref="https://www.geonames.org/3164603/ https://www.treccani.it/enciclopedia/venezia">Venezia</placeName>
+						<country key="IT">Italia</country>
+						<note></note>
+					</place>
+					<place xml:id="Wien">
+						<placeName ref="https://www.geonames.org/2761369/ https://www.treccani.it/enciclopedia/vienna/">Wien</placeName>
+						<country key="AT">Österreich</country>
+						<note></note>
+					</place>
+
+					<listRelation>
+						<relation name="near" mutual="#Put #NSS"/>
+						<relation name="near" mutual="#CT #Etna"/>
+					</listRelation>
+
+				</listPlace>
+
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>This is a template for a minimal TEI header with the mandatory components:</p>
+		</body>
+	</text>
+</TEI>

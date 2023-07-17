@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-07" instant="false">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Adriano Cateni</name>
+					<name full="yes" instant="false">Matteo Gallini</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_24.I.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="429" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="502" to="502" unit="page">502</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.24.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.24.I"><idno type="inventory">LL1.24.I</idno><title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="429"><locus from="502" to="502">n. 429, p. 502.</locus></citedRange></bibl><bibl>Amore, 1892, p. 384. </bibl><bibl>Cambi, 1943, p. 547. </bibl><bibl>Neri, 2005, p. 404. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						
+						Signore
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-05" instant="false">Maggio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.24.I_facsimile">
+		<surface n="LL1.24.I.1" xml:id="LL1.24.I_folio_1r" corresp="#LL1.24.I_fol_1r"><graphic url="data/test-img/LL1.24.I/LL1-24-I_0001.dzi" width="1635px" height="2468px"/><zone ulx="127.80" uly="81.37" lrx="260.01" lry="149.02" rendition="line" xml:id="LL1.24.I_line_1r_01"/><zone ulx="181.30" uly="183.96" lrx="309.10" lry="247.63" rendition="line" xml:id="LL1.24.I_line_1r_02"/><zone ulx="208.72" uly="252.94" lrx="703.10" lry="296.28" rendition="line" xml:id="LL1.24.I_line_1r_03"/><zone ulx="91.09" uly="296.28" lrx="703.10" lry="347.13" rendition="line" xml:id="LL1.24.I_line_1r_04"/><zone ulx="91.09" uly="344.03" lrx="703.10" lry="399.75" rendition="line" xml:id="LL1.24.I_line_1r_05"/><zone ulx="91.09" uly="395.33" lrx="703.10" lry="455.47" rendition="line" xml:id="LL1.24.I_line_1r_06"/><zone ulx="91.09" uly="461.66" lrx="703.10" lry="526.22" rendition="line" xml:id="LL1.24.I_line_1r_07"/><zone ulx="91.09" uly="517.38" lrx="703.10" lry="573.98" rendition="line" xml:id="LL1.24.I_line_1r_08"/><zone ulx="91.09" uly="568.23" lrx="703.10" lry="626.16" rendition="line" xml:id="LL1.24.I_line_1r_09"/><zone ulx="91.09" uly="627.04" lrx="703.10" lry="675.68" rendition="line" xml:id="LL1.24.I_line_1r_10"/><zone ulx="91.09" uly="676.57" lrx="703.10" lry="729.63" rendition="line" xml:id="LL1.24.I_line_1r_11"/><zone ulx="91.09" uly="727.86" lrx="703.10" lry="787.12" rendition="line" xml:id="LL1.24.I_line_1r_12"/><zone ulx="91.09" uly="786.23" lrx="703.10" lry="831.34" rendition="line" xml:id="LL1.24.I_line_1r_13"/><zone ulx="91.09" uly="820.73" lrx="703.10" lry="875.56" rendition="line" xml:id="LL1.24.I_line_1r_14"/><zone ulx="91.09" uly="873.79" lrx="703.10" lry="930.39" rendition="line" xml:id="LL1.24.I_line_1r_15"/><zone ulx="91.09" uly="928.62" lrx="703.10" lry="975.50" rendition="line" xml:id="LL1.24.I_line_1r_16"/><zone ulx="91.09" uly="974.61" lrx="703.10" lry="1023.70" rendition="line" xml:id="LL1.24.I_line_1r_17"/><zone ulx="406.83" uly="35.38" lrx="558.94" lry="433.36" rendition="HotSpot" xml:id="LL1.24.I_hotspot_1r_01" corresp="#LL1.24.I_hotspot_1r_01h" start="#LL1.24.I_hotspot_1r_01h"/></surface>
+		<surface n="LL1.24.I.2" xml:id="LL1.24.I_folio_1v" corresp="#LL1.24.I_fol_1v"><graphic url="data/test-img/LL1.24.I/LL1-24-I_0002.dzi" width="1610px" height="2468px"/><zone ulx="160.77" uly="115.86" lrx="317.04" lry="419.43" rendition="HotSpot" xml:id="LL1.24.I_hotspot_1v_01" corresp="#LL1.24.I_hotspot_1v_01h" start="#LL1.24.I_hotspot_1v_01h"/><zone ulx="592.77" uly="172.44" lrx="700.55" lry="251.48" rendition="HotSpot" xml:id="LL1.24.I_hotspot_1v_02" corresp="#LL1.24.I_hotspot_1v_02h" start="#LL1.24.I_hotspot_1v_02h"/><zone ulx="435.60" uly="440.09" lrx="616.12" lry="493.98" rendition="HotSpot" xml:id="LL1.24.I_hotspot_1v_03" corresp="#LL1.24.I_hotspot_1v_03h" start="#LL1.24.I_hotspot_1v_03h"/><zone ulx="283.81" uly="578.40" lrx="704.59" lry="1093.93" rendition="HotSpot" xml:id="LL1.24.I_hotspot_1v_04" corresp="#LL1.24.I_hotspot_1v_04h" start="#LL1.24.I_hotspot_1v_04h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.24.I" xml:id="LL1.24.I">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        429  p. 502</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Nella carta 1v si trova la <hi facs="#LL1.24.I_hotspot_1v_04">lettera LL1.24.II, ruotata di 90°</hi>. Le lettere fanno parte della stessa unità codicologica.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.24.I</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>133x204<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Lettera composta da un solo foglio, piegata orizzontalmente a metà. Sulla carta 1v il testo è ruotato di 90° in senso orario e occupa metà pagina.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera parzialmente rovinata, con alcuni fori. Sembra stata strappata da un quaderno. È composta da un folio con testo su entrambe le facciate.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera leggibile.
+							 
+								
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingt-troisième
+									significa
+									ventitreesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+								
+									Nella parte superiore a sinistra della carta 1v troviamo
+									una sigla in blu di una terza mano, attribuibili molto probabilmente a un catalogatore e riportante probabilmente il testo "N 22".
+								
+							 
+								
+								
+									Nella carta 1v troviamo una
+									scritta in blu di un'altra mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 19 tra parentesi.
+								
+							 
+								
+								
+									Nella carta 1v troviamo una
+									scritta di un'altra mano difficilmente leggibile, probabilmente una firma.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Maggio 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.24.I.1r" xml:id="LL1.24.I_fol_1r" facs="data/test-img/LL1.24.I/LL1-24-I_0001.dzi"/>
+			<!--recto-->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.24.I_note1"/><note>(Nota Seminara, 2017: p. 502 n. 855)<p part="N">
+							La datazione è desunta dall'appartenenza di questa minuta alle medesime carte delle bozze precedenti.
+						</p></note>
+						<ptr target="#LL1.24.I_note2"/><note>(Nota Seminara, 2017: p. 502 n. 856)<p part="N">
+							Nel <hi rend="italic">verso</hi> del medesimo foglio è tracciata una bozza di lettera a un destinatario sconosciuto <supplied resp="#DS" instant="false">(si veda <hi rend="italic">infra,</hi> Lettera 430, catalogata come LL1.24.II).</supplied>
+						</p></note>
+						<lb facs="#LL1.24.I_line_1r_01" n="1" xml:id="LL1.24.I_lb_1r_01"/>
+						<persName type="person">Signore</persName>
+					</s>
+				</salute>
+				<lb rend="2-line"/> <!-- prossemica -->
+				<ab n="ab_02" type="parag" part="N">
+					<s n="s_02" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.24.I_line_1r_02" n="2" xml:id="LL1.24.I_lb_1r_02"/>
+							<del rend="dotted" instant="false" status="unremarkable">Affari</del>
+							<!--Parola cancellata all'interno del testo, tratteggiata--></s>
+					<s n="s_03" rend="first_line_indented" type="sentence" part="N">
+						<lb facs="#LL1.24.I_line_1r_03" n="3" xml:id="LL1.24.I_lb_1r_03"/>
+						Non creda essere stata <w part="N">trascuratez
+						<lb break="no" facs="#LL1.24.I_line_1r_04" n="4" rend="double-stroke" xml:id="LL1.24.I_lb_1r_04"/>
+						za</w> il non averla subito riscontrata<pc resp="#DS LM" part="N">.</pc>
+					</s>
+					<s n="s_04" rend="first_line_indented" type="sentence" part="N">
+						<lb facs="#LL1.24.I_line_1r_05" n="5" xml:id="LL1.24.I_lb_1r_05"/>
+						Dipendea dalla piega che poteano
+						<lb facs="#LL1.24.I_line_1r_06" n="6" xml:id="LL1.24.I_lb_1r_06"/>
+						prendere i miei affari musicali a
+						<lb facs="#LL1.24.I_line_1r_07" n="7" xml:id="LL1.24.I_lb_1r_07"/>
+						<placeName ref="#Paris">Parigi</placeName>
+						il dare una speranza al
+						<lb facs="#LL1.24.I_line_1r_08" n="8" xml:id="LL1.24.I_lb_1r_08"/>
+						suo amico
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">poeta </del>
+							<add place="above" instant="false" status="unremarkable">
+								<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">r</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>r</expan></choice>
+							</add>
+						</subst>
+						<persName ref="#BeltramePietro">Beltrame,</persName> <w part="N">trovan
+						<lb break="no" facs="#LL1.24.I_line_1r_09" n="9" rend="double-stroke" xml:id="LL1.24.I_lb_1r_09"/>
+						do</w> <add place="supralinear" instant="false" status="unremarkable">il suo poema</add>
+						in diverse parti eccellente; ma
+						<lb facs="#LL1.24.I_line_1r_10" n="10" xml:id="LL1.24.I_lb_1r_10"/>
+						vedo che passeranno molti anni perché
+						<lb facs="#LL1.24.I_line_1r_11" n="11" xml:id="LL1.24.I_lb_1r_11"/>
+						io abbia il piacere di
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">scrivere</del>
+							<add place="above" instant="false" status="unremarkable"> mettere
+								<milestone unit="line"/>in musica</add>
+						</subst>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">
+								<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opere</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+							</del>
+							<add place="above" instant="false" status="unremarkable"><del instant="false" status="unremarkable">
+									<term ref="TEI-ListTerm.xml#libretto" subtype="music-term">libretti</term><note type="comment" n="T"><seg>
+                [LIBRETTO]
+            </seg><gloss xml:lang="it" target="#libretto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Libro di piccolo formato contenente il testo letterario di un’<term subtype="music-term" ref="#opera">opera</term> o di altra composizione vocale di carattere drammatico e, per estensione, il testo stesso, costituito dalle parole destinate a essere cantate, in versi o, più raramente, in prosa, dalle descrizioni della <term subtype="music-term">scenografia</term> e dalle didascalie relative ai movimenti dei cantanti; può inoltre contenere indicazioni riguardanti uno specifico <term subtype="music-term">allestimento</term> dell’opera, il contesto storico della sua prima rappresentazione, a volte, dichiarazioni di poetica dell’autore o degli autori. [...] Dal punto di vista strettamente letterario, il libretto è da considerarsi principalmente come parte integrante di un’opera d’arte complessiva da cui dipende e che lo trascende. Sebbene in alcuni casi esso tenda a rivendicare una propria dignità letteraria, è innegabile che molti aspetti della sua struttura siano predeterminati dalle esigenze specifiche del <term subtype="music-term">teatro musicale</term> (prima fra tutte quella della declamazione cantata) e dalle innumerevoli convenzioni specifiche dei diversi generi operistici e dei diversi contesti storico-sociali. [...] Sebbene la paternità del libretto sia generalmente riconosciuta al poeta che lo ha prodotto (<term subtype="music-term">librettista</term>), sono frequenti i casi in cui l’intervento del compositore ne modifica in modo sostanziale l’assetto, conducendo a divergenze anche notevoli fra la versione pubblicata e quella riportata in partitura. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+								</del></add>
+						</subst>
+						<lb facs="#LL1.24.I_line_1r_12" n="12" xml:id="LL1.24.I_lb_1r_12"/>
+						<term ref="TEI-ListTerm.xml#opera" subtype="music-term">Opere</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> <w resp="DS" part="N">Italiane;</w> mentre ora mi conviene
+						<lb facs="#LL1.24.I_line_1r_13" n="13" xml:id="LL1.24.I_lb_1r_13"/>
+						scrivere per l'idioma francese.
+					</s>
+					<s n="s_05" rend="first_line_indented" type="sentence" part="N">
+						<lb facs="#LL1.24.I_line_1r_14" n="14" xml:id="LL1.24.I_lb_1r_14"/>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">Rimetterò </del>
+							<add place="above" instant="false" status="unremarkable"><del instant="false" status="unremarkable">Consegnerò</del></add>
+						</subst>
+						alla
+						<orgName>Casa
+						<choice resp="#LM"><orig>Halghen</orig><reg instant="false">Halgen</reg></choice></orgName>
+						il
+						<lb facs="#LL1.24.I_line_1r_15" n="15" xml:id="LL1.24.I_lb_1r_15"/>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">
+								<term ref="TEI-ListTerm.xml#libretto" subtype="music-term">libretto</term><note type="comment" n="T"><seg>
+                [LIBRETTO]
+            </seg><gloss xml:lang="it" target="#libretto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Libro di piccolo formato contenente il testo letterario di un’<term subtype="music-term" ref="#opera">opera</term> o di altra composizione vocale di carattere drammatico e, per estensione, il testo stesso, costituito dalle parole destinate a essere cantate, in versi o, più raramente, in prosa, dalle descrizioni della <term subtype="music-term">scenografia</term> e dalle didascalie relative ai movimenti dei cantanti; può inoltre contenere indicazioni riguardanti uno specifico <term subtype="music-term">allestimento</term> dell’opera, il contesto storico della sua prima rappresentazione, a volte, dichiarazioni di poetica dell’autore o degli autori. [...] Dal punto di vista strettamente letterario, il libretto è da considerarsi principalmente come parte integrante di un’opera d’arte complessiva da cui dipende e che lo trascende. Sebbene in alcuni casi esso tenda a rivendicare una propria dignità letteraria, è innegabile che molti aspetti della sua struttura siano predeterminati dalle esigenze specifiche del <term subtype="music-term">teatro musicale</term> (prima fra tutte quella della declamazione cantata) e dalle innumerevoli convenzioni specifiche dei diversi generi operistici e dei diversi contesti storico-sociali. [...] Sebbene la paternità del libretto sia generalmente riconosciuta al poeta che lo ha prodotto (<term subtype="music-term">librettista</term>), sono frequenti i casi in cui l’intervento del compositore ne modifica in modo sostanziale l’assetto, conducendo a divergenze anche notevoli fra la versione pubblicata e quella riportata in partitura. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+							</del>
+							<add place="above" instant="false" status="unremarkable">Dramma</add>
+						</subst>
+						<del rend="strikethrough" instant="false" status="unremarkable">
+							perché gli sia inviato con
+						</del>
+						<lb facs="#LL1.24.I_line_1r_16" n="16" xml:id="LL1.24.I_lb_1r_16"/>
+						<persName type="person">Ella,</persName> o Signore, gradisca gli attestati
+						<lb facs="#LL1.24.I_line_1r_17" n="17" xml:id="LL1.24.I_lb_1r_17"/>
+						della mia stima e considerazione —
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.24.I_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.24.I_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Vingt-troisième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.24.I.1v" xml:id="LL1.24.I_fol_1v" facs="data/test-img/LL1.24.I/LL1-24-I_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.24.I_hotspot_1v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.24.I_hs_1v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 22</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.24.I_hotspot_1v_02" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.24.I_hs_1v_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(19)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.24.I_hotspot_1v_03" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.24.I_hs_1v_03" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.24.I_hotspot_1r_01h" facs="#LL1.24.I_hotspot_1r_01"><p>
+								
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingt-troisième
+									significa
+									ventitreesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.24.I_hotspot_1v_01h" facs="#LL1.24.I_hotspot_1v_01"><p>una sigla in blu di una terza mano, attribuibili molto probabilmente a un catalogatore e riportante probabilmente il testo "N 22"</p></div><div xml:id="LL1.24.I_hotspot_1v_02h" facs="#LL1.24.I_hotspot_1v_02"><p>scritta in blu di un'altra mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 19 tra parentesi</p></div><div xml:id="LL1.24.I_hotspot_1v_03h" facs="#LL1.24.I_hotspot_1v_03"><p>scritta di un'altra mano difficilmente leggibile, probabilmente una firma</p></div><div xml:id="LL1.24.I_hotspot_1v_04h" facs="#LL1.24.I_hotspot_1v_04"><p>lettera LL1.24.II, ruotata di 90°</p></div></div></back>
+	</text>
+</TEI>

@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 23 agosto 1833</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2018-05">May 2018</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Elvira Mercatanti</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_12.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="246" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="308" to="308" unit="page">308</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<!-- riferimento al catalogo delle sigle dei musei in cui è definito I-CATm -->
+						<idno type="inventory">LL1.12</idno>
+						<!--segnatura della singola lettera-->
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>a destinatario sconosciuto, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="high" resp="#GS" when="1833-08-23">23 agosto 1833</date>
+							</title>
+							<textLang mainLang="it-x-800">Italiano di inizio Ottocento.</textLang>
+							<note>Messaggio inserito in una lettera di Michele Carafa. Lettera facente parte del Carteggio Perucchini e in esso precedentemente catalogata con la segnatura CP1.78. Il luogo e la data di spedizione sono presenti sulla lettera del Carteggio Perucchini.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di sigilli, timbri o francobolli. Nella carta 2v in alto a sinistra è presente un'annotazione a matita.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>199</height>
+										<width>132</width>
+									</dimensions>
+								</extent>
+								<collation>
+									La lettera è composta da due carte (un bifoglio): il testo è scritto su una facciata. Il folio presenta segni di piegature simmetriche: una orizzontale e una verticale che lo dividono in quattro sezioni.
+								</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche. La carta 1v presenta in trasparenza segni di ricalco di scrittura ed alcune macchioline marroni.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<handNote>
+								<p>Scrittura a mano libera abbastanza leggibile. La carta 1r, nella parte centrale e nella parte inferiore, presenta una seconda mano (la lettera di Michele Carafa).</p>
+							</handNote>
+							<handNote facs="#LL1.12_hotspot_1r_01" xml:id="h1">
+								<p>Lettera di Michele Carafa.</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>In alto a sinistra nella carta 2v è presente un'<hi facs="#LL1.12_hotspot_2v_01">annotazione a matita di terza mano (probabilemente un catalogatore), riportante "AM840"</hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+					<date cert="high" resp="#GS">23 agosto 1833</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<!-- soggettario della Biblioteca Nazionale di Firenze -->
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.12_folio_1r">
+			<graphic height="2417px" url="LL1.12_0001.jpg" width="1632px" />
+			<!--Corpo della lettera di Bellini-->
+			<zone points="166,82 162,168 554,186 1154,204 1424,252 1580,240 1576,104" rendition="Line" xml:id="LL1.12_line_1r_01" />
+			<zone points="92,182 90,256 684,300 860,292 1572,350 1568,258 910,218 206,182" rendition="Line" xml:id="LL1.12_line_1r_02" />
+			<zone points="80,272 350,286 827,297 1042,359 1571,388 1585,479 490,420 242,404 62,387" rendition="Line" xml:id="LL1.12_line_1r_03" />
+			<zone lrx="442" lry="484" rendition="Line" ulx="65" uly="409" xml:id="LL1.12_line_1r_04" />
+			<zone lrx="579" lry="572" rendition="Line" ulx="165" uly="484" xml:id="LL1.12_line_1r_05" />
+			<!--messaggio di Michele Carafa-->
+			<zone points="466,460 460,568 82,566 60,2378 1602,2370 1580,482" rendition="HotSpot" xml:id="LL1.12_hotspot_1r_01" />
+		</surface>
+		<!--1v-->
+		<surface n="2" xml:id="LL1.12_folio_1v">
+			<graphic height="2417px" url="LL1.12_0002.jpg" width="1661px" />
+		</surface>
+		<!--2r-->
+		<surface n="3" xml:id="LL1.12_folio_2r">
+			<graphic height="2417px" url="LL1.12_0003.jpg" width="1632px" />
+		</surface>
+		<!--2v-->
+		<surface n="4" xml:id="LL1.12_folio_2v">
+			<graphic height="2417px" url="LL1.12_0004.jpg" width="1632px" />
+			<!--annotazione illeggibile a matita in alto a sinistra-->
+			<zone lrx="315" lry="136" rendition="HotSpot" ulx="72" uly="53" xml:id="LL1.12_hotspot_2v_01" />
+		</surface>
+	</facsimile>
+	<text n="LL1.12" subtype="manuscript" type="lettera" xml:id="LL1.12">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.12_folio_1r" n="1" xml:id="LL1.12_fol_1r" />
+			<!--FRONTE RECTO-->
+			<div n="t_01" type="letter-body">
+				<ab n="ab_01" type="parag">
+					<s n="s_01" type="sentence">
+						<ptr target="#LL1.12_note1" />
+						<lb facs="#LL1.12_line_1r_01" n="1" xml:id="LL1.12_lb_1r_01" />
+						Mi
+						<hi rend="underline">pare impossibile</hi>! Mi
+						<hi rend="underline">spiego</hi>? Già farai
+						<lb facs="#LL1.12_line_1r_02" n="2" xml:id="LL1.12_lb_1r_02" />
+						pel raccomandato dei qui nostri amici, ciò che hai
+						<lb facs="#LL1.12_line_1r_03" n="3" xml:id="LL1.12_lb_1r_03" />
+						fatto
+						<add place="supralinear">
+							<rs ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" resp="#EC" type="person">mio caro Titta</rs> —
+						</add> per gl'istessi
+						<unclear reason="illegible"><gap extent="one-word" reason="illegible"/></unclear>: non è vero?
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<ab n="ab_02">
+					<s n="s_02" type="sentence">
+						Addio
+						<lb facs="#LL1.12_line_1r_04" n="4" xml:id="LL1.12_lb_1r_04" />
+						<rs type="person">mio Zerbino</rs>
+					</s>
+				</ab>
+				<salute n="ab_03">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.12_line_1r_05" n="5" xml:id="LL1.12_lb_1r_05" />
+						Il tuo<space />
+					</s>
+				</salute>
+				<signed>
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Bellini</persName>
+				</signed>
+				<lb/>
+			</div>
+			<pb facs="#LL1.12_folio_1v" n="2" xml:id="LL1.12_fol_1v" />
+			<pb facs="#LL1.12_folio_2r" n="3" xml:id="LL1.12_fol_2r" />
+			<pb facs="#LL1.12_folio_2v" n="4" xml:id="LL1.12_fol_2v" />
+			<div type="paratext">
+				<!--annotazione illeggibile a matita in alto a sinistra-->
+				<ab facs="#LL1.12_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.12_hs_2v_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">AM840</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note resp="#GS" xml:id="LL1.12_note1">
+						<p>
+							La lettera è incompleta.
+						</p>
+					</note>
+				</div>
+				<div type="bibliography">
+					<listBibl xml:id="LL1_12_bibliography">
+						<head>Bibliografia della lettera LL1.12</head>
+						<bibl xml:id="LL1_12_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="264" to="264" unit="page">264</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

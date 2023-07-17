@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a [Vittoria Visconti D'Aragona], in Parigi, [novembre 1834]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2021-09" instant="false">September 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name ref="#DS" full="yes" instant="false">Daria Spampinato</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_17.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="344" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="422" to="422" unit="page">422</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.17</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, V (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.17"><idno type="inventory">LL1.17</idno><title>Vincenzo Bellini a [Vittoria Visconti D'Aragona], in Parigi, [novembre 1834]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="344"><locus from="422" to="422">n. 344, p. 422.</locus></citedRange></bibl><bibl>Cambi, 1943, p. 467. </bibl><bibl>Neri, 2005, p. 342. </bibl><incipit><fw>Incipit </fw>
+						
+						Mia cara
+						 Signora 
+						
+							Marchesa
+						
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1834-11" instant="false">Novembre 1834</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#GherardiniViscontiDAragonaVittoria">Vittoria Visconti D'Aragona</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.17_facsimile">
+		<surface n="LL1.17.1" xml:id="LL1.17_folio_1r" corresp="#LL1.17_fol_1r"><graphic url="data/test-img/LL1.17/LL1-17_0001.dzi" width="1640px" height="2471px"/><zone ulx="167.52" uly="96.55" lrx="515.36" lry="148.13" rendition="line" xml:id="LL1.17_line_1r_01"/><zone ulx="149.89" uly="140.19" lrx="709.77" lry="197.50" rendition="line" xml:id="LL1.17_line_1r_02"/><zone ulx="67.89" uly="188.69" lrx="709.77" lry="244.23" rendition="line" xml:id="LL1.17_line_1r_03"/><zone ulx="67.89" uly="233.65" lrx="709.77" lry="277.74" rendition="line" xml:id="LL1.17_line_1r_04"/><zone ulx="67.89" uly="271.57" lrx="709.77" lry="314.77" rendition="line" xml:id="LL1.17_line_1r_05"/><zone ulx="67.89" uly="308.16" lrx="255.25" lry="341.22" rendition="line" xml:id="LL1.17_line_1r_06"/><zone ulx="320.94" uly="484.06" lrx="522.85" lry="792.65" rendition="HotSpot" xml:id="LL1.17_hotspot_1r_01" corresp="#LL1.17_hotspot_1r_01h" start="#LL1.17_hotspot_1r_01h"/></surface>
+		<surface n="LL1.17.2" xml:id="LL1.17_folio_1v" corresp="#LL1.17_fol_1v"><graphic url="data/test-img/LL1.17/LL1-17_0002.dzi" width="1640px" height="2471px"/><zone ulx="242.47" uly="834.98" lrx="374.73" lry="939.90" rendition="HotSpot" xml:id="LL1.17_hotspot_1v_01" corresp="#LL1.17_hotspot_1v_01h" start="#LL1.17_hotspot_1v_01h"/><zone ulx="498.16" uly="664.81" lrx="612.79" lry="904.63" rendition="HotSpot" xml:id="LL1.17_hotspot_1v_02" corresp="#LL1.17_hotspot_1v_02h" start="#LL1.17_hotspot_1v_02h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.17" xml:id="LL1.17">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a [Vittoria Visconti D'Aragona], in Parigi, [novembre 1834]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        344  p. 422</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La data di redazione della minuta di lettera è stata attribuita da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.17</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>204x134<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Lettera composta da un solo folio; il testo è presente solo sulla carta 1r.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in discrete condizioni fisiche. Presenta alcune lacerazioni e una macchia marrone al centro.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera.
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e
+									vingt-deuxième significa
+									ventiduesimo. I caratteri che sembrano corrispondere alla parola
+									fil terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+									Nella carta 1v, in basso, in diagonale rispetto al testo, si trova una
+									scritta in blu di una terza mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 22 tra parentesi.
+								
+							 
+								
+									Nella carta 1v, in basso a destra, perpendicolare rispetto al testo, si trova una sigla in blu di una quarta mano, attribuibile forse a un catalogatore, probabilmente "N 20".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Novembre 1834]</p><p><fw> 
+                            Destinatario
+                        </fw>[Vittoria Visconti D'Aragona]</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.17.1r" xml:id="LL1.17_fol_1r" facs="data/test-img/LL1.17/LL1-17_0001.dzi"/>
+			<!--Fronte -->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_01" rend="first_line_indented">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.17_line_1r_01" n="1" xml:id="LL1.17_lb_1r_01"/>
+						Mia cara
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<persName ref="#GherardiniViscontiDAragonaVittoria" type="person">
+							<roleName type="nobility" full="yes">Marchesa</roleName>
+						</persName>
+						<ptr target="#LL1.17_note1"/><note>(Nota Seminara, 2017: p. 422 n. 700)<p part="N">
+							È verosimile che il destinatario di questa minuta fosse la marchesa Vittoria Visconti d'Aragona, anche in considerazione delle concordanze con altre missive indirizzate alla nobildonna milanese.
+						</p></note>
+					</s>
+				</salute>
+				<ab n="ab_02" rend="first_line_indented" type="parag" part="N">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.17_line_1r_02" n="2" xml:id="LL1.17_lb_1r_02"/>
+						I rimproveri che mi <w part="N">fa<del rend="erasure" resp="#LM" instant="false" status="unremarkable">te</del></w> fare dal
+						<persName type="person">
+							<roleName type="nobility" full="yes">Duca</roleName>
+						</persName>
+						<lb facs="#LL1.17_line_1r_03" n="3" xml:id="LL1.17_lb_1r_03"/>
+						mi giungono cari, sebbene non meritati. Per
+						<lb facs="#LL1.17_line_1r_04" n="4" xml:id="LL1.17_lb_1r_04"/>
+						sistema mai scrivo più lettere ad una persona
+						<lb facs="#LL1.17_line_1r_05" n="5" xml:id="LL1.17_lb_1r_05"/>
+						senza che abbia risposto alla prima; quindi
+						<lb facs="#LL1.17_line_1r_06" n="6" xml:id="LL1.17_lb_1r_06"/>
+						ella mi dov<pc resp="#LM" part="N">.</pc>
+						<ptr target="#LL1.17_note2"/><note resp="#GS" xml:id="LL1.17_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.17_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.17_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Vingt-deuxième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.17.1v" xml:id="LL1.17_fol_1v" facs="data/test-img/LL1.17/LL1-17_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.17_hotspot_1v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.17_hs_1v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(22)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.17_hotspot_1v_02" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.17_hs_1v_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 20</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.17_hotspot_1r_01h" facs="#LL1.17_hotspot_1r_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e
+									vingt-deuxième significa
+									ventiduesimo. I caratteri che sembrano corrispondere alla parola
+									fil terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.17_hotspot_1v_01h" facs="#LL1.17_hotspot_1v_01"><p>scritta in blu di una terza mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 22 tra parentesi</p></div><div xml:id="LL1.17_hotspot_1v_02h" facs="#LL1.17_hotspot_1v_02"><p>una sigla in blu di una quarta mano, attribuibile forse a un catalogatore, probabilmente "N 20".</p></div></div></back>
+	</text>
+</TEI>

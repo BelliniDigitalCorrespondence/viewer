@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834</title>
+				<!--formato titolo: mittente a destinatario, in luogo, data di scrittura della lettera -->
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2018-06" instant="false">June 2018</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="EC" full="yes" instant="false">Erica Capizzi</name>
+					<name ref="#DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_16.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="304" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="368" to="368" unit="page">368</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.16</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.16"><idno type="inventory">LL1.16</idno><title>Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="304"><locus from="368" to="368">n. 304, p. 368.</locus></citedRange></bibl><bibl>Pastura, 1959, p. 422. </bibl><bibl>Neri, 2005, p. 301-302. </bibl><incipit><fw>Incipit </fw>
+						
+						Juin 26:
+						
+							Puteau - 
+							N:° 19 bis rampe
+							
+							de Neuilly
+						
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Addio
+					
+				
+				
+					
+						
+						Il tuo
+					
+				
+				
+					
+						Vincenzillo
+					
+				
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#NSS">Neuilly-sur-Seine</placeName>
+					<date type="postmark" when="1834-06-27" instant="false">27 giugno 1834</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#PepoliCarlo">Carlo Pepoli</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date type="postmark" when="1834-06" instant="false">Giugno 1834</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.16_facsimile">
+		<surface n="LL1.16.1" xml:id="LL1.16_folio_1r" corresp="#LL1.16_fol_1r"><graphic url="data/test-img/LL1.16/LL1-16_0001.dzi" width="1265px" height="1639px"/><zone ulx="24.58" uly="17.72" lrx="706.43" lry="76.59" rendition="line" xml:id="LL1.16_line_1r_01"/><zone ulx="525.82" uly="57.15" lrx="706.43" lry="120.02" rendition="line" xml:id="LL1.16_line_1r_02"/><zone ulx="129.74" uly="115.45" lrx="520.10" lry="164.60" rendition="line" xml:id="LL1.16_line_1r_03"/><zone ulx="184.04" uly="201.18" lrx="706.43" lry="260.62" rendition="line" xml:id="LL1.16_line_1r_04"/><zone ulx="85.73" uly="269.77" lrx="706.43" lry="358.36" rendition="line" xml:id="LL1.16_line_1r_05"/><zone ulx="85.73" uly="361.21" lrx="706.43" lry="430.37" rendition="line" xml:id="LL1.16_line_1r_06"/><zone ulx="85.73" uly="433.23" lrx="706.43" lry="519.53" rendition="line" xml:id="LL1.16_line_1r_07"/><zone ulx="85.73" uly="522.96" lrx="706.43" lry="635.55" rendition="line" xml:id="LL1.16_line_1r_08"/><zone ulx="85.73" uly="628.70" lrx="706.43" lry="718.43" rendition="line" xml:id="LL1.16_line_1r_09"/><zone ulx="85.73" uly="719.00" lrx="706.43" lry="797.30" rendition="line" xml:id="LL1.16_line_1r_10"/><zone ulx="85.73" uly="779.01" lrx="706.43" lry="851.60" rendition="line" xml:id="LL1.16_line_1r_11"/><zone ulx="64.01" uly="840.17" lrx="650.41" lry="884.75" rendition="line" xml:id="LL1.16_line_1r_12"/><zone ulx="390.36" uly="874.46" lrx="668.70" lry="910.47" rendition="line" xml:id="LL1.16_line_1r_13"/></surface>
+		<surface n="LL1.16.2" xml:id="LL1.16_folio_1v" corresp="#LL1.16_fol_1v"><graphic url="data/test-img/LL1.16/LL1-16_0002.dzi" width="1283px" height="1646px"/></surface>
+		<surface n="LL1.16.3" xml:id="LL1.16_folio_2r" corresp="#LL1.16_fol_2r"><graphic url="data/test-img/LL1.16/LL1-16_0003.dzi" width="1265px" height="1639px"/><zone ulx="644.70" uly="149.74" lrx="709.85" lry="446.95" rendition="HotSpot" xml:id="LL1.16_hotspot_2r_01" corresp="#LL1.16_hotspot_2r_01h" start="#LL1.16_hotspot_2r_01h"/></surface>
+		<surface n="LL1.16.4" xml:id="LL1.16_folio_2v" corresp="#LL1.16_fol_2v"><graphic url="data/test-img/LL1.16/LL1-16_0004.dzi" width="1268px" height="1646px"/><zone ulx="24.52" uly="301.63" lrx="704.75" lry="368.34" rendition="line" xml:id="LL1.16_line_2v_01"/><zone ulx="24.52" uly="366.63" lrx="704.75" lry="433.91" rendition="line" xml:id="LL1.16_line_2v_02"/><zone ulx="24.52" uly="433.91" lrx="704.75" lry="504.05" rendition="line" xml:id="LL1.16_line_2v_03"/><zone ulx="24.52" uly="478.96" lrx="704.75" lry="548.52" rendition="line" xml:id="LL1.16_line_2v_04"/><zone ulx="208.12" uly="579.88" lrx="390.01" lry="856.42" rendition="HotSpot" xml:id="LL1.16_hotspot_2v_01" corresp="#LL1.16_hotspot_2v_01h" start="#LL1.16_hotspot_2v_01h"/><zone ulx="372.90" uly="557.07" lrx="676.24" lry="905.46" rendition="HotSpot" xml:id="LL1.16_hotspot_2v_02" corresp="#LL1.16_hotspot_2v_02h" start="#LL1.16_hotspot_2v_02h"/><zone ulx="25.66" uly="20.53" lrx="217.81" lry="128.86" rendition="HotSpot" xml:id="LL1.16_hotspot_2v_03" corresp="#LL1.16_hotspot_2v_03h" start="#LL1.16_hotspot_2v_03h"/><zone ulx="29.65" uly="651.73" lrx="235.49" lry="823.92" rendition="HotSpot" xml:id="LL1.16_hotspot_2v_04" corresp="#LL1.16_hotspot_2v_04h" start="#LL1.16_hotspot_2v_04h"/><zone ulx="453.30" uly="203.56" lrx="664.27" lry="412.82" rendition="HotSpot" xml:id="LL1.16_hotspot_2v_05" corresp="#LL1.16_hotspot_2v_05h" start="#LL1.16_hotspot_2v_05h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.16" xml:id="LL1.16">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        304  p. 368</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo in francese e segni di seconda mano in italiano.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.16</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>135x204<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Nella carta 2v sono presenti un
+										timbro di partenza recante la scritta "NEUILLY - SUR - SEINE 27 JUIN 1834" e
+										
+											un timbro di arrivo parzialmente leggibile a cavallo su due piegature (superiore e inferiore).
+									</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su una facciata, con indirizzo nella carta 2v. Il folio presenta una duplice piegatura asimmetrica, con piegatura più ampia sul margine inferiore.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									
+									Lettera in buone condizioni fisiche.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera leggibile sia nel testo sia nell'indirizzo.
+								
+							 
+								
+								La carta 2v riporta un'annotazione, probabilmente dovuta ad un catalogatore, che presenta il numero 27 e la dicitura "Lettera del Bellini sul Duetto del p:° Atto dei Puritani".
+								
+							 
+								
+								Nella carta 2v è presente un'annotazione composta dalla firma autografa di Pepoli e da due piccoli disegni.
+								
+							 
+								
+								
+									Nella carta 2r si intravede un'annotazione non leggibile.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Nella carta 2r si riconosce l'ombra di un sigillo (del tutto mancante).</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Neuilly-sur-Seine</p><p><fw> 
+                            Data di spedizione 
+                        </fw>27 giugno 1834</p><p><fw> 
+                            Destinatario
+                        </fw>Carlo Pepoli</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di destinazione
+                        </fw>Giugno 1834</p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.16.1r" xml:id="LL1.16_fol_1r" facs="data/test-img/LL1.16/LL1-16_0001.dzi"/>
+			<!-- Fronte-recto -->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.16_line_1r_01" n="1" xml:id="LL1.16_lb_1r_01"/>
+						<date when="1834-06-26" instant="false">Juin 26</date>:
+						<address>
+							<placeName ref="#Put">Puteau - </placeName>
+							<street>N:° 19 bis rampe</street>
+							<lb facs="#LL1.16_line_1r_02" n="2" xml:id="LL1.16_lb_1r_02"/>
+							<placeName ref="#NSS"><hi rend="underline align(right)">de Neuilly</hi></placeName>
+						</address>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.16_line_1r_03" n="3" xml:id="LL1.16_lb_1r_03"/>
+						Mio caro
+							<persName ref="#PepoliCarlo">Carluccio</persName>
+							<ptr target="#LL1.16_note1"/><note resp="#EC" xml:id="LL1.16_note1" anchored="true">
+						<p part="N">
+							Bellini si riferiva al conte Carlo Pepoli, che aveva predisposto il libretto dei <hi rend="italic">Puritani.</hi>
+						</p>
+					</note></s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.16_line_1r_04" n="4" xml:id="LL1.16_lb_1r_04"/>
+						Avendo steso l'intero
+						<term ref="TEI-ListTerm.xml#duetto" subtype="music-term">duetto</term><note type="comment" n="T"><seg>
+                [DUETTO]
+            </seg><gloss xml:lang="it" target="#duetto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Brano per due voci sole. Sin dalle origini dell'<term subtype="music-term" ref="#opera">opera,</term> il duetto fu usato, in forme simili a quelle dell'<term subtype="music-term" ref="#aria">aria,</term> come mezzo elettivo per rappresentare il contrasto o la consonanza sentimentale tra due personaggi. Nel Settecento il duetto è presente raramente nell'<term subtype="music-term" ref="#opera_seria">opera seria,</term> dove di solito è collocato alla fine di un <term subtype="music-term" ref="#atto">atto,</term> mentre è frequente nell'<term subtype="music-term">opera buffa,</term> soprattutto per le scene di vivace confronto; il suo impiego si moltiplica dall'Ottocento nelle opere italiane, francesi e tedesche di ogni genere, in cui diviene il mezzo principale per esprimere il rapporto amoroso. Nel <term subtype="music-term">melodramma</term> prevale il modello formale codificato da <persName ref="#RossiniGioachino">Rossini</persName> [...], che può essere variato in molti modi. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<ptr target="#LL1.16_note2"/><note resp="#EC" xml:id="LL1.16_note2" anchored="true">
+						<p part="N">
+							Bellini si riferisce al terzo numero musicale del primo atto dei <hi rend="italic">Puritani,</hi> il duetto fra Elvira e Giorgio "Sai come arde in petto mio".
+						</p>
+					</note>
+						<lb facs="#LL1.16_line_1r_05" n="5" xml:id="LL1.16_lb_1r_05"/>
+						e mancando in esso qualche
+						<lb facs="#LL1.16_line_1r_06" n="6" xml:id="LL1.16_lb_1r_06"/>
+						cosetta, desidererei che tu
+						<lb facs="#LL1.16_line_1r_07" n="7" xml:id="LL1.16_lb_1r_07"/>
+						t'incommodassi a venire à
+						<lb facs="#LL1.16_line_1r_08" n="8" xml:id="LL1.16_lb_1r_08"/>
+						<placeName ref="#Put">Puteau</placeName> per tutto fissare, e
+						<lb facs="#LL1.16_line_1r_09" n="9" xml:id="LL1.16_lb_1r_09"/>
+						nell'istesso tempo darmi la
+						<lb facs="#LL1.16_line_1r_10" n="10" xml:id="LL1.16_lb_1r_10"/>
+						<term ref="TEI-ListTerm.xml#sortita" subtype="music-term">sortita</term><note type="comment" n="T"><seg>
+                [SORTITA]
+            </seg><gloss xml:lang="it" target="#sortita" source="TEI-ListBibl.xml#DellaSeta2010">
+							Nell'opera del Settecento e del primo Ottocento, aria di sortita cantata da un personaggio quando compare in scena la prima volta (e quindi al momento di "sortire" dalle quinte). Nell'Ottocento un'aria di sortita in questa posizione era detta <term subtype="music-term" rend="italic">cavatina.</term>
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> di
+						<persName ref="#RubiniGiovanniBattista">Rubini,</persName>
+						<ptr target="#LL1.16_note3"/><note resp="#EC" xml:id="LL1.16_note3" anchored="true">
+						<p part="N">
+							Bellini si riferisce alla cavatina di Arturo "Ad Arturo - A te, o cara, amor talora", che segue il Coro nel quarto numero musicale del primo atto dei <hi rend="italic">Puritani.</hi>
+						</p>
+					</note> se è <w part="N">termi
+							<lb break="no" facs="#LL1.16_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.16_lb_1r_11"/>
+							nata.</w>
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						T'aspetto in qual giorno
+						<lb facs="#LL1.16_line_1r_12" n="12" xml:id="LL1.16_lb_1r_12"/>
+						ed in qual'ora vorrai —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" part="N">
+					<s n="s_05" type="sentence" part="N">
+						Addio
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_06" type="sentence" part="N">
+						<lb facs="#LL1.16_line_1r_13" n="13" xml:id="LL1.16_lb_1r_13"/>
+						<hi rend="align(right)">Il tuo</hi>
+					</s>
+				</salute>
+				<signed>
+					<hi rend="underline">
+						<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzillo</persName>
+					</hi>
+				</signed>
+				<lb/>
+			</div>
+			<pb n="LL1.16.1v" xml:id="LL1.16_fol_1v" facs="data/test-img/LL1.16/LL1-16_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.16.2r" xml:id="LL1.16_fol_2r" facs="data/test-img/LL1.16/LL1-16_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.16_hotspot_2r_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.16_hs_2r_01" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.16.2v" xml:id="LL1.16_fol_2v" facs="data/test-img/LL1.16/LL1-16_0004.dzi"/>
+			<div type="destination" part="N" org="uniform" sample="complete">
+				<ab type="receiver" xml:id="LL1.16_hs_2v_multiple" part="N">
+					<address>
+						<!-- informazioni del destinatario -->
+						<lb facs="#LL1.16_line_2v_01" n="1" xml:id="LL1.16_lb_2v_01"/>
+						<addrLine>à Monsieur</addrLine>
+						<lb facs="#LL1.16_line_2v_02" n="2" xml:id="LL1.16_lb_2v_02"/>
+						<addrLine>Monsieur le Comte
+							<persName ref="#PepoliCarlo">Pepoli</persName>
+						</addrLine>
+						<lb facs="#LL1.16_line_2v_03" n="3" xml:id="LL1.16_lb_2v_03"/>
+						<addrLine>N:° 1<am instant="false">:</am> passage des petits Pères</addrLine>
+						<lb facs="#LL1.16_line_2v_04" n="4" xml:id="LL1.16_lb_2v_04"/>
+						<addrLine rend="align(right)">à
+							<placeName ref="#Paris">Paris</placeName>
+						</addrLine>
+					</address>
+				</ab>
+				<ab facs="#LL1.16_hotspot_2v_03 #LL1.16_hotspot_2v_04" type="paratext" xml:id="LL1.16_hs_2v_03-2v_04" part="N">
+					<!-- timbro del destinatario composto da 2 immagini incomplete -->
+					<lb/>
+					<stamp type="postmark">
+						<!-- timbro del destinatario con data -->
+						<placeName>
+							+++
+						</placeName>
+						<mentioned>
+							<date when="27" xml:id="LL1.16_2v_01_1834-06-27" next="LL1.16_2v_02_1834-06-27" instant="false">27</date>
+						</mentioned>
+						<mentioned>
+								<date when="1834-06" xml:id="LL1.16_2v_02_1834-06-27" prev="LL1.16_2v_01_1834-06-27" instant="false">
+									<unclear reason="illegible" instant="false"> JUIN </unclear>1834
+								</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="sent" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.16_hotspot_2v_05" type="paratext" xml:id="LL1.16_hs_2v_05" part="N">
+					<stamp type="postmark">
+						<!-- timbro del mittente con data -->
+						<mentioned>
+							<placeName ref="#NSS">NEUILLY - SUR - SEINE</placeName>
+						</mentioned>
+						<mentioned>
+							<date when="1834-06-27" instant="false">27 JUIN 1834</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.16_hotspot_2v_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.16_hs_2v_02" part="N">
+					<!-- terza mano del bibliotecario -->
+					<lb/>
+					<fw type="catalogNum">
+						<idno type="oldCat">27</idno>
+					</fw>
+					<lb/>
+					<fw>
+						Lettera del
+						<lb/>
+						Bellini sul <term ref="TEI-ListTerm.xml#duetto" subtype="music-term">Duetto</term><note type="comment" n="T"><seg>
+                [DUETTO]
+            </seg><gloss xml:lang="it" target="#duetto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Brano per due voci sole. Sin dalle origini dell'<term subtype="music-term" ref="#opera">opera,</term> il duetto fu usato, in forme simili a quelle dell'<term subtype="music-term" ref="#aria">aria,</term> come mezzo elettivo per rappresentare il contrasto o la consonanza sentimentale tra due personaggi. Nel Settecento il duetto è presente raramente nell'<term subtype="music-term" ref="#opera_seria">opera seria,</term> dove di solito è collocato alla fine di un <term subtype="music-term" ref="#atto">atto,</term> mentre è frequente nell'<term subtype="music-term">opera buffa,</term> soprattutto per le scene di vivace confronto; il suo impiego si moltiplica dall'Ottocento nelle opere italiane, francesi e tedesche di ogni genere, in cui diviene il mezzo principale per esprimere il rapporto amoroso. Nel <term subtype="music-term">melodramma</term> prevale il modello formale codificato da <persName ref="#RossiniGioachino">Rossini</persName> [...], che può essere variato in molti modi. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<lb/>
+						del p:° <term ref="TEI-ListTerm.xml#atto" subtype="music-term">Atto</term><note type="comment" n="T"><seg>
+                [ATTO]
+            </seg><gloss xml:lang="it" target="#atto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Unità di suddivisione principale di un dramma, di un’<term subtype="music-term" ref="#opera">opera</term> o di un <term subtype="music-term" ref="#balletto">balletto,</term> che può essere ulteriormente suddivisa in <term subtype="music-term">quadri</term> – sezioni di norma caratterizzate da unità di luogo e tempo – e in scene. Implicita nella struttura della tragedia greca, la divisione in atti, di solito cinque separati da intervalli, fu introdotta in epoca romana e fu istituzionalizzata dalle poetiche classicistiche del Cinquecento. [...]Nell’opera italiana si affermarono presto altri modelli: il <term subtype="music-term">dramma per musica</term> tra Sei e Settecento era sempre in tre atti (separati da due <term subtype="music-term">intermezzi</term> e spesso seguiti da un <term subtype="music-term" ref="#balletto">ballo</term>conclusivo), tra Settecento e Ottocento prevalse la divisione in due atti (con un ballo nell’intervallo e un altro in conclusione), nel pieno Ottocento furono adottati modelli che andavano da due a quattro atti, eventualmente preceduti da un <term subtype="music-term">prologo.</term> [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> dei <rs ref="TEI-ListWork.xml#Puritani" type="work">Puritani</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+					</fw>
+				</ab>
+				<ab facs="#LL1.16_hotspot_2v_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.16_hs_2v_01" part="N">
+					<!-- seconda mano di Pepoli -->
+					<persName ref="#PepoliCarlo">
+						C Pepoli
+					</persName>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.16_hotspot_2r_01h" facs="#LL1.16_hotspot_2r_01"><p>annotazione non leggibile.</p></div><div xml:id="LL1.16_hotspot_2v_01h" facs="#LL1.16_hotspot_2v_01"><p>annotazione composta dalla firma autografa di Pepoli e da due piccoli disegni.</p></div><div xml:id="LL1.16_hotspot_2v_02h" facs="#LL1.16_hotspot_2v_02"><p>annotazione, probabilmente dovuta ad un catalogatore, che presenta il numero 27 e la dicitura "Lettera del Bellini sul Duetto del p:° Atto dei Puritani".</p></div><div xml:id="LL1.16_hotspot_2v_03h" facs="#LL1.16_hotspot_2v_03"><p>
+											un timbro di arrivo parzialmente leggibile a cavallo su due piegature (superiore e inferiore)</p></div><div xml:id="LL1.16_hotspot_2v_04h" facs="#LL1.16_hotspot_2v_04"><p>un timbro di arrivo parzialmente leggibile a cavallo su due piegature (superiore e inferiore)</p></div><div xml:id="LL1.16_hotspot_2v_05h" facs="#LL1.16_hotspot_2v_05"><p>timbro di partenza recante la scritta "NEUILLY - SUR - SEINE 27 JUIN 1834"</p></div></div></back>
+	</text>
+</TEI>

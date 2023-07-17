@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Filippo Santocanale, in Parigi, [14 maggio 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-12">December 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name ref="#FA">Francesca Andreozzi</name>
+					<name ref="#AZ">Angelica Zaccheria</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_25.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="431" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="502" to="503" unit="page">502-503</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.25</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 1, V (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>a
+								<persName ref="TEI-ListPerson.xml#SantocanaleFilippo">Filippo Santocanale</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="medium" resp="#GS" when="1835-05-14">14 maggio 1835</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr scn">Italiano di inizio Ottocento con indirizzo in francese e un termine in siciliano.</textLang>
+							<note>La data di redazione della lettera è stata attribuita da Seminara. È presente in calce nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>
+										Nella carta 1v sono presenti sei timbri: un
+										<hi facs="#LL1.25_hotspot_1v_02">timbro circolare sbiadito di colore marrone, con luogo e data di destinazione ("NAPOLI 30 .MAG. 1835")</hi>, posizionato nella parte sinistra della lettera; un
+										<hi facs="#LL1.25_hotspot_1v_05">timbro circolare di colore nero con uno stemma e parole poco chiare (si intuiscono le parole "da Genova", probabilmente un timbro di frontiera)</hi> posizionato nella parte centrale della lettera, vicino all'indirizzo; un
+										<hi facs="#LL1.25_hotspot_1v_07">timbro non riconoscibile</hi>; un
+										<hi facs="#LL1.25_hotspot_1v_06">timbro circolare blu in cui si legge "MAI 1835"</hi>; un
+										<hi facs="#LL1.25_hotspot_1v_10">timbro nero con parole sbiadite non leggibili</hi>, coperto parzialmente da altri timbri. Sono inoltre presenti l'
+										<hi facs="#LL1.25_hotspot_1v_04">ombra di un timbro (probabilmente di frontiera) riportante "SP" (Stato Pontificio)</hi> e un
+										<hi facs="#LL1.25_hotspot_1v_03">timbro circolare di colore nero con la dicitura "BIBLIOTECA UNIVERSITARIA DI CATANIA"</hi>, posto in basso al centro.
+									</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>261</height>
+										<width>210</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Lettera composta da un solo folio, piegato in più parti. Il folio presenta recto e verso, con l'indirizzo sulla carta 1v e il testo sulla carta 1r. Il folio presenta quattro piegature, che lo suddividono in cinque sezioni.
+								</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche. Sono presenti alcune macchie, segni di stropicciatura e di usura vicino alle piegature. La lettera presenta uno strappo sul lato, probabilmente causato dalla rimozione del sigillo.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<handNote>
+								<p>
+									Scrittura a mano libera leggibile. Nella carta 1v sono presenti annotazioni di altre mani:
+								</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>un'<hi facs="#LL1.25_hotspot_1v_09">annotazione non identificabile</hi>;</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>un'<hi facs="#LL1.25_hotspot_1v_01">annotazione probabilmente dovuta ad un catalogatore</hi>;</p>
+							</handNote>
+							<handNote xml:id="h4">
+								<p>un'<hi facs="#LL1.25_hotspot_1v_10">annotazione molto grande, probabilmente apposta da un catalogatore e rappresentante il numero 28</hi>;</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<p>un'<hi facs="#LL1.25_hotspot_1v_08">annotazione molto piccola che riporta il numero 21</hi>, posizionata nella parte alta del foglio, leggermente a sinistra.</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>
+									È presente un sigillo di ceralacca rossa, sul margine destro del foglio.
+								</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+					<date type="writing" when="1835-05-14">14 maggio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#SantocanaleFilippo">Filippo Santocanale</persName>
+					<placeName ref="TEI-ListPlace.xml#NA" type="postmark">Napoli</placeName>
+					<date type="postmark" when="1835-05-30">30 maggio 1835</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera
+					</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="scn">Siciliano</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.25_folio_1r">
+			<graphic height="3551px" url="LL1.25_0001.jpg" width="2634px" />
+			<zone points="254,226 246,330 996,324 1230,314 2434,300 2428,224" rendition="Line" xml:id="LL1.25_line_1r_01" />
+			<zone points="142,318 150,382 1306,366 2174,358 2528,372 2516,294 1058,306 972,306" rendition="Line" xml:id="LL1.25_line_1r_02" />
+			<zone points="142,400 136,480 486,454 810,468 1276,464 1630,454 2002,424 2510,420 2504,360 2048,352 388,388" rendition="Line" xml:id="LL1.25_line_1r_03" />
+			<zone points="118,474 120,534 584,542 694,546 1196,546 1648,526 1750,508 2404,490 2504,482 2506,424 1816,434 986,436" rendition="Line" xml:id="LL1.25_line_1r_04" />
+			<zone points="122,542 110,628 586,598 816,586 1498,562 1600,582 1934,570 2042,572 2520,526 2518,482 2068,472 1438,508 772,504" rendition="Line" xml:id="LL1.25_line_1r_05" />
+			<zone points="114,604 110,672 370,692 754,644 1256,644 1652,618 1892,626 2416,602 2420,538 1626,554 1278,552" rendition="Line" xml:id="LL1.25_line_1r_06" />
+			<zone points="102,730 96,806 484,748 992,728 1950,686 2524,672 2524,596 1596,614 1396,614 524,654" rendition="Line" xml:id="LL1.25_line_1r_07" />
+			<zone points="104,776 92,892 278,844 628,816 882,796 1402,790 1990,760 2000,808 2146,784 2360,776 2518,760 2514,688 1836,692" rendition="Line" xml:id="LL1.25_line_1r_08" />
+			<zone points="94,888 94,960 356,940 880,890 1228,874 1598,870 1978,870 2332,840 2518,846 2522,776 1860,782 808,822" rendition="Line" xml:id="LL1.25_line_1r_09" />
+			<zone points="90,950 90,1034 380,1018 728,1002 1220,960 1568,942 1936,930 2448,916 2518,910 2516,846 2142,850 1372,866" rendition="Line" xml:id="LL1.25_line_1r_10" />
+			<zone points="84,1032 84,1112 410,1100 650,1090 888,1070 1248,1060 1644,1060 2134,1022 2490,974 2468,918 1950,934 1618,934 938,982" rendition="Line" xml:id="LL1.25_line_1r_11" />
+			<zone points="80,1114 80,1196 406,1162 448,1218 562,1162 644,1182 870,1140 1044,1152 1288,1112 1700,1106 2516,1064 2518,994 1556,1032 1192,1042 780,1062" rendition="Line" xml:id="LL1.25_line_1r_12" />
+			<zone points="78,1212 78,1300 310,1312 696,1250 1270,1198 1600,1222 1866,1196 2418,1164 2514,1190 2508,1076 1476,1078 1242,1104" rendition="Line" xml:id="LL1.25_line_1r_13" />
+			<zone points="80,1292 72,1384 350,1382 748,1354 1090,1324 1720,1296 1854,1320 2210,1284 2514,1276 2508,1192 1958,1182 330,1296" rendition="Line" xml:id="LL1.25_line_1r_14" />
+			<zone points="74,1390 68,1482 552,1436 956,1412 1648,1384 2106,1350 2494,1360 2494,1280 1614,1306" rendition="Line" xml:id="LL1.25_line_1r_15" />
+			<zone points="76,1484 72,1556 570,1522 1080,1502 1670,1474 1926,1466 2502,1444 2504,1368 1880,1372 1570,1386 670,1434" rendition="Line" xml:id="LL1.25_line_1r_16" />
+			<zone points="68,1560 58,1650 142,1666 554,1632 698,1632 864,1620 2170,1532 2186,1464 1216,1488" rendition="Line" xml:id="LL1.25_line_1r_17" />
+			<zone points="72,1642 72,1732 180,1772 578,1748 1216,1692 1424,1708 2144,1676 2144,1558 698,1628" rendition="Line" xml:id="LL1.25_line_1r_18" />
+			<zone points="72,1738 78,1942  356,1972 536,1962 650,1864 972,1878 1236,1810 1262,1724 1206,1682" rendition="Line" xml:id="LL1.25_line_1r_19" />
+			<zone lrx="2500" lry="1846" rendition="Line" ulx="1172" uly="1744" xml:id="LL1.25_line_1r_20" />
+			<zone points="86,1940 86,2050 518,2038 690,2064 1068,1998 1498,2010 1796,2006 2066,1940 2506,1932 2510,1846 1930,1824 1310,1884 708,1942" rendition="Line" xml:id="LL1.25_line_1r_21" />
+			<zone points="86,2056 80,2164 244,2158 980,2162 2436,2078 2522,2080 2518,1974 1994,1982 1254,2026 854,2050" rendition="Line" xml:id="LL1.25_line_1r_22" />
+			<zone points="102,2166 96,2242 292,2276 704,2238 1592,2212 1806,2204 2520,2160 2516,2078 1676,2110 762,2138" rendition="Line" xml:id="LL1.25_line_1r_23" />
+			<zone points="96,2248 82,2348 426,2352 576,2340 1500,2304 1790,2308 2468,2264 2468,2148 2264,2154 1468,2192 1152,2210" rendition="Line" xml:id="LL1.25_line_1r_24" />
+			<zone points="92,2340 80,2446 642,2410 1362,2402 2500,2358 2490,2280" rendition="Line" xml:id="LL1.25_line_1r_25" />
+			<zone points="84,2432 84,2520 660,2530 982,2528 1862,2508 2134,2508 2490,2464 2496,2374 1788,2414 998,2410" rendition="Line" xml:id="LL1.25_line_1r_26" />
+			<zone lrx="2511" lry="2617" rendition="Line" ulx="66" uly="2490" xml:id="LL1.25_line_1r_27" />
+			<zone lrx="2512" lry="2722" rendition="Line" ulx="66" uly="2604" xml:id="LL1.25_line_1r_28" />
+			<zone lrx="2522" lry="2816" rendition="Line" ulx="66" uly="2712" xml:id="LL1.25_line_1r_29" />
+			<zone lrx="2496" lry="2914" rendition="Line" ulx="118" uly="2812" xml:id="LL1.25_line_1r_30" />
+			<zone lrx="2526" lry="3034" rendition="Line" ulx="92" uly="2932" xml:id="LL1.25_line_1r_31" />
+			<zone lrx="2520" lry="3162" rendition="Line" ulx="98" uly="3038" xml:id="LL1.25_line_1r_32" />
+			<zone points="332,3160 330,3260 550,3246 984,3220 1482,3204 1776,3198  1950,3236 2046,3236 2406,3188 2406,3144 1684,3124 1538,3132 900,3178" rendition="Line" xml:id="LL1.25_line_1r_33" />
+			<zone points="1962,3214 1956,3278 2096,3268 2378,3254 2396,3200" rendition="Line" xml:id="LL1.25_line_1r_34" />
+			<zone points="2090,3242 2074,3294 2474,3300 2470,3230" rendition="Line" xml:id="LL1.25_line_1r_35" />
+			<zone lrx="1874" lry="3298" rendition="Line" ulx="1442" uly="3208" xml:id="LL1.25_line_1r_36" />
+			<zone points="150,3204 148,3312 286,3296 446,3304 602,3282 998,3270 1004,3220 762,3226 280,3234" rendition="Line" xml:id="LL1.25_line_1r_37" />
+			<zone points="490,3274 486,3330 1352,3314 1352,3232" rendition="Line" xml:id="LL1.25_line_1r_38" />
+		</surface>
+		<surface n="2" xml:id="LL1.25_folio_1v">
+			<!-- 1v -->
+			<graphic height="3514px" url="LL1.25_0002.jpg" width="2634px" />
+			<zone lrx="1108" lry="1940" rendition="HotSpot" ulx="942" uly="1720" xml:id="LL1.25_hotspot_1v_01" />
+			<zone lrx="1354" lry="2324" rendition="Line" ulx="1084" uly="1702" xml:id="LL1.25_line_1v_01" />
+			<zone lrx="1480" lry="2324" rendition="Line" ulx="1396" uly="1710" xml:id="LL1.25_line_1v_02" />
+			<zone lrx="1632" lry="2324" rendition="Line" ulx="1484" uly="950" xml:id="LL1.25_line_1v_03" />
+			<zone lrx="1816" lry="1794" rendition="Line" ulx="1645" uly="1188" xml:id="LL1.25_line_1v_04" />
+			<!--timbro Napoli 30 maggio 1835 -->
+			<zone lrx="828" lry="2277" rendition="HotSpot" ulx="417" uly="1901" xml:id="LL1.25_hotspot_1v_02" />
+			<!--timbro biblioteca universitaria di Catania -->
+			<zone lrx="1418" lry="3015" rendition="HotSpot" ulx="944" uly="2608" xml:id="LL1.25_hotspot_1v_03" />
+			<!--timbro di colore nero non identificabile e non leggibile -->
+			<zone lrx="1231" lry="2313" rendition="HotSpot" ulx="930" uly="1966" xml:id="LL1.25_hotspot_1v_04" />
+			<!--Timbro con scritto Genova -->
+			<zone lrx="1497" lry="1770" rendition="HotSpot" ulx="1154" uly="1424" xml:id="LL1.25_hotspot_1v_05" />
+			<!-- timbro circolare con dentro scritto maggio 1835 e qualcos'altro non comprensibile -->
+			<zone lrx="1298" lry="1400" rendition="HotSpot" ulx="1009" uly="1139" xml:id="LL1.25_hotspot_1v_06" />
+			<zone lrx="1255" lry="1438" rendition="HotSpot" ulx="1020" uly="986" xml:id="LL1.25_hotspot_1v_07" />
+			<!-- annotazione piccola: 21 -->
+			<zone lrx="664" lry="540" rendition="HotSpot" ulx="565" uly="433" xml:id="LL1.25_hotspot_1v_08" />
+			<!-- segni non identificabili -->
+			<zone lrx="1795" lry="2144" rendition="HotSpot" ulx="1585" uly="1899" xml:id="LL1.25_hotspot_1v_09" />
+			<zone lrx="1742" lry="1390" rendition="HotSpot" ulx="1138" uly="954" xml:id="LL1.25_hotspot_1v_10" />
+		</surface>
+	</facsimile>
+	<text n="LL1.25" subtype="manuscript" type="lettera" xml:id="LL1.25">
+		<front xml:lang="fr">
+			<pb facs="#LL1.25_folio_1r" n="1" xml:id="LL1.25_fol_1r_front" />
+			<div type="envelope">
+				<div type="sent">
+					<dateline copyOf="#LL1.25_line_1r_01_multiple" n="ab_04">
+						<s n="s_19" type="sentence">
+							<lb facs="#LL1.25_line_1r_36" n="36" xml:id="LL1.25_lb_1r_36_front" />
+							<date when="1935-05-14">14<am>:</am>Maggio 35<am>:</am></date>
+							<address xml:lang="fr">
+								<lb facs="#LL1.25_line_1r_37" n="37" xml:id="LL1.25_lb_1r_37_front" />
+								<addrLine>19: bis: Rampe de pont de<placeName ref="TEI-ListPlace.xml#NSS">Neuilly</placeName>
+								</addrLine>
+								<lb facs="#LL1.25_line_1r_38" n="38" xml:id="LL1.25_lb_1r_38_front" />
+								<addrLine>(près de <placeName ref="TEI-ListPlace.xml#Paris">paris</placeName>) à <placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName>
+								</addrLine>
+							</address>
+						</s>
+					</dateline>
+				</div>
+				<div type="destination">
+					<ab copyOf="#LL1.25_line_1v_01_multiple" type="receiver">
+						<address xml:lang="fr">
+							<lb facs="#LL1.25_line_1v_01" n="1" xml:id="LL1.25_lb_1v_01_front" />
+							<addrLine rend="underline"><region>deux Siciles</region></addrLine>
+							<lb facs="#LL1.25_line_1v_02" n="2" xml:id="LL1.25_lb_1v_02_front" />
+							<addrLine>à Monsieur 
+								<lb facs="#LL1.25_line_1v_03" n="3" xml:id="LL1.25_lb_1v_03_front" />
+								Monsieur <persName ref="TEI-ListPerson.xml#SantocanaleFilippo">Philippe Santocanale</persName>
+							</addrLine>
+							<lb facs="#LL1.25_line_1v_04" n="4" xml:id="LL1.25_lb_1v_04_front" />
+							<addrLine>à <placeName ref="TEI-ListPlace.xml#NA">Naples</placeName>
+							</addrLine>
+						</address>
+					</ab>
+					<ab facs="#LL1.25_hotspot_1v_02" type="receiver-stamp" xml:id="LL1.25_hs_1v_02_front">
+						<stamp type="postmark">
+							<mentioned>
+								<placeName ref="TEI-ListPlace.xml#NA">NAPOLI</placeName>
+								<date when="1835-05-30">30. MAG. 1835</date>
+							</mentioned>
+						</stamp>
+					</ab>
+				</div>
+			</div>
+		</front>
+
+		<body xml:lang="it">
+			<pb facs="#LL1.25_folio_1r" n="1" xml:id="LL1.25_fol_1r" />
+			<!-- fronte-recto -->
+			<div type="letter-body">
+				<salute n="ab_01" rend="first_line_indented">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.25_line_1r_01" n="1" xml:id="LL1.25_lb_1r_01" />
+						Mio caro <persName ref="TEI-ListPerson.xml#SantocanaleFilippo">amico</persName> —
+					</s>
+				</salute>
+				<ab n="ab_02">
+					<s n="s_02" type="sentence">
+						Vi ringrazio per la tanta pena che vi siete data riguardo
+						<lb facs="#LL1.25_line_1r_02" n="2" xml:id="LL1.25_lb_1r_02" />
+						allo <term key="lesmu" ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito</term> de' <rs ref="TEI-ListWork.xml#Puritani" type="work">Puritani</rs>.
+					</s>
+					<s n="s_03" type="sentence">
+						La lettera della Deputazione è in regola, e come io vi <w>sug
+							<lb break="no" facs="#LL1.25_line_1r_03" n="3" rend="double-stroke" xml:id="LL1.25_lb_1r_03" />
+							gerii.</w>
+					</s>
+					<s n="s_04" type="sentence">
+						Si desidera che io faccia cambiare qualche verso non ammissibile dalla vostra
+						<lb facs="#LL1.25_line_1r_04" n="4" xml:id="LL1.25_lb_1r_04" />
+						<term key="lesmu" ref="TEI-ListTerm.xml#censura" subtype="music-term">censura,</term>
+						dall'istesso poeta del
+						<term key="lesmu" ref="TEI-ListTerm.xml#libretto" subtype="music-term">libro:</term>
+						egli si trova in questo momento a
+						<placeName ref="TEI-ListPlace.xml#London">Londra,</placeName> e
+						<lb facs="#LL1.25_line_1r_05" n="5" xml:id="LL1.25_lb_1r_05" />
+						quindi m'è impossibile per ora contentarli;
+					</s>
+					<s n="s_05" type="sentence">
+						voi frattanto fategli sapere, che
+						<lb facs="#LL1.25_line_1r_06" n="6" xml:id="LL1.25_lb_1r_06" />
+						<hi rend="underline">la sola fine</hi> del
+						<term ref="TEI-ListTerm.xml#duetto" subtype="music-term">duetto</term>
+						dei due
+						<term key="lesmu" ref="TEI-ListTerm.xml#basso" subtype="music-term">bassi</term>
+						nel<space />
+						<choice>
+							<abbr><num type="ordinal" value="2">2<am>:</am>°</num></abbr>
+							<expan>secondo</expan>
+						</choice>
+						<term key="lesmu" ref="TEI-ListTerm.xml#atto" subtype="music-term">atto,</term>
+						potrà incontrare
+						<lb facs="#LL1.25_line_1r_07" n="7" xml:id="LL1.25_lb_1r_07" />
+						qualche difficoltà pei versi <pc resp="#SP" type="same">=</pc>
+						<hi rend="underline">Suoni la tromba e intrepido</hi> <pc resp="#SP" type="same">=</pc>
+						<hi rend="underline">io pugnerò da
+							<lb facs="#LL1.25_line_1r_08" n="8" xml:id="LL1.25_lb_1r_08" />
+							forte</hi> — <hi rend="underline">bello è incontrar la morte</hi> — <hi rend="underline">gridando libertà!</hi><ptr target="#LL1.25_note2" /> — questi soli<space /><num type="cardinal" value="4">quattro</num>
+							<lb facs="#LL1.25_line_1r_09" n="9" xml:id="LL1.25_lb_1r_09" />
+						versi cambiati, tutta l'<term key="lesmu" ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term> sarà ricevuta ed approvata, perché non esiste più
+						<lb facs="#LL1.25_line_1r_10" n="10" xml:id="LL1.25_lb_1r_10" />
+						una sola parola che possa incontrar difficoltà di censori —
+					</s>
+					<s n="s_06" type="question">
+						Come, voi venite
+						<lb facs="#LL1.25_line_1r_11" n="11" xml:id="LL1.25_lb_1r_11" />
+						a <placeName ref="TEI-ListPlace.xml#MI">Milano,</placeName> e non potete fare una corsa sino a <placeName ref="TEI-ListPlace.xml#Paris">Parigi?</placeName>
+					</s>
+					<s n="s_07" type="sentence">
+						<choice resp="#DS #LM">
+							<orig>Tale</orig>
+							<reg>Tal</reg>
+						</choice> risoluzione non è
+						<lb facs="#LL1.25_line_1r_12" n="12" xml:id="LL1.25_lb_1r_12" />
+						da uomo di genio qual siete!<space /><num type="cardinal" value="15">quindici</num><space />giorni di tempo e voi da <placeName ref="TEI-ListPlace.xml#MI">Milano</placeName> sarete
+						<lb facs="#LL1.25_line_1r_13" n="13" xml:id="LL1.25_lb_1r_13" />
+						a <placeName ref="TEI-ListPlace.xml#Paris">Parigi,</placeName> lo vedrete, e ritornerete <add place="supralinear" resp="#SP #GS"> a <placeName ref="TEI-ListPlace.xml#NA">Napoli</placeName>
+						</add> per <placeName ref="TEI-ListPlace.xml#Marseille">Marsiglia,</placeName> ove non v'è più <w>cho
+							<lb break="no" facs="#LL1.25_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.25_lb_1r_14" />
+							lera;</w>
+					</s>
+					<s n="s_08" type="sentence">
+						così ho consigliato a <persName ref="TEI-ListPerson.xml#FlorimoFrancesco">Florimo,</persName> e chi sà se facendo la pace, ora
+						<lb facs="#LL1.25_line_1r_15" n="15" xml:id="LL1.25_lb_1r_15" />
+						che v'incontrerete o v'avrete incontrato, non v'unite insieme
+						<lb facs="#LL1.25_line_1r_16" n="16" xml:id="LL1.25_lb_1r_16" />
+						a scorrere l'italia per giungere sino a
+						<placeName ref="TEI-ListPlace.xml#Paris">Parigi.</placeName>
+					</s>
+					<s n="s_09" type="sentence">
+						Basta fate voi, e
+						<lb facs="#LL1.25_line_1r_17" n="17" xml:id="LL1.25_lb_1r_17" />
+						seguite la vostra ispirazione.
+					</s>
+					<s n="s_10" type="sentence">
+						Io ora mi trovo alle porte di
+						<lb facs="#LL1.25_line_1r_18" n="18" xml:id="LL1.25_lb_1r_18" />
+						<placeName ref="TEI-ListPlace.xml#Paris">Parigi,</placeName> e voi dirigete le lettere —
+						<address xml:lang="fr">
+							<addrLine rend="underline">N<am>:</am><space /><num type="cardinal" value="19">19</num><am>:</am><space/>bis rampe de pont
+							</addrLine>
+							<lb facs="#LL1.25_line_1r_19" n="19" xml:id="LL1.25_lb_1r_19" />
+							<addrLine rend="underline">
+								de <placeName ref="TEI-ListPlace.xml#NSS">Neuilly</placeName> à <placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName></addrLine>
+							<addrLine>
+								<add place="sublinear">près de <placeName ref="TEI-ListPlace.xml#Paris">Paris</placeName> <milestone unit="line" /><pc resp="#DS">=</pc>piccolo carattere<pc resp="#DS">=</pc>
+								</add>
+							</addrLine>
+							<addrLine>
+								<placeName>(France).</placeName>
+							</addrLine>
+						</address>
+					</s>
+					<s n="s_11" type="sentence" rend="first_line_indented">
+						<lb facs="#LL1.25_line_1r_20" n="20" xml:id="LL1.25_lb_1r_20" />
+						Riguardo al
+						<choice>
+							<abbr>vro<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ro</expan>
+						</choice>
+						raccomandato
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+							<expan>Sig<ex>no</ex>r</expan>
+						</choice>
+						<choice>
+							<abbr>Mro</abbr>
+							<expan>M<ex>aest</ex>ro</expan>
+						</choice>
+						<lb facs="#LL1.25_line_1r_21" n="21" xml:id="LL1.25_lb_1r_21" />
+						<persName ref="TEI-ListPerson.xml#SommaLuigi">Somma,</persName>tanto
+						<persName ref="TEI-ListPerson.xml#RossiniGioachino">Rossini</persName> che io al passaggio che farà
+						<add place="supralinear" resp="#GS #SP">
+							da <placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+						</add>
+						<choice>
+							<abbr>M<am>:</am><hi rend="sup">e</hi></abbr>
+							<expan>M<ex resp="#FA #AZ">adam</ex>e</expan>
+						</choice>
+						<persName ref="TEI-ListPerson.xml#MalibranMaria">Malibran</persName>
+						<lb facs="#LL1.25_line_1r_22" n="22" xml:id="LL1.25_lb_1r_22" />
+						per portarsi a <placeName ref="TEI-ListPlace.xml#MI">Milano</placeName> glie lo raccomanderemo caldamente;
+					</s>
+					<s n="s_12" type="question">
+						ma <w>sape
+							<lb break="no" facs="#LL1.25_line_1r_23" n="23" rend="double-stroke" xml:id="LL1.25_lb_1r_23" />
+							te</w> di già che questo povero giovine non è affatto piaciuto con un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term>
+						<lb facs="#LL1.25_line_1r_24" n="24" xml:id="LL1.25_lb_1r_24" />
+						che un mese fà diede a <placeName ref="TEI-ListPlace.xml#MI">Milano?</placeName>
+					</s>
+					<s n="s_13" type="sentence">
+						Basta, auguriamoci fortuna
+						<lb facs="#LL1.25_line_1r_25" n="25" xml:id="LL1.25_lb_1r_25" />
+						per la nuova che andrà a scrivere.
+					</s>
+					<s n="s_14" type="sentence">
+						<persName ref="TEI-ListPerson.xml#SantocanaleFilippo">Mio caro amico,</persName> io voglio sperare
+						<lb facs="#LL1.25_line_1r_26" n="26" xml:id="LL1.25_lb_1r_26" />
+						che voi verrete a <placeName ref="TEI-ListPlace.xml#Paris">parigi:</placeName> figuratevi, da <placeName ref="TEI-ListPlace.xml#MI">Milano</placeName> a <placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName> impiegherete al
+						<lb facs="#LL1.25_line_1r_27" n="27" xml:id="LL1.25_lb_1r_27" />
+						più<space /><num type="cardinal" value="5">cinque</num><space />giorni per la posta, quindi a che privarmi del piacere di vedervi, e
+						<lb facs="#LL1.25_line_1r_28" n="28" xml:id="LL1.25_lb_1r_28" />
+						voi di visitare questa capitale del mondo – 
+					</s>
+					<s n="s_15" type="sentence">
+						Venite dunque, e <w>persuade
+							<lb break="no" facs="#LL1.25_line_1r_29" n="29" rend="double-stroke" xml:id="LL1.25_lb_1r_29" />
+							tene</w> il caro <persName ref="TEI-ListPerson.xml#SantocanaleGiuseppe">Pepé,</persName> che da buon <distinct type="dialectal" xml:lang="scn" rend="underline" resp="#DS">cunziariotu</distinct>
+						<ptr target="#LL1.25_note1" />
+						troverà bene il mio <w>desi
+							<lb break="no" facs="#LL1.25_line_1r_30" n="30" rend="double-stroke" xml:id="LL1.25_lb_1r_30" />
+							derio.</w>
+					</s>
+					<s n="s_16" type="sentence">
+						Mille cose a
+						<persName>Pietromasi</persName>
+						ed a tutti gli amici nostri —
+						<lb facs="#LL1.25_line_1r_31" n="31" xml:id="LL1.25_lb_1r_31" />
+						viaggio facendo scrivetemi qualche volta, voglio sapere l'impressione
+						<lb facs="#LL1.25_line_1r_32" n="32" xml:id="LL1.25_lb_1r_32" />
+						che vi farà qualche città d'Italia, e se vi divertirà tal movimento.
+					</s>
+				</ab>
+			</div>
+			<!-- fine letter body -->
+			<div n="c_01" type="closer">
+				<ab n="ab_03" rend="first_line_indented">
+					<s n="s_17" type="sentence">
+						<lb facs="#LL1.25_line_1r_33" n="33" xml:id="LL1.25_lb_1r_33" />
+						Addio, <persName ref="TEI-ListPerson.xml#SantocanaleFilippo">mio caro</persName> — Ricevete i miei
+						<choice>
+							<abbr>abb<am>:</am><hi rend="sup">ci</hi></abbr>
+							<expan>abb<ex>rac</ex>ci</expan>
+						</choice> fatene a
+						<persName ref="TEI-ListPerson.xml#SantocanaleGiuseppe">pepé</persName>
+						–
+					</s>
+				</ab>
+				<salute n="ab_04">
+					<s n="s_18" type="sentence">
+						<lb facs="#LL1.25_line_1r_34" n="34" xml:id="LL1.25_lb_1r_34" />
+						<hi rend="align(right)">
+							Il
+							<choice>
+								<abbr>vro<g ref="g01" rend="sup"/></abbr>
+								<expan>v<ex>ost</ex>ro</expan>
+							</choice>
+							<choice>
+								<abbr>affsmo</abbr>
+								<expan>aff<ex>ezionatis</ex>simo</expan>
+							</choice>
+						</hi>
+					</s>
+				</salute>
+				<lb facs="#LL1.25_line_1r_35" n="35" xml:id="LL1.25_lb_1r_35" />
+				<signed>
+					<hi rend="align(right)">
+						<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName>
+					</hi>
+				</signed>
+			</div>
+			<div type="sent">
+				<dateline n="ab_04" xml:id="LL1.25_line_1r_01_multiple">
+					<s n="s_19" type="sentence">
+						<lb facs="#LL1.25_line_1r_36" n="36" xml:id="LL1.25_lb_1r_36" />
+						<date when="1935-05-14" rend="align(center)">14<am>:</am> Maggio 35<am>:</am></date>
+						<address xml:lang="fr">
+							<lb facs="#LL1.25_line_1r_37" n="37" xml:id="LL1.25_lb_1r_37" />
+							<addrLine>
+								19: bis: rampe de pont de
+								<placeName ref="TEI-ListPlace.xml#NSS">Neuilly</placeName>
+							</addrLine>
+							<lb facs="#LL1.25_line_1r_38" n="38" xml:id="LL1.25_lb_1r_38" />
+							<addrLine>
+								(près de <placeName ref="TEI-ListPlace.xml#Paris">paris</placeName>) à
+								<placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName>
+							</addrLine>
+						</address>
+					</s>
+				</dateline>
+			</div>
+			<pb facs="#LL1.25_folio_1v" n="2" xml:id="LL1.25_fol_1v" />
+			<div type="destination">
+				<ab type="receiver" xml:id="LL1.25_line_1v_01_multiple">
+					<address xml:lang="fr">
+						<lb facs="#LL1.25_line_1v_01" n="1" xml:id="LL1.25_lb_1v_01" />
+						<addrLine rend="underline"><region>deux Siciles</region></addrLine>
+						<lb facs="#LL1.25_line_1v_02" n="2" xml:id="LL1.25_lb_1v_02" />
+						<addrLine>
+							à Monsieur 
+							<lb facs="#LL1.25_line_1v_03" n="3" xml:id="LL1.25_lb_1v_03" />
+							Monsieur
+							<persName ref="TEI-ListPerson.xml#SantocanaleFilippo">Philippe Santocanale</persName>
+						</addrLine>
+						<lb facs="#LL1.25_line_1v_04" n="4" xml:id="LL1.25_lb_1v_04" />
+						<addrLine rend="align(right)">
+							à
+							<placeName ref="TEI-ListPlace.xml#NA">Naples</placeName>
+						</addrLine>
+					</address>
+				</ab>
+							
+				<ab facs="#LL1.25_hotspot_1v_02" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_02">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#NA">NAPOLI</placeName>
+						</mentioned>
+						<mentioned>
+							<date when="05-30" xml:id="LL1.25_1v_01_1835-05-30" next="LL1.25_1v_02_1835-05-30">30. MAG.</date>
+						</mentioned>
+						<mentioned>
+							<date when="1835" xml:id="LL1.25_1v_02_1835-05-30" prev="LL1.25_1v_01_1835-05-30">1835</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="sent">
+				<ab facs="#LL1.25_hotspot_1v_06" type="paratext" xml:id="LL1.25_hs_1v_06">
+					<stamp type="postmark">
+						<mentioned>
+							<date when="1835-05" xml:lang="fr">MAI 1835</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.25_hotspot_1v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_01">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+				<ab facs="#LL1.25_hotspot_1v_03" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_03">
+					<stamp>
+						<mentioned>BIBLIOTECA UNIVERSITARIA</mentioned>
+						<mentioned>DI <placeName ref="TEI-ListPlace.xml#CT">CATANIA</placeName></mentioned>
+					</stamp>
+				</ab>
+				<ab facs="#LL1.25_hotspot_1v_08" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_08">
+					<fw type="catalogNum">
+						<idno type="oldCat">21</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.25_hotspot_1v_09" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_09">
+					<fw>
+						<gap reason="illegible" extent="unknown" />
+					</fw>
+				</ab>
+				<ab facs="#LL1.25_hotspot_1v_10" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_10">
+					<fw type="catalogNum">
+						<idno type="oldCat">28</idno>
+					</fw>
+				</ab>
+			</div>
+			<div type="sent">
+				<ab facs="#LL1.25_hotspot_1v_04" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_04">
+					<stamp>
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#SPontificio">SP</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+				<ab facs="#LL1.25_hotspot_1v_05" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_05">
+					<stamp>
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#GE">ESTERA DA GENOVA</placeName>
+						</mentioned>
+						<mentioned>
+							<gap reason="illegible" extent="unknown"/>
+						</mentioned>
+					</stamp>
+					
+				</ab>
+				<ab facs="#LL1.25_hotspot_1v_07" subtype="addition" type="paratext" xml:id="LL1.25_hs_1v_07">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note resp="#GS" xml:id="LL1.25_note1">
+						<p>
+							Con il termine
+							<hi rend="italic">cunziarioti</hi> (da “cunzarìa”, 'luogo in cui si conciano le pelli') Bellini indicava il gruppo di giovani amici siciliani raccolti intorno a Filippo Santocanale, che si contrassegnava per il divertimento goliardico e il ricorso a un linguaggio ludicamente triviale.
+						</p>
+					</note>
+					<note resp="#GS" xml:id="LL1.25_note2">
+						<p>
+							Il duetto tra Riccardo (baritono) e Giorgio (basso) «Il rival salvar tu devi» si concludeva con la cabaletta duetto «Suoni la tromba, e intrepido», che suscitò un travolgente entusiasmo sin dalla prova generale dei <hi rend="italic">Puritani</hi> (Théâtre Italien, 20 gennaio 1835); per questo Bellini decise di anticipare la “Scena e aria d'Elvira” e di chiudere con il duetto l'atto II dell'opera. Nel melodramma ottocentesco, il termine “cabaletta” indica proprio la sezione conclusiva di un duetto (o di un'aria), di carattere vivace.
+						</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_25_bibliography">
+
+					<head>Bibliografia della lettera LL1.25</head>
+					<bibl xml:id="LL1_25_Amore">
+						<ref target="TEI-ListBibl.xml#Amore1892">
+							<bibl>
+								<author>Amore</author>
+								<date when="1894">1892</date>
+								<citedRange from="359" to="359" unit="page">359</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_25_Cambi">
+						<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+							<bibl>
+								<author>Cambi</author>
+								<date when="1943">1943</date>
+								<citedRange from="550" to="551" unit="page">550-551</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_25_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2005">2005</date>
+								<citedRange from="405" to="406" unit="page">405-406</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

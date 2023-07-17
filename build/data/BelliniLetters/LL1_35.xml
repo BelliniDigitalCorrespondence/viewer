@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a [Giovanni Ricordi], in Puteaux, 3 settembre 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-07">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordineted by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Maria Iacono</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_35.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="513" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="591" to="591" unit="page">591</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.35</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 1, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<!--info mittente-->
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+								a
+								<persName cert="medium" ref="TEI-ListPerson.xml#RicordiGiovanni" resp="#GS">Giovanni Ricordi</persName>
+								in
+								<placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName>
+								,
+								<date when="1835-09-03">3 settembre 1835</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr scn">Italiano di inizio Ottocento con altre mani in francese e un termine in siciliano.</textLang>
+							<note>Il nome del destinatario è stato attribuito da Seminara ma non è espresso in maniera esplicita nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<!--quantità-->
+									<dimensions unit=" mm">
+										<height>204</height>
+										<width>132</width>
+									</dimensions>
+								</extent>
+								<collation>Minuta di lettera, un foglio a due facciate con testo sul recto. Il folio non presenta piegature.
+								</collation>
+								<condition>
+									<p>Lettera in buona condizioni fisiche. Il verso presenta qualche strappo lugo il contorno della lettera.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc cert="medium" hands="3">
+							<handNote>
+								<p>
+									Scrittura dell'autore a mano libera leggibile.
+								</p>
+							</handNote>
+							<handNote facs="#LL1.35.hotspot_1r_01" xml:id="h1">
+								<p>
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term>
+									indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">vingtsixième</term>
+									significa
+									<num type="ordinal" value="26">ventiseiesimo</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term>
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>
+									Sul verso sono presenti
+									<hi facs="#LL1.35_hotspot_1v_04">parole dalla calligrafia simile a quella dell'autore. Si può ipotizzare che ci sia scritto "Jait bont", espressione che potrebbe risalire al francese dell'800</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<p>
+									Sul verso in alto,
+									<hi facs="#LL1.35_hotspot_1v_01">annotazione che presenta il numero 3 scritto, con inchiostro nero, probabilmente da un catalogatore</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h4">
+								<p>
+									Sul verso in basso,
+									<hi facs="#LL1.35_hotspot_1v_02">annotazione che presenta il codice "N 21" sottolineato e scritto con matita blu, probabilmente da un catalogatore</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h5">
+								<p>
+									Sul verso in basso,
+									<hi facs="#LL1.35_hotspot_1v_03">annotazione che presenta il numero 20 cerchiato e scritto con matita blu, probabilmente da un catalogatore</hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Put" type="writing">Puteaux, Parigi</placeName>
+					<date type="writing" when="1835-09-03">3 settembre 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName cert="medium" ref="TEI-ListPerson.xml#RicordiGiovanni" resp="#GS" role="publisher">Giovanni Ricordi</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+				<language ident="scn">Siciliano</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.35_folio_1r">
+			<graphic height="2482px" url="LL1.35_0001.jpg" width="1616px" />
+			<!--url/altezza/larghezza foglio-->
+			<zone lrx="1299" lry="148" rendition="Line" ulx="495" uly="47" xml:id="LL1.35_line_1r_01" />
+			<!--1° riga-->
+			<zone lrx="1419" lry="2427" rendition="Line" ulx="1066" uly="2020" xml:id="LL1.35_hotspot_1r_01" />
+			<!--firma con segno in basso a destra-->
+			<zone lrx="1560" lry="240" rendition="Line" ulx="290" uly="143" xml:id="LL1.35_line_1r_02" />
+			<!--2° riga-->
+			<zone lrx="1556" lry="351" rendition="Line" ulx="119" uly="230" xml:id="LL1.35_line_1r_03" />
+			<!--3° riga-->
+			<zone lrx="1499" lry="454" rendition="Line" ulx="106" uly="339" xml:id="LL1.35_line_1r_04" />
+			<!--4° riga-->
+			<zone lrx="1527" lry="547" rendition="Line" ulx="106" uly="447" xml:id="LL1.35_line_1r_05" />
+			<!--5° riga-->
+			<zone lrx="1563" lry="638" rendition="Line" ulx="106" uly="530" xml:id="LL1.35_line_1r_06" />
+			<!--6° riga-->
+			<zone lrx="1564" lry="725" rendition="Line" ulx="106" uly="624" xml:id="LL1.35_line_1r_07" />
+			<!--7° riga-->
+			<zone lrx="1579" lry="824" rendition="Line" ulx="106" uly="705" xml:id="LL1.35_line_1r_08" />
+			<!--8° riga-->
+			<zone lrx="1566" lry="922" rendition="Line" ulx="106" uly="827" xml:id="LL1.35_line_1r_09" />
+			<!--9° riga-->
+			<zone lrx="1566" lry="1003" rendition="Line" ulx="106" uly="904" xml:id="LL1.35_line_1r_10" />
+			<!--10° riga-->
+			<zone lrx="1569" lry="1099" rendition="Line" ulx="106" uly="1000" xml:id="LL1.35_line_1r_11" />
+			<!--11° riga-->
+			<zone lrx="1546" lry="1175" rendition="Line" ulx="106" uly="1075" xml:id="LL1.35_line_1r_12" />
+			<!--12° riga-->
+			<zone lrx="1580" lry="1284" rendition="Line" ulx="106" uly="1178" xml:id="LL1.35_line_1r_13" />
+			<!--13° riga-->
+			<zone lrx="1462" lry="1380" rendition="Line" ulx="106" uly="1276" xml:id="LL1.35_line_1r_14" />
+			<!--14° riga-->
+			<zone lrx="1569" lry="1469" rendition="Line" ulx="106" uly="1383" xml:id="LL1.35_line_1r_15" />
+			<!--15° riga-->
+			<zone lrx="1523" lry="1575" rendition="Line" ulx="106" uly="1471" xml:id="LL1.35_line_1r_16" />
+			<!--16° riga-->
+			<zone lrx="1585" lry="1680" rendition="Line" ulx="106" uly="1576" xml:id="LL1.35_line_1r_17" />
+			<!--17° riga-->
+			<zone lrx="1539" lry="1760" rendition="Line" ulx="106" uly="1654" xml:id="LL1.35_line_1r_18" />
+			<!--18° riga-->
+			<zone lrx="1569" lry="1855" rendition="Line" ulx="106" uly="1751" xml:id="LL1.35_line_1r_19" />
+			<!--19° riga-->
+			<zone lrx="1570" lry="1974" rendition="Line" ulx="106" uly="1863" xml:id="LL1.35_line_1r_20" />
+			<!--20° riga-->
+			<zone lrx="1506" lry="2093" rendition="Line" ulx="106" uly="1945" xml:id="LL1.35_line_1r_21" />
+			<!--21° riga-->
+			<zone lrx="975" lry="2157" rendition="Line" ulx="106" uly="2054" xml:id="LL1.35_line_1r_22" />
+			<!--22° riga-->
+		</surface>
+		<surface n="2" xml:id="LL1.35_folio_1v">
+			<graphic height="2482px" url="LL1.35_0002.jpg" width="1616px" />
+			<zone lrx="424" lry="138" rendition="HotSpot" ulx="140" uly="62" xml:id="LL1.35_hotspot_1v_04" />
+			<!--1° riga -->
+			<zone lrx="475" lry="225" rendition="HotSpot" ulx="403" uly="154" xml:id="LL1.35_hotspot_1v_01" />
+			<!--numero 2°riga-->
+			<zone lrx="1225" lry="2228" rendition="HotSpot" ulx="761" uly="1617" xml:id="LL1.35_hotspot_1v_02" />
+			<!--scritta con sottolineatura-->
+			<zone lrx="466" lry="2349" rendition="HotSpot" ulx="213" uly="2148" xml:id="LL1.35_hotspot_1v_03" />
+			<!--numero cerchiato-->
+		</surface>
+	</facsimile>
+	<text n="LL1.35" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.35">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.35_folio_1r" n="1" xml:id="LL1.35_fol_1r" />
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.35_line_1r_01" n="1" xml:id="LL1.35_lb_1r_01" />
+						<hi rend="align(center)">
+							<placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName>
+							<date when="1835-09-03">3<am>:</am><space />Settembre 35<am>:</am></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" rend="first_line_indented">
+						<lb facs="#LL1.35_line_1r_02" n="2" xml:id="LL1.35_lb_1r_02" />
+						Mio caro
+						<rs ref="TEI-ListPerson.xml#RicordiGiovanni" role="publisher" type="person">amico</rs>
+						—
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag">
+					<s n="s_03" type="sentence">
+						<choice resp="#DS #LM"><orig>Si,</orig><reg>Sì,</reg></choice> ho saputo tutto
+						<lb facs="#LL1.35_line_1r_03" n="3" xml:id="LL1.35_lb_1r_03" />
+						da
+						<persName ref="TEI-ListPerson.xml#SeveriniCarlo">Severini</persName>
+						l'infame azione del
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+							<expan>Sig<ex>no</ex>r</expan>
+						</choice>
+						<persName ref="TEI-ListPerson.xml#PugniCesare" role="composer">Pugni,</persName>
+						dopo
+						<lb facs="#LL1.35_line_1r_04" n="4" xml:id="LL1.35_lb_1r_04" />
+						che feci per lui ciò che
+						<choice resp="#DS #LM">
+							<reg>neanche</reg>
+							<orig>ne anche</orig>
+						</choice>
+						era
+						<lb facs="#LL1.35_line_1r_05" n="5" xml:id="LL1.35_lb_1r_05" />
+						nelle mie forze:
+					</s>
+					<s n="s_04" type="sentence">
+						senza contare i pezzi di
+						<lb facs="#LL1.35_line_1r_06" n="6" xml:id="LL1.35_lb_1r_06" />
+						<num type="cardinal" value="5">cinque</num><space />franchi che freguentemente dovea
+						<lb facs="#LL1.35_line_1r_07" n="7" xml:id="LL1.35_lb_1r_07" />
+						dargli perché si moriva di fame, con sua <w>mo
+						<lb break="no" facs="#LL1.35_line_1r_08" n="8" rend="double-stroke" xml:id="LL1.35_lb_1r_08" />
+						glie</w>
+						e
+						<num type="cardinal" value="6">sei</num><space/><rs type="personGrp">figli;</rs>
+						gli diedi<space /><num type="cardinal" value="200">duecento</num><space/>franchi
+						<lb facs="#LL1.35_line_1r_09" n="9" xml:id="LL1.35_lb_1r_09" />
+						per avermi copiato<space /><num type="cardinal" value="4">4<am>:</am>°</num> soli pezzi <hi rend="underline">dei</hi>
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">
+							<hi rend="underline">Puritani</hi></rs>
+						<lb facs="#LL1.35_line_1r_10" n="10" xml:id="LL1.35_lb_1r_10" />
+						per
+						<placeName ref="TEI-ListPlace.xml#NA">Napoli:</placeName>
+					</s>
+					<s n="s_05" type="sentence">
+						poi gli pagai<space /><num type="cardinal" value="250">250<am>:</am></num><space /><choice>
+							<abbr>f<am>:</am><hi rend="sup">i</hi></abbr>
+							<expan><ex resp="#GS">ranch</ex>i</expan>
+						</choice>
+						per una
+						<lb facs="#LL1.35_line_1r_11" n="11" xml:id="LL1.35_lb_1r_11" />
+						copia intera, senza che la
+						<orgName type="opera-org">Società</orgName>
+						avesse
+						<lb facs="#LL1.35_line_1r_12" n="12" xml:id="LL1.35_lb_1r_12" />
+						bisogno, tanto che l'abbiamo ancora:
+					</s>
+					<s n="s_06" type="sentence">
+						e solo
+						<lb facs="#LL1.35_line_1r_13" n="13" xml:id="LL1.35_lb_1r_13" />
+						si fece a mie preghiere ec: ec:
+					</s>
+					<s n="s_07" type="sentence">
+						Mi levai
+						<lb facs="#LL1.35_line_1r_14" n="14" xml:id="LL1.35_lb_1r_14" />
+						degli abiti quasi nuovi per vestirlo come
+						<lb facs="#LL1.35_line_1r_15" n="15" xml:id="LL1.35_lb_1r_15" />
+						nell'inverno passato, come in quest'està:
+					</s>
+					<s n="s_08" type="sentence">
+						<lb facs="#LL1.35_line_1r_16" n="16" xml:id="LL1.35_lb_1r_16" />
+						pregai delle
+						<rs type="person">Signore</rs>
+						per dello
+						<distinct rend="underline" type="dialectal" xml:lang="scn">spoglio</distinct>
+						<ptr target="#LL1.35_note1" />
+						<lb facs="#LL1.35_line_1r_17" n="17" xml:id="LL1.35_lb_1r_17" />
+						per
+						<rs type="person">sua moglie,</rs>
+						e gl'inviai<space /><num type="cardinal" value="2">due</num><space />pacch<supplied>i</supplied>
+						<lb facs="#LL1.35_line_1r_18" n="18" xml:id="LL1.35_lb_1r_18" />
+						di robba ec: ec:
+					</s>
+					<s n="s_09" type="sentence">
+						Lo raccomandai a
+						<persName ref="TEI-ListPerson.xml#RossiniGioachino" role="composer">Rossini:</persName>
+					</s>
+					<s n="s_10" type="sentence">
+						<lb facs="#LL1.35_line_1r_19" n="19" xml:id="LL1.35_lb_1r_19" />
+						questi gli procurò qualche scolaro, e gli
+						<lb facs="#LL1.35_line_1r_20" n="20" xml:id="LL1.35_lb_1r_20" />
+						avrebbe dato la piazza di maestro de' Cori,
+						<lb facs="#LL1.35_line_1r_21" n="21" xml:id="LL1.35_lb_1r_21" />
+						che è ben pagata, se egli avesse saputo
+						<lb facs="#LL1.35_line_1r_22" n="22" xml:id="LL1.35_lb_1r_22" />
+						tenere il piano ec: ec:
+						<ptr target="#LL1.35_note2" />
+					</s>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.35_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.35_hs_1r_01">
+					<fw>
+						<unclear>
+							<lb />
+							vingtsixième
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb facs="#LL1.35_folio_1v" n="2" xml:id="LL1.35_fol_1v" />
+			<div type="paratext">
+				<ab facs="#LL1.35_hotspot_1v_04" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_04">
+					<!--prima riga-->
+					<fw>
+						<unclear>Jait bont</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.35_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_01">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">3</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.35_hotspot_1v_02" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_02">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno  type="oldCat">N 21</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.35_hotspot_1v_03" hand="#h5" subtype="addition" type="paratext" xml:id="LL1.35_hs_1v_03">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">20</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="992" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.35_note1">
+						<bibl>
+							<citedRange from="591" to="591" unit="page">591</citedRange>
+						</bibl>
+						<p>
+							Sicilianismo, da intendersi per ‘abiti dismessi'; cfr. la voce ‘spògghiu' in TRAINA, p. 959: «veste usata e dismessa, che a volte suole regalarsi a' servitori , a' poveri».
+						</p>
+					</note>
+					<note resp="#GS" xml:id="LL1.35_note2">
+						<p>
+							La lettera è incompleta.
+						</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_35_bibliography">
+
+					<head>Bibliografia della lettera LL1.35</head>
+					<bibl xml:id="LL1_35_Amore">
+						<ref target="TEI-ListBibl.xml#Amore1892">
+							<bibl>
+								<author>Amore</author>
+								<date when="1894">1892</date>
+								<citedRange from="354" to="355" unit="page">354-355</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_35_Cambi">
+						<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+							<bibl>
+								<author>Cambi</author>
+								<date when="1943">1943</date>
+								<citedRange from="592" to="593" unit="page">592-593</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_35_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2005">2005</date>
+								<citedRange from="444" to="445" unit="page">444-445</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

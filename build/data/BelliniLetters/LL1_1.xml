@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Stefano Notarbartolo, duca di Sammartino, in Catania, [maggio] 1819</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-08">August 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Agnese Camici</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="SP">Santa Pellino</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_1.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="1" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="65" to="66" unit="page">65-66</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.1</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 2, ripiano 1, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a <persName ref="TEI-ListPerson.xml#NotarbartoloStefano">Stefano Notarbartolo</persName>, in <placeName ref="TEI-ListPlace.xml#CT">Catania</placeName>, <date cert="medium" resp="#GS" when="1819-05">maggio 1819</date>
+							</title>
+							<textLang mainLang="it-x-800">Italiano di inizio Ottocento.</textLang>
+							<note>La Supplica, in bella scrittura, non è di mano di Bellini, che appose solo la firma. Nella prima facciata del foglio un'altra mano ha scritto «Supp | 3. Mag 1819».</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige.</material>
+									<watermark>
+										<hi facs="#LL1.1_hotspot_1v_01">Filigrana di forma circolare leggermente visibile raffigurante uno stemma</hi>, posizionata nella zona centrale della carta 1v, visibile principalmente per metà, nella zona del folio non coperta da testo. La filigrana si espande per qualche centimetro attorno allo stemma.
+									</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>302</height>
+										<width>213</width>
+									</dimensions>
+								</extent>
+								<collation>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su tre facciate. La lettera presenta inoltre un'ulteriore piegatura verticale a circa un terzo della larghezza del folio. Sembra essere stato piegato tre volte, risulta infatti una divisione simmetrica in otto sezioni di pari dimensione, ogni facciata viene così divisa in quattro sezioni rettangolari.
+								</collation>
+								<condition>
+									<p>
+										Lettera in buone condizioni fisiche. Presenta due lacerazioni, la prima nell'angolo superiore destro della carta 2r, la seconda in quello inferiore. I bordi sono tutti leggermente frastagliati a causa dell'invecchiamento. Varie grandi macchie marroni su tutte le facciate, probabilmente anch'esse dovute all'invecchiamento del supporto materiale.
+									</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="6">
+							<handNote>
+								<p>Una prima mano, in inchiostro marrone, che non è di Vincenzo Bellini ha scritto il corpo della supplica, in bella grafia, su una colonna per foglio.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p><hi facs="#LL1.1_hotspot_2r_02">Firma di Bellini (unica sua mano in tutta la lettera)</hi> posta alla fine della lettera sulla carta 2r.</p>
+							</handNote>
+							<handNote facs="#LL1.1_hotspot_1r_01" xml:id="h2">
+								<p>Sulla carta 1r una mano ha annotato : "Supp | 3. Mag 1819 | SS88.".</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<p>Uno stesso catalogatore ha probabilmente scritto due annotazioni: un primo <hi facs="#LL1.1_hotspot_1r_03">numero di catalogo (188)</hi> nell'angolo superiore destro della carta 1r, e un <hi facs="#LL1.1_hotspot_2r_01">numero di catalogo (189)</hi> nell'angolo superiore destro della carta 2r.</p>
+							</handNote>
+							<handNote xml:id="h4">
+								<p>Una mano ha annotato nell'angolo superiore sinistro della carta 1r <hi facs="#LL1.1_hotspot_1r_02">una sigla illegibile</hi>.</p>
+							</handNote>
+							<handNote xml:id="h5">
+								<p>Nella carta 1r <hi facs="#LL1.1_hotspot_1r_04">una mano ha annotato il testo "S. E. Sig:r Duca di Sammartino Intendente della Prov.a di Catania"</hi>.</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#CT" type="writing">Catania</placeName>
+					<date cert="medium" resp="#GS" when="1819-05">Maggio 1819</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#NotarbartoloStefano">Stefano Notarbartolo, duca di Sammartino</persName>
+					<placeName>unknown</placeName>
+					<date type="writing" when="1819-05-03">3 maggio 1819</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Supplica</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.1_folio_1r">
+			<graphic height="1019px" url="LL1.1_0001.jpg" width="723px" />
+			<!-- Righe corpo lettera -->
+			<zone lrx="587" lry="107" rendition="Line" ulx="326" uly="32" xml:id="LL1.1_line_1r_01" />
+			<zone lrx="711" lry="146" rendition="Line" ulx="380" uly="85" xml:id="LL1.1_line_1r_02" />
+			<zone lrx="711" lry="176" rendition="Line" ulx="330" uly="151" xml:id="LL1.1_line_1r_03" />
+			<zone lrx="711" lry="203" rendition="Line" ulx="330" uly="184" xml:id="LL1.1_line_1r_04" />
+			<zone lrx="711" lry="237" rendition="Line" ulx="330" uly="215" xml:id="LL1.1_line_1r_05" />
+			<zone lrx="711" lry="273" rendition="Line" ulx="330" uly="248" xml:id="LL1.1_line_1r_06" />
+			<zone lrx="711" lry="308" rendition="Line" ulx="330" uly="279" xml:id="LL1.1_line_1r_07" />
+			<zone lrx="711" lry="342" rendition="Line" ulx="330" uly="314" xml:id="LL1.1_line_1r_08" />
+			<zone lrx="711" lry="376" rendition="Line" ulx="330" uly="354" xml:id="LL1.1_line_1r_09" />
+			<zone lrx="711" lry="408" rendition="Line" ulx="330" uly="384" xml:id="LL1.1_line_1r_10" />
+			<zone lrx="711" lry="444" rendition="Line" ulx="330" uly="414" xml:id="LL1.1_line_1r_11" />
+			<zone lrx="711" lry="486" rendition="Line" ulx="330" uly="444" xml:id="LL1.1_line_1r_12" />
+			<zone lrx="711" lry="516" rendition="Line" ulx="314" uly="489" xml:id="LL1.1_line_1r_13" />
+			<zone lrx="711" lry="549" rendition="Line" ulx="330" uly="523" xml:id="LL1.1_line_1r_14" />
+			<zone lrx="711" lry="588" rendition="Line" ulx="330" uly="560" xml:id="LL1.1_line_1r_15" />
+			<zone lrx="711" lry="616" rendition="Line" ulx="330" uly="590" xml:id="LL1.1_line_1r_16" />
+			<zone lrx="711" lry="648" rendition="Line" ulx="330" uly="620" xml:id="LL1.1_line_1r_17" />
+			<zone lrx="711" lry="686" rendition="Line" ulx="330" uly="658" xml:id="LL1.1_line_1r_18" />
+			<zone lrx="711" lry="717" rendition="Line" ulx="330" uly="698" xml:id="LL1.1_line_1r_19" />
+			<zone lrx="711" lry="756" rendition="Line" ulx="330" uly="719" xml:id="LL1.1_line_1r_20" />
+			<zone lrx="711" lry="786" rendition="Line" ulx="330" uly="760" xml:id="LL1.1_line_1r_21" />
+			<zone lrx="711" lry="820" rendition="Line" ulx="330" uly="790" xml:id="LL1.1_line_1r_22" />
+			<zone lrx="711" lry="855" rendition="Line" ulx="360" uly="825" xml:id="LL1.1_line_1r_23" />
+			<zone lrx="711" lry="894" rendition="Line" ulx="360" uly="866" xml:id="LL1.1_line_1r_24" />
+			<zone lrx="711" lry="938" rendition="Line" ulx="360" uly="910" xml:id="LL1.1_line_1r_25" />
+			<zone lrx="711" lry="974" rendition="Line" ulx="360" uly="942" xml:id="LL1.1_line_1r_26" />
+			<!-- Annotazione Supp 3 Mag 1819 -->
+			<zone lrx="283" lry="405" rendition="HotSpot" ulx="147" uly="297" xml:id="LL1.1_hotspot_1r_01" />
+			<!-- Annotazione catalogo lettera B -->
+			<zone lrx="128" lry="58" rendition="HotSpot" ulx="96" uly="31" xml:id="LL1.1_hotspot_1r_02" />
+			<!-- Annotazione catalogo 188 -->
+			<zone lrx="675" lry="53" rendition="HotSpot" ulx="614" uly="25" xml:id="LL1.1_hotspot_1r_03" />
+			<!-- indirizzo destinatario -->
+			<zone lrx="362" lry="1001" rendition="HotSpot" ulx="48" uly="823" xml:id="LL1.1_hotspot_1r_04" />
+		</surface>
+		<surface n="2" xml:id="LL1.1_folio_1v">
+			<graphic height="1011px" url="LL1.1_0002.jpg" width="723px" />
+			<!-- Righe contenuto lettera -->
+			<zone lrx="714" lry="88" rendition="Line" ulx="350" uly="37" xml:id="LL1.1_line_1v_01" />
+			<zone lrx="714" lry="118" rendition="Line" ulx="350" uly="94" xml:id="LL1.1_line_1v_02" />
+			<zone lrx="714" lry="149" rendition="Line" ulx="350" uly="122" xml:id="LL1.1_line_1v_03" />
+			<zone lrx="714" lry="186" rendition="Line" ulx="350" uly="154" xml:id="LL1.1_line_1v_04" />
+			<zone lrx="714" lry="219" rendition="Line" ulx="350" uly="190" xml:id="LL1.1_line_1v_05" />
+			<zone lrx="714" lry="254" rendition="Line" ulx="350" uly="227" xml:id="LL1.1_line_1v_06" />
+			<zone lrx="714" lry="282" rendition="Line" ulx="350" uly="261" xml:id="LL1.1_line_1v_07" />
+			<zone lrx="714" lry="312" rendition="Line" ulx="350" uly="290" xml:id="LL1.1_line_1v_08" />
+			<zone lrx="714" lry="344" rendition="Line" ulx="350" uly="319" xml:id="LL1.1_line_1v_09" />
+			<zone lrx="714" lry="377" rendition="Line" ulx="350" uly="346" xml:id="LL1.1_line_1v_10" />
+			<zone lrx="714" lry="414" rendition="Line" ulx="350" uly="383" xml:id="LL1.1_line_1v_11" />
+			<zone lrx="714" lry="439" rendition="Line" ulx="350" uly="416" xml:id="LL1.1_line_1v_12" />
+			<zone lrx="714" lry="471" rendition="Line" ulx="350" uly="450" xml:id="LL1.1_line_1v_13" />
+			<zone lrx="714" lry="512" rendition="Line" ulx="350" uly="484" xml:id="LL1.1_line_1v_14" />
+			<zone lrx="714" lry="550" rendition="Line" ulx="350" uly="518" xml:id="LL1.1_line_1v_15" />
+			<zone lrx="714" lry="586" rendition="Line" ulx="350" uly="560" xml:id="LL1.1_line_1v_16" />
+			<zone lrx="714" lry="616" rendition="Line" ulx="350" uly="594" xml:id="LL1.1_line_1v_17" />
+			<zone lrx="714" lry="658" rendition="Line" ulx="350" uly="631" xml:id="LL1.1_line_1v_18" />
+			<zone lrx="714" lry="697" rendition="Line" ulx="350" uly="666" xml:id="LL1.1_line_1v_19" />
+			<zone lrx="714" lry="730" rendition="Line" ulx="350" uly="705" xml:id="LL1.1_line_1v_20" />
+			<zone lrx="714" lry="768" rendition="Line" ulx="350" uly="736" xml:id="LL1.1_line_1v_21" />
+			<zone lrx="714" lry="796" rendition="Line" ulx="350" uly="771" xml:id="LL1.1_line_1v_22" />
+			<zone lrx="714" lry="833" rendition="Line" ulx="350" uly="805" xml:id="LL1.1_line_1v_23" />
+			<zone lrx="714" lry="853" rendition="Line" ulx="350" uly="837" xml:id="LL1.1_line_1v_24" />
+			<zone lrx="714" lry="904" rendition="Line" ulx="350" uly="872" xml:id="LL1.1_line_1v_25" />
+			<zone lrx="714" lry="937" rendition="Line" ulx="350" uly="918" xml:id="LL1.1_line_1v_26" />
+			<zone lrx="714" lry="971" rendition="Line" ulx="350" uly="947" xml:id="LL1.1_line_1v_27" />
+			<!-- Filigrana disegno centrale ovale -->
+			<zone lrx="427" lry="677" rendition="HotSpot" ulx="99" uly="193" xml:id="LL1.1_hotspot_1v_01" />
+		</surface>
+		<surface n="3" xml:id="LL1.1_folio_2r">
+			<graphic height="1019px" url="LL1.1_0003.jpg" width="727px" />
+			<zone lrx="714" lry="58" rendition="Line" ulx="336" uly="24" xml:id="LL1.1_line_2r_01" />
+			<zone lrx="714" lry="92" rendition="Line" ulx="348" uly="69" xml:id="LL1.1_line_2r_02" />
+			<zone lrx="714" lry="121" rendition="Line" ulx="348" uly="102" xml:id="LL1.1_line_2r_03" />
+			<zone lrx="714" lry="165" rendition="Line" ulx="348" uly="133" xml:id="LL1.1_line_2r_04" />
+			<zone lrx="714" lry="200" rendition="Line" ulx="348" uly="170" xml:id="LL1.1_line_2r_05" />
+			<zone lrx="714" lry="236" rendition="Line" ulx="348" uly="206" xml:id="LL1.1_line_2r_06" />
+			<zone lrx="714" lry="270" rendition="Line" ulx="348" uly="240" xml:id="LL1.1_line_2r_07" />
+			<zone lrx="714" lry="304" rendition="Line" ulx="348" uly="274" xml:id="LL1.1_line_2r_08" />
+			<zone lrx="714" lry="338" rendition="Line" ulx="348" uly="314" xml:id="LL1.1_line_2r_09" />
+			<zone lrx="714" lry="374" rendition="Line" ulx="348" uly="344" xml:id="LL1.1_line_2r_10" />
+			<zone lrx="714" lry="413" rendition="Line" ulx="348" uly="384" xml:id="LL1.1_line_2r_11" />
+			<zone lrx="714" lry="454" rendition="Line" ulx="348" uly="424" xml:id="LL1.1_line_2r_12" />
+			<zone lrx="714" lry="490" rendition="Line" ulx="348" uly="460" xml:id="LL1.1_line_2r_13" />
+			<zone lrx="714" lry="526" rendition="Line" ulx="348" uly="494" xml:id="LL1.1_line_2r_14" />
+			<zone lrx="714" lry="561" rendition="Line" ulx="348" uly="532" xml:id="LL1.1_line_2r_15" />
+			<zone lrx="714" lry="596" rendition="Line" ulx="348" uly="565" xml:id="LL1.1_line_2r_16" />
+			<zone lrx="714" lry="642" rendition="Line" ulx="348" uly="600" xml:id="LL1.1_line_2r_17" />
+			<zone lrx="714" lry="679" rendition="Line" ulx="348" uly="645" xml:id="LL1.1_line_2r_18" />
+			<zone lrx="714" lry="716" rendition="Line" ulx="348" uly="665" xml:id="LL1.1_line_2r_19" />
+			<zone lrx="714" lry="770" rendition="Line" ulx="348" uly="708" xml:id="LL1.1_line_2r_20" />
+			<!-- Annotazione catalogo 189 -->
+			<zone lrx="672" lry="42" rendition="Line" ulx="639" uly="18" xml:id="LL1.1_hotspot_2r_01" />
+			<!-- Firma -->
+			<zone lrx="716" lry="859" rendition="HotSpot" ulx="387" uly="780" xml:id="LL1.1_hotspot_2r_02" />
+		</surface>
+		<surface n="4" xml:id="LL1.1_folio_2v">
+			<graphic height="1019px" url="LL1.1_0004.jpg" width="727px" />
+		</surface>
+	</facsimile>
+	<text n="LL1.1" subtype="manuscript" type="lettera" xml:id="LL1.1">
+		<front />
+		<body xml:lang="it">
+			<pb facs="#LL1.1_folio_1r" n="1" xml:id="LL1.1_fol_1r" />
+			<div n="t_01" type="letter-body">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence">
+						<ptr target="#LL1.1_note1" />
+						<ptr target="#LL1.1_note2" />
+						<lb facs="#LL1.1_line_1r_01" n="1" xml:id="LL1.1_lb_1r_01" />
+						<persName ref="TEI-ListPerson.xml#NotarbartoloStefano">
+							<choice>
+								<abbr>Sig<am>.</am><hi rend="sup">r</hi></abbr>
+								<expan>Sig<ex>nor</ex></expan>
+							</choice>
+							<roleName type="nobility"> Duca</roleName> Intendente
+						</persName>
+					</s>
+				</salute>
+				<space quantity="2" unit="line" /> <!-- prossemica -->
+				<ab n="ab_02" next="#LL1.1_ab_02_1v" part="I" type="parag" xml:id="LL1.1_ab_02_1r">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.1_line_1r_02" n="2" xml:id="LL1.1_lb_1r_02" />
+						<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini, e Ferlito</persName> spinto dal
+						<lb facs="#LL1.1_line_1r_03" n="3" xml:id="LL1.1_lb_1r_03" />
+						proprio genio, dall'esempio, e dalla
+						<lb facs="#LL1.1_line_1r_04" n="4" xml:id="LL1.1_lb_1r_04" />
+						Educazione, che ha ricevuto dai suoi, <rs ref="TEI-ListPerson.xml#BelliniVincenzoTobiaNicola" resp="#EC" role="composer" type="person">Avo,</rs>
+						<lb facs="#LL1.1_line_1r_05" n="5" xml:id="LL1.1_lb_1r_05" />
+						e <rs ref="TEI-ListPerson.xml#BelliniRosario" role="musician" type="person">Padre,</rs> ha professato, com'eglino, la
+						<lb facs="#LL1.1_line_1r_06" n="6" xml:id="LL1.1_lb_1r_06" />
+						Musica sin dai più teneri anni, <w>tantoc
+							<lb break="no" facs="#LL1.1_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.1_lb_1r_07" />
+							ché</w> nella sua appena giovanile età
+						<lb facs="#LL1.1_line_1r_08" n="8" xml:id="LL1.1_lb_1r_08" />
+						ha prodotto alcune <term ref="TEI-ListTerm.xml#composizione" subtype="music-term">composizioni,</term> il
+						<lb facs="#LL1.1_line_1r_09" n="9" xml:id="LL1.1_lb_1r_09" />
+						merito delle quali, ignoto a lui, è
+						<lb facs="#LL1.1_line_1r_10" n="10" xml:id="LL1.1_lb_1r_10" />
+						stato applaudito dai suoi amici, <w>com
+							<lb break="no" facs="#LL1.1_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.1_lb_1r_11" />
+							patito</w> dagl'indifferenti, e non <w>di
+							<lb break="no" facs="#LL1.1_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.1_lb_1r_12" />
+							sprezzato</w> dagli emuli.
+					</s>
+					<s n="s_03" type="sentence">
+						Volendo però
+						<lb facs="#LL1.1_line_1r_13" n="13" xml:id="LL1.1_lb_1r_13" />
+						soddisfare quel desiderio <w>inestingui
+							<lb break="no" facs="#LL1.1_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.1_lb_1r_14" />
+							bile </w> di apprendere nelle scuole <w>su
+							<lb break="no" facs="#LL1.1_line_1r_15" n="15" rend="double-stroke" xml:id="LL1.1_lb_1r_15" />
+							periori,</w> e rinomate quel gusto, che si
+						<lb facs="#LL1.1_line_1r_16" n="16" xml:id="LL1.1_lb_1r_16" />
+						ammira da stupidi nelle carte, che
+						<lb facs="#LL1.1_line_1r_17" n="17" xml:id="LL1.1_lb_1r_17" />
+						qui pervengono, ma che non si sa, né
+						<lb facs="#LL1.1_line_1r_18" n="18" xml:id="LL1.1_lb_1r_18" />
+						può imitarsi, mancandoci i principii,
+						<lb facs="#LL1.1_line_1r_19" n="19" xml:id="LL1.1_lb_1r_19" />
+						ne viene impossibilitato dalla sua
+						<lb facs="#LL1.1_line_1r_20" n="20" xml:id="LL1.1_lb_1r_20" />
+						povertà.
+					</s>
+					<s n="s_04" next="#LL1.1_s_04_1v" part="I" type="sentence" xml:id="LL1.1_s_04_1r">
+						<rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Figlio</rs> di un <rs ref="TEI-ListPerson.xml#BelliniRosario" role="musician" type="person">Padre</rs> senza
+						<lb facs="#LL1.1_line_1r_21" n="21" xml:id="LL1.1_lb_1r_21" />
+						rendite di sorte alcuna, e carico di
+						<lb facs="#LL1.1_line_1r_22" n="22" xml:id="LL1.1_lb_1r_22" />
+						numerosa <rs type="personGrp">famiglia,</rs> e <rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Nipote</rs> di un
+						<lb facs="#LL1.1_line_1r_23" n="23" xml:id="LL1.1_lb_1r_23" />
+						<rs ref="TEI-ListPerson.xml#BelliniVincenzoTobiaNicola" resp="#EC" role="composer" type="person">Avo</rs> dell'uguale condizione, non può
+						<lb facs="#LL1.1_line_1r_24" n="24" xml:id="LL1.1_lb_1r_24" />
+						sperare il <distinct type="non-preferred">menomo</distinct> sussidio, di cui ha
+						<lb facs="#LL1.1_line_1r_25" n="25" xml:id="LL1.1_lb_1r_25" />
+						preciso bisogno, per almeno portarsi
+						<lb facs="#LL1.1_line_1r_26" n="26" xml:id="LL1.1_lb_1r_26" />
+						in <placeName ref="TEI-ListPlace.xml#NA">Napoli,</placeName> ove non men, che in altri
+					</s>
+				</ab>
+				<ab facs="#LL1.1_hotspot_1r_03" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.1_hs_1r_03">
+					<lb />
+					<fw>
+						<idno type="oldCat">188</idno>
+					</fw>
+				</ab> <!-- annotazione catalogatore 188 -->
+				<ab facs="#LL1.1_hotspot_1r_01" hand="#h2" type="paratext" xml:id="LL1.1_hs_1r_01">
+					<fw>
+						<lb />
+						<abbr>Supp</abbr>
+						<lb />
+						<date when="1819-05-03">3. Mag 1819</date>
+						<lb />
+						SS88.
+					</fw>
+				</ab>
+				<ab type="paratext">
+					<address facs="#LL1.1_hotspot_1r_04" xml:id="LL1.1_hs_1r_04">
+						<!-- destinatario -->
+						<addrLine>
+							<fw>
+								<persName ref="TEI-ListPerson.xml#NotarbartoloStefano">
+									S.E.
+									<choice>
+										<abbr>Sig<am>.</am></abbr>
+										<expan>Sig<ex>nor</ex></expan>
+									</choice>
+									<roleName type="nobility">Duca Sammar
+										<lb break="no" facs="#LL1.1_hotspot_1r_05" rend="double-stroke" xml:id="LL1.1_hs_1r_06" />
+										tino Intendente della <abbr>Prov<am>.</am><hi rend="sup">a</hi></abbr> di
+										<lb facs="#LL1.1_hotspot_1r_06" xml:id="LL1.1_hs_1r_07" />
+										<placeName ref="TEI-ListPlace.xml#CT">
+											<!-- <hi rend="double">-->Catania<!-- </hi> -->
+										</placeName>
+									</roleName>
+								</persName>
+							</fw>
+						</addrLine>
+					</address>
+				</ab>
+				<pb facs="#LL1.1_folio_1v" n="2" xml:id="LL1.1_fol_1v" />
+				<ab n="ab_02" part="F" prev="#LL1.1_ab_02_1r" type="parag" xml:id="LL1.1_ab_02_1v">
+					<s n="s_04" part="F" prev="#LL1.1_s_04_1r" type="sentence" xml:id="LL1.1_s_04_1v">
+						<lb facs="#LL1.1_line_1v_01" n="1" xml:id="LL1.1_lb_1v_01" />
+						paesi dell'<name type="place">Europa,</name> Fiorisce quest'arte,
+						<lb facs="#LL1.1_line_1v_02" n="2" xml:id="LL1.1_lb_1v_02" />
+						per commorarvi
+						<ptr target="#LL1.1_note3" /> tanto, quanto sarà <w>ne
+							<lb break="no" facs="#LL1.1_line_1v_03" n="3" rend="double-stroke" xml:id="LL1.1_lb_1v_03" />
+							cessario,</w> ad arrivare a quella perfezione,
+						<lb facs="#LL1.1_line_1v_04" n="4" xml:id="LL1.1_lb_1v_04" />
+						che permetter gli potranno i lumi <w>ac
+							<lb break="no" facs="#LL1.1_line_1v_05" n="5" rend="double-stroke" xml:id="LL1.1_lb_1v_05" />
+							quistati,</w> e lo sviluppo della propria
+						<lb facs="#LL1.1_line_1v_06" n="6" xml:id="LL1.1_lb_1v_06" />
+						inclinazione:
+					</s>
+					<s n="s_05" type="sentence">In quest'angustia non ha
+						<lb facs="#LL1.1_line_1v_07" n="7" xml:id="LL1.1_lb_1v_07" />
+						dimenticato, che appartiene per nascita
+						<lb facs="#LL1.1_line_1v_08" n="8" xml:id="LL1.1_lb_1v_08" />
+						ad una <placeName ref="TEI-ListPlace.xml#CT">Città,</placeName> che, non delle ultime
+						<lb facs="#LL1.1_line_1v_09" n="9" xml:id="LL1.1_lb_1v_09" />
+						in quest'Isola, procura di non <w>deca
+						<lb break="no" facs="#LL1.1_line_1v_10" n="10" rend="double-stroke" xml:id="LL1.1_lb_1v_10" />
+						dere</w> per ogni ramo di quella <w>rinoman
+						<lb break="no" facs="#LL1.1_line_1v_11" n="11" rend="double-stroke" xml:id="LL1.1_lb_1v_11" />
+						za,</w> di cui ha goduto; e le arti <w>del
+						<lb break="no" facs="#LL1.1_line_1v_12" n="12" rend="double-stroke" xml:id="LL1.1_lb_1v_12" />
+						la</w> Pittura, e della Scultura hanno
+						<lb facs="#LL1.1_line_1v_13" n="13" xml:id="LL1.1_lb_1v_13" />
+						meritato la pubblica considerazione, onde
+						<lb facs="#LL1.1_line_1v_14" n="14" xml:id="LL1.1_lb_1v_14" />
+						rianimarsi, e perfezionarsi colla <w>spe
+						<lb break="no" facs="#LL1.1_line_1v_15" n="15" rend="double-stroke" xml:id="LL1.1_lb_1v_15" />
+						dizione</w> di alcuni Individui, alle Scuole
+						<lb facs="#LL1.1_line_1v_16" n="16" xml:id="LL1.1_lb_1v_16" />
+						più celebri dell'<name type="place">Europa</name>;
+					</s>
+					<s n="s_06" type="sentence">
+						Non inferiore
+						<lb facs="#LL1.1_line_1v_17" n="17" xml:id="LL1.1_lb_1v_17" />
+						la Musica tanto oggi conosciuta nelle
+						<lb facs="#LL1.1_line_1v_18" n="18" xml:id="LL1.1_lb_1v_18" />
+						colte nazioni, per non essere <w>trascura
+						<lb break="no" facs="#LL1.1_line_1v_19" n="19" rend="double-stroke" xml:id="LL1.1_lb_1v_19" />
+						ta</w> tra noi, viene l'<rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Esponente</rs> a <w>pre
+						<lb break="no" facs="#LL1.1_line_1v_20" n="20" rend="double-stroke" xml:id="LL1.1_lb_1v_20" />
+						sentarsi</w> a lei
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+							<expan>Sig<ex>no</ex>r</expan>
+						</choice>
+						<rs ref="TEI-ListPerson.xml#NotarbartoloStefano" type="person">Duca Intendente,</rs>
+						<lb facs="#LL1.1_line_1v_21" n="21" xml:id="LL1.1_lb_1v_21" />
+						cui, dopo avere umiliato la sua <w>po
+							<lb break="no" facs="#LL1.1_line_1v_22" n="22" rend="double-stroke" xml:id="LL1.1_lb_1v_22" />
+							vertà,</w> il suo genio, e la sua <w>disposi
+							<lb break="no" facs="#LL1.1_line_1v_23" n="23" rend="double-stroke" xml:id="LL1.1_lb_1v_23" />
+							zione,</w> passa a pregare ad <w>interpor
+							<lb break="no" facs="#LL1.1_line_1v_24" n="24" rend="double-stroke" xml:id="LL1.1_lb_1v_24" />
+							re</w> la di <rs ref="TEI-ListPerson.xml#NotarbartoloStefano" type="person">lei</rs> auttorità, affinché si
+						<lb facs="#LL1.1_line_1v_25" n="25" xml:id="LL1.1_lb_1v_25" />
+						prestasse da questo Civico <w>Patrimo
+							<lb break="no" facs="#LL1.1_line_1v_26" n="26" rend="double-stroke" xml:id="LL1.1_lb_1v_26" />
+							nio</w> tanto, quanto bastar possa alla
+						<lb facs="#LL1.1_line_1v_27" n="27" xml:id="LL1.1_lb_1v_27" />
+						sua anche scarsa sussistenza, fuori
+						<pb facs="#LL1.1_folio_2r" n="3" xml:id="LL1.1_fol_2r" />
+						<lb facs="#LL1.1_line_2r_01" n="1" xml:id="LL1.1_lb_2r_01" />
+						della propria famiglia, e della <w>pro
+						<lb break="no" facs="#LL1.1_line_2r_02" n="2" rend="double-stroke" xml:id="LL1.1_lb_2r_02" />
+						pria</w> Patria, ed a corrispondenza
+						<lb facs="#LL1.1_line_2r_03" n="3" xml:id="LL1.1_lb_2r_03" />
+						di come si viene di pratticare in pro
+						<lb facs="#LL1.1_line_2r_04" n="4" xml:id="LL1.1_lb_2r_04" />
+						dell'Inviati apprendisti di Pittura,
+						<lb facs="#LL1.1_line_2r_05" n="5" xml:id="LL1.1_lb_2r_05" />
+						e di Scoltura, quando non si vorrà <w>con
+						<lb break="no" facs="#LL1.1_line_2r_06" n="6" rend="double-stroke" xml:id="LL1.1_lb_2r_06" />
+						siderare</w> la prestanza dell'arte del
+						<lb facs="#LL1.1_line_2r_07" n="7" xml:id="LL1.1_lb_2r_07" />
+						<rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Ricorrente,</rs> la sua onesta estrazione,
+						<lb facs="#LL1.1_line_2r_08" n="8" xml:id="LL1.1_lb_2r_08" />
+						e la decente educazione, che ha <w>ricevu
+							<lb break="no" facs="#LL1.1_line_2r_09" n="9" rend="double-stroke" xml:id="LL1.1_lb_2r_09" />
+							to:</w>
+					</s>
+					<s n="s_07" type="sentence">
+						Conoscendosi universalmente <w>que
+							<lb break="no" facs="#LL1.1_line_2r_10" n="10" rend="double-stroke" xml:id="LL1.1_lb_2r_10" />
+							sto</w> bisogno, ed anzioso il <rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Ricorrente</rs>
+						<lb facs="#LL1.1_line_2r_11" n="11" xml:id="LL1.1_lb_2r_11" />
+						di soddisfarlo insieme colle sue <w>bra
+							<lb break="no" facs="#LL1.1_line_2r_12" n="12" rend="double-stroke" xml:id="LL1.1_lb_2r_12" />
+							me,</w> e non eccessive le sue <w>limita
+							<lb break="no" facs="#LL1.1_line_2r_13" n="13" rend="double-stroke" xml:id="LL1.1_lb_2r_13" />
+							te</w> pretese, si augura, che saranno
+						<lb facs="#LL1.1_line_2r_14" n="14" xml:id="LL1.1_lb_2r_14" />
+						accolte le sue preghiere, ed il <rs xml:id="LL1.1_2r_14_Ricorrente" next="#LL1.1_2r_15_Ricorrente" ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Ricor</rs>
+						<lb break="no" facs="#LL1.1_line_2r_15" n="15" rend="double-stroke" xml:id="LL1.1_lb_2r_15" />
+						<rs xml:id="LL1.1_2r_15_Ricorrente" prev="#LL1.1_2r_14_Ricorrente" ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">rente</rs> grato all'interesse, che sarà
+						<lb facs="#LL1.1_line_2r_16" n="16" xml:id="LL1.1_lb_2r_16" />
+						per prendere in di lui favore la
+						<lb facs="#LL1.1_line_2r_17" n="17" xml:id="LL1.1_lb_2r_17" />
+						propria Patria, promette per <w>quan
+						<lb break="no" facs="#LL1.1_line_2r_18" n="18" rend="double-stroke" xml:id="LL1.1_lb_2r_18" />
+						to</w> arriverà la sua abilità di <w>sod
+						<lb break="no" facs="#LL1.1_line_2r_19" n="19" rend="double-stroke" xml:id="LL1.1_lb_2r_19" />
+						disfare,</w> e contentare la pubblica
+						<lb facs="#LL1.1_line_2r_20" n="20" xml:id="LL1.1_lb_2r_20" />
+						aspettazione; <unclear reason="illegible" quantity="1" unit="word" resp="#LM">Mensieur</unclear>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext">
+				<lb/>
+				<signed facs="#LL1.1_hotspot_2r_02" hand="#h1" rend="align(right)" xml:id="LL1.1_hs_2r_06">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini Ferlito</persName>
+					<choice>
+						<abbr>supp<am>.</am><hi rend="sup">te</hi></abbr>
+						<expan>supp<ex>plican</ex>te</expan>
+					</choice>
+				</signed>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.1_hotspot_2r_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.1_hs_2r_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">189</idno>
+					</fw>
+				</ab>
+				<!-- annotazione catalogatore 189 -->
+			</div>
+			<pb facs="#LL1.1_folio_2v" n="4" xml:id="LL1.1_fol_2v" />
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<!-- 1 -->
+					<note ana="2" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.1_note1">
+						<bibl>
+							<citedRange from="65" to="65" unit="page">65</citedRange>
+						</bibl>
+						<p>
+							La Supplica, in bella scrittura, non è di mano di Bellini, che appose solo la firma. Nella prima facciata del foglio è scritto da una terza mano "Supp | 3. Mag 1819".
+						</p>
+					</note>
+					<!-- 2 -->
+					<note ana="3" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.1_note2">
+						<bibl>
+							<citedRange from="65" to="65" unit="page">65</citedRange>
+						</bibl>
+						<p>
+							Nella sua edizione, Luisa Cambi dichiara di aver desunto il testo della lettera dal giornale <hi rend="italic">Bellini,</hi> a. IV, n. 84-85, 1879, 16 novembre (p. 18, nota 1); Carmelo Neri invece informa correttamente circa l'ubicazione dell'autografo presso il Museo Civico Belliniano di Catania. Nondimeno entrambi offrono un testo mutilo, mancante della porzione di lettera contenuta nella seconda facciata del documento, ripiegato in tre parti.
+						</p>
+					</note>
+					<!-- 3 -->
+					<note ana="6" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.1_note3">
+						<bibl>
+							<citedRange from="65" to="65" unit="page">65</citedRange>
+						</bibl>
+						<p>
+							Da intendersi per "dimorarvi"; cfr. la voce commorare in TOMMASEO - BELLINI, vol. I, p. 1535: "Aff. al lat. aureo Commorari. Dimorare insieme".
+						</p>
+					</note>
+				</div>
+				<div type="bibliography">
+					<listBibl xml:id="LL1_1_bibliography">
+
+						<head>Bibliografia della lettera LL1.1</head>
+						<bibl xml:id="LL1_1_Cambi">
+							<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+								<bibl>
+									<author>Cambi</author>
+									<date when="1943">1943</date>
+									<citedRange from="18" to="19" unit="page">18-19</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_1_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="18" to="18" unit="page">18</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Vincenzo Ferlito, in Parigi, 18 maggio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Trascrizione di</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-12" instant="false">December 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Progetto edizione digitale coordinato da</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Codifica di</resp>
+					<name full="yes" instant="false">Chiara Giurdanella</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="SP" full="yes" instant="false">Santa Pellino</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_26.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="433" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="505" to="506" unit="page">505-506</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.26</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.26"><idno type="inventory">LL1.26</idno><title>Vincenzo Bellini a Vincenzo Ferlito, in Parigi, 18 maggio 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="433"><locus from="505" to="506">n. 433, p. 505-506.</locus></citedRange></bibl><bibl>
+										Amore
+									, 1894, p. 362-364. </bibl><bibl>
+										Cambi
+									, 1943, p. 553-555. </bibl><bibl>
+										Neri
+									, 2005, p. 409-410. </bibl><incipit><fw>Incipit </fw>
+						
+							18:Maggio -
+							
+								rampe de pont de Neuilly
+								N:°
+								19:bis
+								
+								de Paris à Puteaux
+							
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Tante cose
+						
+						affettuose à
+						papà
+						e
+						
+							mammà
+						
+						ed a tutti i miei.
+					
+					
+						I miei
+						
+						 abbracci 
+						allo
+						
+							zio
+							 Don 
+							Ciccio
+						
+						e sua
+						famiglia
+						tutta, i miei
+						
+						parenti ed amici, e particolarmente il
+						
+							 principe 
+						
+						
+						e
+						
+							principino
+							Manganelli,
+						
+						
+						non escluse le sue
+						
+						care e belle
+						figliuoline
+						di
+						 San 
+						Giuliano,
+						come ilSeve
+							
+							ro Senato d'Atene. —
+					
+				
+				
+					
+						
+						Il
+							 vostro 
+							 affezionatissimo 
+							 Nipote 
+						
+					
+				
+				
+					
+					
+						Vincenzo.
+					
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="">Parigi</placeName>
+					<date when="1835-05-18" instant="false"><date type="writing" instant="false">18 maggio</date>
+					<date resp="#GS" cert="high" instant="false">1835</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#FerlitoVincenzo">Vincenzo Ferlito</persName>
+					<placeName ref="">Catania</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.26_facsimile">
+		<surface n="LL1.26.1" xml:id="LL1.26_folio_1r" corresp="#LL1.26_fol_1r"><graphic url="data/test-img/LL1.26/LL1-26_0001.dzi" width="1645.5px" height="2446.5px"/><zone ulx="130.50" uly="13.18" lrx="673.13" lry="55.80" rendition="line" xml:id="LL1.26_line_1r_01"/><zone ulx="345.35" uly="43.50" lrx="699.05" lry="76.45" rendition="line" xml:id="LL1.26_line_1r_02"/><zone ulx="56.24" uly="71.18" lrx="699.05" lry="109.41" rendition="line" xml:id="LL1.26_line_1r_03"/><zone ulx="58.44" uly="97.54" lrx="706.08" lry="133.57" rendition="line" xml:id="LL1.26_line_1r_04"/><zone ulx="53.16" uly="123.03" lrx="708.28" lry="163.01" rendition="line" xml:id="LL1.26_line_1r_05"/><zone ulx="58.44" uly="150.27" lrx="706.08" lry="188.49" rendition="line" xml:id="LL1.26_line_1r_06"/><zone ulx="47.01" uly="178.39" lrx="690.27" lry="213.10" rendition="line" xml:id="LL1.26_line_1r_07"/><zone ulx="53.60" uly="204.31" lrx="708.28" lry="243.86" rendition="line" xml:id="LL1.26_line_1r_08"/><zone ulx="53.60" uly="237.27" lrx="708.28" lry="272.86" rendition="line" xml:id="LL1.26_line_1r_09"/><zone ulx="48.33" uly="265.82" lrx="708.28" lry="300.98" rendition="line" xml:id="LL1.26_line_1r_10"/><zone ulx="51.41" uly="287.79" lrx="696.42" lry="325.14" rendition="line" xml:id="LL1.26_line_1r_11"/><zone ulx="52.73" uly="315.04" lrx="709.60" lry="347.55" rendition="line" xml:id="LL1.26_line_1r_12"/><zone ulx="55.36" uly="340.96" lrx="709.60" lry="371.72" rendition="line" xml:id="LL1.26_line_1r_13"/><zone ulx="56.24" uly="366.44" lrx="708.72" lry="406.43" rendition="line" xml:id="LL1.26_line_1r_14"/><zone ulx="58.00" uly="393.68" lrx="708.28" lry="427.96" rendition="line" xml:id="LL1.26_line_1r_15"/><zone ulx="65.03" uly="425.76" lrx="705.64" lry="456.52" rendition="line" xml:id="LL1.26_line_1r_16"/><zone ulx="68.54" uly="450.80" lrx="707.40" lry="483.32" rendition="line" xml:id="LL1.26_line_1r_17"/><zone ulx="70.30" uly="479.80" lrx="686.75" lry="510.12" rendition="line" xml:id="LL1.26_line_1r_18"/><zone ulx="68.54" uly="507.04" lrx="706.08" lry="547.91" rendition="line" xml:id="LL1.26_line_1r_19"/><zone ulx="68.98" uly="534.73" lrx="706.52" lry="575.15" rendition="line" xml:id="LL1.26_line_1r_20"/><zone ulx="75.13" uly="562.41" lrx="704.33" lry="601.51" rendition="line" xml:id="LL1.26_line_1r_21"/><zone ulx="72.94" uly="594.04" lrx="701.69" lry="630.95" rendition="line" xml:id="LL1.26_line_1r_22"/><zone ulx="68.54" uly="627.87" lrx="699.05" lry="659.07" rendition="line" xml:id="LL1.26_line_1r_23"/><zone ulx="68.54" uly="653.36" lrx="695.10" lry="688.07" rendition="line" xml:id="LL1.26_line_1r_24"/><zone ulx="72.50" uly="681.48" lrx="697.74" lry="723.22" rendition="line" xml:id="LL1.26_line_1r_25"/><zone ulx="78.21" uly="720.58" lrx="705.64" lry="757.49" rendition="line" xml:id="LL1.26_line_1r_26"/><zone ulx="76.89" uly="746.95" lrx="710.92" lry="788.69" rendition="line" xml:id="LL1.26_line_1r_27"/><zone ulx="83.92" uly="781.66" lrx="712.24" lry="819.44" rendition="line" xml:id="LL1.26_line_1r_28"/><zone ulx="79.09" uly="806.26" lrx="714.87" lry="854.15" rendition="line" xml:id="LL1.26_line_1r_29"/><zone ulx="86.12" uly="839.66" lrx="713.11" lry="882.71" rendition="line" xml:id="LL1.26_line_1r_30"/><zone ulx="73.82" uly="873.93" lrx="714.43" lry="906.00" rendition="line" xml:id="LL1.26_line_1r_31"/><zone ulx="81.72" uly="903.80" lrx="717.07" lry="946.42" rendition="line" xml:id="LL1.26_line_1r_32"/><zone ulx="78.21" uly="929.73" lrx="712.24" lry="976.30" rendition="line" xml:id="LL1.26_line_1r_33"/><zone ulx="80.41" uly="955.21" lrx="717.07" lry="998.27" rendition="line" xml:id="LL1.26_line_1r_34"/><zone ulx="83.48" uly="983.33" lrx="712.24" lry="1016.29" rendition="line" xml:id="LL1.26_line_1r_35"/><zone ulx="87.88" uly="1011.89" lrx="721.02" lry="1041.33" rendition="line" xml:id="LL1.26_line_1r_36"/><zone ulx="87.00" uly="1032.98" lrx="714.43" lry="1062.42" rendition="line" xml:id="LL1.26_line_1r_37"/></surface>
+		<surface n="LL1.26.2" xml:id="LL1.26_folio_1v" corresp="#LL1.26_fol_1v"><graphic url="data/test-img/LL1.26/LL1-26_0002.dzi" width="1660px" height="2446px"/><zone ulx="45.30" uly="13.07" lrx="687.72" lry="53.57" rendition="line" xml:id="LL1.26_line_1v_01"/><zone ulx="26.13" uly="46.60" lrx="690.77" lry="81.88" rendition="line" xml:id="LL1.26_line_1v_02"/><zone ulx="34.41" uly="71.43" lrx="687.29" lry="102.35" rendition="line" xml:id="LL1.26_line_1v_03"/><zone ulx="23.08" uly="94.95" lrx="694.69" lry="134.15" rendition="line" xml:id="LL1.26_line_1v_04"/><zone ulx="27.87" uly="128.48" lrx="700.35" lry="167.68" rendition="line" xml:id="LL1.26_line_1v_05"/><zone ulx="26.57" uly="154.62" lrx="672.04" lry="192.51" rendition="line" xml:id="LL1.26_line_1v_06"/><zone ulx="29.62" uly="187.28" lrx="703.40" lry="235.19" rendition="line" xml:id="LL1.26_line_1v_07"/><zone ulx="23.95" uly="218.64" lrx="700.79" lry="257.84" rendition="line" xml:id="LL1.26_line_1v_08"/><zone ulx="37.46" uly="243.47" lrx="692.95" lry="286.15" rendition="line" xml:id="LL1.26_line_1v_09"/><zone ulx="32.23" uly="273.96" lrx="703.40" lry="325.79" rendition="line" xml:id="LL1.26_line_1v_10"/><zone ulx="50.52" uly="310.11" lrx="703.84" lry="356.71" rendition="line" xml:id="LL1.26_line_1v_11"/><zone ulx="49.22" uly="344.95" lrx="699.05" lry="387.63" rendition="line" xml:id="LL1.26_line_1v_12"/><zone ulx="40.51" uly="376.31" lrx="689.90" lry="410.28" rendition="line" xml:id="LL1.26_line_1v_13"/><zone ulx="45.73" uly="404.62" lrx="699.05" lry="439.03" rendition="line" xml:id="LL1.26_line_1v_14"/><zone ulx="57.06" uly="432.93" lrx="704.71" lry="472.13" rendition="line" xml:id="LL1.26_line_1v_15"/><zone ulx="51.39" uly="465.16" lrx="704.71" lry="505.23" rendition="line" xml:id="LL1.26_line_1v_16"/><zone ulx="56.62" uly="497.39" lrx="690.77" lry="530.05" rendition="line" xml:id="LL1.26_line_1v_17"/><zone ulx="58.80" uly="530.49" lrx="701.66" lry="580.58" rendition="line" xml:id="LL1.26_line_1v_18"/><zone ulx="62.72" uly="565.33" lrx="681.19" lry="606.71" rendition="line" xml:id="LL1.26_line_1v_19"/><zone ulx="64.46" uly="601.05" lrx="701.22" lry="631.10" rendition="line" xml:id="LL1.26_line_1v_20"/><zone ulx="60.98" uly="635.89" lrx="703.84" lry="670.30" rendition="line" xml:id="LL1.26_line_1v_21"/><zone ulx="56.62" uly="663.77" lrx="703.84" lry="711.24" rendition="line" xml:id="LL1.26_line_1v_22"/><zone ulx="53.57" uly="698.61" lrx="703.40" lry="739.12" rendition="line" xml:id="LL1.26_line_1v_23"/><zone ulx="57.93" uly="723.87" lrx="682.06" lry="766.55" rendition="line" xml:id="LL1.26_line_1v_24"/><zone ulx="63.59" uly="761.33" lrx="704.71" lry="793.56" rendition="line" xml:id="LL1.26_line_1v_25"/><zone ulx="54.88" uly="787.02" lrx="703.40" lry="822.74" rendition="line" xml:id="LL1.26_line_1v_26"/><zone ulx="52.27" uly="809.24" lrx="713.85" lry="848.87" rendition="line" xml:id="LL1.26_line_1v_27"/><zone ulx="55.31" uly="833.63" lrx="702.53" lry="871.96" rendition="line" xml:id="LL1.26_line_1v_28"/><zone ulx="54.44" uly="861.94" lrx="714.29" lry="909.85" rendition="line" xml:id="LL1.26_line_1v_29"/><zone ulx="55.31" uly="893.73" lrx="696.00" lry="939.90" rendition="line" xml:id="LL1.26_line_1v_30"/><zone ulx="62.28" uly="929.88" lrx="716.03" lry="972.13" rendition="line" xml:id="LL1.26_line_1v_31"/><zone ulx="49.65" uly="949.48" lrx="473.87" lry="990.42" rendition="line" xml:id="LL1.26_line_1v_32"/><zone ulx="431.19" uly="981.71" lrx="715.60" lry="1025.27" rendition="line" xml:id="LL1.26_line_1v_33"/><zone ulx="476.05" uly="1013.51" lrx="612.81" lry="1049.22" rendition="line" xml:id="LL1.26_line_1v_34"/><zone ulx="415.94" uly="168.55" lrx="495.65" lry="343.21" rendition="HotSpot" xml:id="LL1.26_hotspot_1v_01" corresp="#LL1.26_hotspot_1v_01h" start="#LL1.26_hotspot_1v_01h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.26" xml:id="LL1.26">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Vincenzo Ferlito, in Parigi, 18 maggio 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        433  p. 505-506</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>L'anno di redazione della lettera è stato attribuito da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.26</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile, ingiallita, inchiostro sbiadito e tendente al marrone.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>202x133<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>Sono presenti segni di piegature asimmetriche, che indicano che il folio è stato piegato più volte.</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									La lettera è in condizioni fisiche non ottimali. Sono presenti numerosi buchi di lieve entità che si estendono per tutta la superficie del folio, in particolare nella zona centrale. I bordi sono leggermente rovinati. Sono presenti due lacerazioni di entità maggiore, una nell'angolo superiore destro della carta 1r, l'altra lungo il bordo inferiore. Macchie di colore marrone sono presenti sia sul recto sia sul verso del folio.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura autografa a mano libera, abbastanza leggibile.
+							 
+								
+									Nella carta 1v, è presente un'annotazione in matita blu, probabilmente dovuta a un catalogatore, che presenta la scritta "N 24".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[18 maggio
+					1835]</p><p><fw> 
+                            Destinatario
+                        </fw>Vincenzo Ferlito</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Catania</p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.26.1r" xml:id="LL1.26_fol_1r" facs="data/test-img/LL1.26/LL1-26_0001.dzi"/>
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.26_line_1r_01" n="1" xml:id="LL1.26_lb_1r_01"/>
+							<date rend="align(right)" when="05-18" instant="false">18<am instant="false">:</am> Maggio</date> -
+							<address xml:lang="fr">
+								<street>rampe de pont de <placeName ref="">Neuilly</placeName>
+								N<am instant="false">:</am>°
+								19<am instant="false">:</am> bis</street>
+								<lb facs="#LL1.26_line_1r_02" n="2" xml:id="LL1.26_lb_1r_02"/>
+								<placeName><hi rend="align(right)">de <placeName ref="">Paris</placeName> <hi rend="underline">à <placeName ref="">Puteaux</placeName></hi></hi></placeName>
+							</address>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.26_line_1r_03" n="3" xml:id="LL1.26_lb_1r_03"/>
+							Mio caro
+							<persName ref="#FerlitoVincenzo" type="person">Zio</persName>
+							—</s>
+				</salute>
+				<ab n="ab_03" type="paragraph" part="N">
+					<s n="s_03" type="sentence" part="N">
+						Eccomi in campagna per applicarmi
+						<lb facs="#LL1.26_line_1r_04" n="4" xml:id="LL1.26_lb_1r_04"/>
+						e dar <w part="N">tregua</w>
+						ai divertimenti parigini che sono da stancare
+						<lb facs="#LL1.26_line_1r_05" n="5" xml:id="LL1.26_lb_1r_05"/>
+						un
+						<name subtype="mythological" type="person" full="yes" instant="false">Ercole.</name>
+						—
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						Aspetto di giorno in giorno che il
+						<persName type="person" role="politician">Ministro</persName>
+						si <w part="N">de
+							<lb break="no" facs="#LL1.26_line_1r_06" n="6" rend="double-stroke" xml:id="LL1.26_lb_1r_06"/>
+							cida</w> pel nuovo Direttore dell'<orgName ref="#Opera_Paris">
+							<hi rend="underline">Operà</hi></orgName> per io finire la <w part="N">scrit
+							<lb break="no" facs="#LL1.26_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.26_lb_1r_07"/>
+							tura.</w>
+						<ptr target="#LL1.26_note1"/><note resp="#GS" xml:id="LL1.26_note1" anchored="true">
+						<p part="N">
+							Le trattative per la commissione di un'opera da rappresentarsi all'Académie Royale de Musique erano state avviate da Bellini con Louis-Désiré Véron (Parigi, 1798 - 1867), che dal 1831 era direttore dell'Opéra. Véron tenne la carica sino al primo settembre del 1835, quando gli subentrò Charles-Edmond Duponchel (Parigi, 1795 - 1868).
+						</p>
+					</note>
+						—
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Mai fui ammalato.
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						La fattiga di scrivere
+						<lb facs="#LL1.26_line_1r_08" n="8" xml:id="LL1.26_lb_1r_08"/>
+						l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> mi avea reso debole; il contento sopravenuto
+						<lb facs="#LL1.26_line_1r_09" n="9" xml:id="LL1.26_lb_1r_09"/>
+						dell'esito inaspettato mi scosse in modo che non <w part="N">po
+							<lb break="no" facs="#LL1.26_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.26_lb_1r_10"/>
+							tea</w> tenere la penna in mano, perchè i miei nervi
+						<lb facs="#LL1.26_line_1r_11" n="11" xml:id="LL1.26_lb_1r_11"/>
+						era estremamente affettati.
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						Il successo dei
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">
+							<hi rend="underline">Puritani</hi></rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						<lb facs="#LL1.26_line_1r_12" n="12" xml:id="LL1.26_lb_1r_12"/>
+						è sempre cresciuto nei saloni tutti: l'effetto anche
+						<lb facs="#LL1.26_line_1r_13" n="13" xml:id="LL1.26_lb_1r_13"/>
+						in cammera <unclear reason="illegible" instant="false">è</unclear> meraviglioso; ma ci vogliono buoni <w part="N">dilettan
+							<lb break="no" facs="#LL1.26_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.26_lb_1r_14"/>
+							ti.</w>
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						Il <term ref="TEI-ListTerm.xml#libretto" subtype="music-term">libro</term><note type="comment" n="T"><seg>
+                [LIBRETTO]
+            </seg><gloss xml:lang="it" target="#libretto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Libro di piccolo formato contenente il testo letterario di un’<term subtype="music-term" ref="#opera">opera</term> o di altra composizione vocale di carattere drammatico e, per estensione, il testo stesso, costituito dalle parole destinate a essere cantate, in versi o, più raramente, in prosa, dalle descrizioni della <term subtype="music-term">scenografia</term> e dalle didascalie relative ai movimenti dei cantanti; può inoltre contenere indicazioni riguardanti uno specifico <term subtype="music-term">allestimento</term> dell’opera, il contesto storico della sua prima rappresentazione, a volte, dichiarazioni di poetica dell’autore o degli autori. [...] Dal punto di vista strettamente letterario, il libretto è da considerarsi principalmente come parte integrante di un’opera d’arte complessiva da cui dipende e che lo trascende. Sebbene in alcuni casi esso tenda a rivendicare una propria dignità letteraria, è innegabile che molti aspetti della sua struttura siano predeterminati dalle esigenze specifiche del <term subtype="music-term">teatro musicale</term> (prima fra tutte quella della declamazione cantata) e dalle innumerevoli convenzioni specifiche dei diversi generi operistici e dei diversi contesti storico-sociali. [...] Sebbene la paternità del libretto sia generalmente riconosciuta al poeta che lo ha prodotto (<term subtype="music-term">librettista</term>), sono frequenti i casi in cui l’intervento del compositore ne modifica in modo sostanziale l’assetto, conducendo a divergenze anche notevoli fra la versione pubblicata e quella riportata in partitura. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> ha il gran difetto che non è bene <w part="N">dialo
+							<lb break="no" facs="#LL1.26_line_1r_15" n="15" rend="double-stroke" xml:id="LL1.26_lb_1r_15"/>
+							gato:</w> le situazioni sono belle, l'espressioni ripetute,
+						<lb facs="#LL1.26_line_1r_16" n="16" xml:id="LL1.26_lb_1r_16"/>
+						comuni, stupide qualche volta, in una parola si
+						<lb facs="#LL1.26_line_1r_17" n="17" xml:id="LL1.26_lb_1r_17"/>
+						vede che
+						<rs ref="#PepoliCarlo">chi</rs>
+						l'ha scritto
+						<ptr target="#LL1.26_note2"/><note resp="#GS" xml:id="LL1.26_note2" anchored="true">
+						<p part="N">
+							Bellini si riferiva al conte Carlo Pepoli, che aveva predisposto il libretto dei <hi rend="italic">Puritani.</hi>
+						</p>
+					</note>
+						non avea <choice resp="#LM"><orig>ne</orig><reg instant="false">né</reg></choice> cuore, <choice resp="#LM"><orig>ne</orig><reg instant="false">né</reg></choice>
+						<lb facs="#LL1.26_line_1r_18" n="18" xml:id="LL1.26_lb_1r_18"/>
+						cognizioni per bene esprimere i sentimenti dei
+						<lb facs="#LL1.26_line_1r_19" n="19" xml:id="LL1.26_lb_1r_19"/>
+						suoi personaggi: questo difetto nulla tolse all'esito
+						<unclear reason="illegible" instant="false">di</unclear>
+						<lb facs="#LL1.26_line_1r_20" n="20" xml:id="LL1.26_lb_1r_20"/>
+						<placeName ref="">Parigi</placeName>
+						perché qui le parole non le capiscono; ma
+						<lb facs="#LL1.26_line_1r_21" n="21" xml:id="LL1.26_lb_1r_21"/>
+						toglierà molto all'effetto sui teatri d'Italia: ma
+						<lb facs="#LL1.26_line_1r_22" n="22" xml:id="LL1.26_lb_1r_22"/>
+						se la musica sarà bene eseguita, terrà loco e
+						<lb facs="#LL1.26_line_1r_23" n="23" xml:id="LL1.26_lb_1r_23"/>
+						come canto, e come strumentazione a tale
+						<lb facs="#LL1.26_line_1r_24" n="24" xml:id="LL1.26_lb_1r_24"/>
+						lacuna. —
+					</s>
+				</ab>
+				<ab n="ab_04" type="paragraph" part="N">
+					<s n="s_09" type="sentence" part="N">
+						Qui si trova il
+						<persName ref="#PaternoCastelloMario">Duca di Carcaci</persName>
+						<ptr target="#LL1.26_note3"/><note>(Nota Seminara, 2017: p. 495 n. 846)<p part="N">
+							Mario Paternò Castello (Catania, 1812 - Firenze, 1838) nel 1834 – alla morte del padre Vincenzo Emanuele – era divenuto VI duca di Carcaci.
+						</p></note>
+						e
+						<lb facs="#LL1.26_line_1r_25" n="25" xml:id="LL1.26_lb_1r_25"/>
+						<persName ref="#PaternoCastelloGiovanni">Giovannino Paternò</persName>
+						suo zio —
+					</s>
+					<s n="s_10" type="sentence" part="N">
+						Noi siamo stati
+						<unclear reason="faded" instant="false">e</unclear>
+						siamo
+						<lb facs="#LL1.26_line_1r_26" n="26" xml:id="LL1.26_lb_1r_26"/>
+						sempre insieme: ci divertiamo, perchè sono <w part="N">bravissi
+							<lb break="no" facs="#LL1.26_line_1r_27" n="27" rend="double-stroke" xml:id="LL1.26_lb_1r_27"/>
+							mi</w> giovani, cari e buoni: ci amiamo <distinct>assaissimo,</distinct>
+						<lb facs="#LL1.26_line_1r_28" n="28" xml:id="LL1.26_lb_1r_28"/>
+						e mi spiace che fra tre o quattro giorni vanno a
+						<lb facs="#LL1.26_line_1r_29" n="29" xml:id="LL1.26_lb_1r_29"/>
+						<placeName ref="">Londra</placeName> e ci dobbiamo abbandonare.
+					</s>
+					<s n="s_11" type="sentence" part="N">
+						Il <rs ref="#PaternoCastelloMario" type="nobility">Duca</rs> mi <w part="N">die
+							<lb break="no" facs="#LL1.26_line_1r_30" n="30" rend="double-stroke" xml:id="LL1.26_lb_1r_30"/>
+							de</w> novelle di
+						<persName ref="#PaternoCastelloFrancesco">
+							<choice><abbr>D<am instant="false">:</am><hi rend="sup">n</hi></abbr><expan instant="false">D<ex instant="false">on</ex></expan></choice>
+							Ciccio
+						</persName>
+						suo zio, che l'<w part="N">incomben
+							<lb break="no" facs="#LL1.26_line_1r_31" n="31" rend="double-stroke" xml:id="LL1.26_lb_1r_31"/>
+							za</w> di salutarmi: voi fatemi il piacere d'andarlo
+						<lb facs="#LL1.26_line_1r_32" n="32" xml:id="LL1.26_lb_1r_32"/>
+						a trovare ed esprimergli quanto io sono <w part="N">commos
+							<lb break="no" facs="#LL1.26_line_1r_33" n="33" rend="double-stroke" xml:id="LL1.26_lb_1r_33"/>
+							so</w> della sua memoria, e dirgli che mi spiace <w part="N">sen
+							<lb break="no" facs="#LL1.26_line_1r_34" n="34" rend="double-stroke" xml:id="LL1.26_lb_1r_34"/>
+							tire</w> che <add place="supralinear" instant="false" status="unremarkable">ha</add> abbandonato la musica, e che lo prego di non
+						<lb facs="#LL1.26_line_1r_35" n="35" xml:id="LL1.26_lb_1r_35"/>
+						negarmi il piacere di sapere che i miei
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">Puritani</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						<lb facs="#LL1.26_line_1r_36" n="36" xml:id="LL1.26_lb_1r_36"/>
+						restino a lui sconosciuti;
+						<unclear reason="faded" instant="false">ma per</unclear>
+						giudicarli aspetti
+						<lb facs="#LL1.26_line_1r_37" n="37" xml:id="LL1.26_lb_1r_37"/>
+						che l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> sii
+						[+++]
+						<unclear reason="illegible" instant="false"> tutta completa perchè i</unclear>
+						<pb n="LL1.26.1v" xml:id="LL1.26_fol_1v" facs="data/test-img/LL1.26/LL1-26_0002.dzi"/>
+						<lb facs="#LL1.26_line_1v_01" n="1" xml:id="LL1.26_lb_1v_01"/><w part="N">
+							<unclear reason="illegible" instant="false">p</unclear>ezzi</w> che sin'ora sono alla luce, sono brani di pezzi, e
+						<lb facs="#LL1.26_line_1v_02" n="2" xml:id="LL1.26_lb_1v_02"/><w part="N">
+							<unclear reason="illegible" instant="false">sen</unclear>za</w> ordine senza <term ref="TEI-ListTerm.xml#coro" subtype="music-term">cori,</term><note type="comment" n="T"><seg>
+                [CORO]
+            </seg><gloss xml:lang="it" target="#coro" source="TEI-ListBibl.xml#DellaSeta2010">
+							Complesso formato da più <term subtype="music-term">voci</term> non solistiche che esegue brani all'unisono o, più frequentemente, a più parti; per estensione, il termine indica un brano musicale destinato a essere eseguito da tale complesso, in particolare nel <term subtype="music-term">teatro musicale.</term> [...] Il coro divenne una componente fondamentale nell'Ottocento, sviluppandosi in forme sempre più complesse, come i cori doppi, per esigenze drammatiche e spettacolari. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						senza <term ref="TEI-ListTerm.xml#recitativo" subtype="music-term">recitativi,</term><note type="comment" n="T"><seg>
+                [RECITATIVO]
+            </seg><gloss xml:lang="it" target="#recitativo" source="TEI-ListBibl.xml#DellaSeta2010">
+							Stile di <term subtype="music-term">canto</term> che imita i modi della recitazione parlata. Presente da sempre in tutte le culture e in tutte le epoche [...]. Nel primo Ottocento furono ancora modelli francesi a imporre l'impiego del recitativo strumentato nell'<term subtype="music-term" ref="#opera_seria">opera seria</term> italiana, in particolare a Napoli; tale pratica, qui accolta da <persName ref="#RossiniGioachino">Rossini,</persName> si diffuse sul suo esempio fino a diventare esclusiva, mentre il recitativo semplice sopravvisse a lungo nell'<term subtype="music-term">opera buffa.</term> Nel corso dell'Ottocento la distinzione tra recitativo e cantabile si andò attenuando, in quanto il primo fu sempre meno usato come connettivo tra i diversi <term subtype="music-term">numeri</term> e fu incorporato in essi [...]; compositori quali Bellini, Donizzetti e Verdi fecero spesso uso di ampie frasi in stile di <term subtype="music-term" ref="#arioso">arioso,</term> che consentivano di passare più gradualmente dal recitativo al <term subtype="music-term">cantabile.</term> Il processo continuò fino alla fine del secolo, quando la distinzione può considerarsi scomparsa. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> accorciati quà
+						<lb facs="#LL1.26_line_1v_03" n="3" xml:id="LL1.26_lb_1v_03"/>
+						e là; in una parola, a <placeName ref="">
+							<hi rend="underline">parigi</hi></placeName> stampano da prima i
+						<lb facs="#LL1.26_line_1v_04" n="4" xml:id="LL1.26_lb_1v_04"/>
+						pezzi chiamati <term ref="TEI-ListTerm.xml#musica_da_camera" subtype="music-term">
+							<hi rend="underline">per salone</hi>,
+						</term><note type="comment" n="T"><seg>
+                [MUSICA DA CAMERA]
+            </seg><gloss xml:lang="it" target="#musica_da_camera" type="translation" resp="#PPS" source="https://doi.org/10.1093/gmo/9781561592630.article.05379">Il termine 'musica da camera' generalmente denota musica scritta per piccoli ensemble strumentali, con un musicista per parte, e intesa per l'esecuzione in privato, in un ambiente domestico con o senza ascoltatori, oppure in una piccola sala da concerto davanti a un numero limitato di spettatori.</gloss><seg>
+                (https://doi.org/10.1093/gmo/9781561592630.article.05379)
+            </seg></note> e quindi non
+						<subst instant="false" status="unremarkable">
+							<del rend="erasure" instant="false" status="unremarkable">
+								<unclear cert="low" reason="deleted" instant="false">sono </unclear>
+							</del>
+							<add place="above" instant="false" status="unremarkable">consistono</add>
+						</subst>
+						che
+						<add place="supralinear" instant="false" status="unremarkable">in</add> <w part="N">qual
+							<lb break="no" facs="#LL1.26_line_1v_05" n="5" rend="double-stroke" xml:id="LL1.26_lb_1v_05"/>
+							che</w> cantilena principale; quindi impossibile di <w part="N">capir
+							<lb break="no" facs="#LL1.26_line_1v_06" n="6" rend="double-stroke" xml:id="LL1.26_lb_1v_06"/>
+							ne</w> il senso e darne giudizio — fra pochi
+						<lb facs="#LL1.26_line_1v_07" n="7" xml:id="LL1.26_lb_1v_07"/>
+						mesi l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> sortirà intera ed allora i buoni <w part="N">dilettan
+							<lb break="no" facs="#LL1.26_line_1v_08" n="8" rend="double-stroke" xml:id="LL1.26_lb_1v_08"/>
+							ti</w> ne potranno vedere le cose cattive e le buone.
+					</s>
+				</ab>
+				<ab n="ab_05" type="paragraph" part="N">
+					<s n="s_12" type="sentence" part="N">
+						<lb facs="#LL1.26_line_1v_09" n="9" xml:id="LL1.26_lb_1v_09"/>
+						Non mancate anche di salutarmi la
+						<persName ref="#ScammaccaMaria">
+							<roleName type="nobility" full="yes">Duchessa di</roleName>
+						</persName>
+							<lb facs="#LL1.26_line_1v_10" n="10" xml:id="LL1.26_lb_1v_10"/>
+						<persName ref="#ScammaccaMaria">Carcaci,</persName>
+						<choice><abbr>D<am instant="false">:</am><hi rend="sup">na</hi></abbr><expan instant="false">D<ex instant="false">on</ex>na</expan></choice>
+						Mara, e tutto il resto della <rs type="personGrp">famiglia.</rs>
+					</s>
+					<s n="s_13" type="sentence" part="N">
+						<lb facs="#LL1.26_line_1v_11" n="11" xml:id="LL1.26_lb_1v_11"/>
+						<persName ref="#FlorimoFrancesco">Florimo</persName>
+						ha fatto bene rimettervi tutti gli articoli francesi;
+						<lb facs="#LL1.26_line_1v_12" n="12" xml:id="LL1.26_lb_1v_12"/>
+						di già è suo sistema; e poi io ne l'avea pregato;
+						<lb facs="#LL1.26_line_1v_13" n="13" xml:id="LL1.26_lb_1v_13"/>
+						come pure vi ha dovuto rimettere tutti i giornali di
+						<lb facs="#LL1.26_line_1v_14" n="14" xml:id="LL1.26_lb_1v_14"/>
+						<placeName ref="">Napoli</placeName>
+						che ne hanno parlato. —
+					</s>
+					<s n="s_14" type="sentence" part="N">
+						Ringraziatemi
+						<persName ref="#GiuffridaMoschettiIgnazio">
+							<choice><abbr>D<am instant="false">:</am><hi rend="sup">n</hi></abbr><expan instant="false">D<ex instant="false">on</ex></expan></choice>
+						</persName>
+							<lb facs="#LL1.26_line_1v_15" n="15" xml:id="LL1.26_lb_1v_15"/>
+							<persName ref="#GiuffridaMoschettiIgnazio">Ignazio
+						</persName>
+						per gli bei bottoncini che mi ha inviato,
+						<lb facs="#LL1.26_line_1v_16" n="16" xml:id="LL1.26_lb_1v_16"/>
+						e che spero ricevere fra poco.
+					</s>
+					<s n="s_15" type="sentence" part="N">
+						Ringraziatemi anche
+						<lb facs="#LL1.26_line_1v_17" n="17" xml:id="LL1.26_lb_1v_17"/>
+						estremamente
+						<persName ref="#GiuffridaPaolaAngelica">
+							<choice><abbr>D<am instant="false">:</am><hi rend="sup">na</hi></abbr><expan instant="false">D<ex instant="false">on</ex>na</expan></choice>
+							Lidda
+						</persName>
+						per la vedutina dell'
+						<lb facs="#LL1.26_line_1v_18" n="18" xml:id="LL1.26_lb_1v_18"/>
+						<placeName ref="">Etna</placeName> che di già ho qui, e che tante deliziose
+						<lb facs="#LL1.26_line_1v_19" n="19" xml:id="LL1.26_lb_1v_19"/>
+						idee mi ridona; dite ad ambidue che con altra
+						<lb facs="#LL1.26_line_1v_20" n="20" xml:id="LL1.26_lb_1v_20"/>
+						posta io stesso gli scriverò — Veramente mi devono
+						<lb facs="#LL1.26_line_1v_21" n="21" xml:id="LL1.26_lb_1v_21"/>
+						essi qualche rigo, perchè io gli ho scritto due
+						<lb facs="#LL1.26_line_1v_22" n="22" xml:id="LL1.26_lb_1v_22"/>
+						volte e non mi risposero — Preparatevi dunque per
+						<lb facs="#LL1.26_line_1v_23" n="23" xml:id="LL1.26_lb_1v_23"/>
+						venir meco a <placeName ref="">Parigi:</placeName> perchè io se incontrerò con
+						<lb facs="#LL1.26_line_1v_24" n="24" xml:id="LL1.26_lb_1v_24"/>
+						l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>francese, verrò a <placeName ref="">Catania,</placeName> e poi voi
+						<lb facs="#LL1.26_line_1v_25" n="25" xml:id="LL1.26_lb_1v_25"/>
+						ritornerete con me, in uno alla <persName ref="#MaugeriRosaria">zia Sara,</persName> per vedere
+						<lb facs="#LL1.26_line_1v_26" n="26" xml:id="LL1.26_lb_1v_26"/>
+						tutta <placeName>Italia,</placeName> la <placeName>francia</placeName> e l'<placeName>inghilterra.</placeName> —
+					</s>
+				</ab>
+			</div>
+			<!-- formula di chiusura-->
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_06" part="N">
+					<s n="s_16" type="sentence" part="N">
+						Tante cose
+						<lb facs="#LL1.26_line_1v_27" n="27" xml:id="LL1.26_lb_1v_27"/>
+						affettuose à
+						<rs ref="#BelliniRosario">papà</rs>
+						e
+						<rs ref="#FerlitoAgata">
+							<distinct>mammà</distinct>
+						</rs>
+						ed a tutti i miei.
+					</s>
+					<s n="s_17" type="sentence" part="N">
+						I miei
+						<lb facs="#LL1.26_line_1v_28" n="28" xml:id="LL1.26_lb_1v_28"/>
+						<choice><abbr>abb<am instant="false">:</am><hi rend="sup">ci</hi></abbr><expan instant="false">abb<ex instant="false">rac</ex>ci</expan></choice>
+						allo
+						<persName ref="#FerlitoFrancesco">
+							zio
+							<choice><abbr>D<am instant="false">:</am><hi rend="sup">n</hi></abbr><expan instant="false">D<ex instant="false">o</ex>n</expan></choice>
+							Ciccio
+						</persName>
+						e sua
+						<rs type="personGrp">famiglia</rs>
+						tutta, i miei
+						<lb facs="#LL1.26_line_1v_29" n="29" xml:id="LL1.26_lb_1v_29"/>
+						parenti ed amici, e particolarmente il
+						<persName ref="#PaternoCastelloGiuseppeAlvaro">
+							<choice><abbr>prinpe</abbr><expan instant="false">prin<ex instant="false">ci</ex>pe</expan></choice>
+						</persName>
+						<lb facs="#LL1.26_line_1v_30" n="30" xml:id="LL1.26_lb_1v_30"/>
+						e
+						<persName ref="#PaternoCastelloAntonino">
+							<roleName type="nobility" full="yes">principino</roleName>
+							Manganelli,
+						</persName>
+						<ptr target="#LL1.26_note4"/><note>(Nota Seminara, 2017: p. 506 n. 863)<p part="N">
+							Colui che Bellini designava come “principino Manganelli” era Antonino Paternò Castello (1817-1888), che nel 1838 – alla morte del padre Giuseppe Alvaro – sarebbe diventato IV Principe di Sperlinga e IV Principe di Manganelli.
+						</p></note>
+						non escluse le sue
+						<lb facs="#LL1.26_line_1v_31" n="31" xml:id="LL1.26_lb_1v_31"/>
+						care e belle
+						<rs type="personGrp">figliuoline</rs>
+						di
+						<choice><abbr>S<am instant="false">:</am><hi rend="sup">n</hi></abbr><expan instant="false">S<ex instant="false">a</ex>n</expan></choice>
+						Giuliano,
+						come il <w part="N">Seve
+							<lb break="no" facs="#LL1.26_line_1v_32" n="32" rend="double-stroke" xml:id="LL1.26_lb_1v_32"/>
+							ro</w> Senato d'Atene. —
+					</s>
+				</ab>
+				<salute n="ab_07">
+					<s n="s_18" type="sentence" part="N">
+						<lb facs="#LL1.26_line_1v_33" n="33" xml:id="LL1.26_lb_1v_33"/>
+						<hi rend="align(right)">Il
+							<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+							<choice><abbr>affsmo</abbr><expan instant="false">aff<ex instant="false">ezionati</ex>s<ex instant="false">si</ex>mo</expan></choice>
+							<choice><abbr>Nip<am instant="false">:</am><hi rend="sup">te</hi></abbr><expan instant="false">Nip<ex instant="false">o</ex>te</expan></choice>
+						</hi>
+					</s>
+				</salute>
+				<signed>
+					<lb facs="#LL1.26_line_1v_34" n="34" xml:id="LL1.26_lb_1v_34"/>
+					<hi rend="align(right)">
+						<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo.</persName>
+					</hi>
+				</signed>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.26_hotspot_1v_01" hand="#h1" type="paratext" xml:id="LL1.26_hs_1v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 24</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.26_hotspot_1v_01h" facs="#LL1.26_hotspot_1v_01"><p>annotazione in matita blu, probabilmente dovuta a un catalogatore, che presenta la scritta "N 24"</p></div></div></back>
+	</text>
+</TEI>

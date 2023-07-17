@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bellini Digital Correspondence</title>
+				<!--formato titolo: mittente a destinatario, in luogo, data di scrittura della lettera -->
+				<author ref="#VB">Vincenzo Bellini</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital Edition
+					<date from="2020-09" to="2022-09">September 2020 - September 2022</date>
+				</edition>
+				<respStmt>
+					<resp>Progettazione e coordinamento scientifico dell’edizione critica digitale - Definizione schema XML e supervisione codifica</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso - Istituto di Linguistica Computazionale CNR</name>
+					<name xml:id="DS">Daria Spampinato - Istituto di Scienze e Tecnologie della Cognizione CNR</name>
+				</respStmt>
+				<respStmt>
+					<resp>Raccolta dati e trascrizione iniziale</resp>
+					<name ref="#GS">Graziella Seminara - Università di Catania</name>
+				</respStmt>
+				<respStmt>
+					<resp>Revisione della codifica</resp>
+					<name xml:id="EC">Erica Capizzi - borsista Università di Catania</name>
+					<name xml:id="CC">Carla Congiu - tesista Università di Pisa</name>
+					<name xml:id="LM">Laura Mazzagufo - tesista Università di Pisa</name>
+					<name xml:id="SP">Santa Pellino - tesista Università di Pisa</name>
+					<name xml:id="PPS">Pietro Sichera - Istituto di Scienze e Tecnologie della Cognizione CNR</name>
+				</respStmt>
+				<respStmt>
+					<resp>Finanziamento:</resp>
+					<name>Comune di Catania</name>
+					<name>Patto per Catania</name>
+					<name>Fondo per lo Sviluppo e la Coesione 2014/2020</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					Consiglio Nazionale delle Ricerche / Istituto di Scienze e Tecnologie della Cognizione
+				</publisher>
+				<availability>
+					<p>© Cnr Edizioni</p> 
+				</availability>
+				<pubPlace>Roma</pubPlace>
+				<address>
+					<addrLine>Piazzale Aldo Moro, 7 - 00185</addrLine> 
+				</address>
+				<idno type="isbn">ISBN 978-88-8080-562-5 (electronic edition)</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+				</availability>
+				<idno type="filename">BelliniCorrespondence.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS"></bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository role="museum" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" n="I-CATm">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1</idno>
+						<altIdentifier>
+							<note>All'interno del carteggio belliniano (LL), la segnatura LL1 corrisponde alle missive scritte da Vincenzo Bellini. Con LL1.n si indica la lettera n-esima nella sua sequenza cronologica. Il numero romano I o II in coda alla segnatura (quando presenti) specifica la natura multipla del documento fisico, cioè la coesistenza di più missive nella stessa carta.</note>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<!-- qui copiamo <msitem> -->
+						<xi:include href="./LL1_1T.xml" xpointer="msItem-LL1.1" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_2T.xml" xpointer="msItem-LL1.2" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_3T.xml" xpointer="msItem-LL1.3" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_4T.xml" xpointer="msItem-LL1.4" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_5T.xml" xpointer="msItem-LL1.5" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_6T.xml" xpointer="msItem-LL1.6" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_7T.xml" xpointer="msItem-LL1.7" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_8T.xml" xpointer="msItem-LL1.8" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_9T.xml" xpointer="msItem-LL1.9" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_10T.xml" xpointer="msItem-LL1.10" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_11T.xml" xpointer="msItem-LL1.11" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_12T.xml" xpointer="msItem-LL1.12" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_13.IT.xml" xpointer="msItem-LL1.13.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_13.IIT.xml" xpointer="msItem-LL1.13.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_14T.xml" xpointer="msItem-LL1.14" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_15T.xml" xpointer="msItem-LL1.15" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_16T.xml" xpointer="msItem-LL1.16" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_17T.xml" xpointer="msItem-LL1.17" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_18T.xml" xpointer="msItem-LL1.18" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_19T.xml" xpointer="msItem-LL1.19" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_20T.xml" xpointer="msItem-LL1.20" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_21T.xml" xpointer="msItem-LL1.21" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_22T.xml" xpointer="msItem-LL1.22" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_23.IT.xml" xpointer="msItem-LL1.23.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_23.IIT.xml" xpointer="msItem-LL1.23.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_24.IT.xml" xpointer="msItem-LL1.24.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_24.IIT.xml" xpointer="msItem-LL1.24.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_25T.xml" xpointer="msItem-LL1.25" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_26T.xml" xpointer="msItem-LL1.26" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_27T.xml" xpointer="msItem-LL1.27" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_28T.xml" xpointer="msItem-LL1.28" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_29T.xml" xpointer="msItem-LL1.29" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_30T.xml" xpointer="msItem-LL1.30" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_31.IT.xml" xpointer="msItem-LL1.31.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_31.IIT.xml" xpointer="msItem-LL1.31.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_32.IT.xml" xpointer="msItem-LL1.32.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_32.IIT.xml" xpointer="msItem-LL1.32.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_33T.xml" xpointer="msItem-LL1.33" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_34.IT.xml" xpointer="msItem-LL1.34.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<xi:include href="./LL1_35T.xml" xpointer="msItem-LL1.35" xmlns:xi="http://www.w3.org/2001/XInclude">
+							<xi:fallback>
+								<p>
+									Contenuto non trovato
+								</p>
+							</xi:fallback>
+						</xi:include>
+						<!-- fine <msitem> -->
+					</msContents>
+				</msDesc>
+				<!-- qui copiamo le liste -->
+				<!--  <listPerson> -->
+				<xi:include href="./lists/TEI-ListPerson.xml" xpointer="listperson" xmlns:xi="http://www.w3.org/2001/XInclude">
+					<xi:fallback>
+						<p>
+							Contenuto non trovato
+						</p>
+					</xi:fallback>
+				</xi:include>
+				<!-- <listPlace>-->
+				<xi:include href="./lists/TEI-ListPlace.xml" xpointer="listplace" xmlns:xi="http://www.w3.org/2001/XInclude">
+					<xi:fallback>
+						<p>
+							Contenuto non trovato
+						</p>
+					</xi:fallback>
+				</xi:include>
+				<!--  <listOrg>-->
+				<xi:include href="./lists/TEI-ListOrganization.xml" xpointer="listorg" xmlns:xi="http://www.w3.org/2001/XInclude">
+					<xi:fallback>
+						<p>
+							Contenuto non trovato
+						</p>
+					</xi:fallback>
+				</xi:include>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Il progetto Bellini Digital Correspondence (BDC) consiste nella creazione dell’edizione scientifica digitale delle lettere autografe di Vincenzo Bellini conservate presso il Museo Civico Belliniano di Catania. L’edizione – indirizzata ad utenti con preparazione musicale non omogenea – è liberamente consultabile, oltre che online alla pagina <ref target="http://bellinicorrespondence.cnr.it/">bellinicorrespondence.cnr.it</ref>, su uno schermo touch all’interno del percorso museale.</p>
+				<p>La codifica è orientata alla descrizione codicologica della fonte primaria (classe degli elementi <tag>physDesc</tag>) e alla presentazione delle informazioni sulla corrispondenza, ove presenti o deducibili (classe degli elementi <tag>correspDesc</tag>). Il collegamento del testo alle immagini in alta risoluzione è stato effettuato tramite gli elementi <tag>surface</tag> e <tag>zone</tag> in <tag>facsimile</tag>. Informazioni più dettagliate sono disponibili online sulla pagina <ref target="http://bellinicorrespondence.cnr.it/scelte-editoriali/">Scelte editoriali e criteri di codifica</ref>.</p>
+				</projectDesc>
+			<samplingDecl>
+				<p>Il carteggio comprende 40 unità testuali distribuite su un ampio numero di carte (e riprodotte in oltre 100 immagini digitali), che raccolgono le missive scritte dal compositore Vincenzo Bellini e attualmente conservate presso il Museo Civico Belliniano di Catania.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<normalization>
+					<p>Nell’edizione digitale non sono presenti normalizzazioni linguistiche (interpunzione, ortografia, arcaismi). Si usano gli elementi <tag>orig</tag> e <tag>reg</tag> per segnalare rispettivamente la lezione d’autore e la sua normalizzazione solo nei casi in cui la versione a stampa accolga esclusivamente la seconda.</p><p>L'elemento <tag>sic</tag> è stato utilizzato per segnalare refusi autoriali.</p>
+				</normalization>
+				<interpretation>
+					<p>La presente edizione evidenzia tutti gli interventi editoriali e, in particolare, le integrazioni congetturali (nell’edizione a stampa, tra parentesi uncinate) tramite l'elemento <tag>supplied</tag>. La responsabilità di tali interventi editoriali è indicata solo nel caso in cui non sia riconducibile alla curatrice dell’edizione a stampa.</p>
+				</interpretation>
+			</editorialDecl>
+			</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<!-- soggettario della Biblioteca Nazionale di Firenze -->
+					<term>
+						Lettere, biglietti e minute.
+					</term>
+				</keywords>
+			</textClass>
+			<langUsage xml:id="ita">
+				<language ident="it-IT">Italiano</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<!--<facsimile>-->
+	<xi:include href="./LL1_1T.xml" xpointer="LL1.1_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_2T.xml" xpointer="LL1.2_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_3T.xml" xpointer="LL1.3_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_4T.xml" xpointer="LL1.4_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_5T.xml" xpointer="LL1.5_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_6T.xml" xpointer="LL1.6_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_7T.xml" xpointer="LL1.7_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_8T.xml" xpointer="LL1.8_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_9T.xml" xpointer="LL1.9_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_10T.xml" xpointer="LL1.10_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_11T.xml" xpointer="LL1.11_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_12T.xml" xpointer="LL1.12_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_13.IT.xml" xpointer="LL1.13.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_13.IIT.xml" xpointer="LL1.13.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_14T.xml" xpointer="LL1.14_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_15T.xml" xpointer="LL1.15_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_16T.xml" xpointer="LL1.16_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_17T.xml" xpointer="LL1.17_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_18T.xml" xpointer="LL1.18_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_19T.xml" xpointer="LL1.19_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_20T.xml" xpointer="LL1.20_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_21T.xml" xpointer="LL1.21_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_22T.xml" xpointer="LL1.22_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_23.IT.xml" xpointer="LL1.23.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_23.IIT.xml" xpointer="LL1.23.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_24.IT.xml" xpointer="LL1.24.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_24.IIT.xml" xpointer="LL1.24.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_25T.xml" xpointer="LL1.25_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_26T.xml" xpointer="LL1.26_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_27T.xml" xpointer="LL1.27_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_28T.xml" xpointer="LL1.28_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_29T.xml" xpointer="LL1.29_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_30T.xml" xpointer="LL1.30_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_31.IT.xml" xpointer="LL1.31.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_31.IIT.xml" xpointer="LL1.31.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_32.IT.xml" xpointer="LL1.32.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_32.IIT.xml" xpointer="LL1.32.II_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_33T.xml" xpointer="LL1.33_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_34.IT.xml" xpointer="LL1.34.I_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_35T.xml" xpointer="LL1.35_facsimile" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<!-- fine di <facsimile>-->
+	<!--<text> -->
+	<xi:include href="./LL1_1T.xml" xpointer="LL1.1" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_2T.xml" xpointer="LL1.2" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_3T.xml" xpointer="LL1.3" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_4T.xml" xpointer="LL1.4" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_5T.xml" xpointer="LL1.5" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_6T.xml" xpointer="LL1.6" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_7T.xml" xpointer="LL1.7" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_8T.xml" xpointer="LL1.8" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_9T.xml" xpointer="LL1.9" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_10T.xml" xpointer="LL1.10" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_11T.xml" xpointer="LL1.11" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_12T.xml" xpointer="LL1.12" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_13.IT.xml" xpointer="LL1.13.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_13.IIT.xml" xpointer="LL1.13.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_14T.xml" xpointer="LL1.14" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_15T.xml" xpointer="LL1.15" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_16T.xml" xpointer="LL1.16" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_17T.xml" xpointer="LL1.17" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_18T.xml" xpointer="LL1.18" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_19T.xml" xpointer="LL1.19" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_20T.xml" xpointer="LL1.20" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_21T.xml" xpointer="LL1.21" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_22T.xml" xpointer="LL1.22" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_23.IT.xml" xpointer="LL1.23.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_23.IIT.xml" xpointer="LL1.23.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_24.IT.xml" xpointer="LL1.24.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_24.IIT.xml" xpointer="LL1.24.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_25T.xml" xpointer="LL1.25" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_26T.xml" xpointer="LL1.26" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_27T.xml" xpointer="LL1.27" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_28T.xml" xpointer="LL1.28" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_29T.xml" xpointer="LL1.29" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_30T.xml" xpointer="LL1.30" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_31.IT.xml" xpointer="LL1.31.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_31.IIT.xml" xpointer="LL1.31.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_32.IT.xml" xpointer="LL1.32.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_32.IIT.xml" xpointer="LL1.32.II" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_33T.xml" xpointer="LL1.33" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_34.IT.xml" xpointer="LL1.34.I" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="./LL1_35T.xml" xpointer="LL1.35" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<xi:fallback>
+			<p>
+				Contenuto non trovato
+			</p>
+		</xi:fallback>
+	</xi:include>
+</TEI>

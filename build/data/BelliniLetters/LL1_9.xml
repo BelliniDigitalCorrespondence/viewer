@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giovanni Battista Perucchini, in Napoli, 28 gennaio 1832</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-09">September 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Claudia Scroccow</name>
+					<name>Miriana Troccoli</name>
+					<name>Rebecca Di Gisi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_9.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="178" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="254" to="256" unit="page">254-256</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.9</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista">Giovanni Battista Perucchini</persName>, in
+								<placeName ref="TEI-ListPlace.xml#NA">Napoli</placeName>,
+								<date cert="high" resp="#GS" when="1832-01-28">28 gennaio 1832</date>
+							</title>
+							<textLang mainLang="it-x-800">Italiano di inizio Ottocento.</textLang>
+							<note>Lettera facente parte del Carteggio Perucchini e in esso catalogata con la segnatura CP1.2. Si tratta della seconda parte della lettera; la prima parte si trova al Museo Correr di Venezia.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>
+										Sulla parte sinistra della piegatura centrale della carta 2v sono presenti l'<hi facs="#LL1.9_hotspot_2v_03">ombra di un timbro di frontiera riportante "SP" (Stato Pontificio)</hi> e il <hi facs="#LL1.9_hotspot_2v_02">timbro dello Stato Pontificio</hi>. Sulla parte destra rispetto alla piegatura centrale sono presenti un <hi facs="#LL1.9_hotspot_2v_04">timbro di arrivo riportante "VENEZIA FEB."</hi> e il <hi facs="#LL1.9_hotspot_2v_05">timbro di partenza riportante "NAP. 1832 28 GEN."</hi>.
+									</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>129</height>
+										<width>213</width>
+									</dimensions>
+								</extent>
+								<collation>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su tre facciate con indirizzo del
+									<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer">destinatario</persName> nella carta 2v. Il secondo folio presenta una duplice piegatura asimmetrica, con il margine superiore piegato più ampio.
+								</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche. Sulla parte sinistra della carta 2v è presente uno strappo probabilmente causato quando è stato staccato il sigillo in ceralacca. Lo strappo è riportato anche sulla carta 2r.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<handNote>
+								<p>Scrittura a mano libera leggibile.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>
+									La facciata della carta 1r presenta nella parte inferiore un'<hi facs="#LL1.9_hotspot_1r_01">annotazione di catalogo di seconda mano che riporta: "AM 82.0"</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>
+									Un
+									<hi facs="#LL1.9_hotspot_2v_01">segno d'inchiostro indecifrabile</hi>, posto sopra l'indirizzo del destinatario.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>
+									Sull'estremità destra del verso è presente un sigillo in ceralacca rossa per la chiusura della lettera.
+								</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#NA" type="postmark">Napoli</placeName>
+					<date type="postmark" when="1832-01-28">28 gennaio 1832</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer">Giovanni Battista Perucchini</persName>
+					<placeName ref="TEI-ListPlace.xml#VE" type="postmark">Venezia</placeName>
+					<date cert="high" resp="#GS" type="postmark" when="1832-02">Febbraio 1832</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>		
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.9_folio_1r">
+			<graphic height="2591px" url="LL1.9_0001.jpg" width="1604px" />
+			<zone lrx="1570" lry="210" rendition="Line" ulx="88" uly="69" xml:id="LL1.9_line_1r_01" />
+			<zone lrx="1570" lry="336" rendition="Line" ulx="88" uly="196" xml:id="LL1.9_line_1r_02" />
+			<zone lrx="1570" lry="459" rendition="Line" ulx="88" uly="336" xml:id="LL1.9_line_1r_03" />
+			<zone lrx="1570" lry="612" rendition="Line" ulx="88" uly="450" xml:id="LL1.9_line_1r_04" />
+			<zone lrx="1570" lry="762" rendition="Line" ulx="88" uly="612" xml:id="LL1.9_line_1r_05" />
+			<zone lrx="1570" lry="916" rendition="Line" ulx="88" uly="762" xml:id="LL1.9_line_1r_06" />
+			<zone lrx="1570" lry="1070" rendition="Line" ulx="88" uly="920" xml:id="LL1.9_line_1r_07" />
+			<zone lrx="1570" lry="1242" rendition="Line" ulx="88" uly="1076" xml:id="LL1.9_line_1r_08" />
+			<zone lrx="1570" lry="1402" rendition="Line" ulx="88" uly="1254" xml:id="LL1.9_line_1r_09" />
+			<zone lrx="1570" lry="1568" rendition="Line" ulx="88" uly="1406" xml:id="LL1.9_line_1r_10" />
+			<zone lrx="1570" lry="1706" rendition="Line" ulx="88" uly="1556" xml:id="LL1.9_line_1r_11" />
+			<zone lrx="1570" lry="1860" rendition="Line" ulx="88" uly="1712" xml:id="LL1.9_line_1r_12" />
+			<zone lrx="1570" lry="2020" rendition="Line" ulx="88" uly="1864" xml:id="LL1.9_line_1r_13" />
+			<zone lrx="1570" lry="2140" rendition="Line" ulx="88" uly="2022" xml:id="LL1.9_line_1r_14" />
+			<zone lrx="1570" lry="2290" rendition="Line" ulx="88" uly="2142" xml:id="LL1.9_line_1r_15" />
+			<zone lrx="1570" lry="2420" rendition="Line" ulx="88" uly="2282" xml:id="LL1.9_line_1r_16" />
+			<zone lrx="1570" lry="2528" rendition="Line" ulx="88" uly="2420" xml:id="LL1.9_line_1r_17" />
+			<zone lrx="1552" lry="2552" rendition="HotSpot" ulx="1325" uly="2494" xml:id="LL1.9_hotspot_1r_01" />
+		</surface>
+		<surface n="2" xml:id="LL1.9_folio_1v">
+			<graphic height="2588px" url="LL1.9_0002.jpg" width="1622px" />
+			<zone lrx="1580" lry="224" rendition="Line" ulx="70" uly="70" xml:id="LL1.9_line_1v_01" />
+			<zone lrx="1580" lry="342" rendition="Line" ulx="70" uly="194" xml:id="LL1.9_line_1v_02" />
+			<zone lrx="1580" lry="460" rendition="Line" ulx="70" uly="330" xml:id="LL1.9_line_1v_03" />
+			<zone lrx="1580" lry="610" rendition="Line" ulx="70" uly="468" xml:id="LL1.9_line_1v_04" />
+			<zone lrx="1580" lry="766" rendition="Line" ulx="70" uly="584" xml:id="LL1.9_line_1v_05" />
+			<zone lrx="1580" lry="900" rendition="Line" ulx="70" uly="752" xml:id="LL1.9_line_1v_06" />
+			<zone lrx="1580" lry="1068" rendition="Line" ulx="70" uly="920" xml:id="LL1.9_line_1v_07" />
+			<zone lrx="1580" lry="1204" rendition="Line" ulx="70" uly="1074" xml:id="LL1.9_line_1v_08" />
+			<zone lrx="1580" lry="1340" rendition="Line" ulx="70" uly="1192" xml:id="LL1.9_line_1v_09" />
+			<zone lrx="1580" lry="1510" rendition="Line" ulx="70" uly="1342" xml:id="LL1.9_line_1v_10" />
+			<zone lrx="1580" lry="1678" rendition="Line" ulx="70" uly="1510" xml:id="LL1.9_line_1v_11" />
+			<zone lrx="1580" lry="1852" rendition="Line" ulx="70" uly="1694" xml:id="LL1.9_line_1v_12" />
+			<zone lrx="1580" lry="1992" rendition="Line" ulx="70" uly="1842" xml:id="LL1.9_line_1v_13" />
+			<zone lrx="1580" lry="2126" rendition="Line" ulx="70" uly="2002" xml:id="LL1.9_line_1v_14" />
+			<zone lrx="1580" lry="2264" rendition="Line" ulx="70" uly="2112" xml:id="LL1.9_line_1v_15" />
+			<zone lrx="1580" lry="2416" rendition="Line" ulx="70" uly="2264" xml:id="LL1.9_line_1v_16" />
+			<zone lrx="1580" lry="2530" rendition="Line" ulx="70" uly="2400" xml:id="LL1.9_line_1v_17" />
+		</surface>
+		<surface n="3" xml:id="LL1.9_folio_2r">
+			<graphic height="2591px" url="LL1.9_0003.jpg" width="1604px" />
+			<zone lrx="1562" lry="198" rendition="Line" ulx="90" uly="78" xml:id="LL1.9_line_2r_01" />
+			<zone lrx="1530" lry="270" rendition="Line" ulx="890" uly="188" xml:id="LL1.9_line_2r_02" />
+			<zone lrx="1530" lry="410" rendition="Line" ulx="890" uly="260" xml:id="LL1.9_line_2r_03" />
+			<zone lrx="518" lry="490" rendition="Line" ulx="252" uly="380" xml:id="LL1.9_line_2r_04" />
+			<zone lrx="930" lry="600" rendition="Line" ulx="186" uly="492" xml:id="LL1.9_line_2r_05" />
+			<zone lrx="930" lry="730" rendition="Line" ulx="186" uly="604" xml:id="LL1.9_line_2r_06" />
+		</surface>
+		<surface n="4" xml:id="LL1.9_folio_2v">
+			<graphic height="2588px" url="LL1.9_0004.jpg" width="1622px" />
+			<zone lrx="401" lry="2088" rendition="HotSpot" ulx="230" uly="1792" xml:id="LL1.9_hotspot_2v_01" />
+			<!-- hotspot altra penna in baso a sinistra -->
+			<zone lrx="464" lry="1580" rendition="HotSpot" ulx="230" uly="1100" xml:id="LL1.9_hotspot_2v_02" />
+			<!-- hotspot timbro pontificio-->
+			<zone lrx="493" lry="1102" rendition="HotSpot" ulx="230" uly="744" xml:id="LL1.9_hotspot_2v_03" />
+			<!-- hotspot timbro circolare stato pontificio -->
+			<zone lrx="574" lry="2088" rendition="Line" ulx="386" uly="1030" xml:id="LL1.9_line_2v_01" />
+			<zone lrx="770" lry="2088" rendition="Line" ulx="548" uly="720" xml:id="LL1.9_line_2v_02" />
+			<zone lrx="930" lry="1400" rendition="Line" ulx="724" uly="720" xml:id="LL1.9_line_2v_03" />
+			<zone lrx="1366" lry="1780" rendition="HotSpot" ulx="1130" uly="1410" xml:id="LL1.9_hotspot_2v_04" />
+			<!-- hotspot venezia  il più a sinistra dei 2, ruotato rispetto alla scritta -->
+			<zone lrx="1424" lry="2022" rendition="HotSpot" ulx="1212" uly="1560" xml:id="LL1.9_hotspot_2v_05" />
+			<!-- hotspot venezia il più a destra dei 2, ruotato rispetto alla scritta -->
+		</surface>
+	</facsimile>
+	<text n="LL1.9" subtype="manuscript" type="lettera" xml:id="LL1.9">
+		<front xml:lang="it">
+			<pb facs="#LL1.9_folio_2v" n="4" xml:id="LL1.9_fol_2v_front" />
+			<div type="envelope">
+				<div type="sent">
+					<ab copyOf="#LL1.9_hs_2v_05" facs="#LL1.9_hotspot_2v_05" xml:id="LL1.9_hs_2v_05_front">
+						<stamp type="postmark">
+							<!-- timbro del mittente con data -->
+							<mentioned>
+								<placeName ref="TEI-ListPlace.xml#NA">NAP.</placeName>
+								<date when="1832-01-28">1832 28 GEN.</date>
+							</mentioned>
+						</stamp>
+					</ab>
+				</div>
+				<div type="destination">
+					<ab copyOf="#LL1.9_hs_2v_04" facs="#LL1.9_hotspot_2v_04" xml:id="LL1.9_hs_2v_09_front">
+						<stamp type="postmark">
+							<!-- timbro del destinatario con data -->
+							<mentioned>
+								<placeName ref="TEI-ListPlace.xml#VE">VENEZIA</placeName>
+								<date when="1832-02">FEB. 1832</date>
+							</mentioned>
+						</stamp>
+					</ab>
+					<ab copyOf="#LL1.9_line_2v_01_multiple" type="receiver">
+						<address>
+							<!--  informazioni del destinatario -->
+							<lb facs="#LL1.9_line_2v_01" n="1" xml:id="LL1.9_lb_2v_01_front" />
+							<addrLine>Al
+								<choice>
+									<abbr>Pregmo</abbr>
+									<expan>Preg<ex>iatissi</ex>mo</expan>
+								</choice> Signore
+							</addrLine>
+							<lb facs="#LL1.9_line_2v_02" n="2" xml:id="LL1.9_lb_2v_02_front" />
+							<addrLine>Al
+								<choice>
+									<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+									<expan>Sig<ex>no</ex>r</expan>
+								</choice>
+								<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer">Giovan Battista Perucchini</persName>
+							</addrLine>
+							<lb facs="#LL1.9_line_2v_03" n="3" xml:id="LL1.9_lb_2v_03_front" />
+							<addrLine>
+								<placeName ref="TEI-ListPlace.xml#VE">Venezia</placeName>
+							</addrLine>
+						</address>
+					</ab>
+				</div>
+			</div>
+		</front>
+
+		<body xml:lang="it">
+			<pb facs="#LL1.9_folio_1r" n="1" xml:id="LL1.9_fol_1r" />
+			<div n="t_01" type="letter-body">
+				<ab n="ab_04" next="#LL1.9_ab_04_1v" part="I" xml:id="LL1.9_ab_04_1r">
+					<s n="s_08" type="sentence">
+						<ptr target="#LL1.9_note1" />
+						<lb facs="#LL1.9_line_1r_01" n="1" xml:id="LL1.9_lb_1r_01" />
+						aver guadagnato con l'introito serale, son
+						<lb facs="#LL1.9_line_1r_02" n="2" xml:id="LL1.9_lb_1r_02" />
+						sicuro che ritrarrà la somma di<space /><num type="cardinal" value="15000">15000<am>:</am></num><space />lire
+						<lb facs="#LL1.9_line_1r_03" n="3" xml:id="LL1.9_lb_1r_03" />
+						con la sola vendita che farà dello
+						<term ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito.</term>
+					</s>
+					<s n="s_09" type="sentence">
+						<lb facs="#LL1.9_line_1r_04" n="4" xml:id="LL1.9_lb_1r_04" />
+						Vi ho scritto tutti questi dettagli, perché
+						<lb facs="#LL1.9_line_1r_05" n="5" xml:id="LL1.9_lb_1r_05" />
+						non credino i
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">ri</hi></abbr>
+							<expan>Sig<ex>no</ex>ri</expan>
+						</choice> Veneziani che io
+						<lb facs="#LL1.9_line_1r_06" n="6" xml:id="LL1.9_lb_1r_06" />
+						non sia memore ancora della loro <w>affezio
+							<lb break="no" facs="#LL1.9_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.9_lb_1r_07" />
+							ne,</w> e che io nutro perciò un vero
+						<lb facs="#LL1.9_line_1r_08" n="8" xml:id="LL1.9_lb_1r_08" />
+						trasporto per scrivere pel loro <w>tea
+							<lb break="no" facs="#LL1.9_line_1r_09" n="9" rend="double-stroke" xml:id="LL1.9_lb_1r_09" />
+							tro;</w> ma che non posso facilitare <w>al
+							<lb break="no" facs="#LL1.9_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.9_lb_1r_010" />
+							l'</w><term ref="TEI-ListTerm.xml#impresario" subtype="music-term">Impressario</term> nel prezzo, perché <w>lede
+							<lb break="no" facs="#LL1.9_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.9_lb_1r_11" />
+							rei</w> al corso della mia carriera; <w>men
+							<lb break="no" facs="#LL1.9_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.9_lb_1r_12" />
+							tre</w> per lo più non scrivo che un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term"><w>ope
+								<lb break="no" facs="#LL1.9_line_1r_13" n="13" rend="double-stroke" xml:id="LL1.9_lb_1r_13" />
+								ra</w>
+						</term> all'anno, e gli altri maestri ne
+						<lb facs="#LL1.9_line_1r_14" n="14" xml:id="LL1.9_lb_1r_14" />
+						scrivono tre, e così guadagnono anche
+						<lb facs="#LL1.9_line_1r_15" n="15" xml:id="LL1.9_lb_1r_15" />
+						piú di me in pochi mesi. —
+					</s>
+					<s n="s_10" next="#LL1.9_s_10_1v" part="I" type="sentence" xml:id="LL1.9_s_10_1r">
+						Frattanto
+						<lb facs="#LL1.9_line_1r_16" n="16" xml:id="LL1.9_lb_1r_16" />
+						qui la corte desidera che io scriva un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term"><w>ope
+							<lb break="no" facs="#LL1.9_line_1r_17" n="17" rend="double-stroke" xml:id="LL1.9_lb_1r_17" />
+							ra;</w></term> ma io per scrivere in
+						<placeName ref="TEI-ListPlace.xml#NA">Napoli,</placeName> pretendo
+					</s>
+					<lb/>
+				</ab>
+				<ab facs="#LL1.9_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext">
+					<fw type="catalogNum">
+						<idno type="oldCat">AM 82.0</idno>
+					</fw>
+				</ab>
+				<pb facs="#LL1.9_folio_1v" n="2" xml:id="LL1.9_fol_1v" />
+				<ab n="ab_04" part="F" prev="#LL1.9_ab_04_1r" type="parag" xml:id="LL1.9_ab_04_1v">
+					<s n="s_10" part="F" prev="#LL1.9_s_10_1r" type="sentence" xml:id="LL1.9_s_10_1v">
+						<lb facs="#LL1.9_line_1v_01" n="1" xml:id="LL1.9_lb_1v_01" />
+						una forte <term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia,</term> e quindi stò a <w>ve
+							<lb break="no" facs="#LL1.9_line_1v_02" n="2" rend="double-stroke" xml:id="LL1.9_lb_1v_02" />
+							dere</w> quali saranno i scritturati, e <w>for
+							<lb break="no" facs="#LL1.9_line_1v_03" n="3" rend="double-stroke" xml:id="LL1.9_lb_1v_03" />
+							se,</w> trattenendomi sino ad aprile, avrò il <w>cam
+							<lb break="no" facs="#LL1.9_line_1v_04" n="4" rend="double-stroke" xml:id="LL1.9_lb_1v_04" />
+							po</w> di sentirli, perché tutta la
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term>
+						<lb facs="#LL1.9_line_1v_05" n="5" xml:id="LL1.9_lb_1v_05" />
+						debbutta col
+						<choice>
+							<abbr>1<am>:</am><hi rend="sup">°</hi></abbr>
+							<expan>primo</expan>
+						</choice> giorno di Pasqua. —
+					</s>
+					<s n="s_11" type="sentence">
+						<lb facs="#LL1.9_line_1v_06" n="6" xml:id="LL1.9_lb_1v_06" />
+						Se
+						<persName ref="TEI-ListPerson.xml#LanariAlessandro" role="impresario">Lanari</persName> avesse l'intenzione di <w>scrit
+							<lb break="no" facs="#LL1.9_line_1v_07" n="7" rend="double-stroke" xml:id="LL1.9_lb_1v_07" />
+							turarmi,</w> bisogna che mi mandi anche
+						<lb facs="#LL1.9_line_1v_08" n="8" xml:id="LL1.9_lb_1v_08" />
+						la nota della
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term> che darà
+						<lb facs="#LL1.9_line_1v_09" n="9" xml:id="LL1.9_lb_1v_09" />
+						alla
+						<orgName ref="TEI-ListOrganization.xml#Fenice" type="theatre">Fenice,</orgName> e dopo potremo <w>compina
+							<lb break="no" facs="#LL1.9_line_1v_10" n="10" rend="double-stroke" xml:id="LL1.9_lb_1v_10" />
+							re,</w> se non avrò nulla fissato con
+						<lb facs="#LL1.9_line_1v_11" n="11" xml:id="LL1.9_lb_1v_11" />
+						<placeName ref="TEI-ListPlace.xml#NA">Napoli.</placeName> —
+					</s>
+					<s n="s_12" type="sentence">
+						Ricordatemi a tutti gli
+						<lb facs="#LL1.9_line_1v_12" n="12" xml:id="LL1.9_lb_1v_12" />
+						amici nostri: vogliatemi bene, e <w>scrive
+							<lb break="no" facs="#LL1.9_line_1v_13" n="13" rend="double-stroke" xml:id="LL1.9_lb_1v_13" />
+							temi</w> le
+						<choice>
+							<abbr>vre<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>re</expan>
+						</choice> notizie e del teatro.
+					</s>
+					<s n="s_13" rend="first_line_indented" type="sentence">
+						<lb facs="#LL1.9_line_1v_14" n="14" xml:id="LL1.9_lb_1v_14" />
+						Tante cose ai
+						<choice>
+							<abbr>vri<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ri</expan>
+						</choice> cari
+						<rs type="personGrp">vecchietti,</rs>
+						<lb facs="#LL1.9_line_1v_15" n="15" xml:id="LL1.9_lb_1v_15" />
+						ed a tutta la famiglia del <rs xml:id="LL1.9_1v_15_Governatore" next="#LL1.9_1v_16_Governatore" type="person">Governato</rs>
+						<lb break="no" facs="#LL1.9_line_1v_16" n="16" rend="double-stroke" xml:id="LL1.9_lb_1v_16" />
+						<rs xml:id="LL1.9_1v_16_Governatore" prev="#LL1.9_1v_15_Governatore" type="person">re,</rs> come vi prego di ricordarmi a
+						<persName next="#LL1.9_1v_17_Tognino_Pappadopoli" ref="TEI-ListPerson.xml#PapadopoliAntonio" role="mecenate">To</persName>
+						<lb break="no" facs="#LL1.9_line_1v_17" n="17" rend="double-stroke" xml:id="LL1.9_lb_1v_17" />
+						<persName prev="#LL1.9_1v_16_Tognino_Pappadopoli" ref="TEI-ListPerson.xml#PapadopoliAntonio" role="mecenate">gnino Pappadopoli</persName> ed a <persName ref="TEI-ListPerson.xml#FannaAntonio" role="composer">Fanna.</persName>
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<pb facs="#LL1.9_folio_2r" n="3" xml:id="LL1.9_fol_2r" />
+				<ab n="ab_06">
+					<s n="s_14" type="sentence">
+						<lb facs="#LL1.9_line_2r_01" n="1" xml:id="LL1.9_lb_2r_01" />
+						Ricevete i miei
+						<choice>
+							<abbr>abb<am>:</am><hi rend="sup">ci</hi></abbr>
+							<expan>abb<ex>rac</ex>ci</expan>
+						</choice> e
+						<choice>
+							<abbr>cred<am>:</am><hi rend="sup">mi</hi></abbr>
+							<expan>cred<ex>ete</ex>mi</expan>
+						</choice> sempre
+					</s>
+				</ab>
+				<salute n="ab_07">
+					<s n="s_15" type="sentence">
+						<lb facs="#LL1.9_line_2r_02" n="2" xml:id="LL1.9_lb_2r_02" />
+						<hi rend="align(right)">Il
+							<choice>
+								<abbr>vro</abbr>
+								<expan>v<ex>ost</ex>ro</expan>
+							</choice>
+							<choice>
+								<abbr>affssmo</abbr>
+								<expan>aff<ex>ezionati</ex>ss<ex>i</ex>mo</expan>
+							</choice>
+							<choice>
+								<abbr>Am<hi rend="sup">o</hi></abbr>
+								<expan>Am<ex>ic</ex>o</expan>
+							</choice>
+						</hi>
+						<lb facs="#LL1.9_line_2r_03" n="3" xml:id="LL1.9_lb_2r_03" />
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">
+						<choice>
+							<abbr>V<am>:</am></abbr>
+							<expan>V<ex>incenzo</ex></expan>
+						</choice> Bellini
+					</persName>
+				</signed>
+			</div>
+			<div type="postscript">
+				<lb facs="#LL1.9_line_2r_04" n="4" xml:id="LL1.9_lb_2r_04" />
+				<label>P.S.</label>
+				<ab n="ab_08" rend="align(left)">
+					<s n="s_16" type="sentence">
+						<lb facs="#LL1.9_line_2r_05" n="5" xml:id="LL1.9_lb_2r_05" />
+						V'accludo un piccolo
+						<lb facs="#LL1.9_line_2r_06" n="6" xml:id="LL1.9_lb_2r_06" />
+						artico<supplied>lo</supplied> sù <rs ref="TEI-ListWork.xml#Norma" rend="underline" type="work">Norma.</rs>
+					</s>
+					<s n="s_17" type="sentence">
+						<hi rend="underline">Addio.</hi></s>
+				</ab>
+			</div>
+			<pb facs="#LL1.9_folio_2v" n="4" xml:id="LL1.9_fol_2v" />
+			<div type="destination">
+				<ab type="receiver" xml:id="LL1.9_line_2v_01_multiple">
+					<address>
+						<lb facs="#LL1.9_line_2v_01" n="1" xml:id="LL1.9_lb_2v_01" />
+						<addrLine>Al
+							<choice>
+								<abbr>Pregmo</abbr>
+								<expan>Preg<ex>iatissi</ex>mo</expan>
+							</choice> Signore
+						</addrLine>
+						<lb facs="#LL1.9_line_2v_02" n="2" xml:id="LL1.9_lb_2v_02" />
+						<addrLine>Al
+							<choice>
+								<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+								<expan>Sig<ex>no</ex>r</expan>
+							</choice>
+							<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer">Giovan Battista Perucchini</persName>
+						</addrLine>
+						<lb facs="#LL1.9_line_2v_03" n="3" xml:id="LL1.9_lb_2v_03" />
+						<addrLine rend="align(right)">
+							<placeName ref="TEI-ListPlace.xml#VE">Venezia</placeName>
+						</addrLine>
+					</address>
+				</ab>
+				<ab facs="#LL1.9_hotspot_2v_04" type="paratext" xml:id="LL1.9_hs_2v_04">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#VE">VENEZIA</placeName>
+						</mentioned>
+						<mentioned>
+							<date when="1832-02">FEB.</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+
+			<div type="sent">
+				<ab facs="#LL1.9_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.9_hs_2v_01">
+					<fw>
+						<gap reason="illegible" extent="unknown" />
+					</fw>
+				</ab>
+				<!-- Timbro del mittente con data -->
+				<ab facs="#LL1.9_hotspot_2v_05" type="paratext" xml:id="LL1.9_hs_2v_05">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#NA">NAP.</placeName>
+							<date when="1832" xml:id="LL1.9_2v_01_1838-01-28" next="LL1.9_2v_02_1838-01-28" >1832</date>
+						</mentioned>
+						<mentioned>
+							<date when="01-28" xml:id="LL1.9_2v_02_1838-01-28" prev="LL1.9_2v_01_1838-01-28">28 GEN.</date>
+						</mentioned>
+					</stamp>
+				</ab>
+				<!-- Timbro del destinatario con data -->
+			</div>
+
+			<div type="stamp">
+				<ab facs="#LL1.9_hotspot_2v_03" type="paratext" xml:id="LL1.9_hs_2v_03">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#SPontificio">SP</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+				<!-- STATO PONTIFICIO -->
+				<ab facs="#LL1.9_hotspot_2v_02" type="paratext" xml:id="LL1.9_hs_2v_02">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#SPontificio">Stato Pontificio</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+				<!-- STATO PONTIFICIO -->
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="423" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.9_note1">
+						<bibl>
+							<citedRange from="254" to="254" unit="page">254</citedRange>
+						</bibl>
+						<p>
+							Salvioli era a conoscenza soltanto della prima parte della lettera; l'autografo corrispondente, che si riteneva perduto, è stato rinvenuto al Museo Correr di Venezia. La seconda metà della missiva faceva parte del Fondo Perucchini, acquistato dal Comune di Catania in un'asta promossa da Christie's a Roma nel dicembre 1998, ed è adesso custodita nel Museo Civico Belliniano della città etnea.
+						</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_9_bibliography">
+
+					<head>Bibliografia della lettera LL1.9</head>
+					<bibl xml:id="LL1_9_Salvioli">
+						<ref target="TEI-ListBibl.xml#Salvioli1884">
+							<bibl>
+								<author>Salvioli</author>
+								<date when="1884">1884</date>
+								<citedRange from="13" to="14" unit="page">13-14</citedRange>
+							</bibl>
+						</ref>
+						<note resp="#GS">L'edizione si riferisce solo alla prima parte della lettera.</note>
+					</bibl>
+					<bibl xml:id="LL1_9_Cambi">
+						<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+							<bibl>
+								<author>Cambi</author>
+								<date when="1943">1943</date>
+								<citedRange from="299" to="300" unit="page">299-300</citedRange>
+							</bibl>
+						</ref>
+						<note resp="#GS">Edizione incompleta.</note>
+					</bibl>
+					<bibl xml:id="LL1_9_Seminara2001">
+						<ref target="TEI-ListBibl.xml#Seminara2001">
+							<bibl>
+								<author>Seminara</author>
+								<date when="2001">2001</date>
+								<citedRange from="24" to="27" unit="page">24-27</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_9_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2001">2005</date>
+								<citedRange from="207" to="208" unit="page">207-208</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

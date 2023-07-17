@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Gaetano Cobianchi, in Parigi, 22 gennaio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-06" instant="false">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Francesca Moretti</name>
+					<name full="yes" instant="false">Lorenzo Tafi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_18.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="366" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="453" to="453" unit="page">453</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.18</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 2, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.18"><idno type="inventory">LL1.18</idno><title>Vincenzo Bellini a Gaetano Cobianchi, in Parigi, 22 gennaio 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="366"><locus from="453" to="453">n. 366, p. 453.</locus></citedRange></bibl><bibl>Neri, 2005, p. 368. </bibl><incipit><fw>Incipit </fw>
+						
+						Mio caro Amico: eccoti un biglietto
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Addio
+					
+				
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date type="postmark" when="1835-01-22" instant="false">22 gennaio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#CobianchiGaetano">Gaetano Cobianchi</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Biglietto</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.18_facsimile">
+		<!--RECTO -->
+		<surface n="LL1.18.1" xml:id="LL1.18_folio_1r" corresp="#LL1.18_fol_1r"><graphic url="data/test-img/LL1.18/LL1-18_0001.dzi" width="2439px" height="1613px"/><zone ulx="207.50" uly="142.29" lrx="598.79" lry="183.79" rendition="line" xml:id="LL1.18_line_1r_01"/><zone ulx="254.93" uly="186.75" lrx="598.79" lry="228.25" rendition="line" xml:id="LL1.18_line_1r_02"/><zone ulx="254.93" uly="231.22" lrx="598.79" lry="266.79" rendition="line" xml:id="LL1.18_line_1r_03"/><zone ulx="254.93" uly="275.68" lrx="598.79" lry="308.29" rendition="line" xml:id="LL1.18_line_1r_04"/><zone ulx="254.93" uly="311.25" lrx="598.79" lry="338.53" rendition="line" xml:id="LL1.18_line_1r_05"/><zone ulx="284.58" uly="340.90" lrx="687.72" lry="378.84" rendition="line" xml:id="LL1.18_line_1r_06"/><zone ulx="284.58" uly="380.03" lrx="615.99" lry="406.11" rendition="line" xml:id="LL1.18_line_1r_07"/><zone ulx="303.55" uly="406.71" lrx="687.72" lry="431.01" rendition="line" xml:id="LL1.18_line_1r_08"/><zone ulx="319.85" uly="433.09" lrx="666.97" lry="447.02" rendition="line" xml:id="LL1.18_line_1r_09"/><zone ulx="331.41" uly="448.21" lrx="710.25" lry="464.81" rendition="line" xml:id="LL1.18_line_1r_10"/><zone ulx="17.19" uly="16.60" lrx="50.39" lry="36.76" rendition="HotSpot" xml:id="LL1.18_hotspot_1r_01" corresp="#LL1.18_hotspot_1r_01h" start="#LL1.18_hotspot_1r_01h"/></surface>
+		<!--VERSO-->
+		<surface n="LL1.18.2" xml:id="LL1.18_folio_1v" corresp="#LL1.18_fol_1v"><graphic url="data/test-img/LL1.18/LL1-18_0002.dzi" width="2475px" height="1607px"/><zone ulx="230.19" uly="230.78" lrx="555.03" lry="257.65" rendition="line" xml:id="LL1.18_line_1v_01"/><zone ulx="253.56" uly="265.25" lrx="522.31" lry="295.63" rendition="line" xml:id="LL1.18_line_1v_02"/><zone ulx="382.09" uly="300.30" lrx="509.75" lry="332.43" rendition="line" xml:id="LL1.18_line_1v_03"/><zone ulx="304.39" uly="26.88" lrx="391.44" lry="116.26" rendition="HotSpot" xml:id="LL1.18_hotspot_1v_01" corresp="#LL1.18_hotspot_1v_01h" start="#LL1.18_hotspot_1v_01h"/><zone ulx="238.96" uly="62.81" lrx="297.96" lry="119.77" rendition="HotSpot" xml:id="LL1.18_hotspot_1v_02" corresp="#LL1.18_hotspot_1v_02h" start="#LL1.18_hotspot_1v_02h"/></surface>
+	</facsimile>
+	<text type="biglietto" n="1.18" xml:id="LL1.18">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Gaetano Cobianchi, in Parigi, 22 gennaio 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        366  p. 453</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La data di redazione del biglietto è stata attribuita da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo e un termine in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.18</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>132x203<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>
+										Filigrana di forma circolare che traspare nella zona vicino all'angolo superiore della lettera ma non identificabile.
+									</p><p><fw>
+                            Timbri
+                        </fw>Nella carta 1v sono presenti
+										un timbro con dicitura "J [parola illegibile] - II" e un timbro con dicitura "22 Janvier 1835". Nella carta 1r si intravede l'ombra dei due timbri, probabilmente causata dalla piegatura della pagina sull'inchiostro non ancora asciutto.
+									</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da un solo folio, con testo su entrambe le facciate; risulta piegata in più parti e presenta piegature orizzontali, verticali ed oblique. La scrittura occupa principalmente la parte destra della carta 1r, intensificandosi in basso a destra, mentre nella carta 1v (nella parte centrale) è presente l'indirizzo.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche, anche se un po' usurata e sono ben visibili le parti in cui la lettera è stata piegata; presenta inoltre qualche macchia.
+									
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera parzialmente leggibile. Il fronte del folio presenta, presumibilmente, una notazione di seconda mano.
+								
+							 
+								
+									Nella carta 1r è presente un'annotazione attribuibile presumibilmente a un catalogatore.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>22 gennaio 1835</p><p><fw> 
+                            Destinatario
+                        </fw>Gaetano Cobianchi</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.18.1r" xml:id="LL1.18_fol_1r" facs="data/test-img/LL1.18/LL1-18_0001.dzi"/>
+			<!-- fronte -->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.18_line_1r_01" n="1" xml:id="LL1.18_lb_1r_01"/>
+						Mio caro <persName ref="#CobianchiGaetano" type="person" role="banker">Amico:</persName> eccoti un biglietto
+					</s>
+				</salute>
+				<ab n="ab_02" type="parag" part="N">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.18_line_1r_02" n="2" xml:id="LL1.18_lb_1r_02"/>
+						per la tua <rs type="personGrp">famiglia</rs> — Non si danno
+						<lb facs="#LL1.18_line_1r_03" n="3" xml:id="LL1.18_lb_1r_03"/>
+						<term ref="TEI-ListTerm.xml#loggione" resp="#EC" subtype="music-term">logge,</term><note type="comment" n="T"><seg>
+                [LOGGIONE]
+            </seg><gloss xml:lang="it" target="#loggione" source="TEI-ListBibl.xml#DellaSeta2010">
+							Il settore più alto degli ordini architettonici di un <term subtype="music-term">teatro all'italiana,</term> i cui posti sono i più economici. Per estensione, l'insieme degli spettatori che lo frequentano (loggionisti), di solito appassionati e intransigenti giudici delle prestazioni dei cantanti. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> ma chi arriva prima ha i
+						<lb facs="#LL1.18_line_1r_04" n="4" xml:id="LL1.18_lb_1r_04"/>
+						migliori posti, essendo tutto il teatro
+						<lb facs="#LL1.18_line_1r_05" n="5" xml:id="LL1.18_lb_1r_05"/>
+						a disposizione degl'invitati.
+					</s>
+				</ab>
+				<ab n="ab_03" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.18_line_1r_06" n="6" xml:id="LL1.18_lb_1r_06"/>
+						Voglio che tu assisti alla
+							<choice><abbr>1<am instant="false">:</am><hi rend="sup">a</hi></abbr><expan instant="false">prima</expan></choice>
+							<choice><abbr>rap<am instant="false">:</am><hi rend="sup">ne</hi></abbr><expan instant="false">rap<ex instant="false">presentazio</ex>ne</expan></choice> della
+						<lb facs="#LL1.18_line_1r_07" n="7" xml:id="LL1.18_lb_1r_07"/>
+						mia <term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> ed è perciò che ti ho
+						<lb facs="#LL1.18_line_1r_08" n="8" xml:id="LL1.18_lb_1r_08"/>
+						preparato <hi rend="underline">una</hi> 
+							<foreign xml:lang="fr">
+								<hi rend="underline">stalle</hi>.
+							</foreign>
+						<ptr target="#LL1.18_note1"/><note>(Nota Seminara, 2017: p. 452 n. 762)<p part="N">Francesismo, per 'posti numerati'.</p></note> — Lascerai per
+						<lb facs="#LL1.18_line_1r_09" n="9" xml:id="LL1.18_lb_1r_09"/>
+						quella sola sera la tua amabile <persName type="person">sposa</persName>
+						<lb facs="#LL1.18_line_1r_10" n="10" xml:id="LL1.18_lb_1r_10"/>
+						pel tuo <persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName> che t'ama assai
+					</s>
+				</ab>
+			</div>
+			<!--chiusura della lettera -->
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" part="N">
+					<s n="s_04" type="sentence" part="N">
+						<hi rend="underline">Addio</hi>
+					</s>
+				</ab>
+				<lb/>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.18_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.18_hs_1r_01" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+			<!-- verso-->
+			<pb n="LL1.18.1v" xml:id="LL1.18_fol_1v" facs="data/test-img/LL1.18/LL1-18_0002.dzi"/>
+			<div type="destination" part="N" org="uniform" sample="complete">
+				<!--timbro del destinatario incompleto-->
+				<ab type="receiver" xml:id="LL1.18_lb_1v_01_multiple" part="N">
+					<address xml:lang="fr">
+						<!--informazioni del destinatario-->
+						<lb facs="#LL1.18_line_1v_01" n="1" xml:id="LL1.18_lb_1v_01"/>
+						<addrLine>à Monsieur le Chev:<hi rend="sup">r</hi> <persName ref="#CobianchiGaetano">Cobianchi</persName>
+						</addrLine>
+						<lb facs="#LL1.18_line_1v_02" n="2" xml:id="LL1.18_lb_1v_02"/>
+						<addrLine>
+							<num type="cardinal">1<am instant="false">:</am></num>place de la Madelaine
+						</addrLine>
+						<lb facs="#LL1.18_line_1v_03" n="3" xml:id="LL1.18_lb_1v_03"/>
+						<addrLine rend="align(right)">à <placeName ref="#Paris">Paris</placeName>
+						</addrLine>
+					</address>
+				</ab>
+				<ab facs="#LL1.18_hotspot_1v_02" type="paratext" xml:id="LL1.18_hs_1v_02" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							J
+						</mentioned>
+						<mentioned>
+							+++ - II
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="sent" part="N" org="uniform" sample="complete">
+				<!--timbro del mittente con data-->
+				<ab facs="#LL1.18_hotspot_1v_01" type="paratext" xml:id="LL1.18_hs_1v_01" part="N">
+					<stamp type="postmark" xml:lang="fr">
+						<mentioned>
+							<date when="22" xml:id="LL1.18_1v_01_1835-01-22" next="LL1.18_1v_02_1835-01-22" instant="false">22</date>
+						</mentioned>
+						<mentioned>
+							<date when="1835-01" xml:id="LL1.18_1v_02_1835-01-22" prev="LL1.18_1v_01_1835-01-22" instant="false"> Janvier 1835</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.18_hotspot_1r_01h" facs="#LL1.18_hotspot_1r_01"><p>annotazione attribuibile presumibilmente a un catalogatore.</p></div><div xml:id="LL1.18_hotspot_1v_01h" facs="#LL1.18_hotspot_1v_01"><p>un timbro con dicitura "22 Janvier 1835"</p></div><div xml:id="LL1.18_hotspot_1v_02h" facs="#LL1.18_hotspot_1v_02"><p>un timbro con dicitura "J [parola illegibile] - II"</p></div></div></back>
+	</text>
+</TEI>

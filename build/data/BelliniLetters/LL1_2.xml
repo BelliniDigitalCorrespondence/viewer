@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giuditta Cantù Turina, in Venezia, 20 gennaio 1830</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-08">August 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="GDM">Gianmarco Di Mauro</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="EC">Erica Capizzi</name>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+					<name xml:id="SP">Santa Pellino</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_2.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="111" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="206" to="207" unit="page">206-207</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.2</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#CantuTurinaGiuditta">Giuditta Cantù Turina</persName>, in
+								<placeName ref="TEI-ListPlace.xml#VE">Venezia</placeName>,
+								<date cert="medium" resp="#GS" when="1830-01-20">20 gennaio 1830</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr-x-800">Italiano di inizio Ottocento con indirizzo in francese.</textLang>
+							<note>Il mese di redazione della lettera è stato attribuito da Seminara e non è presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta di colore beige, inchiostro nero.</material>
+									<watermark>
+										<hi facs="#LL1.2_hotspot_1v_01">
+											<hi facs="#LL1.2_hotspot_2r_01">Filigrana circolare</hi></hi> situata in posizione centrale, evidente nella carta 1v.
+									</watermark>
+									<stamp>Presenti nella carta 2v un <hi facs="#LL1.2_hotspot_2v_05">timbro di partenza recante la scritta "Venezia"</hi>.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>187</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<collation>La lettera è composta da due carte (un bifoglio); il testo è scritto su due facciate, l'indirizzo si trova sulla carta 2v.</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche. Il foglio presenta cinque segni di piegature in verticale e tre in orizzontale per un totale di otto piegature. Queste piegature sono servite per chiuderlo in maniera da evidenziare da un lato l'indirizzo e dall'altro il punto di chiusura in cui è applicato il sigillo. In alcuni punti sparsi della lettera sono presenti piccole macchie marroni sbiadite e il segno dell'inchiostro in trasparenza che si è impresso probabilmente quando è stata piegata la lettera appena scritta. La carta 2v presenta uno strappo probabilmente nel punto in cui era attaccato il sigillo.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<handNote>
+								<p>Scrittura a mano libera leggibile. Il folio fronte, nel verso inferiore, presenta due annotazioni di seconda e terza mano le cui righe sono per entrambe orientate da dx a sx e dall'alto al basso.</p>
+							</handNote>
+							<handNote facs="#LL1.2_hotspot_2v_02" xml:id="h1">
+								<p>Numero 20, annotazione probabilmente dovuta ad un catalogatore.</p>
+							</handNote>
+							<handNote facs="#LL1.2_hotspot_2v_01" xml:id="h2">
+								<p>Annotazioni poco chiare effettuate con lapis marrone.</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<p>Una <hi facs="#LL1.2_hotspot_2v_03">annotazione a matita</hi> sulla carta 2v.</p>
+							</handNote>
+							<handNote facs="#LL1.2_hotspot_2v_04" resp="#SP" xml:id="h4">
+								<p>Glifo non identificabile.</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Presente sigillo in ceralacca rossa parzialmente conservata. Si nota qualche piccola macchia marrone vicino al sigillo.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#VE" type="postmark">Venezia</placeName>
+					<date type="writing" when="1830-01-20">20 gennaio 1830</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#CantuTurinaGiuditta">Giuditta Cantù Turina</persName>
+					<placeName ref="TEI-ListPlace.xml#CR" type="receiving">Cremona</placeName>
+					<placeName ref="TEI-ListPlace.xml#Casal" type="writing">Casalbuttano</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.2_folio_1r">
+			<!-- 1r -->
+			<graphic height="2290px" url="LL1.2_0001.jpg" width="1541px" />
+			<zone lrx="1341" lry="201" rendition="Line" ulx="800" uly="101" xml:id="LL1.2_line_1r_01" />
+			<zone lrx="796" lry="294" rendition="Line" ulx="218" uly="180" xml:id="LL1.2_line_1r_02" />
+			<zone lrx="1515" lry="410" rendition="Line" ulx="459" uly="296" xml:id="LL1.2_line_1r_03" />
+			<zone lrx="1517" lry="507" rendition="Line" ulx="168" uly="405" xml:id="LL1.2_line_1r_04" />
+			<zone lrx="1515" lry="594" rendition="Line" ulx="122" uly="504" xml:id="LL1.2_line_1r_05" />
+			<zone lrx="1515" lry="678" rendition="Line" ulx="124" uly="591" xml:id="LL1.2_line_1r_06" />
+			<zone lrx="1517" lry="776" rendition="Line" ulx="125" uly="677" xml:id="LL1.2_line_1r_07" />
+			<zone lrx="1518" lry="849" rendition="Line" ulx="123" uly="771" xml:id="LL1.2_line_1r_08" />
+			<zone lrx="1515" lry="950" rendition="Line" ulx="123" uly="852" xml:id="LL1.2_line_1r_09" />
+			<zone lrx="1509" lry="1066" rendition="Line" ulx="116" uly="951" xml:id="LL1.2_line_1r_10" />
+			<zone lrx="1508" lry="1138" rendition="Line" ulx="126" uly="1068" xml:id="LL1.2_line_1r_11" />
+			<zone lrx="1506" lry="1227" rendition="Line" ulx="120" uly="1139" xml:id="LL1.2_line_1r_12" />
+			<zone lrx="1504" lry="1341" rendition="Line" ulx="116" uly="1227" xml:id="LL1.2_line_1r_13" />
+			<zone lrx="1504" lry="1428" rendition="Line" ulx="109" uly="1333" xml:id="LL1.2_line_1r_14" />
+			<zone lrx="1507" lry="1527" rendition="Line" ulx="108" uly="1428" xml:id="LL1.2_line_1r_15" />
+			<zone lrx="1506" lry="1620" rendition="Line" ulx="106" uly="1526" xml:id="LL1.2_line_1r_16" />
+			<zone lrx="1507" lry="1727" rendition="Line" ulx="105" uly="1623" xml:id="LL1.2_line_1r_17" />
+			<zone lrx="1508" lry="1820" rendition="Line" ulx="108" uly="1727" xml:id="LL1.2_line_1r_18" />
+			<zone lrx="1508" lry="1901" rendition="Line" ulx="110" uly="1822" xml:id="LL1.2_line_1r_19" />
+			<zone lrx="1506" lry="1998" rendition="Line" ulx="112" uly="1904" xml:id="LL1.2_line_1r_20" />
+			<zone lrx="1506" lry="2087" rendition="Line" ulx="118" uly="2000" xml:id="LL1.2_line_1r_21" />
+			<zone lrx="1508" lry="2158" rendition="Line" ulx="118" uly="2089" xml:id="LL1.2_line_1r_22" />
+			<zone lrx="1506" lry="2239" rendition="Line" ulx="110" uly="2159" xml:id="LL1.2_line_1r_23" />
+		</surface>
+		<surface n="2" xml:id="LL1.2_folio_1v">
+			<graphic height="2275px" url="LL1.2_0002.jpg" width="1555px" />
+			<zone lrx="1518" lry="405" rendition="Line" ulx="148" uly="287" xml:id="LL1.2_line_1v_01" />
+			<zone lrx="1427" lry="480" rendition="Line" ulx="902" uly="408" xml:id="LL1.2_line_1v_02" />
+			<zone lrx="1436" lry="547" rendition="Line" ulx="1133" uly="486" xml:id="LL1.2_line_1v_03" />
+			<zone lrx="861" lry="656" rendition="Line" ulx="296" uly="520" xml:id="LL1.2_line_1v_04" />
+			<zone lrx="1554" lry="1515" rendition="HotSpot" ulx="1217" uly="892" xml:id="LL1.2_hotspot_1v_01" />
+		</surface>
+		<surface n="3" xml:id="LL1.2_folio_2r">
+			<graphic height="2282px" url="LL1.2_0003.jpg" width="1545px" />
+			<zone lrx="291" lry="1524" rendition="HotSpot" ulx="1" uly="974" xml:id="LL1.2_hotspot_2r_01" />
+		</surface>
+		<surface n="4" xml:id="LL1.2_folio_2v">
+			<graphic height="2293px" url="LL1.2_0004.jpg" width="1555px" />
+			<zone lrx="673" lry="1064" rendition="Line" ulx="597" uly="675" xml:id="LL1.2_line_2v_01" />
+			<zone lrx="748" lry="1680" rendition="Line" ulx="677" uly="717" xml:id="LL1.2_line_2v_02" />
+			<zone lrx="913" lry="1670" rendition="Line" ulx="772" uly="479" xml:id="LL1.2_line_2v_03" />
+			<zone lrx="465" lry="776" rendition="HotSpot" ulx="317" uly="438" xml:id="LL1.2_hotspot_2v_05" />
+			<!-- VENEZIA -->
+			<zone lrx="809" lry="1161" rendition="HotSpot" ulx="343" uly="654" xml:id="LL1.2_hotspot_2v_04" />
+			<!-- segno somigliante a una s-->
+			<zone lrx="727" lry="1193" rendition="HotSpot" ulx="405" uly="639" xml:id="LL1.2_hotspot_2v_01" />
+			<!-- segno marrone-->
+			<zone lrx="1177" lry="1508" rendition="HotSpot" ulx="1000" uly="1240" xml:id="LL1.2_hotspot_2v_02" />
+			<!-- 20 -->
+			<zone lrx="1178" lry="1538" rendition="HotSpot" ulx="984" uly="1374" xml:id="LL1.2_hotspot_2v_03" />
+			<!-- g -->
+		</surface>
+	</facsimile>
+	<text n="LL1.2" subtype="manuscript" type="lettera" xml:id="LL1.2">
+		<front xml:lang="fr">
+			<pb facs="#LL1.2_folio_2v" n="4" xml:id="LL1.2_fol_2v_front" />
+			<div type="envelope">
+				<div type="sent">
+					<ab copyOf="#LL1.2_hs_2v_05" facs="#LL1.2_hotspot_2v_05" xml:id="LL1.2_hs_2v_05_front">
+						<stamp type="postmark">
+							<mentioned>
+								<placeName ref="TEI-ListPlace.xml#VE">VENEZIA</placeName>
+							</mentioned>
+						</stamp>
+					</ab>
+				</div>
+				<div type="destination">
+					<ab copyOf="#LL1.2_line_2v_01_multiple" type="receiver">
+						<address>
+							<lb facs="#LL1.2_line_2v_01" n="1" rend="align(right)" xml:id="LL1.2_lb_2v_01_front" />
+							<addrLine>Madame</addrLine>
+							<lb facs="#LL1.2_line_2v_02" n="2" rend="align(center)" xml:id="LL1.2_lb_2v_02_front" />
+							<addrLine>Madame <persName ref="TEI-ListPerson.xml#CantuTurinaGiuditta">Judith Turina</persName>
+							</addrLine>
+							<lb facs="#LL1.2_line_2v_03" n="3" rend="align(center)" xml:id="LL1.2_lb_2v_03_front" />
+							<addrLine>
+								<placeName ref="TEI-ListPlace.xml#CE">Cremone</placeName> pour
+								<placeName ref="TEI-ListPlace.xml#Casal" type="writing"><hi rend="underline">Casalbuttano</hi></placeName>
+							</addrLine>
+						</address>
+					</ab>
+				</div>
+			</div>
+		</front>
+
+		<body xml:lang="it">
+			<pb facs="#LL1.2_folio_1r" n="1" xml:id="LL1.2_fol_1r" />
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.2_line_1r_01" n="1" xml:id="LL1.2_lb_1r_01" />
+						<hi rend="align(right)">
+						<placeName ref="TEI-ListPlace.xml#VE">Venezia</placeName>
+						<date when="1830-01-20">20 del 1830</date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" rend="align(left)" type="sentence">
+						<lb facs="#LL1.2_line_1r_02" n="2" xml:id="LL1.2_lb_1r_02" />
+						<rs ref="TEI-ListPerson.xml#CantuTurinaGiuditta" type="person">Mia cara amica</rs>
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.2_line_1r_03" n="3" xml:id="LL1.2_lb_1r_03" />
+						<date when="1830-01-19">Ieri</date> finalmente ho ricevuto
+						<choice>
+							<abbr>vre<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>re</expan>
+						</choice> notizie
+						<lb facs="#LL1.2_line_1r_04" n="4" xml:id="LL1.2_lb_1r_04" />
+						per mezzo del
+						<rs type="person">Dottor
+							<hi rend="underline">maggiore,</hi></rs> e mi spiace
+						<w rend="interrupted">sen
+							<lb break="no" facs="#LL1.2_line_1r_05" n="5" rend="double-stroke" xml:id="LL1.2_lb_1r_05" />
+							tire</w> il
+						<choice>
+							<abbr>vro<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ro</expan>
+						</choice>
+						incommodo che spero a quest'ora sparito.
+					</s>
+					<s n="s_04" type="sentence">
+						<lb facs="#LL1.2_line_1r_06" n="6" xml:id="LL1.2_lb_1r_06" />
+						La lettera è in data del<space /><date when="1830-01-10">10<am>:</am></date><space />e vedete quanti
+						<w rend="interrupted">gior
+							<lb break="no" facs="#LL1.2_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.2_lb_1r_07" />
+							ni</w> è stata in viaggio. —
+					</s>
+					<s n="s_05" type="sentence">
+						Di già si è risoluto
+						<date when="1830-01-19"> jersera,</date>
+						<lb facs="#LL1.2_line_1r_08" n="8" xml:id="LL1.2_lb_1r_08" />
+						con la venuta di
+						<persName ref="TEI-ListPerson.xml#RomaniFelice" role="librettist">Romani,</persName> che io devo scrivere l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term>
+						<lb facs="#LL1.2_line_1r_09" n="9" xml:id="LL1.2_lb_1r_09" />
+						per andare in scena almeno il<space /><date when="1830-03-05">5<am>:</am><space />marzo</date>: vedete che
+						<lb facs="#LL1.2_line_1r_10" n="10" xml:id="LL1.2_lb_1r_10" />
+						strozzamento ed avete avuto ragione a farmi
+						<w rend="interrupted">sgri
+							<lb break="no" facs="#LL1.2_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.2_lb_1r_11" />
+							dare</w> dal
+						<rs type="person">dottore;</rs> ma adesso che lo devo senza
+						<w type="interrupted">ri
+							<lb break="no" facs="#LL1.2_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.2_lb_1r_12" />
+							medio</w> ho bisogno di incoragiamento, e quindi vi
+						<lb facs="#LL1.2_line_1r_13" n="13" xml:id="LL1.2_lb_1r_13" />
+						prego di non abbandonarmi coi
+						<choice>
+							<abbr>vri<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ri</expan>
+						</choice> consigli e
+						<lb facs="#LL1.2_line_1r_14" n="14" xml:id="LL1.2_lb_1r_14" />
+						spesso: ciò vi basta, e voi sapete se mi sono care
+						<lb facs="#LL1.2_line_1r_15" n="15" xml:id="LL1.2_lb_1r_15" />
+						le
+						<choice>
+							<abbr>vre<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>re</expan>
+						</choice>
+						spesse nuove: egualmente ho
+						<lb facs="#LL1.2_line_1r_16" n="16" xml:id="LL1.2_lb_1r_16" />
+						pregato la
+						<persName ref="TEI-ListPerson.xml#GaspariniPolliniMarianna" resp="#EC">Pollini</persName> e
+						<persName ref="TEI-ListPerson.xml#FlorimoFrancesco" role="composer">Florimo,</persName> ed aspetto a
+						<lb facs="#LL1.2_line_1r_17" n="17" xml:id="LL1.2_lb_1r_17" />
+						vedere chi sarà la più pietosa. —
+					</s>
+					<s n="s_06" type="sentence">
+						Se
+						<w rend="interrupted">vole
+							<lb break="no" facs="#LL1.2_line_1r_18" n="18" rend="double-stroke" xml:id="LL1.2_lb_1r_18" />
+							te</w>
+						<add place="supralinear">che</add> i baicoli
+						<ptr target="#LL1.2_note1" />
+						<subst resp="#LM">
+							<del rend="overwritten">
+								<gap quantity="2" reason="deleted" unit="char" />
+							</del>
+							<add place="superimposed">ve</add>
+						</subst> li mandi con la diligenza,
+						<lb facs="#LL1.2_line_1r_19" n="19" xml:id="LL1.2_lb_1r_19" />
+						avvisatemelo. —
+					</s>
+					<s n="s_07" type="sentence">
+						Vi contenterete da qui innanzi
+						<lb facs="#LL1.2_line_1r_20" n="20" xml:id="LL1.2_lb_1r_20" />
+						di quel poco che potrò scrivervi, sebbene di spesso,
+						<lb facs="#LL1.2_line_1r_21" n="21" xml:id="LL1.2_lb_1r_21" />
+						e ciò lo condonerete al gran ristretto tempo.
+					</s>
+					<s n="s_08" type="sentence">
+						Fate
+						<lb facs="#LL1.2_line_1r_22" n="22" xml:id="LL1.2_lb_1r_22" />
+						le mie parti con tutti di casa, e ringraziate il
+						<lb facs="#LL1.2_line_1r_23" n="23" xml:id="LL1.2_lb_1r_23" />
+						<rs type="person">Dottore</rs> da mia parte.
+					</s>
+				</ab>
+			</div>
+			
+			<div n="c_01" type="closer">
+				<ab n="ab_04" type="parag">
+					<s n="s_09" type="sentence">
+						Gli
+						<choice>
+							<abbr>abbr<am>:</am><hi rend="sup">ci</hi></abbr>
+							<expan>abbr<ex>ac</ex>ci</expan>
+						</choice> a
+						<persName ref="TEI-ListPerson.xml#TurinaFerdinando">Ferdinando</persName> e voi
+						<lb/>
+						<pb facs="#LL1.2_folio_1v" n="2" xml:id="LL1.2_fol_1v" />
+						<lb facs="#LL1.2_line_1v_01" n="1" xml:id="LL1.2_lb_1v_01" />
+						ricevete i miei bacia-mano e credetemi sempre
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_10" type="sentence">
+						<lb facs="#LL1.2_line_1v_02" n="2" xml:id="LL1.2_lb_1v_02" />
+						<hi rend="align(right)">
+							Il
+							<choice>
+								<abbr>vro<g ref="g01" rend="sup"/></abbr>
+								<expan>v<ex>ost</ex>ro</expan>
+							</choice>
+							<choice>
+								<abbr>affssmo</abbr>
+								<expan>aff<ex>ezionati</ex>ss<ex>i</ex>mo</expan>
+							</choice>
+							<lb facs="#LL1.2_line_1v_03" n="3" xml:id="LL1.2_lb_1v_03" />
+						</hi>
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Bellini</persName>
+				</signed>
+			</div>
+			<div type="postscript">
+				<lb facs="#LL1.2_line_1v_04" n="4" xml:id="LL1.2_lb_1v_04" />
+				<ab n="ab_06" rend="first_line_indented underline">
+					<s n="s_11" type="sentence">
+						<persName ref="TEI-ListPerson.xml#FlorimoFrancesco" role="composer">Florimo</persName> vi saluta
+					</s>
+				</ab>
+			</div>
+			<pb facs="#LL1.2_folio_2r" n="3" xml:id="LL1.2_fol_2r" />
+			<pb facs="#LL1.2_folio_2v" n="4" xml:id="LL1.2_fol_2v" />
+			<div type="destination">
+				<ab type="receiver" xml:id="LL1.2_line_2v_01_multiple">
+					<address xml:lang="fr">
+						<lb facs="#LL1.2_line_2v_01" n="1" xml:id="LL1.2_lb_2v_01" />
+						<addrLine rend="align(right)">Madame</addrLine>
+						<lb facs="#LL1.2_line_2v_02" n="2" xml:id="LL1.2_lb_2v_02" />
+						<addrLine>Madame
+							<persName ref="TEI-ListPerson.xml#CantuTurinaGiuditta">Judith Turina</persName>
+						</addrLine>
+						<lb facs="#LL1.2_line_2v_03" n="3" xml:id="LL1.2_lb_2v_03" />
+						<addrLine>
+							<placeName ref="TEI-ListPlace.xml#CR">Cremone</placeName> pour
+							<placeName ref="TEI-ListPlace.xml#Casal" type="writing"><hi rend="underline">Casalbuttano</hi></placeName>
+						</addrLine>
+					</address>
+				</ab>
+			</div>
+			<div type="sent">
+				<ab facs="#LL1.2_hotspot_2v_05" type="paratext" xml:id="LL1.2_hs_2v_05">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="TEI-ListPlace.xml#VE">VENEZIA</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.2_hotspot_2v_02" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_02">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+				<ab facs="#LL1.2_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">20</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.2_hotspot_2v_03" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_03">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+				<ab facs="#LL1.2_hotspot_2v_04" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.2_hs_2v_04">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="noted">
+				<div type="ann_notes">
+					<note ana="329" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.2_note1">
+						<bibl>
+							<citedRange from="207" to="207" unit="page">207</citedRange>
+						</bibl>
+						<p>
+							I
+							<hi rend="italic">baicoli</hi> sono biscotti secchi tipici della pasticceria veneziana; il loro nome deriva dalla denominazione dialettale dei piccoli branzini di laguna, dei quali è riprodotta la forma allungata e lievemente schiacciata.
+						</p>
+					</note>
+				</div>
+				<div type="bibliography">
+					<listBibl xml:id="LL1_2_bibliography">
+
+						<head>Bibliografia della lettera LL1.2</head>
+						<bibl xml:id="LL1_2_Pastura">
+							<ref target="TEI-ListBibl.xml#Pastura1958">
+								<bibl>
+									<author>Pastura</author>
+									<date when="1958">1958</date>
+									<citedRange from="4" to="4" unit="page">4</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_2_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="158" to="159" unit="page">158-159</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

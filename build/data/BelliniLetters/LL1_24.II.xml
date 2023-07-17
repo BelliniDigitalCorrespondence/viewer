@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-07">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Adriano Cateni</name>
+					<name>Matteo Gallini</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_24.II.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="430" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="502" to="502" unit="page">502</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.24.II</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+								a destinatario sconosciuto, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+								,
+								<date cert="medium" resp="#GS" when="1834-05">maggio 1835</date>
+							</title>
+							<textLang mainLang="fr-x-800" otherLangs="fr">Testo e altre mani in Francese.</textLang>
+							<note>Nel verso della minuta si trova la <hi facs="#LL1.24.II_hotspot_1v_02">lettera LL1.24.I, ruotata di 90°</hi>. La lettera fa quindi parte della stessa unità codicologica di LL1.24.I, da cui la Seminara deduce la datazione della presente.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>133</height>
+										<width>204</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Lettera composta da un solo foglio, piegata verticalmente a metà. Sulla carta 1r testo scritto da sinistra verso destra che occupa metà pagina; sulla carta 1v testo ruotato di 90° in senso orario.
+								</collation>
+								<condition>
+									<p>Lettera parzialmente rovinata dal tempo con alcuni fori. Sembra stata strappata da un quaderno. È composta da un folio con scritte su entrambe le facciate. Leggera piegatura sul vertice sinistro della carta 1r.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<handNote>
+								<!--Autore della lettera-->
+								<p>Scrittura a mano libera.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<!--Scrittura diversa da quella dell'autore-->
+								<p>
+									Nella carta 1r troviamo una
+									<hi facs="#LL1.24.II_hotspot_1r_02">scritta in blu di un'altra mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 19 tra parentesi</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<!--Scrittura diversa da quella dell'autore-->
+								<p>
+									Nella parte superiore a sinistra della carta 1v troviamo
+									<hi facs="#LL1.24.II_hotspot_1r_01">una sigla in blu di una terza mano, attribuibili molto probabilmente a un catalogatore e riportante probabilmente il testo "N 22"</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<!--Scrittura diversa da quella dell'autore-->
+								<p>
+									Nella carta 1v troviamo una
+									<hi facs="#LL1.24.II_hotspot_1r_03">scritta di un'altra mano difficilmente leggibile, probabilmente una firma</hi>.
+								</p>
+							</handNote>
+							<handNote facs="#LL1.24.II_hotspot_1v_01" xml:id="h4">
+								<!--indica la seconda mano-->
+								<p>
+									Scrittura a mano libera poco leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term>
+									indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">vingt-troisième</term>
+									significa<space />
+									<num type="ordinal" value="23">ventitreesimo</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term>
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName cert="high" resp="#GS" ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-05">Maggio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.24.II_folio_1r">
+			<!-- FRONTE -->
+			<graphic height="1610px" url="LL1.24.II_0001.jpg" width="2468px" />
+			<zone lrx="910" lry="1218" rendition="HotSpot" ulx="280" uly="950" xml:id="LL1.24.II_hotspot_1r_01" />
+			<!-- Segno grafico blu alfanumerico -->
+			<zone lrx="540" lry="302" rendition="HotSpot" ulx="362" uly="65" xml:id="LL1.24.II_hotspot_1r_02" />
+			<!-- Segno grafico blu alfanumerico -->
+			<zone lrx="1090" lry="648" rendition="HotSpot" ulx="950" uly="238" xml:id="LL1.24.II_hotspot_1r_03" />
+			<!-- Firma in verticale -->
+			<zone lrx="2432" lry="168" rendition="Line" ulx="1280" uly="52" xml:id="LL1.24.II_line_1r_01" />
+			<zone lrx="2432" lry="235" rendition="Line" ulx="1280" uly="142" xml:id="LL1.24.II_line_1r_02" />
+			<zone lrx="2432" lry="332" rendition="Line" ulx="1280" uly="235" xml:id="LL1.24.II_line_1r_03" />
+			<zone lrx="2432" lry="438" rendition="Line" ulx="1280" uly="328" xml:id="LL1.24.II_line_1r_04" />
+			<zone lrx="2432" lry="518" rendition="Line" ulx="1280" uly="405" xml:id="LL1.24.II_line_1r_05" />
+			<zone lrx="2432" lry="618" rendition="Line" ulx="1280" uly="500" xml:id="LL1.24.II_line_1r_06" />
+			<zone lrx="2432" lry="725" rendition="Line" ulx="1280" uly="585" xml:id="LL1.24.II_line_1r_07" />
+			<zone lrx="2192" lry="822" rendition="Line" ulx="1280" uly="700" xml:id="LL1.24.II_line_1r_08" />
+			<zone lrx="2125" lry="975" rendition="Line" ulx="1868" uly="860" xml:id="LL1.24.II_line_1r_09" />
+		</surface>
+		<surface n="2" xml:id="LL1.24.II_folio_1v">
+			<graphic height="1610px" url="LL1.24.II_0002.jpg" width="2468px" />
+			<zone lrx="2392" lry="1295" rendition="HotSpot" ulx="1478" uly="928" xml:id="LL1.24.II_hotspot_1v_01" />
+			<!-- Segno grafico in alto a destra -->
+			<zone lrx="2315" lry="1590" rendition="HotSpot" ulx="105" uly="188" xml:id="LL1.24.II_hotspot_1v_02" />
+			<!-- lettera LL.24.I-->
+		</surface>
+	</facsimile>
+	<text n="LL1.24.II" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.24.II">
+		<front />
+
+		<body xml:lang="fr">
+			<!--Body in lingua francese-->
+			<pb facs="#LL1.24.II_folio_1r" n="1" xml:id="LL1.24.II_fol_1r" />
+			<!-- recto-->
+			<div type="letter-body">
+				<ab n="ab_03" type="parag">
+					<s n="s_06" type="sentence">
+						<ptr target="#LL1.24.II_note1" />
+						<lb facs="#LL1.24.II_line_1r_01" n="1" xml:id="LL1.24.II_lb_1r_01" />
+						en assurant
+						<persName ref="TEI-ListPerson.xml#LaportePierreFrancois" role="impresario">
+							<choice>
+								<abbr>M<am>:</am><hi rend="sup">r</hi></abbr>
+								<expan>M<ex>onsieu</ex>r</expan>
+							</choice>
+							Laporte,
+						</persName>
+						qui vous
+						<lb facs="#LL1.24.II_line_1r_02" n="2" xml:id="LL1.24.II_lb_1r_02" />
+						lui rendra à sa premiere demande,
+						<lb facs="#LL1.24.II_line_1r_03" n="3" xml:id="LL1.24.II_lb_1r_03" />
+						<unclear reason="damage">
+						<gap extent="several-characters" reason="lost" agent="hole"/><!--Parola rovinata non leggibile-->
+						</unclear>qui dans ce moment est
+						<lb facs="#LL1.24.II_line_1r_04" n="4" xml:id="LL1.24.II_lb_1r_04" />
+						necessaire pour vous comme <w resp="#DS">pour</w>
+						<lb facs="#LL1.24.II_line_1r_05" n="5" xml:id="LL1.24.II_lb_1r_05" />
+						le theatre,
+						<del rend="strikethrough">plaisir qui</del> je suis
+						<lb facs="#LL1.24.II_line_1r_06" n="6" xml:id="LL1.24.II_lb_1r_06" />
+						sûre qui ne vous
+						<choice>
+							<orig>rifusera </orig>
+							<reg>refusera</reg>
+						</choice>
+						<!--Parte di testo danneggiata per sfregamento-->
+						de
+						<lb facs="#LL1.24.II_line_1r_07" n="7" xml:id="LL1.24.II_lb_1r_07" />
+						vous faire ce plaisir —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<!--Chiusura della lettera-->
+				<ab n="ab_04">
+					<s n="s_07" type="sentence">
+						<lb facs="#LL1.24.II_line_1r_08" n="8" xml:id="LL1.24.II_lb_1r_08" />
+						Milles amitiés <supplied cert="high" reason="lost">de</supplied>
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_08" type="sentence">
+						<lb facs="#LL1.24.II_line_1r_09" n="9" xml:id="LL1.24.II_lb_1r_09" />
+						<hi rend="align(right)">
+							<rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">votre</rs>
+						</hi>
+					</s>
+				</salute>
+			</div>
+			<div type="paratext">
+				<!--3 segni grafici in fondo al recto-->
+				<ab facs="#LL1.24.II_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.24.II_hs_1r_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 22</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.24.II_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.24.II_hs_1r_02">
+					<fw type="catalogNum">
+						<idno type="oldCat">(19)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.24.II_hotspot_1r_03" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.24.II_hs_1r_03">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+			</div>
+			<pb facs="#LL1.24.II_folio_1v" n="2" xml:id="LL1.24.II_fol_1v" />
+			<!-- verso-->
+			<div type="paratext">
+				<!--3 segni grafici in fondo al recto-->
+				<ab facs="#LL1.24.II_hotspot_1v_01" hand="#h4" subtype="addition" type="paratext" xml:id="LL.1.24.II_hs_1v_01">
+					<fw>
+						<unclear>
+							Vingt-troisième
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="858" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.24.II_note1">
+						<bibl>
+							<citedRange from="502" to="502" unit="page">502</citedRange>
+						</bibl>
+						<p>
+							<supplied resp="#LM">La lettera è incompleta.</supplied> Nel <hi rend="italic">recto</hi> del medesimo foglio vi è una minuta a un destinatario sconosciuto <supplied resp="#DS">(si veda <hi rend="italic">infra,</hi> Lettera 429, catalogata come LL1.24.I).</supplied>
+						</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<!--Bibliografia-->
+				<listBibl xml:id="LL1_24.II_bibliography">
+					<!--Lista blibliografica-->
+					<head>Bibliografia della lettera LL1.24.II</head>
+					<bibl xml:id="LL1_24.II_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2005">2005</date>
+								<citedRange from="421" to="421" unit="page">421</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

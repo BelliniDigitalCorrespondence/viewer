@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 2 febbraio 1834</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition> Digital edition
+					<date when="2021-03">March 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordineted by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Irene Parlanti</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_13.II.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="263" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="323" to="324" unit="page">323-324</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.13.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, III a (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a destinatario sconosciuto,
+								in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date when="1834-02-02">2 febbraio 1834</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr">Italiano di inizio Ottocento con altre mani in francese.</textLang>
+							<note>La minuta di lettera fa parte della stessa unità codicologica di LL1.13.II.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di color beige chiaro, inchiostro nero/marrone.</material>
+									<watermark>
+										<hi facs="#LL1.13.I_hotspot_1r_02">Filigrana</hi> ottagonale situata in alto a sinistra, evidente sulla carta 1r.
+									</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>47</height>
+										<width>135</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Minuta di lettera, un frammento di foglio a due facciate con testo su entrambi i lati.
+								</collation>
+								<condition>
+									<p>Frammento in buone condizioni. Sembra esser stato strappato da un foglio più grande, come osservabile sul lato corto a sinistra di entrambi i lati del frammento, sul lato lungo in basso della carta 1r e in alto sulla carta 1v. Il documento viene capovolto infatti sul lato lungo. Il documento presenta una macchia di inchiostro che è più evidente sulla carta 1v in alto ma osservabile anche in basso sulla carta 1r.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<handNote>
+								<p>Scrittura a mano libera abbastanza leggibile. Presenta una cancellazione nella carta 1v. La carta 1v presenta sul margine sinistro un'annotazione poco chiara probabilmente di altra mano, orientata da sinistra a destra e dal basso verso l'alto: probabilmente si tratta di una nota di un catalogatore con un glifo molto marcato che si sovrappone all'incipit.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>Un'<hi facs="#LL1.13.I_hotspot_1r_01">annotazione in blu, un numero forse dovuto ad un catalogatore recante forse il numero 825</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>La carta 1v presenta una <hi facs="#LL1.13.I_hotspot_1v_01">
+									porzione di testo in francese a mano libera difficilmente leggibile contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term> indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">treizième</term> significa<space />
+									<num type="ordinal" value="13">tredicesimo</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term> terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.</hi>
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris" type="writing">Parigi</placeName>
+					<date type="writing" when="1834-02-02">2 febbraio 1834</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.13.I_folio_1r">
+			<graphic height="603px" url="LL1.13.I_0001.jpg" width="1632px" />
+			<zone lrx="1588" lry="285" rendition="Line" ulx="828" uly="142" xml:id="LL1.13.I_line_1r_01" />
+			<!--place, date-->
+			<zone lrx="1341" lry="476" rendition="Line" ulx="303" uly="328" xml:id="LL1.13.I_line_1r_02" />
+			<!--salutation-->
+			<zone lrx="625" lry="485" rendition="HotSpot" ulx="201" uly="270" xml:id="LL1.13.I_hotspot_1r_01" />
+			<!--seconda mano (numero)-->
+			<zone lrx="259" lry="245" rendition="HotSpot" ulx="40" uly="60" xml:id="LL1.13.I_hotspot_1r_02" />
+			<!--Filigrana-->
+		</surface>
+		<surface n="2" xml:id="LL1.13.I_folio_1v">
+			<graphic height="603px" url="LL1.13.I_0002.jpg" width="1632px" />
+			<zone lrx="1606" lry="220" rendition="Line" ulx="280" uly="107" xml:id="LL1.13.I_line_1v_01" />
+			<zone lrx="1606" lry="298" rendition="Line" ulx="210" uly="230" xml:id="LL1.13.I_line_1v_02" />
+			<zone lrx="1606" lry="400" rendition="Line" ulx="210" uly="297" xml:id="LL1.13.I_line_1v_03" />
+			<zone lrx="1075" lry="448" rendition="Line" ulx="210" uly="392" xml:id="LL1.13.I_line_1v_04" />
+			<zone lrx="1606" lry="521" rendition="Line" ulx="354" uly="426" xml:id="LL1.13.I_line_1v_05" />
+			<!--terza mano su margine sinistro, Cotefil -->
+			<zone lrx="460" lry="340" rendition="HotSpot" ulx="40" uly="144" xml:id="LL1.13.I_hotspot_1v_01" />
+		</surface>
+	</facsimile>
+	<text n="LL1.13.I" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.13.I">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.13.I_folio_1r" n="1" xml:id="LL1.13.I_fol_1r" />
+			<!-- recto -->
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.13.I_line_1r_01" n="1" xml:id="LL1.13.I_lb_1r_01" />
+						<hi rend="align(right)">
+							<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+							<date when="1834-02-02">2<am>:</am><space />Febrajo 34<am>:</am></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02">
+						<lb facs="#LL1.13.I_line_1r_02" n="2" xml:id="LL1.13.I_lb_1r_02" />
+						Mia
+						<choice>
+							<abbr>Pregsma</abbr>
+							<expan>Preg<ex>iati</ex>s<ex>si</ex>ma</expan>
+						</choice>
+						<!--Preg<add>iati</add>s<add>si</add>ma-->
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">ra</hi></abbr>
+							<expan>Sig<ex>no</ex>ra</expan>
+						</choice>
+						<persName>Contessa</persName>
+					</s>
+				</salute>
+				<!--seconda mano, forse catalogazione-->
+				<ab facs="#LL1.13.I_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.13.I_hs_1r_01">
+					<fw type="catalogNum">
+						<unclear reason="faded">
+							<idno type="oldCat">825</idno>
+						</unclear>
+					</fw>
+				</ab>
+				<pb facs="#LL1.13.I_folio_1v" n="2" xml:id="LL1.13.I_fol_1v" />
+				<ab n="ab_03" type="parag">
+					<s n="s_03">
+						<lb facs="#LL1.13.I_line_1v_01" n="1" xml:id="LL1.13.I_lb_1v_01" />
+						Io d'ora innanzi mi dichiaro a Lei <w>rico
+							<lb break="no" facs="#LL1.13.I_line_1v_02" n="2" rend="double-stroke" xml:id="LL1.13.I_lb_1v_02" />
+							noscente</w> per tutto quello che Ella potrà
+						<lb facs="#LL1.13.I_line_1v_03" n="3" xml:id="LL1.13.I_lb_1v_03" />
+						<subst>
+							<del rend="strikethrough">giovarmi</del>
+							<add place="above"> concorrere</add>
+						</subst>, perché io colga gloria sul
+						<lb facs="#LL1.13.I_line_1v_04" n="4" xml:id="LL1.13.I_lb_1v_04" />
+						suolo della mia Patria.
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<ab n="ab_04" rend="first_line_indented" type="parag">
+					<s n="s_04">
+						<lb facs="#LL1.13.I_line_1v_05" n="5" xml:id="LL1.13.I_lb_1v_05" />
+						Gradisca le proteste della mia sincera stima
+					</s>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.13.I_hotspot_1v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.13.I_hs_1v_01">
+					<fw>
+						<unclear>
+							<lb />
+							Treizième 
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="bibliography">
+					<listBibl xml:id="LL1_13.I_bibliography">
+						<head>Bibliografia della lettera LL1.13.I</head>
+						<bibl type="print" xml:id="LL1.13.I_Amore">
+							<ref target="TEI-ListBibl.xml#Amore1892">
+								<bibl>
+									<author ref="TEI-ListBibl.xml#Amore1892">Amore</author>
+									<date when="1892">1892</date>
+									<citedRange from="325" to="325" unit="page">325</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl type="print" xml:id="LL1.13.I_Cambi">
+							<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+								<bibl>
+									<author ref="#LC">Cambi</author>
+									<date when="1943">1943</date>
+									<citedRange from="382" to="382" unit="page">382</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl type="print" xml:id="LL1.13.I_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author ref="#CN">Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="272" to="273" unit="page">272-273</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

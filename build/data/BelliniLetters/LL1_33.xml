@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Virginia Martini Giovio della Torre, in Parigi, [26 luglio 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2021-04">April 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Progetto edizione digitale coordinato da</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Codifica di</resp>
+					<name>Valeria Dionisi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="SP">Santa Pellino</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_33.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="488" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="562" to="562" unit="page">562</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.33</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, VI (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+								a
+								<persName ref="TEI-ListPerson.xml#GioviodellaTorreMartiniVirginia">Virginia Martini Giovio della Torre</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="medium" resp="#GS" when="1835-07-26">26 luglio 1835</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr">Italiano di inizio Ottocento con altre mani in francese.</textLang>
+							<note>Minuta di lettera.</note>
+							<note>La data di redazione della lettera è stata attribuita da Seminara e non presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiosto marrone.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>204</height>
+										<width>134</width>
+									</dimensions>
+								</extent>
+								<collation>
+									La lettera è composta da due carte (un bifoglio) e reca il testo sulla carta 1r. Il folio è piegato a metà nel senso dell'altezza così da risultare suddiviso in quattro carte.
+								</collation>
+								<condition>
+									<p>Lettera in discrete condizioni fisiche. Sulle carte 2r e 2v è presente una macchia in posizione centrale. Sulla parte centrale in alto di ogni facciata del folio è visibile l'impronta di una graffetta.
+										Gli angoli del folio presentano delle pieghe e sulla parte inferiore è presente un piccolo foro e una leggera lacerazione.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<handNote>
+								<p>
+									Scrittura a mano libera leggibile.
+								</p>
+							</handNote>
+							<handNote facs="#LL1.33_hotspot_1r_01" xml:id="h1">
+								<p>
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term>
+									indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">Dixième</term>
+									significa
+									<num type="ordinal" value="10">decimo</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term>
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								Sulla carta 2v è visibile il <hi facs="#LL1.33_hotspot_2v_01">codice "N 26" scritto con matita blu</hi>.
+							</handNote>
+							<handNote xml:id="h3">
+								<!--terza mano-->
+								Sulla carta 2v è visibile un <hi facs="#LL1.33_hotspot_2v_02">codice scritto con matita blu, probabilmente un 6 tra parentesi tonde</hi>.
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName cert="high" ref="TEI-ListPlace.xml#Paris" resp="#GS">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-07-26">26 luglio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#GioviodellaTorreMartiniVirginia">Virginia Martini Giovio della Torre</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<!--le misure delle zone sono tutte da moltiplicare per 2. La dimensione dell'immagine è metà di quella vera-->
+		<surface n="1" xml:id="LL1.33_folio_1r">
+			<graphic height="1235.5px" url="LL1.33_0001.jpg" width="818.5px" />
+			<zone lrx="416" lry="166" rendition="Line" ulx="145" uly="117" xml:id="LL1.33_line_1r_01" />
+			<zone lrx="785" lry="266" rendition="Line" ulx="283" uly="219" xml:id="LL1.33_line_1r_02" />
+			<zone lrx="792" lry="305" rendition="Line" ulx="80" uly="270" xml:id="LL1.33_line_1r_03" />
+			<zone lrx="799" lry="345" rendition="Line" ulx="83" uly="314" xml:id="LL1.33_line_1r_04" />
+			<zone lrx="767" lry="400" rendition="Line" ulx="79" uly="362" xml:id="LL1.33_line_1r_05" />
+			<zone lrx="799" lry="454" rendition="Line" ulx="78" uly="406" xml:id="LL1.33_line_1r_06" />
+			<zone lrx="793" lry="495" rendition="Line" ulx="77" uly="458" xml:id="LL1.33_line_1r_07" />
+			<zone lrx="789" lry="545" rendition="Line" ulx="79" uly="504" xml:id="LL1.33_line_1r_08" />
+			<zone lrx="798" lry="588" rendition="Line" ulx="79" uly="553" xml:id="LL1.33_line_1r_09" />
+			<zone lrx="798" lry="645" rendition="Line" ulx="82" uly="600" xml:id="LL1.33_line_1r_10" />
+			<zone lrx="798" lry="692" rendition="Line" ulx="72" uly="656" xml:id="LL1.33_line_1r_11" />
+			<zone lrx="745" lry="732" rendition="Line" ulx="76" uly="703" xml:id="LL1.33_line_1r_12" />
+			<zone lrx="777" lry="781" rendition="Line" ulx="77" uly="749" xml:id="LL1.33_line_1r_13" />
+			<zone lrx="785" lry="824" rendition="Line" ulx="78" uly="792" xml:id="LL1.33_line_1r_14" />
+			<zone lrx="506" lry="871" rendition="Line" ulx="80" uly="836" xml:id="LL1.33_line_1r_15" />
+			<!--seconda mano-->
+			<zone lrx="674" lry="1198" rendition="HotSpot" ulx="539" uly="891" xml:id="LL1.33_hotspot_1r_01" />
+		</surface>
+		<surface n="2" xml:id="LL1.33_folio_1v">
+			<graphic height="1235.5px" url="LL1.33_0002.jpg" width="834.5px" />
+		</surface>
+		<surface n="3" xml:id="LL1.33_folio_2r">
+			<graphic height="1235.5px" url="LL1.33_0003.jpg" width="818.5px" />
+		</surface>
+		<surface n="4" xml:id="LL1.33_folio_2v">
+			<graphic height="1235.5px" url="LL1.33_0004.jpg" width="834.5px" />
+			<!--codice alfanumerico N 26, terza mano-->
+			<zone lrx="614" lry="474" rendition="HotSpot" ulx="163" uly="121" xml:id="LL1.33_hotspot_2v_01" />
+			<!--codice, terza mano-->
+			<zone lrx="716" lry="1118" rendition="HotSpot" ulx="615" uly="1044" xml:id="LL1.33_hotspot_2v_02" />
+		</surface>
+	</facsimile>
+	<text n="LL1.33" subtype="manuscript" type="lettera" xml:id="LL1.33">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.33_folio_1r" n="1" xml:id="LL1.33_fol_1r" />
+			<div n="t_01" type="letter-body">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence" rend="first_line_indented">
+						<lb facs="#LL1.33_line_1r_01" n="1" xml:id="LL1.33_lb_1r_01" />
+							Mia cara
+							<persName ref="TEI-ListPerson.xml#GioviodellaTorreMartiniVirginia">Contessa</persName></s>
+				</salute>
+				<space quantity="2" unit="line" /> <!-- prossemica -->
+				<ab n="ab_02" rend="first_line_indented" type="parag">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.33_line_1r_02" n="2" rend="align(right)" xml:id="LL1.33_lb_1r_02" />
+						La
+						<choice>
+							<abbr>vra<g ref="g01" rend="sup" /></abbr>
+							<expan>v<ex>ost</ex>ra</expan>
+						</choice>
+						lettera mi giunse un mese
+						<lb facs="#LL1.33_line_1r_03" n="3" xml:id="LL1.33_lb_1r_03" />
+						dopo che l'avete scritto; quindi sapeva la nuova
+						<lb facs="#LL1.33_line_1r_04" n="4" xml:id="LL1.33_lb_1r_04" />
+						e più dolorosa perdita che venivate di fare.
+						<ptr target="#LL1.33_note1" />
+					</s>
+					<s n="s_03" type="sentence">
+						Povera
+						<lb facs="#LL1.33_line_1r_05" n="5" xml:id="LL1.33_lb_1r_05" />
+						<rs ref="TEI-ListPerson.xml#GioviodellaTorreMartiniVirginia" type="person">mia amica,</rs>
+						quante disgrazie sul
+						<choice>
+							<abbr>vro<g ref="g01" rend="sup" /></abbr>
+							<expan>v<ex>ost</ex>ro</expan>
+						</choice>
+						capo in
+						<lb facs="#LL1.33_line_1r_06" n="6" xml:id="LL1.33_lb_1r_06" />
+						un punto solo! Ma la
+						<choice>
+							<abbr>vra<g ref="g01" rend="sup" /></abbr>
+							<expan>v<ex>ost</ex>ra</expan>
+						</choice>
+						sofferenza<w>
+							sostenu
+							<lb break="no" facs="#LL1.33_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.33_lb_1r_07" />
+							to</w>
+						d'una ragione necessaria ha dovuto in parte
+						<lb facs="#LL1.33_line_1r_08" n="8" xml:id="LL1.33_lb_1r_08" />
+						liberarvi da nuova malattia, e spero, e voglio
+						<lb facs="#LL1.33_line_1r_09" n="9" xml:id="LL1.33_lb_1r_09" />
+						credere che la
+						<choice>
+							<abbr>vra<g ref="g01" rend="sup" /></abbr>
+							<expan>v<ex>ost</ex>ra</expan>
+						</choice>
+						salute vada benino.
+					</s>
+					<s n="s_04" type="sentence">
+						Avrei
+						<lb facs="#LL1.33_line_1r_10" n="10" xml:id="LL1.33_lb_1r_10" />
+						desiderato novelle di voi; ma persona mi scrive
+						<lb facs="#LL1.33_line_1r_11" n="11" xml:id="LL1.33_lb_1r_11" />
+						più, che v'accosti intimamente; e se
+						<persName ref="TEI-ListPerson.xml#PonzaniPietro">Ponzani</persName>
+						<lb facs="#LL1.33_line_1r_12" n="12" xml:id="LL1.33_lb_1r_12" />
+						non avesse avuto l'osccasione di darmi una
+						<lb facs="#LL1.33_line_1r_13" n="13" xml:id="LL1.33_lb_1r_13" />
+						commissione, neanche avrei saputo il
+						<choice>
+							<abbr>vro<g ref="g01" rend="sup" /></abbr>
+							<expan>v<ex>ost</ex>ro</expan>
+						</choice>
+						<lb facs="#LL1.33_line_1r_14" n="14" xml:id="LL1.33_lb_1r_14" />
+						nuovo dolore; perché essendo in campagna
+						<lb facs="#LL1.33_line_1r_15" n="15" xml:id="LL1.33_lb_1r_15" />
+						non vedo alcuno di
+						<placeName ref="TEI-ListPlace.xml#MI">Milano</placeName>
+						<ptr target="#LL1.33_note2" />
+					</s>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.33_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.33_hs_1r_01">
+					<fw>
+						<unclear>
+							<lb />
+							Dixième
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb facs="#LL1.33_folio_1v" n="2" xml:id="LL1.33_fol_1v" />
+			<pb facs="#LL1.33_folio_2r" n="3" xml:id="LL1.33_fol_2r" />
+			<pb facs="#LL1.33_folio_2v" n="4" xml:id="LL1.33_fol_2v" />
+			<div type="paratext">
+				<ab facs="#LL1.33_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.33_hs_2v_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 26</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.33_hotspot_2v_02" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.33_hs_2v_02">
+					<fw type="catalogNum">
+						<unclear>
+							<idno type="oldCat">(6)</idno>
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="952" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.33_note1">
+						<bibl>
+							<citedRange from="562" to="562" unit="page">562</citedRange>
+						</bibl>
+						<p>
+							Il 15 giugno 1835 si era spento il marito di Virginia Giovio della Torre, il conte Francesco Martini.
+						</p>
+					</note>
+					<note resp="#GS" xml:id="LL1.33_note2">
+						<p>
+							La lettera è incompleta.
+						</p>
+					</note>
+				</div>
+				<div type="bibliography">
+					<listBibl xml:id="LL1_33_bibliography">
+
+						<head>Bibliografia della lettera LL1.33</head>
+						<bibl xml:id="LL1_33_Amore">
+							<ref target="TEI-ListBibl.xml#Amore1892">
+								<bibl>
+									<author>Amore</author>
+									<date when="1894">1892</date>
+									<citedRange from="369" to="369" unit="page">369</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_33_Cambi">
+							<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+								<bibl>
+									<author>Cambi</author>
+									<date when="1943">1943</date>
+									<citedRange from="568" to="569" unit="page">568-569</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_33_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="433" to="433" unit="page">433</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Vincenzo Ferlito, in Milano, [luglio 1830]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-07" instant="false">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Ilenia Beccaro</name>
+					<name full="yes" instant="false">Felicia Colucci</name>
+					<name full="yes" instant="false">Beatrice Melis</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_5.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="130" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="221" to="221" unit="page">221</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<!--codice della lettera -->
+						<idno type="inventory">LL1.5</idno>
+						<!--collocazione della lettera al museo -->
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, III a (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.5"><idno type="inventory">LL1.5</idno><title>Vincenzo Bellini a Vincenzo Ferlito, in Milano, [luglio 1830]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="130"><locus from="221" to="221">n. 130, p. 221.</locus></citedRange></bibl><bibl>Libertini, 1935, p. 6. </bibl><bibl>Cambi, 1943, p. 251-252. </bibl><bibl>Neri, 2005, p. 169-170. </bibl><incipit><fw>Incipit </fw>Incipit non presente</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Intanto ricevete i miei
+						 abbracci  ed
+						
+						i rispetti per la
+						zia sara:
+					
+					
+						tante cose allo
+						
+						zio
+							 Don  Ciccio
+						 e tutti i parenti, come a
+						
+						tutte le nostre conoscenze
+					
+				
+				
+					
+						
+						 Vostro
+						 affezionatissimo 
+						
+						
+					
+				
+											
+					Vincenzo
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#MI">Milano</placeName>
+					<date cert="medium" resp="#GS" when="1830-07" instant="false">Luglio 1830</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#FerlitoVincenzo">Vincenzo Ferlito</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<!-- soggettario della Biblioteca Nazionale di Firenze -->
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<!-- Lingua usata nella lettera -->
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.5_facsimile">
+		<surface n="LL1.5.1" xml:id="LL1.5_folio_1r" corresp="#LL1.5_fol_1r"><graphic url="data/test-img/LL1.5/LL1-5_0001.dzi" width="1610px" height="3013px"/><zone ulx="38.62" uly="28.29" lrx="701.00" lry="63.77" rendition="line" xml:id="LL1.5_line_1r_01"/><zone ulx="38.62" uly="68.71" lrx="701.00" lry="109.12" rendition="line" xml:id="LL1.5_line_1r_02"/><zone ulx="38.62" uly="112.72" lrx="701.00" lry="150.44" rendition="line" xml:id="LL1.5_line_1r_03"/><zone ulx="38.62" uly="155.38" lrx="701.00" lry="186.36" rendition="line" xml:id="LL1.5_line_1r_04"/><zone ulx="38.62" uly="195.34" lrx="701.00" lry="225.88" rendition="line" xml:id="LL1.5_line_1r_05"/><zone ulx="31.43" uly="268.99" lrx="701.00" lry="307.61" rendition="line" xml:id="LL1.5_line_1r_06"/><zone ulx="38.62" uly="311.65" lrx="701.00" lry="349.38" rendition="line" xml:id="LL1.5_line_1r_07"/><zone ulx="38.62" uly="352.52" lrx="701.00" lry="396.53" rendition="line" xml:id="LL1.5_line_1r_08"/><zone ulx="38.62" uly="397.87" lrx="701.00" lry="434.25" rendition="line" xml:id="LL1.5_line_1r_09"/><zone ulx="38.62" uly="436.94" lrx="701.00" lry="479.16" rendition="line" xml:id="LL1.5_line_1r_10"/><zone ulx="38.62" uly="486.79" lrx="701.00" lry="529.90" rendition="line" xml:id="LL1.5_line_1r_11"/><zone ulx="38.62" uly="532.60" lrx="701.00" lry="571.66" rendition="line" xml:id="LL1.5_line_1r_12"/><zone ulx="38.62" uly="579.30" lrx="701.00" lry="630.94" rendition="line" xml:id="LL1.5_line_1r_13"/><zone ulx="38.62" uly="632.29" lrx="701.00" lry="671.36" rendition="line" xml:id="LL1.5_line_1r_14"/><zone ulx="38.62" uly="674.50" lrx="701.00" lry="713.12" rendition="line" xml:id="LL1.5_line_1r_15"/><zone ulx="38.62" uly="716.71" lrx="701.00" lry="776.44" rendition="line" xml:id="LL1.5_line_1r_16"/><zone ulx="38.62" uly="765.66" lrx="701.00" lry="800.69" rendition="line" xml:id="LL1.5_line_1r_17"/><zone ulx="38.62" uly="802.04" lrx="701.00" lry="867.60" rendition="line" xml:id="LL1.5_line_1r_18"/><zone ulx="38.62" uly="869.85" lrx="701.00" lry="913.40" rendition="line" xml:id="LL1.5_line_1r_19"/><zone ulx="38.62" uly="915.65" lrx="701.00" lry="961.01" rendition="line" xml:id="LL1.5_line_1r_20"/><zone ulx="38.62" uly="964.15" lrx="701.00" lry="1000.52" rendition="line" xml:id="LL1.5_line_1r_21"/><zone ulx="38.62" uly="1004.12" lrx="701.00" lry="1048.57" rendition="line" xml:id="LL1.5_line_1r_22"/><zone ulx="38.62" uly="1052.62" lrx="701.00" lry="1099.32" rendition="line" xml:id="LL1.5_line_1r_23"/><zone ulx="38.62" uly="1102.91" lrx="701.00" lry="1147.37" rendition="line" xml:id="LL1.5_line_1r_24"/><zone ulx="38.62" uly="1147.37" lrx="701.00" lry="1185.54" rendition="line" xml:id="LL1.5_line_1r_25"/><zone ulx="38.62" uly="1193.62" lrx="701.00" lry="1220.57" rendition="line" xml:id="LL1.5_line_1r_26"/><zone ulx="38.62" uly="1223.26" lrx="701.00" lry="1284.34" rendition="line" xml:id="LL1.5_line_1r_27"/><zone ulx="38.62" uly="1278.05" lrx="701.00" lry="1318.02" rendition="line" xml:id="LL1.5_line_1r_28"/></surface>
+		<surface n="LL1.5.2" xml:id="LL1.5_folio_1v" corresp="#LL1.5_fol_1v"><graphic url="data/test-img/LL1.5/LL1-5_0002.dzi" width="1639px" height="3013px"/><zone ulx="96.16" uly="27.79" lrx="698.30" lry="59.55" rendition="line" xml:id="LL1.5_line_1v_01"/><zone ulx="96.16" uly="71.02" lrx="699.18" lry="98.37" rendition="line" xml:id="LL1.5_line_1v_02"/><zone ulx="96.16" uly="103.22" lrx="700.06" lry="144.25" rendition="line" xml:id="LL1.5_line_1v_03"/><zone ulx="96.16" uly="147.78" lrx="700.06" lry="178.65" rendition="line" xml:id="LL1.5_line_1v_04"/><zone ulx="96.16" uly="184.83" lrx="698.30" lry="231.15" rendition="line" xml:id="LL1.5_line_1v_05"/><zone ulx="55.58" uly="273.05" lrx="685.50" lry="309.23" rendition="line" xml:id="LL1.5_line_1v_06"/><zone ulx="55.58" uly="318.49" lrx="698.30" lry="348.49" rendition="line" xml:id="LL1.5_line_1v_07"/><zone ulx="55.58" uly="353.34" lrx="687.71" lry="395.25" rendition="line" xml:id="LL1.5_line_1v_08"/><zone ulx="55.58" uly="399.66" lrx="681.09" lry="439.36" rendition="line" xml:id="LL1.5_line_1v_09"/><zone ulx="55.58" uly="453.47" lrx="696.09" lry="493.62" rendition="line" xml:id="LL1.5_line_1v_10"/><zone ulx="55.58" uly="499.35" lrx="700.06" lry="553.17" rendition="line" xml:id="LL1.5_line_1v_11"/><zone ulx="88.22" uly="558.46" lrx="698.30" lry="606.54" rendition="line" xml:id="LL1.5_line_1v_12"/><zone ulx="55.58" uly="611.40" lrx="701.83" lry="648.89" rendition="line" xml:id="LL1.5_line_1v_13"/><zone ulx="55.58" uly="655.95" lrx="696.97" lry="703.59" rendition="line" xml:id="LL1.5_line_1v_14"/><zone ulx="55.58" uly="704.47" lrx="699.18" lry="740.20" rendition="line" xml:id="LL1.5_line_1v_15"/><zone ulx="55.58" uly="745.06" lrx="696.09" lry="798.43" rendition="line" xml:id="LL1.5_line_1v_16"/><zone ulx="55.58" uly="794.02" lrx="696.09" lry="840.34" rendition="line" xml:id="LL1.5_line_1v_17"/><zone ulx="55.58" uly="845.63" lrx="504.64" lry="884.45" rendition="line" xml:id="LL1.5_line_1v_18"/><zone ulx="467.15" uly="880.48" lrx="696.97" lry="921.51" rendition="line" xml:id="LL1.5_line_1v_19"/><zone ulx="490.97" uly="929.00" lrx="666.10" lry="989.00" rendition="line" xml:id="LL1.5_line_1v_20"/><zone ulx="127.93" uly="946.65" lrx="518.76" lry="996.94" rendition="line" xml:id="LL1.5_line_1v_21"/><zone ulx="127.93" uly="997.82" lrx="518.76" lry="1037.08" rendition="line" xml:id="LL1.5_line_1v_22"/><zone ulx="127.93" uly="1032.67" lrx="518.76" lry="1071.05" rendition="line" xml:id="LL1.5_line_1v_23"/><zone ulx="127.93" uly="1066.63" lrx="591.10" lry="1116.48" rendition="line" xml:id="LL1.5_line_1v_24"/><zone ulx="127.93" uly="1113.39" lrx="591.10" lry="1150.01" rendition="line" xml:id="LL1.5_line_1v_25"/><zone ulx="127.93" uly="1142.51" lrx="689.92" lry="1186.18" rendition="line" xml:id="LL1.5_line_1v_26"/><zone ulx="127.93" uly="1173.39" lrx="689.92" lry="1230.73" rendition="line" xml:id="LL1.5_line_1v_27"/><zone ulx="127.93" uly="1207.35" lrx="689.92" lry="1263.82" rendition="line" xml:id="LL1.5_line_1v_28"/><zone ulx="127.93" uly="1244.41" lrx="689.92" lry="1295.14" rendition="line" xml:id="LL1.5_line_1v_29"/><zone ulx="127.93" uly="1277.49" lrx="354.22" lry="1311.46" rendition="line" xml:id="LL1.5_line_1v_30"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.5" xml:id="LL1.5">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Vincenzo Ferlito, in Milano, [luglio 1830]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        130  p. 221</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Lettera incompleta. La data di redazione della lettera è stata attribuita da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.5</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige scuro, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>245x128<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli. Il testo è scritto in maniera lineare, ad eccezione di un punto in cui l'autore ha aggiunto un'informazione sovrascrivendola ad una riga. La lettera presenta cancellature all'inizio e alla fine della carta 1v ed alcune macchie di sbavature.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Il folio è piegato in tre punti in modo asimmetrico, riportando in questi punti degli strappi.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									
+										Lettera in cattive condizioni fisiche, divisa in tre frammenti.
+									
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera abbastanza leggibile. Sul verso, nel primo frammento e nella parte inferiore del terzo frammento sono presenti segni di cancellature.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Milano]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Luglio 1830]</p><p><fw> 
+                            Destinatario
+                        </fw>Vincenzo Ferlito</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.5.1r" xml:id="LL1.5_fol_1r" facs="data/test-img/LL1.5/LL1-5_0001.dzi"/>
+			<!-- Fronte -->
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_02" type="parag" part="N">
+					<s n="s_02" type="sentence" part="N">
+						<ptr target="#LL1.5_note1"/><note resp="#GS" xml:id="LL1.5_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+						<lb facs="#LL1.5_line_1r_01" n="1" xml:id="LL1.5_lb_1r_01"/>
+						il
+						<persName ref="#LittaViscontiAresePompeo">
+							<roleName type="nobility" full="yes">Duca</roleName> 
+							<hi rend="underline">Litta,</hi></persName> e i due negozianti
+						<persName ref="#MariettiGiuseppe">
+							<hi rend="underline">Marietti</hi></persName>
+						<lb facs="#LL1.5_line_1r_02" n="2" xml:id="LL1.5_lb_1r_02"/>
+						e
+						<persName ref="#SoresiPietro">Soresi</persName> avendosi posto in testa di prender
+						<lb facs="#LL1.5_line_1r_03" n="3" xml:id="LL1.5_lb_1r_03"/>
+						il
+						<orgName ref="#Scala">teatro della Scala,</orgName> ed avendo perciò <w part="N">scrittu
+							<lb break="no" facs="#LL1.5_line_1r_04" n="4" rend="double-stroke" xml:id="LL1.5_lb_1r_04"/>
+							rato</w> la
+						<persName ref="#NegriPastaGiuditta">Pasta,</persName>
+						<persName ref="#RubiniGiovanniBattista">Rubini</persName> ed altri celebri <w part="N">atto
+							<lb break="no" facs="#LL1.5_line_1r_05" n="5" rend="double-stroke" xml:id="LL1.5_lb_1r_05"/>
+							ri,</w> hanno fatto il possibile di comprare da
+						<persName ref="#CrivelliGiuseppe">Cri</persName>
+							<lb break="no" facs="#LL1.5_line_1r_06" n="6" rend="double-stroke" xml:id="LL1.5_lb_1r_06"/>
+							<persName ref="#CrivelliGiuseppe">velli</persName>
+						<ptr target="#LL1.5_note2"/><note>(Nota Seminara, 2017: p. 221 n. 356)<p part="N">Nell'autografo a fine riga è scritto <hi rend="italic">Cri=</hi> e nel rigo successivo è ripreso integralmente il nome <hi rend="italic">Crivelli.</hi></p></note> il mio contratto che finalmente <w part="N">han
+							<lb break="no" facs="#LL1.5_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.5_lb_1r_07"/>
+							no</w> avuto con regalare al detto <num type="cardinal" value="1500">1500<am instant="false">:</am></num> <choice><abbr>f<am instant="false">:</am><hi rend="sup">i</hi></abbr><expan instant="false">f<ex instant="false">ranch</ex>i</expan></choice> poi
+						<lb facs="#LL1.5_line_1r_08" n="8" xml:id="LL1.5_lb_1r_08"/>
+						essendosi da me portati, mi hanno detto,
+						<lb facs="#LL1.5_line_1r_09" n="9" xml:id="LL1.5_lb_1r_09"/>
+						che eglino aveano comprato la mia <w part="N">scrittu
+							<lb break="no" facs="#LL1.5_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.5_lb_1r_10"/>
+							ra</w> solamente per sciogliermi da
+						<persName ref="#CrivelliGiuseppe">Crivelli,</persName> e
+						<lb facs="#LL1.5_line_1r_11" n="11" xml:id="LL1.5_lb_1r_11"/>
+						non per comperar me ed i miei talenti, e
+						<lb facs="#LL1.5_line_1r_12" n="12" xml:id="LL1.5_lb_1r_12"/>
+						quindi era loro intenzione di stracciare
+						<lb facs="#LL1.5_line_1r_13" n="13" xml:id="LL1.5_lb_1r_13"/>
+						tale contratto, che mi assegnava per l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term"><w part="N">ope
+								<lb break="no" facs="#LL1.5_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.5_lb_1r_14"/>
+								ra</w>
+						</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> che dovea scrivere nel
+						<rs>
+							<orgName ref="#Fenice">teatro di Venezia</orgName>
+						</rs>
+						<lb facs="#LL1.5_line_1r_15" n="15" xml:id="LL1.5_lb_1r_15"/>
+						<num type="cardinal" value="7000">sette mila</num> <choice><abbr>f<am instant="false">:</am><hi rend="sup">i</hi></abbr><expan instant="false">f<ex instant="false">ranch</ex>i</expan></choice> mettendo in mio arbitrio di
+						<lb facs="#LL1.5_line_1r_16" n="16" xml:id="LL1.5_lb_1r_16"/>
+						fare altra domanda, e che l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> io <w part="N">fos
+							<lb break="no" facs="#LL1.5_line_1r_17" n="17" rend="double-stroke" xml:id="LL1.5_lb_1r_17"/>
+							si</w> in obbligo di scriverla o per
+						<placeName ref="#VE">Venezia</placeName> o
+						<lb facs="#LL1.5_line_1r_18" n="18" xml:id="LL1.5_lb_1r_18"/>
+						per
+						<placeName ref="#MI">Milano,</placeName>
+						<add place="supralinear" instant="false" status="unremarkable">perché ora è in dubbio se questa società abbia il
+							<rs>
+								<orgName ref="#Scala">teatro
+									<milestone unit="line"/>di Milano
+								</orgName>
+							</rs> o di
+							<rs>
+								<orgName ref="#Fenice">Venezia</orgName>
+							</rs>
+						</add>
+						aggiungendo che nel carnevale
+						<lb facs="#LL1.5_line_1r_19" n="19" xml:id="LL1.5_lb_1r_19"/>
+						non potessi scrivere altro che quest'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note><w part="N">so
+							<lb break="no" facs="#LL1.5_line_1r_20" n="20" rend="double-stroke" xml:id="LL1.5_lb_1r_20"/>
+							la;</w>
+					</s>
+					<s n="s_02" type="sentence" part="N">
+						dunque essendo tale la mia intenzione,
+						<lb facs="#LL1.5_line_1r_21" n="21" xml:id="LL1.5_lb_1r_21"/>
+						intenzione che io avea a loro esternato
+						<lb facs="#LL1.5_line_1r_22" n="22" xml:id="LL1.5_lb_1r_22"/>
+						prima che mi comprassero da
+						<persName ref="#CrivelliGiuseppe">Crivelli:</persName> ho
+						<lb facs="#LL1.5_line_1r_23" n="23" xml:id="LL1.5_lb_1r_23"/>
+						domandato la paga di <num type="cardinal" value="12000">12000<am instant="false">:</am></num> <choice rend="underline"><abbr type="contraction">svanzihe</abbr><expan instant="false">svanzi<ex instant="false">c</ex>he</expan></choice>
+						<lb facs="#LL1.5_line_1r_24" n="24" xml:id="LL1.5_lb_1r_24"/>
+						pari a ducati <num type="cardinal" value="2400">duemila e quattrocento,</num> e
+						<lb facs="#LL1.5_line_1r_25" n="25" xml:id="LL1.5_lb_1r_25"/>
+						la mettà della proprietà dello
+						<term ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito,</term><note type="comment" n="T"><seg>
+                [SPARTITO]
+            </seg><gloss xml:lang="it" target="#spartito" source="TEI-ListBibl.xml#DellaSeta2010">
+							Riduzione di una partitura operistica (ma anche di <term subtype="music-term">oratorio</term> o <term subtype="music-term" ref="#balletto">balletto</term>), consistente nelle parti vocali originali e in una sintesi per pianoforte delle parti orchestrali. Nacque come strumento professionale per cantanti e <term subtype="music-term">maestri accompagnatori</term> alla fine del Settecento, ma conobbe grande diffusione nei due secoli successivi, in funzione del successo mondiale del genere operistico e dell’allargamento della composizione sociale del pubblico, grazie all’abbassamento dei costi della stampa musicale consentito da tecniche quali la litografia. In questo contesto lo spartito era destinato prevalentemente al consumo domestico dei lavori teatrali più recenti e popolari: si usava infatti pubblicare dapprima solo le sezioni di maggior successo e di più facile esecuzione (<term subtype="music-term" ref="#aria">arie</term> e <term subtype="music-term" ref="#duetto">duetti</term>), e solo se l’opera si affermava stabilmente nel <term subtype="music-term">repertorio</term> veniva pubblicato lo spartito completo. Tali pubblicazioni rappresentavano spesso l’unico tramite tra il mondo del teatro e quanti avevano difficilmente accesso a esso. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> che <w part="N">in
+							<lb break="no" facs="#LL1.5_line_1r_26" n="26" rend="double-stroke" xml:id="LL1.5_lb_1r_26"/>
+							contrando</w> l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> mi frutterà <num type="cardinal" value="3000">tremila</num>
+						<lb facs="#LL1.5_line_1r_27" n="27" xml:id="LL1.5_lb_1r_27"/>
+						ducati in tutto:
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						<add n="add_02" place="supralinear" instant="false" status="unremarkable">essi tutto mi hanno accordato<pc type="colon" resp="#DS #LM" part="N">:</pc></add>
+						in questo fatto sono <w part="I" xml:id="LL1.5_1r_27_stato" next="#LL1.5_1r_28_stato">sta</w>
+							<lb facs="#LL1.5_line_1r_28" n="28" rend="double-stroke" xml:id="LL1.5_lb_1r_28"/>
+							<w part="F" xml:id="LL1.5_1r_28_stato" prev="#LL1.5_1r_27_stato">to</w> fortunatissimo, perché quasi vengo a
+						<pb n="LL1.5.1v" xml:id="LL1.5_fol_1v" facs="data/test-img/LL1.5/LL1-5_0002.dzi"/>
+						<!--Codifica porzione lettera con cancellature-->
+						<lb facs="#LL1.5_line_1v_01" n="1" xml:id="LL1.5_lb_1v_01"/>
+						<del rend="erasure" instant="false" status="unremarkable">
+							[[+++++++]]
+						</del>
+						<lb facs="#LL1.5_line_1v_02" n="2" xml:id="LL1.5_lb_1v_02"/>
+						<del rend="erasure" instant="false" status="unremarkable">
+							[[+++++++]]
+						</del>
+						<lb facs="#LL1.5_line_1v_03" n="3" xml:id="LL1.5_lb_1v_03"/>
+						<del rend="erasure" instant="false" status="unremarkable">
+							[[+++++++]]
+						</del>
+						<lb facs="#LL1.5_line_1v_04" n="4" xml:id="LL1.5_lb_1v_04"/>
+						<del rend="erasure" instant="false" status="unremarkable">
+							[[+++++++]]
+						</del>
+						<lb facs="#LL1.5_line_1v_05" n="5" xml:id="LL1.5_lb_1v_05"/>
+						<del rend="erasure" instant="false" status="unremarkable">
+							[[+++++++]]
+						</del>
+						<lb facs="#LL1.5_line_1v_06" n="6" xml:id="LL1.5_lb_1v_06"/>
+						guadagnare il doppio, di come l'avessi
+						<lb facs="#LL1.5_line_1v_07" n="7" xml:id="LL1.5_lb_1v_07"/>
+						scritto per
+						<persName ref="#CrivelliGiuseppe">Crivelli:</persName>
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						la fortuna pare che
+						<lb facs="#LL1.5_line_1v_08" n="8" xml:id="LL1.5_lb_1v_08"/>
+						mi vuole ancora suo favorito:
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						io non
+						<lb facs="#LL1.5_line_1v_09" n="9" xml:id="LL1.5_lb_1v_09"/>
+						abuserò perché studio sempre, ed Iddio
+						<lb facs="#LL1.5_line_1v_10" n="10" xml:id="LL1.5_lb_1v_10"/>
+						spero che vorrà sempre ajutarmi, <w part="N">alme
+							<lb break="no" facs="#LL1.5_line_1v_11" n="11" rend="double-stroke" xml:id="LL1.5_lb_1v_11"/>
+							no,</w> se non per me, per la
+						<rs type="personGrp">mia famiglia.</rs>
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						<lb facs="#LL1.5_line_1v_12" n="12" xml:id="LL1.5_lb_1v_12"/>
+						Subito che sortirà lo
+						<term ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito</term><note type="comment" n="T"><seg>
+                [SPARTITO]
+            </seg><gloss xml:lang="it" target="#spartito" source="TEI-ListBibl.xml#DellaSeta2010">
+							Riduzione di una partitura operistica (ma anche di <term subtype="music-term">oratorio</term> o <term subtype="music-term" ref="#balletto">balletto</term>), consistente nelle parti vocali originali e in una sintesi per pianoforte delle parti orchestrali. Nacque come strumento professionale per cantanti e <term subtype="music-term">maestri accompagnatori</term> alla fine del Settecento, ma conobbe grande diffusione nei due secoli successivi, in funzione del successo mondiale del genere operistico e dell’allargamento della composizione sociale del pubblico, grazie all’abbassamento dei costi della stampa musicale consentito da tecniche quali la litografia. In questo contesto lo spartito era destinato prevalentemente al consumo domestico dei lavori teatrali più recenti e popolari: si usava infatti pubblicare dapprima solo le sezioni di maggior successo e di più facile esecuzione (<term subtype="music-term" ref="#aria">arie</term> e <term subtype="music-term" ref="#duetto">duetti</term>), e solo se l’opera si affermava stabilmente nel <term subtype="music-term">repertorio</term> veniva pubblicato lo spartito completo. Tali pubblicazioni rappresentavano spesso l’unico tramite tra il mondo del teatro e quanti avevano difficilmente accesso a esso. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> dei
+						<rs ref="TEI-ListWork.xml#Capuleti" type="work"><w part="N">Ca
+								<lb break="no" facs="#LL1.5_line_1v_13" n="13" rend="double-stroke" xml:id="LL1.5_lb_1v_13"/>
+								puleti</w>
+						</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I Capuleti e i Montecchi<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label>
+							Felice Romani
+						<label rend="bold"> [Prima rappresentazione]: </label>Teatro La Fenice, Venezia, 11 marzo 1830<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								La «tragedia lirica» <hi rend="italic">I Capuleti e i Montecchi</hi> fu composta da Bellini su commissione di Alessandro Lanari, impresario del Teatro La Fenice di Venezia: il musicista, che si trovava nella città lagunare dal dicembre 1829 per seguire la rappresentazione del <hi rend="italic"><rs type="work" ref="#Pirata">Pirata</rs></hi>, aveva accettato la proposta di sostituire l'inadempiente Pacini per la stagione del Carnevale del 1830. La ristrettezza del tempo indusse Felice Romani a riutilizzare il libretto di <hi rend="italic">Giulietta e Romeo</hi>, scritto nel 1825 per Nicola Vaccaj; a sua volta Bellini si avvalse delle musiche già composte per <hi rend="italic"><rs type="work" ref="#Zaira">Zaira</rs></hi>, l'opera con la quale il 16 maggio 1829 aveva inaugurato il Teatro Ducale di Parma incontrando un sostanziale insuccesso. Fu invece trionfale l'accoglienza riservata dal pubblico veneziano ai <hi rend="italic">Capuleti</hi>, che andarono in scena al Teatro La Fenice l'11 marzo 1830.
+							</p>
+						</note></note> l'invierò, come ancora i <w part="N">ritrat
+							<lb break="no" facs="#LL1.5_line_1v_14" n="14" rend="double-stroke" xml:id="LL1.5_lb_1v_14"/>
+							ti,</w> che dovranno sortire fra un mese <w part="N">al
+							<lb break="no" facs="#LL1.5_line_1v_15" n="15" rend="double-stroke" xml:id="LL1.5_lb_1v_15"/>
+							meno.</w> —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_03" type="parag" part="N">
+					<s n="s_07" type="sentence" part="N">
+						Intanto ricevete i miei
+						<choice><abbr>abb<am instant="false">:</am><hi rend="sup">ci</hi></abbr><expan instant="false">abb<ex instant="false">racc</ex>i</expan></choice> ed
+						<lb facs="#LL1.5_line_1v_16" n="16" xml:id="LL1.5_lb_1v_16"/>
+						i rispetti per la
+						<persName ref="#MaugeriRosaria">zia sara:</persName>
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						tante cose allo
+						<lb facs="#LL1.5_line_1v_17" n="17" xml:id="LL1.5_lb_1v_17"/>
+						<persName ref="#FerlitoFrancesco">zio
+							<choice><abbr>D<am instant="false">:</am></abbr><expan instant="false">D<ex instant="false">on</ex></expan></choice> Ciccio
+						</persName> e tutti i parenti, come a
+						<lb facs="#LL1.5_line_1v_18" n="18" xml:id="LL1.5_lb_1v_18"/>
+						tutte le nostre conoscenze
+					</s>
+				</ab>
+				<salute n="ab_04">
+					<s n="s_09" part="N">
+						<lb facs="#LL1.5_line_1v_19" n="19" xml:id="LL1.5_lb_1v_19"/>
+						<hi rend="align(right)"> Vostro
+						<choice><abbr>affssmo</abbr><expan instant="false">aff<ex instant="false">ezionati</ex>ss<ex instant="false">i</ex>mo</expan></choice>
+						</hi>
+						<lb facs="#LL1.5_line_1v_20" n="20" xml:id="LL1.5_lb_1v_20"/>
+					</s>
+				</salute>
+				<signed rend="align(right)">							
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo</persName>
+				</signed>
+			</div>
+			<div n="d_02" type="deleted" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" part="N">
+					<!--Codifica porzione lettera con cancellature-->
+					<lb facs="#LL1.5_line_1v_21" n="21" xml:id="LL1.5_lb_1v_21"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_22" n="22" xml:id="LL1.5_lb_1v_22"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_23" n="23" xml:id="LL1.5_lb_1v_23"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_24" n="24" xml:id="LL1.5_lb_1v_24"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_25" n="25" xml:id="LL1.5_lb_1v_25"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_26" n="26" xml:id="LL1.5_lb_1v_26"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_27" n="27" xml:id="LL1.5_lb_1v_27"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_28" n="28" xml:id="LL1.5_lb_1v_28"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_29" n="29" xml:id="LL1.5_lb_1v_29"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+					<lb facs="#LL1.5_line_1v_30" n="30" xml:id="LL1.5_lb_1v_30"/>
+					<del rend="erasure" instant="false" status="unremarkable">
+						[[+++++++]]
+					</del>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"/></back>
+	</text>
+</TEI>

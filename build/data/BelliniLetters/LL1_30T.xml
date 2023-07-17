@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Francesco Florimo, in Parigi, 1° giugno 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-06" instant="false">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Daniela Cardia</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_30.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="443" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="512" to="513" unit="page">512-513</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.30</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 1, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.30"><idno type="inventory">LL1.30</idno><title>Vincenzo Bellini a Francesco Florimo, in Parigi, 1° giugno 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="443"><locus from="512" to="513">n. 443, p. 512-513.</locus></citedRange></bibl><bibl>Amore, 1892, p. 367. </bibl><bibl>Cambi, 1943, p. 559. </bibl><bibl>Neri, 2005, p. 413. </bibl><incipit><fw>Incipit </fw>
+						
+						1:Giugno – 35:
+						
+							N.19:bis rampe
+							
+							de Neuilly à
+							Puteaux
+							
+							près    Paris.
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date type="writing" when="1835-06-01" instant="false">1 giugno 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#FlorimoFrancesco">Francesco Florimo</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.30_facsimile">
+		<surface n="LL1.30.1" xml:id="LL1.30_folio_1r" corresp="#LL1.30_fol_1r"><graphic url="data/test-img/LL1.30/LL1-30_0001.dzi" width="1645px" height="2475px"/><zone ulx="39.56" uly="26.37" lrx="688.72" lry="70.76" rendition="line" xml:id="LL1.30_line_1r_01"/><zone ulx="406.55" uly="63.73" lrx="707.62" lry="123.06" rendition="line" xml:id="LL1.30_line_1r_02"/><zone ulx="377.54" uly="110.76" lrx="593.34" lry="160.42" rendition="line" xml:id="LL1.30_line_1r_03"/><zone ulx="113.83" uly="112.52" lrx="370.95" lry="149.87" rendition="line" xml:id="LL1.30_line_1r_04"/><zone ulx="114.27" uly="158.22" lrx="707.62" lry="202.18" rendition="line" xml:id="LL1.30_line_1r_05"/><zone ulx="43.95" uly="191.19" lrx="707.62" lry="237.34" rendition="line" xml:id="LL1.30_line_1r_06"/><zone ulx="43.95" uly="232.94" lrx="707.62" lry="276.89" rendition="line" xml:id="LL1.30_line_1r_07"/><zone ulx="43.95" uly="272.50" lrx="707.62" lry="325.24" rendition="line" xml:id="LL1.30_line_1r_08"/><zone ulx="43.95" uly="314.25" lrx="707.62" lry="369.19" rendition="line" xml:id="LL1.30_line_1r_09"/><zone ulx="386.77" uly="463.25" lrx="543.24" lry="893.97" rendition="HotSpot" xml:id="LL1.30_hotspot_1r_01" corresp="#LL1.30_hotspot_1r_01h" start="#LL1.30_hotspot_1r_01h"/><zone ulx="36.92" uly="17.58" lrx="136.25" lry="111.20" rendition="HotSpot" xml:id="LL1.30_hotspot_1r_02" corresp="#LL1.30_hotspot_1r_02h" start="#LL1.30_hotspot_1r_02h"/></surface>
+		<surface n="LL1.30.2" xml:id="LL1.30_folio_1v" corresp="#LL1.30_fol_1v"><graphic url="data/test-img/LL1.30/LL1-30_0002.dzi" width="1685px" height="2482px"/></surface>
+		<surface n="LL1.30.3" xml:id="LL1.30_folio_2r" corresp="#LL1.30_fol_2r"><graphic url="data/test-img/LL1.30/LL1-30_0003.dzi" width="1645px" height="2475px"/></surface>
+		<surface n="LL1.30.4" xml:id="LL1.30_folio_2v" corresp="#LL1.30_fol_2v"><graphic url="data/test-img/LL1.30/LL1-30_0004.dzi" width="1645px" height="2482px"/><zone ulx="175.81" uly="947.15" lrx="254.92" lry="1008.24" rendition="HotSpot" xml:id="LL1.30_hotspot_2v_01" corresp="#LL1.30_hotspot_2v_01h" start="#LL1.30_hotspot_2v_01h"/><zone ulx="223.71" uly="96.25" lrx="621.91" lry="300.63" rendition="HotSpot" xml:id="LL1.30_hotspot_2v_02" corresp="#LL1.30_hotspot_2v_02h" start="#LL1.30_hotspot_2v_02h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.30" xml:id="LL1.30">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Francesco Florimo, in Parigi, 1° giugno 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        443  p. 512-513</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo e altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.30</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>203x133<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>
+										È presente un timbro illegibile sulla carta 1r.
+									</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta solo sulla carta 1r. Il folio presenta segni di piegature asimmetriche.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera leggibile.
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									neuvième
+									significa
+									nono. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+								
+									Sulla carta 2v è presente un'annotazione in blu illegibile, tra parentesi tonde.
+								
+							 
+								
+								
+									Sulla carta 2v è presente un'annotazione in rosso, probabilmente dovuta ad un catalogatore, riportante la scritta "N 14".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>1 giugno 1835</p><p><fw> 
+                            Destinatario
+                        </fw>Francesco Florimo</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.30.1r" xml:id="LL1.30_fol_1r" facs="data/test-img/LL1.30/LL1-30_0001.dzi"/>
+			<!--fronte-recto-->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.30_line_1r_01" n="1" xml:id="LL1.30_lb_1r_01"/>
+						<date when="1835-06-01" rend="align(right)" instant="false">1<am instant="false">:</am> Giugno – 35<supplied instant="false"><am instant="false">:</am></supplied></date>
+						<address xml:lang="fr">
+							<street>N<am instant="false">.</am> <num type="cardinal" value="19">19</num><am instant="false">:</am> bis rampe</street>
+							<lb facs="#LL1.30_line_1r_02" n="2" xml:id="LL1.30_lb_1r_02"/>
+							<street rend="align(right)">de <placeName ref="#NSS">Neuilly</placeName> à</street>
+							<region rend="underline"><placeName ref="#Put">Puteaux</placeName></region>
+							<lb facs="#LL1.30_line_1r_03" n="3" xml:id="LL1.30_lb_1r_03"/>
+							<region rend=" underline align(right)">près <choice resp="#DS"><orig>dé</orig><reg instant="false">de</reg></choice> <placeName ref="#Paris">Paris.</placeName></region>
+						</address>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.30_line_1r_04" n="4" xml:id="LL1.30_lb_1r_04"/>
+							Mio caro
+							<persName ref="#FlorimoFrancesco">Florimo</persName></s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.30_line_1r_05" n="5" xml:id="LL1.30_lb_1r_05"/>
+						Una vera invenzione ti ha cagionato
+						<lb facs="#LL1.30_line_1r_06" n="6" xml:id="LL1.30_lb_1r_06"/>
+						tanto dolore per lo supposto duello, e mia
+						<lb facs="#LL1.30_line_1r_07" n="7" xml:id="LL1.30_lb_1r_07"/>
+						morte.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						Tu mi conosci bene, e sai che un
+						<lb facs="#LL1.30_line_1r_08" n="8" xml:id="LL1.30_lb_1r_08"/>
+						solo punto d'onore mi farebbe andare sul
+						<lb facs="#LL1.30_line_1r_09" n="9" xml:id="LL1.30_lb_1r_09"/>
+						terreno, o una disgrazia fatale
+						<ptr target="#LL1.30_note1"/><note resp="#GS" xml:id="LL1.30_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.30_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.30_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Neuvième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.30_hotspot_1r_02" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.30_hs_1r_02" part="N">
+					<stamp>
+						<mentioned>
+							+++
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<pb n="LL1.30.1v" xml:id="LL1.30_fol_1v" facs="data/test-img/LL1.30/LL1-30_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.30.2r" xml:id="LL1.30_fol_2r" facs="data/test-img/LL1.30/LL1-30_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.30.2v" xml:id="LL1.30_fol_2v" facs="data/test-img/LL1.30/LL1-30_0004.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.30_hotspot_2v_01" hand="#h2" xml:id="LL1.30_hs_2v_01" part="N">
+					<fw type="catalogNum">
+						(+++)
+					</fw>
+				</ab>
+				<ab facs="#LL1.30_hotspot_2v_02" hand="#h3" xml:id="LL1.30_hs_2v_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 14</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.30_hotspot_1r_01h" facs="#LL1.30_hotspot_1r_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									neuvième
+									significa
+									nono. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.30_hotspot_1r_02h" facs="#LL1.30_hotspot_1r_02"><p>timbro illegibile</p></div><div xml:id="LL1.30_hotspot_2v_01h" facs="#LL1.30_hotspot_2v_01"><p>annotazione in blu illegibile, tra parentesi tonde</p></div><div xml:id="LL1.30_hotspot_2v_02h" facs="#LL1.30_hotspot_2v_02"><p>annotazione in rosso, probabilmente dovuta ad un catalogatore, riportante la scritta "N 14"</p></div></div></back>
+	</text>
+</TEI>

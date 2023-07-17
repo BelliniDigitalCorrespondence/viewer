@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					<!-- Insert title for this digital text -->
+				</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>
+					<!-- Insert information about the publication of this digital text -->
+				</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>
+					<!-- Insert information about the publication of this digital text -->
+				</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>This is a template for a minimal TEI header with the mandatory components:</p>
+		</body>
+		<back>
+			<div type="bibliography">
+                <listBibl>
+
+                    <biblStruct xml:id="Amore1894" type="print">
+                        <monogr>
+                            <author xml:id="AA">
+                                <forename>Antonino</forename>
+                                <surname>Amore</surname>
+                            </author>
+                            <title level="m">Vincenzo Bellini. Vita. Studi e ricerche</title>
+                            <imprint>
+                                <pubPlace>Catania</pubPlace>
+                                <publisher>Giannotta</publisher>
+                                <date when="1894">1894</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Cambi1943" type="print">
+                        <monogr>
+                            <editor xml:id="LC"> <!-- curatore, aggiungere @role? -->
+                                <forename>Luisa</forename>
+                                <surname>Cambi</surname> 
+                            </editor>
+                            <title level="m">Bellini. Epistolario</title>
+                            <imprint>
+                                <pubPlace>Milano</pubPlace>
+                                <publisher>Mondadori</publisher>
+                                <date when="1943">1943</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="DellaSeta2010" type="print">
+                        <monogr>
+                            <editor xml:id="FDS">
+                                <forename>Fabrizio</forename>
+                                <surname>Della Seta</surname>
+                            </editor>
+                            <title level="m">Le parole del teatro musicale</title>
+                            <imprint>
+                                <pubPlace>Roma</pubPlace>
+                                <publisher>Carocci</publisher>
+                                <date when="2010">2010</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Delogu1931" type="print">
+                        <analytic>
+                            <author xml:id="GD">
+                                <forename>Giuseppe</forename>
+                                <surname>Delogu</surname>
+                            </author>
+                            <title level="a">La casa di Bellini (nel primo centenario della Sonnambula)</title>
+                        </analytic>
+                        <monogr>
+                            <title level="j">Emporium. Rivista mensile illustrata d'arte e cultura</title>
+                            <imprint>
+                                <date when="1931-03">Marzo 1931</date>
+                            </imprint>
+                            <biblScope unit="volume">LXXIII</biblScope>
+                            <biblScope unit="issue">435</biblScope>
+                            <biblScope unit="page" from="164" to="175">164-175</biblScope>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Ganguzza1970" type="print">
+                        <analytic>
+                            <author xml:id="NG">
+                                <forename>Niny</forename>
+                                <surname>Ganguzza</surname>
+                            </author>
+                            <title level="a">Inediti belliniani: Agosto 1830. "La straniera" a Bergamo</title>
+                        </analytic>
+                        <monogr>
+                            <title level="j">L'Opera</title>
+                            <imprint>
+                                <date when="1970">1970</date>
+                            </imprint>
+                            <biblScope unit="volume">V - numero monografico</biblScope>
+                            <biblScope unit="issue">16-17</biblScope>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Libertini1935" type="print">
+                        <analytic>
+                            <author xml:id="GL">
+                                <forename>Guido</forename>
+                                <surname>Libertini</surname>
+                            </author>
+                            <title level="a">Ricerche tra gli autografi del Museo Belliniano</title>
+                        </analytic>
+                        <monogr>
+                            <title level="j">Vincenzo Bellini. Numero commemorativo della Rivista del Comune di Catania</title>
+                            <imprint>
+                                <pubPlace>Catania</pubPlace>
+                                <date when="1935">1935</date>
+                            </imprint>
+                            <biblScope unit="volume">XIII</biblScope>
+                            <biblScope unit="page" from="1" to="8">1-8</biblScope>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Neri2005" type="print">
+                        <monogr>
+                            <author xml:id="CN">
+                                <forename>Carmelo</forename>
+                                <surname>Neri</surname>
+                            </author>
+                            <title level="m">Vincenzo Bellini. Nuovo Epistolario. 1819-1835</title>
+                            <imprint>
+                                <pubPlace>Catania</pubPlace>
+                                <publisher>Agorà</publisher>
+                                <date when="2005">2005</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Nicolodi_Trovato2007" type="print" subtype="digital">
+                        <monogr>
+                            <editor xml:id="FN">
+                                <forename>Fiamma</forename>
+                                <surname>Nicolodi</surname>
+                            </editor>
+                            <editor xml:id="PT">
+                                <forename>Paolo</forename>
+                                <surname>Trovato</surname>
+                            </editor>
+                            <respStmt>
+                                <resp>con la collaborazione di </resp>
+                                <persName>
+                                    <forename>Renato</forename>
+                                    <surname>Di Benedetto</surname>
+                                </persName>
+                            </respStmt>
+                            <title level="m" type="main">Lesmu. Lessico della letteratura musicale italiana 1490-1950</title>
+                            <edition>con cd-rom</edition>
+                            <imprint>
+                                <pubPlace>Firenze</pubPlace>
+                                <publisher>Franco Cesati Editore</publisher>
+                                <date when="2007">2007</date>
+                            </imprint>
+                            <biblScope unit="page">pp.167</biblScope>              
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Pastura1958" type="print">
+                        <analytic>
+                            <author xml:id="FPa">
+                                <forename>Francesco</forename>
+                                <surname>Pastura</surname>
+                            </author>
+                            <title level="a">Nuovi importanti documenti assicurati al Museo Belliniano</title>
+                        </analytic>
+                        <monogr>
+                            <title level="j">Rivista del Comune di Catania</title>
+                            <imprint>
+                                <pubPlace>Catania</pubPlace>
+                                <date when="1958">ottobre-dicembre 1958</date>
+                            </imprint>
+                            <biblScope unit="volume">VI</biblScope>
+                            <biblScope unit="page" from="111" to="118">111-118</biblScope>
+                        </monogr>
+                    </biblStruct>
+  
+                    <biblStruct xml:id="Pastura1959" type="print">
+                        <monogr>
+                            <author ref="#FPa">
+                                <forename>Francesco</forename>
+                                <surname>Pastura</surname>
+                            </author>
+                            <title level="m">Bellini secondo la storia</title>
+                            <imprint>
+                                <pubPlace>Parma</pubPlace>
+                                <publisher>Guanda</publisher>
+                                <date when="1959">1959</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Policastro1935" type="print">
+                        <monogr>
+                            <author xml:id="GP"> 
+                                <forename>Guglielmo</forename>
+                                <surname>Policastro</surname> 
+                            </author>
+                            <title level="m">Bellini 1801-1819</title>
+                            <imprint>
+                                <pubPlace>Catania</pubPlace>
+                                <publisher>Studio Editoriale Moderno</publisher>
+                                <date when="1935">1935</date>
+                            </imprint>
+                        </monogr>
+					</biblStruct>
+
+                    <biblStruct xml:id="Salvioli1884" type="print">
+                        <monogr>
+                            <author xml:id="GSa">
+                                <forename>Giovanni</forename>
+                                <surname>Salvioli</surname>
+                            </author>
+                            <title level="m">Vincenzo Bellini. Lettere inedite</title>
+                            <imprint>
+                                <pubPlace>Milano</pubPlace>
+                                <publisher>Ricordi</publisher>
+                                <date when="1884">1884</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+                    <biblStruct xml:id="Seminara2001" type="print">
+                        <analytic>
+                            <editor xml:id="GS">
+                                <forename>Graziella</forename>
+                                <surname>Seminara</surname>
+                            </editor>
+                            <title level="a">Mio caro amico. Per un’edizione critica dell’Epistolario belliniano</title>
+                        </analytic>
+                        <monogr>
+                            <title level="m">Comitato Nazionale per le Celebrazioni Belliniane</title>
+                            <imprint>
+                                <pubPlace>Valverde</pubPlace>
+                                <publisher>Il Girasole Edizioni</publisher>
+                                <date when="2001">2001</date>
+                            </imprint>
+                            <biblScope unit="volume">XIII</biblScope>
+                            <biblScope unit="page" from="24" to="27">24-27</biblScope>
+                        </monogr>
+                    </biblStruct> <!-- l'ho solo trasformato in biblStruct, ma credo vada modificato -->
+                    
+                    <biblStruct xml:id="Seminara2017" type="print">
+                        <monogr>
+                            <editor ref="#GS">
+                                <forename>Graziella</forename>
+                                <surname>Seminara</surname>
+                            </editor>
+                            <title level="m">Vincenzo Bellini. Carteggi</title>
+                            <imprint>
+                                <pubPlace>Firenze</pubPlace>
+                                <publisher>Leo S. Olschki Editore</publisher>
+                                <date when="2017">2017</date>      
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title level="s">Historiae Musicae Cultores</title>
+                            <biblScope unit="volume">CXXXI</biblScope>
+                            <biblScope unit="page">pp. vi+622</biblScope>
+                        </series>                 
+                    </biblStruct>
+
+                    <biblStruct xml:id="Zangara1906" type="print" cert="medium" resp="#GS">
+                        <monogr>
+                            <author xml:id="VMZ">
+                                <forename>Vincenzo</forename>
+                                <surname>Maugeri</surname>
+                                <surname>Zangara</surname>
+                            </author>
+                            <title level="j">Natura e arte</title>
+                            <imprint>
+                                <date when="1906">1906</date>
+                            </imprint>
+                            <biblScope unit="page" from="176" to="176">176</biblScope>
+                        </monogr>
+                    </biblStruct>   <!-- l'ho solo trasformato in biblStruct, ma credo vada modificato -->   
+              </listBibl>
+            </div>
+          </back>
+    </text>
+</TEI>

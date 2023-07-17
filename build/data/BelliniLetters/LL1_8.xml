@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Milano, [settembre 1831]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-07">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Elena Fantozzi</name>
+					<name>Martina Felicina Rossi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_8.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="162" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="242" to="243" unit="page">242-243</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.8</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a destinatario sconosciuto, in
+								<placeName ref="TEI-ListPlace.xml#MI">Milano</placeName>,
+								<date cert="medium" resp="#GS" when="1831-09">settembre 1831</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr-x-800">Italiano di inizio Ottocento con un termine in francese.</textLang>
+							<note>La data di redazione della minuta di lettera è stata attribuita da Seminara, ma non è presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>L'intera terza pagina è occupata da una
+										<hi facs="#LL1.8_hotspot_2r_01">filigrana con scritta in caratteri maiuscoli di font serif "FINSOU EDEN"</hi>. Dopo FINSOU è presente un elemento grafico.
+									</watermark>
+									<stamp>Non sono presenti tracce di  timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>130</height>
+										<width>103</width>
+									</dimensions>
+								</extent>
+								<collation>La minuta di lettera è composta da due carte (un bifoglio con piegatura al centro): il testo è disposto su due facciate.</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche, a parte una sbavatura abbastanza evidente nella prima pagina. Piccole macchie più chiare di forma circolare probabilmente dovute a delle gocce di liquido.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<handNote>
+								<p>Scrittura di <persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName> a mano libera, leggibile, nonostante le numerose cancellature.
+								</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>
+									Sulla carta 2v un'<hi facs="#LL1.8_hotspot_2v_01">annotazione rossa probabilmente dovuta ad un catalogatore, che presenta la sigla "N 102"</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>
+									Sulla carta 2v, nell'angolo in basso a sinistra, un'<hi facs="#LL1.8_hotspot_2v_02">annotazione a matita blu, il numero "14" tra parentesi</hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName cert="high" ref="TEI-ListPlace.xml#MI" resp="#GS">Milano</placeName>
+					<date cert="medium" resp="#GS" when="1831-09">Settembre 1831</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.8_folio_1r">
+			<graphic height="1599px" url="LL1.8_0001.jpg" width="1272px" />
+			<!--Intestazione lettera-->
+			<zone lrx="678" lry="225" rendition="Line" ulx="257" uly="136" xml:id="LL1.8_line_1r_01" />
+			<!--Corpo centrale lettera-->
+			<zone lrx="1232" lry="539" rendition="Line" ulx="364" uly="438" xml:id="LL1.8_line_1r_02" />
+			<zone lrx="1232" lry="622" rendition="Line" ulx="120" uly="549" xml:id="LL1.8_line_1r_03" />
+			<zone lrx="939" lry="707" rendition="Line" ulx="120" uly="641" xml:id="LL1.8_line_1r_04" />
+			<zone lrx="1232" lry="909" rendition="Line" ulx="332" uly="784" xml:id="LL1.8_line_1r_05" />
+			<zone lrx="1232" lry="996" rendition="Line" ulx="120" uly="926" xml:id="LL1.8_line_1r_06" />
+			<zone lrx="1232" lry="1092" rendition="Line" ulx="120" uly="1021" xml:id="LL1.8_line_1r_07" />
+			<zone lrx="1232" lry="1181" rendition="Line" ulx="120" uly="1112" xml:id="LL1.8_line_1r_08" />
+			<zone lrx="1232" lry="1274" rendition="Line" ulx="120" uly="1203" xml:id="LL1.8_line_1r_09" />
+			<zone lrx="1232" lry="1366" rendition="Line" ulx="120" uly="1298" xml:id="LL1.8_line_1r_10" />
+			<zone lrx="1232" lry="1452" rendition="Line" ulx="120" uly="1383" xml:id="LL1.8_line_1r_11" />
+			<zone lrx="1232" lry="1541" rendition="Line" ulx="120" uly="1480" xml:id="LL1.8_line_1r_12" />
+		</surface>
+		<surface n="2" xml:id="LL1.8_folio_1v">
+			<graphic height="1600px" url="LL1.8_0002.jpg" width="1294px" />
+			<zone lrx="1258" lry="234" rendition="Line" ulx="122" uly="150" xml:id="LL1.8_line_1v_01" />
+			<zone lrx="1258" lry="299" rendition="Line" ulx="122" uly="247" xml:id="LL1.8_line_1v_02" />
+			<zone lrx="1258" lry="381" rendition="Line" ulx="122" uly="302" xml:id="LL1.8_line_1v_03" />
+			<zone lrx="1258" lry="459" rendition="Line" ulx="122" uly="383" xml:id="LL1.8_line_1v_04" />
+			<zone lrx="1258" lry="531" rendition="Line" ulx="122" uly="470" xml:id="LL1.8_line_1v_05" />
+			<zone lrx="1258" lry="622" rendition="Line" ulx="122" uly="533" xml:id="LL1.8_line_1v_06" />
+			<zone lrx="1258" lry="728" rendition="Line" ulx="122" uly="636" xml:id="LL1.8_line_1v_07" />
+			<zone lrx="1258" lry="795" rendition="Line" ulx="122" uly="724" xml:id="LL1.8_line_1v_08" />
+			<zone lrx="1258" lry="869" rendition="Line" ulx="122" uly="793" xml:id="LL1.8_line_1v_09" />
+			<zone lrx="1258" lry="1000" rendition="Line" ulx="122" uly="880" xml:id="LL1.8_line_1v_10" />
+			<zone lrx="1177" lry="1073" rendition="Line" ulx="120" uly="998" xml:id="LL1.8_line_1v_11" />
+			<zone lrx="1036" lry="1190" rendition="Line" ulx="757" uly="1097" xml:id="LL1.8_line_1v_12" />
+		</surface>
+		<surface n="3" xml:id="LL1.8_folio_2r">
+			<graphic height="1599px" url="LL1.8_0003.jpg" width="1297px" />
+			<!-- Filigrana -->
+			<zone lrx="1089" lry="1541" rendition="HotSpot" ulx="194" uly="155" xml:id="LL1.8_hotspot_2r_01" />
+		</surface>
+		<surface n="4" xml:id="LL1.8_folio_2v">
+			<graphic height="1600px" url="LL1.8_0004.jpg" width="1294px" />
+			<!--Annotazione seconda mano-->
+			<zone lrx="859" lry="374" rendition="HotSpot" ulx="154" uly="88" xml:id="LL1.8_hotspot_2v_01" />
+			<!--Annotazione terza mano-->
+			<zone lrx="376" lry="1531" rendition="HotSpot" ulx="119" uly="1335" xml:id="LL1.8_hotspot_2v_02" />
+		</surface>
+	</facsimile>
+	<text n="LL1.8" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.8">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.8_folio_1r" n="1" xml:id="LL1.8_fol_1r" />
+			<!-- Fronte-recto -->
+			<div n="t_01" type="letter-body">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.8_line_1r_01" n="1" xml:id="LL1.8_lb_1r_01" />
+						Mio caro
+						<rs type="person">Amico</rs>
+					</s>
+				</salute>
+				<space quantity="4" unit="line" /> <!-- prossemica -->
+				<ab n="ab_02" rend="first_line_indented" type="parag">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.8_line_1r_02" n="2" xml:id="LL1.8_lb_1r_02" />
+						Tanto vi son tenuto, perché vi <w>sie
+							<lb break="no" facs="#LL1.8_line_1r_03" n="3" rend="double-stroke" xml:id="LL1.8_lb_1r_03" />
+							te</w> incommodato a darmi
+						<choice>
+							<abbr>vre<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>re</expan>
+						</choice> nuove, come
+						<lb facs="#LL1.8_line_1r_04" n="4" xml:id="LL1.8_lb_1r_04" />
+						anche pel subito ricapito che
+					</s>
+				</ab>
+				<ab n="ab_03" rend="first_line_indented" type="parag">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.8_line_1r_05" n="5" xml:id="LL1.8_lb_1r_05" />
+						<subst>
+							<del rend="strikethrough">Tanto vi son tenuto </del>
+							<add place="above">Vi sono assai obblig</add>
+						</subst> per la
+						<choice>
+							<abbr>vra<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ra</expan>
+						</choice> gentilissima
+						<lb facs="#LL1.8_line_1r_06" n="6" xml:id="LL1.8_lb_1r_06" />
+						letterina tanto da me desiderata
+						<del rend="strikethrough" resp="#LM">qui</del> come prova che voi
+						<lb facs="#LL1.8_line_1r_07" n="7" xml:id="LL1.8_lb_1r_07" />
+						<subst>
+							<del instant="true" rend="strikethrough">vi ricordaste di me ancora </del>
+							<add place="inline">non mi dimenticaste.</add>
+						</subst>
+					</s>
+					<s n="s_04" type="sentence">
+						I miei
+						<lb facs="#LL1.8_line_1r_08" n="8" xml:id="LL1.8_lb_1r_08" />
+						parenti mi scrissero da
+						<placeName ref="TEI-ListPlace.xml#CT">Catania</placeName>
+						<subst>
+							<del instant="true" rend="strikethrough">che hanno da</del>
+							<lb facs="#LL1.8_line_1r_09" n="9" xml:id="LL1.8_lb_1r_09" />
+							<del instant="true" rend="strikethrough">voi </del>
+							<add place="inline">che han ricevuto
+							</add>
+						</subst> i ritratti, che vi pregai di
+						<lb facs="#LL1.8_line_1r_10" n="10" xml:id="LL1.8_lb_1r_10" />
+						recapitargli e ve ne sono tenuto per la premura
+						<lb facs="#LL1.8_line_1r_11" n="11" xml:id="LL1.8_lb_1r_11" />
+						vostra.
+					</s>
+					<s n="s_05" type="sentence">
+						La mia salute è sana, e di già
+						<subst>
+							<del instant="true" rend="strikethrough">ho</del>
+							<lb facs="#LL1.8_line_1r_12" n="12" xml:id="LL1.8_lb_1r_12" />
+							<del instant="true" rend="strikethrough">intrapreso la nuova fattiga, </del>
+							<add place="inline">sono applicato</add>
+								<pb facs="#LL1.8_folio_1v" n="2" xml:id="LL1.8_fol_1v" />
+								<lb facs="#LL1.8_line_1v_01" n="1" xml:id="LL1.8_lb_1v_01" />
+								<add place="inline">alla nuova
+								<rs ref="TEI-ListWork.xml#Norma" resp="#EC" type="work">
+									<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term>
+								</rs>
+							</add>
+						</subst> che deve darsi alla
+						<orgName ref="TEI-ListOrganization.xml#Scala" type="theatre">Scala</orgName>
+						<lb facs="#LL1.8_line_1v_02" n="2" xml:id="LL1.8_lb_1v_02" />
+						pel <date when="1831-12-26">26<am>:</am> di Decembre prossimo: </date>
+					</s>
+					<s n="s_06" type="sentence">
+						<subst>
+							<del instant="true" rend="strikethrough">essa porta</del>
+							<lb facs="#LL1.8_line_1v_03" n="3" xml:id="LL1.8_lb_1v_03" />
+							<del instant="true" rend="strikethrough">per ti è la poesia </del>
+							<add place="inline"><space />Il soggetto è</add>
+						</subst><space /><rs ref="TEI-ListWork.xml#Norma_tragedia" rend="underline" resp="#EC" type="work">Norma</rs>
+						<lb facs="#LL1.8_line_1v_04" n="4" xml:id="LL1.8_lb_1v_04" />
+						tragedia di
+						<foreign xml:id="fr">
+							<choice n="abr">
+								<abbr>M<am>:</am><hi rend="sup">r</hi></abbr>
+								<expan>M<ex>onsieu</ex>r</expan>
+							</choice>
+						</foreign>
+						<persName ref="TEI-ListPerson.xml#SoumetAlexandre" role="composer">Soumet:</persName> io la trovo <w>interes
+							<lb break="no" facs="#LL1.8_line_1v_05" n="5" rend="double-stroke" xml:id="LL1.8_lb_1v_05" />
+							sante</w> e se
+						<persName ref="TEI-ListPerson.xml#RomaniFelice" role="librettist">Romani</persName> ne ricaverà una bella
+						<lb facs="#LL1.8_line_1v_06" n="6" xml:id="LL1.8_lb_1v_06" />
+						poesia potrà venire un bel
+						<term ref="TEI-ListTerm.xml#libretto" rend="underline" subtype="music-term">libretto;</term>
+					</s>
+					<s n="s_07" type="sentence">ma
+						<lb facs="#LL1.8_line_1v_07" n="7" xml:id="LL1.8_lb_1v_07" />
+						questa volta temo che la mia vena m'<w>ab
+							<lb break="no" facs="#LL1.8_line_1v_08" n="8" rend="double-stroke" xml:id="LL1.8_lb_1v_08" />
+							bandoni</w> perché la testa è divagata da quel
+						<lb facs="#LL1.8_line_1v_09" n="9" xml:id="LL1.8_lb_1v_09" />
+						maledettissimo
+						<hi rend="underline">Cholera</hi> che minaccia tutta <name xml:id="LL1.8_1v_09_Europa" next="#LL1.8_1v_10_Europa" type="place">Euro</name>
+							<lb break="no" facs="#LL1.8_line_1v_10" n="10" rend="double-stroke" xml:id="LL1.8_lb_1v_10" />
+							<name xml:id="LL1.8_1v_10_Europa" prev="#LL1.8_1v_09_Europa" type="place">pa:</name> basta.
+					</s>
+					<s n="s_08" type="sentence"> Aspettiamone la fine.</s>
+					<s n="s_09" type="sentence">Riceverete
+						<lb facs="#LL1.8_line_1v_11" n="11" xml:id="LL1.8_lb_1v_11" />
+						i miei saluti e
+						<choice>
+							<abbr>cred<am>:</am><hi rend="sup">mi</hi></abbr>
+							<expan>cred<ex>ete</ex>mi</expan>
+						</choice> a tutte prove
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<salute n="ab_05">
+					<s n="s_10" type="sentence">
+						<lb facs="#LL1.8_line_1v_12" n="12" xml:id="LL1.8_lb_1v_12" />
+						<hi rend="align(right)">
+							<rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer" type="person">Vostro</rs>
+						</hi>
+					</s>
+				</salute>
+			</div>
+			<pb facs="#LL1.8_folio_2r" n="3" xml:id="LL1.8_fol_2r" />
+			<pb facs="#LL1.8_folio_2v" n="4" xml:id="LL1.8_fol_2v" />
+			<div type="paratext">
+				<ab facs="#LL1.8_hotspot_2v_01" hand="#h1" subtype="addition" type="paratext">
+					<!--Annotazione Codice 1-->
+					<fw type="catalogNum">
+						<idno type="oldCat">N 102</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.8_hotspot_2v_02" hand="#h2" subtype="addition" type="paratext">
+					<fw type="catalogNum">
+						<idno type="oldCat">(14)</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="bibliography">
+					<listBibl xml:id="LL1_8_bibliography">
+
+						<head>Bibliografia della lettera LL1.8</head>
+						<bibl xml:id="LL1_8_Amore">
+							<ref target="TEI-ListBibl.xml#Amore1892">
+								<bibl>
+									<author>Amore</author>
+									<date when="1894">1892</date>
+									<citedRange from="308" to="309" unit="page">308-309</citedRange>
+									<note>Incompleta</note>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_8_Cambi">
+							<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+								<bibl>
+									<author>Cambi</author>
+									<date when="1943">1943</date>
+									<citedRange from="279" to="280" unit="page">279-280</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_8_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="191" to="192" unit="page">191-192</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

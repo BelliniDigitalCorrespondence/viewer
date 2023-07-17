@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Francesco Saverio Del Carretto, in Puteaux, [agosto 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-07" instant="false">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Stefano Moscatelli</name>
+					<name full="yes" instant="false">Stefano Elisei</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_34.I.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="501" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="580" to="580" unit="page">580</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.34.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 1, III (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.34.I"><idno type="inventory">LL1.34.I</idno><title>Vincenzo Bellini a Francesco Saverio Del Carretto, in Puteaux, [agosto 1835]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="501"><locus from="580" to="580">n. 501, p. 580.</locus></citedRange></bibl><bibl>Amore, 1892, p. 351. </bibl><bibl>Neri, 2005, p. 438-439. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						
+							Eccellenza
+						
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						
+						Riceva
+						Eccellenza
+						le proteste della mia altaconsiderazio
+							
+							ne
+						
+							ed abb 
+							e mi ricordi
+						
+						all'amabile
+						 Signora 
+						Marchesa,
+						e la
+						
+						gentile
+						
+							sua figlia
+						
+						
+					
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Put">Puteaux, Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-08" instant="false">Agosto 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#DelCarrettoFrancescoSaverio">Francesco Saverio Del Carretto</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.34.I_facsimile">
+		<surface n="LL1.34.I.1" xml:id="LL1.34.I_folio_1r" corresp="#LL1.34.I_fol_1r"><graphic url="data/test-img/LL1.34.I/LL1-34-I_0001.dzi" width="3200px" height="2664px"/><zone ulx="166.06" uly="25.98" lrx="678.26" lry="568.68" rendition="" xml:id="LL1.34.I_box_1r_01"/><zone ulx="588.57" uly="13.78" lrx="714.64" lry="499.32" rendition="" xml:id="LL1.34.I_box_1r_02"/><zone ulx="11.30" uly="338.91" lrx="186.40" lry="469.95" rendition="" xml:id="LL1.34.I_box_1r_03"/><zone ulx="30.50" uly="480.57" lrx="65.52" lry="524.63" rendition="" xml:id="LL1.34.I_box_1r_04"/><zone ulx="211.25" uly="25.98" lrx="551.29" lry="59.87" rendition="line" xml:id="LL1.34.I_line_1r_01"/><zone ulx="211.25" uly="87.89" lrx="551.29" lry="122.91" rendition="line" xml:id="LL1.34.I_line_1r_02"/><zone ulx="211.25" uly="115.00" lrx="551.29" lry="143.92" rendition="line" xml:id="LL1.34.I_line_1r_03"/><zone ulx="211.25" uly="137.14" lrx="551.29" lry="165.61" rendition="line" xml:id="LL1.34.I_line_1r_04"/><zone ulx="211.25" uly="158.38" lrx="551.29" lry="190.01" rendition="line" xml:id="LL1.34.I_line_1r_05"/><zone ulx="211.25" uly="178.26" lrx="551.29" lry="208.09" rendition="line" xml:id="LL1.34.I_line_1r_06"/><zone ulx="211.25" uly="200.86" lrx="551.29" lry="229.78" rendition="line" xml:id="LL1.34.I_line_1r_07"/><zone ulx="211.25" uly="225.71" lrx="551.29" lry="255.54" rendition="line" xml:id="LL1.34.I_line_1r_08"/><zone ulx="211.25" uly="253.28" lrx="551.29" lry="280.84" rendition="line" xml:id="LL1.34.I_line_1r_09"/><zone ulx="211.25" uly="277.23" lrx="551.29" lry="295.30" rendition="line" xml:id="LL1.34.I_line_1r_10"/><zone ulx="211.25" uly="300.72" lrx="551.29" lry="321.96" rendition="line" xml:id="LL1.34.I_line_1r_11"/><zone ulx="211.25" uly="320.61" lrx="551.29" lry="338.23" rendition="line" xml:id="LL1.34.I_line_1r_12"/><zone ulx="211.25" uly="345.01" lrx="551.29" lry="365.34" rendition="line" xml:id="LL1.34.I_line_1r_13"/><zone ulx="211.25" uly="360.82" lrx="551.29" lry="386.13" rendition="line" xml:id="LL1.34.I_line_1r_14"/><zone ulx="211.25" uly="387.48" lrx="551.29" lry="409.17" rendition="line" xml:id="LL1.34.I_line_1r_15"/><zone ulx="211.25" uly="406.91" lrx="551.29" lry="427.25" rendition="line" xml:id="LL1.34.I_line_1r_16"/><zone ulx="211.25" uly="428.60" lrx="551.29" lry="451.20" rendition="line" xml:id="LL1.34.I_line_1r_17"/><zone ulx="211.25" uly="451.65" lrx="551.29" lry="471.08" rendition="line" xml:id="LL1.34.I_line_1r_18"/><zone ulx="166.06" uly="468.37" lrx="551.29" lry="489.15" rendition="line" xml:id="LL1.34.I_line_1r_19"/><zone ulx="192.05" uly="489.15" lrx="551.29" lry="509.04" rendition="line" xml:id="LL1.34.I_line_1r_20"/><zone ulx="192.05" uly="513.10" lrx="620.88" lry="530.73" rendition="line" xml:id="LL1.34.I_line_1r_21"/><zone ulx="192.05" uly="535.70" lrx="551.29" lry="548.80" rendition="line" xml:id="LL1.34.I_line_1r_22"/><zone ulx="192.05" uly="553.55" lrx="678.26" lry="568.68" rendition="line" xml:id="LL1.34.I_line_1r_23"/><zone ulx="588.57" uly="13.78" lrx="618.84" lry="499.32" rendition="line" xml:id="LL1.34.I_line_1r_24"/><zone ulx="623.81" uly="13.78" lrx="644.60" lry="499.32" rendition="line" xml:id="LL1.34.I_line_1r_25"/><zone ulx="640.53" uly="13.78" lrx="661.32" lry="499.32" rendition="line" xml:id="LL1.34.I_line_1r_26"/><zone ulx="649.57" uly="13.78" lrx="684.36" lry="499.32" rendition="line" xml:id="LL1.34.I_line_1r_27"/><zone ulx="674.42" uly="13.78" lrx="700.18" lry="499.32" rendition="line" xml:id="LL1.34.I_line_1r_28"/><zone ulx="696.11" uly="13.78" lrx="714.64" lry="499.32" rendition="line" xml:id="LL1.34.I_line_1r_29"/><zone ulx="11.30" uly="338.91" lrx="186.40" lry="469.95" rendition="HotSpot" xml:id="LL1.34.I_hotspot_1r_01" corresp="#LL1.34.I_hotspot_1r_01h" start="#LL1.34.I_hotspot_1r_01h"/><zone ulx="30.50" uly="480.57" lrx="65.52" lry="524.63" rendition="HotSpot" xml:id="LL1.34.I_hotspot_1r_02" corresp="#LL1.34.I_hotspot_1r_02h" start="#LL1.34.I_hotspot_1r_02h"/></surface>
+		<surface n="LL1.34.I.2" xml:id="LL1.34.I_folio_1v" corresp="#LL1.34.I_fol_1v"><graphic url="data/test-img/LL1.34.I/LL1-34-I_0002.dzi" width="3185px" height="2655px"/><zone ulx="449.01" uly="455.82" lrx="703.02" lry="566.60" rendition="HotSpot" xml:id="LL1.34.I_hotspot_1v_01" corresp="#LL1.34.I_hotspot_1v_01h" start="#LL1.34.I_hotspot_1v_01h"/><zone ulx="15.21" uly="47.67" lrx="45.63" lry="96.25" rendition="HotSpot" xml:id="LL1.34.I_hotspot_1v_02" corresp="#LL1.34.I_hotspot_1v_02h" start="#LL1.34.I_hotspot_1v_02h"/><zone ulx="46.99" uly="14.30" lrx="702.57" lry="601.55" rendition="HotSpot" xml:id="LL1.34.I_hotspot_1v_03" corresp="#LL1.34.I_hotspot_1v_03h" start="#LL1.34.I_hotspot_1v_03h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.34.I" xml:id="LL1.34.I">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Francesco Saverio Del Carretto, in Puteaux, [agosto 1835]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        501  p. 580</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>
+								Si ignora se la minuta sia stata trascritta in bella copia e inviata. La minuta fa parte anche delle Lettere inviate a Vincenzo Bellini: la medesima carta infatti contiene, nel verso, la lettera con segnatura LL1.34.II, il cui testo è ruotato di 90° rispetto a quello della presente minuta.
+							</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.34.I</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>263x217<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Minuta di lettera, composta da un solo folio e scritta su una facciata. La carta è piegata verticalmente in 4 parti, di cui 3 sono utilizzate per la scrittura. Si ipotizza che il senso della piegatura sia verso l'interno del foglio, in quanto la minuta è abbozzata su una lettera preesistente.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Minuta di lettera in buono stato di conservazione. Presenta alcuni strappi sui bordi superiori e segni di usura sul margine inferiore e sul margine destro. È piegata in più parti e si rintracciano piccoli buchi, dovuti forse a bruciature o più probabilmente all'azione del tempo
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura corsiva a mano libera, leggibile. Le ultime righe della minuta sono scritte in senso perpendicolare rispetto alle prime.
+							 
+								Sulla carta 1r vi sono tracce di una
+								scrittura a matita blu, probabilmente appartenente a un catalogatore, riportante il testo "N 97".
+							 
+								Nella carta 1r, a sinistra, è presente una piccola annotazione in inchiostro nero.
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingtseptième
+									significa
+									ventisettesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								Nella carta 1v vi sono tracce di scrittura a matita blu probabilmente appartenente a un catalogatore, che presenta il numero 35 tra parentesi.
+							 
+								Nella carta 1v è presente il testo scritto da Filippo Santocanale a Bellini: la lettera è catalogata come LL1.34.II.
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Puteaux, Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Agosto 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>Francesco Saverio Del Carretto</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.34.I.1r" xml:id="LL1.34.I_fol_1r" facs="data/test-img/LL1.34.I/LL1-34-I_0001.dzi"/>
+			<!-- recto -->
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.34.I_note1"/><note>(Nota Seminara, 2017: p. 580 n. 972)<p part="N">
+							Per questa minuta Bellini utilizzò il
+							<hi rend="italic">verso</hi> di una lettera di Filippo Santocanale, datata 18 luglio 1835 (Lettera 481).
+						</p></note>
+						<lb facs="#LL1.34.I_line_1r_01" n="1" xml:id="LL1.34.I_lb_1r_01"/>
+						<hi rend="align(center)">
+							<persName ref="#DelCarrettoFrancescoSaverio" type="person">Eccellenza</persName>
+						</hi>
+					</s>
+				</salute>
+				<lb rend="4-line"/> <!-- prossemica -->
+				<ab n="ab_02" type="parag" part="N">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.34.I_line_1r_02" n="2" xml:id="LL1.34.I_lb_1r_02"/>
+						La bontà con la quale si degnò<w part="N">
+							ricever
+							<lb break="no" facs="#LL1.34.I_line_1r_03" n="3" xml:id="LL1.34.I_lb_1r_03"/>
+							mi</w>
+						l'ultima volta che io fui in
+						<placeName ref="#NA">Napoli</placeName>
+						<lb facs="#LL1.34.I_line_1r_04" n="4" xml:id="LL1.34.I_lb_1r_04"/>
+						mi dà <w resp="#LM" part="N">il</w> coragio di pregarla acciò si voglia
+						<lb facs="#LL1.34.I_line_1r_05" n="5" xml:id="LL1.34.I_lb_1r_05"/>
+						interessarsi in un'affare che mi riguarda.
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.34.I_line_1r_06" n="6" xml:id="LL1.34.I_lb_1r_06"/>
+						In Italia si fà una
+						<hi rend="underline">Pirateria</hi> di tutto ciò che
+						<lb facs="#LL1.34.I_line_1r_07" n="7" xml:id="LL1.34.I_lb_1r_07"/>
+						dovrebbe essere più rispettato e
+						<subst instant="false" status="unremarkable">
+							<del instant="false" status="unremarkable">
+								[+++]
+							</del>
+							<add place="above" instant="false" status="unremarkable">sostenuto</add>
+						</subst>
+						dalle
+						<lb facs="#LL1.34.I_line_1r_08" n="8" xml:id="LL1.34.I_lb_1r_08"/>
+						leggi come lo è in Francia ed in Inghilterra
+						<lb facs="#LL1.34.I_line_1r_09" n="9" xml:id="LL1.34.I_lb_1r_09"/>
+						voglio dire,
+						<hi rend="underline">della proprietà d'Autore</hi>.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						Come
+						<lb facs="#LL1.34.I_line_1r_10" n="10" xml:id="LL1.34.I_lb_1r_10"/>
+						<persName ref="#DelCarrettoFrancescoSaverio" type="person">Ella</persName>
+						sà, ho scritto per
+						<placeName ref="#Paris">Parigi</placeName>
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">
+							i
+							<hi rend="underline italic">Puritani</hi>:
+						</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						<del rend="strikethrough" instant="false" status="unremarkable">questi si</del>
+						<lb facs="#LL1.34.I_line_1r_11" n="11" xml:id="LL1.34.I_lb_1r_11"/>
+						<del rend="strikethrough" instant="false" status="unremarkable">sono st</del>
+						di quest'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						si son stampati,
+						<hi rend="underline">per solo</hi>
+						<lb facs="#LL1.34.I_line_1r_12" n="12" xml:id="LL1.34.I_lb_1r_12"/>
+						<hi rend="underline">canto</hi> diversi pezzi; ma la grande
+						<term ref="TEI-ListTerm.xml#partitura" subtype="music-term">partizione</term><note type="comment" n="T"><seg>
+                [PARTITURA]
+            </seg><gloss xml:lang="it" target="#partitura" type="translation" resp="#PPS" source="https://doi.org/10.1093/gmo/9781561592630.article.25241">
+							L'atto di tracciare linee verticali attraverso uno o più righi musicali per formare battute era originariamente descritto, in latino, come <hi rend="italic">partire</hi> o <hi rend="italic">cancellare,</hi> da cui derivava il termine <hi rend="italic">partitura cancellata</hi> (abbreviato <hi rend="italic">partitura</hi>), divisa cioè in compartimenti (cancelli). Il sostantivo "partitura" significa: (a) una forma di musica manoscritta o stampata in cui i pentagrammi, collegati da stanghette, sono scritti uno sopra l'altro, in modo da rappresentare visivamente la coordinazione musicale; (b) una pagina, volume, fascicolo o altro manufatto contenente una copia completa di un'opera musicale; e (c) per estensione, un brano musicale scritto abitualmente "in partitura".
+						</gloss><seg>
+                (https://doi.org/10.1093/gmo/9781561592630.article.25241)
+            </seg></note>
+						<lb facs="#LL1.34.I_line_1r_13" n="13" xml:id="LL1.34.I_lb_1r_13"/>
+						con lo strumentale è restata inedita; quindi
+						<lb facs="#LL1.34.I_line_1r_14" n="14" xml:id="LL1.34.I_lb_1r_14"/>
+						di mia proprietà: ora con mia meraviglia sento
+						<lb facs="#LL1.34.I_line_1r_15" n="15" xml:id="LL1.34.I_lb_1r_15"/>
+						che la
+						<orgName ref="#Soc_teatri_NA">Società dei teatri di Napoli</orgName>
+						andrà
+						<lb facs="#LL1.34.I_line_1r_16" n="16" xml:id="LL1.34.I_lb_1r_16"/>
+						a dare
+						<rs ref="TEI-ListWork.xml#Puritani" type="work">
+							<hi rend="underline">i Puritani</hi></rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						<del rend="dotted" instant="false" status="unremarkable">[...]</del>
+						senza averla da me
+						<lb facs="#LL1.34.I_line_1r_17" n="17" xml:id="LL1.34.I_lb_1r_17"/>
+						avuto.
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">
+								I feudi d'<choice resp="#DS #LM"><orig>un'</orig><reg instant="false">un</reg></choice>autore,
+								<persName ref="#DelCarrettoFrancescoSaverio" type="person">Eccellenza,</persName>
+							</del>
+							<add place="supralinear" instant="false" status="unremarkable">La proprietà di terra</add>
+						</subst>
+						non
+						<lb facs="#LL1.34.I_line_1r_18" n="18" xml:id="LL1.34.I_lb_1r_18"/>
+						sono che il parto del suo ingegno:
+						<subst instant="false" status="unremarkable">
+							<del instant="true" rend="strikethrough" status="unremarkable">e se la</del>
+							<lb facs="#LL1.34.I_line_1r_19" n="19" xml:id="LL1.34.I_lb_1r_19"/>
+							<del instant="true" rend="strikethrough" status="unremarkable">
+							<add place="margin" instant="false" status="unremarkable">
+								[+++]
+							</add>
+							<add place="supralinear" instant="false" status="unremarkable"> d'un</add>
+							terra</del>
+							<add place="inline" instant="false" status="unremarkable"> e se la proprietà</add>
+						</subst>
+						dei primi è sacra
+						<lb facs="#LL1.34.I_line_1r_20" n="20" xml:id="LL1.34.I_lb_1r_20"/>
+						quella del secondo lo debba essere del pari.
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						<lb facs="#LL1.34.I_line_1r_21" n="21" xml:id="LL1.34.I_lb_1r_21"/>
+						perciò io mi rivolgo alla severa
+						<subst instant="false" status="unremarkable">
+							<add place="supralinear" instant="false" status="unremarkable">
+								giustizia di
+								<choice><abbr><rs ref="#DelCarrettoFrancescoSaverio">V<am instant="false">.</am> E<am instant="false">.</am></rs></abbr><expan instant="false">V<ex instant="false">ostra</ex> E<ex instant="false">ccellenza</ex></expan></choice>
+							</add>
+							<del rend="strikethrough" instant="false" status="unremarkable">e giusto</del>
+							<lb facs="#LL1.34.I_line_1r_22" n="22" xml:id="LL1.34.I_lb_1r_22"/>
+							<del rend="strikethrough" instant="false" status="unremarkable">raziocinio di
+								<persName ref="#DelCarrettoFrancescoSaverio" type="person">
+									<choice><abbr>V<am instant="false">.</am> E<am instant="false">.</am></abbr><expan instant="false">V<ex instant="false">ostra</ex> E<ex instant="false">ccellenza</ex></expan></choice>
+								</persName>
+								che mi sembrò scorgerlo
+							</del>
+							<lb facs="#LL1.34.I_line_1r_23" n="23" xml:id="LL1.34.I_lb_1r_23"/>
+							<del rend="strikethrough" instant="false" status="unremarkable">in quanti discorsi ebbi io l'onore d'ascoltare delle
+							</del>
+						</subst>
+						<lb facs="#LL1.34.I_line_1r_24" n="24" xml:id="LL1.34.I_lb_1r_24"/>
+						<ptr target="#LL1.34.I_note2"/><note>(Nota Seminara, 2017: p. 580 n. 973)<p part="N">Di qui Bellini prosegue scrivendo trasversalmente nel margine destro della facciata.</p></note> e pregarla acciò facci
+						<add place="supralinear" instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">alla Sua</del>
+							+++
+						</add>
+						impedire
+						<add place="supralinear" instant="false" status="unremarkable">
+							+++
+						</add>
+						di far uso di una
+						<term ref="TEI-ListTerm.xml#partitura" subtype="music-term"><w part="N">
+								par<supplied instant="false">tizio</supplied>
+								<lb break="no" facs="#LL1.34.I_line_1r_25" n="25" xml:id="LL1.34.I_lb_1r_25"/>
+								ne</w>
+						</term><note type="comment" n="T"><seg>
+                [PARTITURA]
+            </seg><gloss xml:lang="it" target="#partitura" type="translation" resp="#PPS" source="https://doi.org/10.1093/gmo/9781561592630.article.25241">
+							L'atto di tracciare linee verticali attraverso uno o più righi musicali per formare battute era originariamente descritto, in latino, come <hi rend="italic">partire</hi> o <hi rend="italic">cancellare,</hi> da cui derivava il termine <hi rend="italic">partitura cancellata</hi> (abbreviato <hi rend="italic">partitura</hi>), divisa cioè in compartimenti (cancelli). Il sostantivo "partitura" significa: (a) una forma di musica manoscritta o stampata in cui i pentagrammi, collegati da stanghette, sono scritti uno sopra l'altro, in modo da rappresentare visivamente la coordinazione musicale; (b) una pagina, volume, fascicolo o altro manufatto contenente una copia completa di un'opera musicale; e (c) per estensione, un brano musicale scritto abitualmente "in partitura".
+						</gloss><seg>
+                (https://doi.org/10.1093/gmo/9781561592630.article.25241)
+            </seg></note>
+						contraffatta o non
+						<subst instant="false" status="unremarkable">
+							<del instant="true" rend="strikethrough" status="unremarkable">ricevuta </del>
+							<add place="above" instant="false" status="unremarkable">da me</add>
+						</subst>
+						avuta.
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						<lb facs="#LL1.34.I_line_1r_26" n="26" xml:id="LL1.34.I_lb_1r_26"/>
+						<del rend="strikethrough" instant="false" status="unremarkable">
+							La
+							<persName ref="#DelCarrettoFrancescoSaverio" type="person">
+								<choice><abbr>V<am instant="false">.</am> E<am instant="false">.</am></abbr><expan instant="false">V<ex instant="false">ostra</ex> E<ex instant="false">ccellenza</ex></expan></choice>
+							</persName>
+							potrà
+						</del>
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_03" part="N">
+					<s n="s_08" type="sentence" part="N">
+						<lb facs="#LL1.34.I_line_1r_27" n="27" xml:id="LL1.34.I_lb_1r_27"/>
+						Riceva
+						<persName ref="#DelCarrettoFrancescoSaverio" type="person">Eccellenza</persName>
+						le proteste della mia alta <w part="N">considerazio
+							<lb break="no" facs="#LL1.34.I_line_1r_28" n="28" xml:id="LL1.34.I_lb_1r_28"/>
+							ne</w>
+						<subst instant="false" status="unremarkable">
+							<del instant="true" rend="strikethrough" status="unremarkable">ed abb </del>
+							<add place="inline" instant="false" status="unremarkable">e mi ricordi</add>
+						</subst>
+						all'amabile
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<persName type="person">Marchesa,</persName>
+						e la
+						<lb facs="#LL1.34.I_line_1r_29" n="29" xml:id="LL1.34.I_lb_1r_29"/>
+						<supplied cert="high" instant="false">g</supplied>entile
+						<persName type="person">
+							sua fi<supplied cert="high" instant="false">gl</supplied>ia
+						</persName>
+						<ptr target="#LL1.34.I_note3"/><note resp="#GS" xml:id="LL1.34.I_note3" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.34.I_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.34.I_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 97</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.34.I_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.34.I_hs_1r_02" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.34.I.1v" xml:id="LL1.34.I_fol_1v" facs="data/test-img/LL1.34.I/LL1-34-I_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.34.I_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.34.I_hs_1v_01" part="N">
+					<fw>
+						<unclear instant="false">
+							vingtseptième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.34.I_hotspot_1v_02" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.34.I_hs_1v_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(35)</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.34.I_hotspot_1r_01h" facs="#LL1.34.I_hotspot_1r_01"><p>scrittura a matita blu, probabilmente appartenente a un catalogatore, riportante il testo "N 97"</p></div><div xml:id="LL1.34.I_hotspot_1r_02h" facs="#LL1.34.I_hotspot_1r_02"><p>piccola annotazione in inchiostro nero</p></div><div xml:id="LL1.34.I_hotspot_1v_01h" facs="#LL1.34.I_hotspot_1v_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingtseptième
+									significa
+									ventisettesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.34.I_hotspot_1v_02h" facs="#LL1.34.I_hotspot_1v_02"><p>scrittura a matita blu probabilmente appartenente a un catalogatore, che presenta il numero 35 tra parentesi</p></div><div xml:id="LL1.34.I_hotspot_1v_03h" facs="#LL1.34.I_hotspot_1v_03"><p>
+								Nella carta 1v è presente il testo scritto da Filippo Santocanale a Bellini: la lettera è catalogata come LL1.34.II.
+							</p></div></div></back>
+	</text>
+</TEI>

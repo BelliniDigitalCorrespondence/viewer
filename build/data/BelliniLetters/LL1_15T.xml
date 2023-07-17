@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Sophia Johnstone, duchessa di Cannizzaro, in Parigi, 30 aprile 1834</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-06" instant="false">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Irene Pisani</name>
+					<name full="yes" instant="false">Alice Bergonzini</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_15.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="279" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="343" to="343" unit="page">343</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.15</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.15"><idno type="inventory">LL1.15</idno><title>Vincenzo Bellini a Sophia Johnstone, duchessa di Cannizzaro, in Parigi, 30 aprile 1834</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="279"><locus from="343" to="343">n. 279, p. 343.</locus></citedRange></bibl><bibl>Cambi, 1943, p. 397-398. </bibl><bibl>Neri, 2005, p. 286. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							Parigi
+							30: Aprile</incipit><explicit><fw>Explicit </fw>
+				
+					
+						
+						Aggradite le assicurazioni della
+						
+						mia stima e considerazione e
+						 credetemi 
+						
+						sempre
+					
+				
+
+				
+					
+						
+						
+							 Vostro 
+							 affezionatissimo 
+						
+						
+					
+				
+				
+					Bellini
+				
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date when="1834-04-30" instant="false"><date type="writing" instant="false">30 aprile</date> <date cert="high" resp="#GS" instant="false">1834</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#JohnstonePlatamoneSophia">Sophia Johnstone</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.15_facsimile">
+		<surface n="LL1.15.1" xml:id="LL1.15_folio_1r" corresp="#LL1.15_fol_1r"><graphic url="data/test-img/LL1.15/LL1-15_0001.dzi" width="1770px" height="2479px"/><zone ulx="394.18" uly="44.52" lrx="692.77" lry="99.26" rendition="line" xml:id="LL1.15_line_1r_01"/><zone ulx="189.53" uly="112.74" lrx="699.72" lry="162.57" rendition="line" xml:id="LL1.15_line_1r_02"/><zone ulx="121.73" uly="160.94" lrx="704.21" lry="200.56" rendition="line" xml:id="LL1.15_line_1r_03"/><zone ulx="121.73" uly="203.01" lrx="700.53" lry="233.65" rendition="line" xml:id="LL1.15_line_1r_04"/><zone ulx="121.73" uly="240.18" lrx="703.80" lry="280.62" rendition="line" xml:id="LL1.15_line_1r_05"/><zone ulx="121.73" uly="282.26" lrx="528.97" lry="306.76" rendition="line" xml:id="LL1.15_line_1r_06"/><zone ulx="185.04" uly="315.34" lrx="702.17" lry="352.11" rendition="line" xml:id="LL1.15_line_1r_07"/><zone ulx="121.73" uly="356.60" lrx="697.27" lry="398.26" rendition="line" xml:id="LL1.15_line_1r_08"/><zone ulx="121.73" uly="400.31" lrx="698.90" lry="431.76" rendition="line" xml:id="LL1.15_line_1r_09"/><zone ulx="121.73" uly="437.48" lrx="696.45" lry="464.44" rendition="line" xml:id="LL1.15_line_1r_10"/><zone ulx="121.73" uly="468.93" lrx="702.98" lry="508.14" rendition="line" xml:id="LL1.15_line_1r_11"/><zone ulx="121.73" uly="513.04" lrx="698.08" lry="544.91" rendition="line" xml:id="LL1.15_line_1r_12"/><zone ulx="121.73" uly="551.03" lrx="704.21" lry="584.94" rendition="line" xml:id="LL1.15_line_1r_13"/><zone ulx="121.73" uly="587.79" lrx="702.98" lry="626.19" rendition="line" xml:id="LL1.15_line_1r_14"/><zone ulx="121.73" uly="629.05" lrx="672.76" lry="662.14" rendition="line" xml:id="LL1.15_line_1r_15"/><zone ulx="121.73" uly="667.45" lrx="682.56" lry="704.62" rendition="line" xml:id="LL1.15_line_1r_16"/><zone ulx="121.73" uly="710.34" lrx="701.76" lry="736.89" rendition="line" xml:id="LL1.15_line_1r_17"/><zone ulx="121.73" uly="741.79" lrx="705.03" lry="782.23" rendition="line" xml:id="LL1.15_line_1r_18"/><zone ulx="121.73" uly="785.91" lrx="687.87" lry="821.03" rendition="line" xml:id="LL1.15_line_1r_19"/><zone ulx="121.73" uly="825.12" lrx="703.80" lry="866.37" rendition="line" xml:id="LL1.15_line_1r_20"/><zone ulx="121.73" uly="867.60" lrx="699.72" lry="902.73" rendition="line" xml:id="LL1.15_line_1r_21"/><zone ulx="121.73" uly="905.18" lrx="665.81" lry="935.00" rendition="line" xml:id="LL1.15_line_1r_22"/><zone ulx="121.73" uly="938.67" lrx="700.13" lry="974.21" rendition="line" xml:id="LL1.15_line_1r_23"/></surface>
+		<surface n="LL1.15.2" xml:id="LL1.15_folio_1v" corresp="#LL1.15_fol_1v"><graphic url="data/test-img/LL1.15/LL1-15_0002.dzi" width="1770px" height="2479px"/><zone ulx="51.06" uly="122.95" lrx="651.93" lry="175.24" rendition="line" xml:id="LL1.15_line_1v_01"/><zone ulx="51.06" uly="166.25" lrx="653.56" lry="217.72" rendition="line" xml:id="LL1.15_line_1v_02"/><zone ulx="78.02" uly="220.17" lrx="624.15" lry="290.83" rendition="line" xml:id="LL1.15_line_1v_03"/><zone ulx="51.06" uly="272.86" lrx="629.05" lry="345.16" rendition="line" xml:id="LL1.15_line_1v_04"/><zone ulx="51.06" uly="333.72" lrx="643.76" lry="387.23" rendition="line" xml:id="LL1.15_line_1v_05"/><zone ulx="51.06" uly="390.09" lrx="616.39" lry="452.59" rendition="line" xml:id="LL1.15_line_1v_06"/><zone ulx="51.06" uly="430.94" lrx="657.24" lry="511.00" rendition="line" xml:id="LL1.15_line_1v_07"/><zone ulx="51.06" uly="496.71" lrx="665.41" lry="561.24" rendition="line" xml:id="LL1.15_line_1v_08"/><zone ulx="51.06" uly="552.26" lrx="656.42" lry="608.22" rendition="line" xml:id="LL1.15_line_1v_09"/><zone ulx="51.06" uly="601.27" lrx="633.95" lry="658.87" rendition="line" xml:id="LL1.15_line_1v_10"/><zone ulx="107.43" uly="653.56" lrx="655.60" lry="716.06" rendition="line" xml:id="LL1.15_line_1v_11"/><zone ulx="51.06" uly="714.42" lrx="652.33" lry="771.61" rendition="line" xml:id="LL1.15_line_1v_12"/><zone ulx="109.06" uly="758.13" lrx="658.46" lry="829.20" rendition="line" xml:id="LL1.15_line_1v_13"/><zone ulx="122.54" uly="807.55" lrx="658.05" lry="883.12" rendition="line" xml:id="LL1.15_line_1v_14"/><zone ulx="184.22" uly="865.15" lrx="334.54" lry="917.03" rendition="line" xml:id="LL1.15_line_1v_15"/><zone ulx="381.11" uly="863.11" lrx="580.44" lry="937.86" rendition="line" xml:id="LL1.15_line_1v_16"/><zone ulx="412.97" uly="912.12" lrx="630.28" lry="993.41" rendition="line" xml:id="LL1.15_line_1v_17"/></surface>
+	</facsimile>
+	<!-- testo della lettera -->
+	<text type="minuta_di_lettera" n="1.15" xml:id="LL1.15">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Sophia Johnstone, duchessa di Cannizzaro, in Parigi, 30 aprile 1834</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        279  p. 343</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>L'anno di redazione della minuta di lettera è stato attribuito da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.15</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile ingiallita, inchiostro sbiadito e tendente al marrone.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>204x140<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti né timbri né francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La minuta di lettera è da un foglio compilato da entrambi i lati e presenta più piegature.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									La lettera è in buone condizione fisiche. Il foglio presenta delle piegature: una, verticale, nel mezzo del foglio; un'altra, orizzontale, sull'estremità superiore e un'ultima obliqua sull'estremità inferiore. L'angolo in alto (a destra sulla carta 1r) risulta essere leggermente danneggiato. Da entrambi i lati del foglio è possibile intravedere il testo presente sulla facciata opposta. Guardando la carta 1r della lettera il lato sinistro presenta una striscia ingiallita (la stessa, dalla carta 1v, appare più chiara). La presenza di questa sorta di rilegatura lascia intuire che il foglio possa essere stato estratto da un quaderno.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura in corsivo a mano libera abbastanza leggibile.
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[30 aprile1834]</p><p><fw> 
+                            Destinatario
+                        </fw>Sophia Johnstone</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<!-- fronte del folio -->
+			<pb n="LL1.15.1r" xml:id="LL1.15_fol_1r" facs="data/test-img/LL1.15/LL1-15_0001.dzi"/>
+			<!-- apertura, formula introduttiva -->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.15_line_1r_01" n="1" xml:id="LL1.15_lb_1r_01"/>
+						<hi rend="align(right)">
+							<placeName ref="#Paris">Parigi</placeName>
+							<date when="04-30" instant="false">30<am instant="false">:</am> Aprile</date></hi></s>
+				</dateline>
+			</div>
+			<!-- inizio corpo del testo -->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_02" rend="first_line_indented" type="paragraph" part="N">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.15_line_1r_02" n="2" xml:id="LL1.15_lb_1r_02"/>
+						Ecco mia cara
+						<persName ref="#JohnstonePlatamoneSophia" type="person">Duchessa</persName> che vi ho
+						<lb facs="#LL1.15_line_1r_03" n="3" xml:id="LL1.15_lb_1r_03"/>
+						obbedito subito subito —
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						V'acchiudo l'<term ref="TEI-ListTerm.xml#arietta" subtype="music-term"><w lemma="arietta" part="N">ariet
+								<lb break="no" facs="#LL1.15_line_1r_04" n="4" rend="double-stroke" xml:id="LL1.15_lb_1r_04"/>
+								ta</w></term><note type="comment" n="T"><seg>
+                [ARIETTA]
+            </seg><gloss xml:lang="it" target="#arietta" source="TEI-ListBibl.xml#DellaSeta2010">
+							Termine usato nei sec. XVII-XVIII, prevalentemente in ambito letterario, per designare le <term subtype="music-term" ref="#aria">arie,</term> con particolare riferimento al loro testo poetico nei <term subtype="music-term" ref="#libretto">libretti.</term> Dalla metà del Settecento fu usato anche per indicare un'aria di brevi dimensioni.
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> già
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">scritta </del>
+							<add place="above" instant="false" status="unremarkable">composta</add>
+						</subst> sù la poesia che mi avete
+						<lb facs="#LL1.15_line_1r_05" n="5" xml:id="LL1.15_lb_1r_05"/>
+						trascritto.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						È di
+						<choice><abbr>vra<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ra</expan></choice> privativa da <w lemma="conservarsi" part="N">conservar
+							<lb break="no" facs="#LL1.15_line_1r_06" n="6" rend="double-stroke" xml:id="LL1.15_lb_1r_06"/>
+							si</w> nel
+						<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice> Album particolare.
+						<ptr target="#LL1.15_note1"/><note>(Nota Seminara, 2017: p. 343 n. 574)<p part="N">
+							A Sophia Johnstone, duchessa di Cannizzaro, Bellini dedicò l'arietta «Odia la pastorella», che reca la stessa data di questa lettera; dalla missiva si evince che il testo, desunto da un libretto di Metastasio (<hi rend="italic">Issipile</hi>, atto III, scena 6), fu suggerito dalla stessa dedicataria.
+						</p></note>
+					</s>
+				</ab>
+				<ab n="ab_03" rend="first_line_indented" type="paragraph" part="N">
+					<s n="s_04" type="sentence" part="N">
+						<hi rend="align(right)">
+							<lb facs="#LL1.15_line_1r_07" n="7" xml:id="LL1.15_lb_1r_07"/>
+							Vi son tenuto dall'interesse che sempre</hi>
+							<lb facs="#LL1.15_line_1r_08" n="8" xml:id="LL1.15_lb_1r_08"/>
+						prendete per le mie figlie. —
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Io ho <w lemma="incominciato" part="N">in
+							<lb break="no" facs="#LL1.15_line_1r_09" n="9" rend="double-stroke" xml:id="LL1.15_lb_1r_09"/>
+							cominciato</w> a generarne una nuova e
+						<lb facs="#LL1.15_line_1r_10" n="10" xml:id="LL1.15_lb_1r_10"/>
+						spero che non sarà indegna delle sue
+						<lb facs="#LL1.15_line_1r_11" n="11" xml:id="LL1.15_lb_1r_11"/>
+						sorelle. —
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						Ho inteso che la nostra <w lemma="bravissima" part="N">bravis
+							<lb break="no" facs="#LL1.15_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.15_lb_1r_12"/>
+							sima</w>
+						<persName ref="#NegriPastaGiuditta">Pasta</persName> ha trionfato dei suoi nemici
+						<lb facs="#LL1.15_line_1r_13" n="13" xml:id="LL1.15_lb_1r_13"/>
+						di
+						<placeName ref="#VE">Venezia</placeName> e non potea sortire diversamente.
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						<lb facs="#LL1.15_line_1r_14" n="14" xml:id="LL1.15_lb_1r_14"/>
+						Se la vedete ditele tante cose affettuose
+						<lb facs="#LL1.15_line_1r_15" n="15" xml:id="LL1.15_lb_1r_15"/>
+						da mia parte. —
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						Voi venite o no a
+						<lb facs="#LL1.15_line_1r_16" n="16" xml:id="LL1.15_lb_1r_16"/>
+						<placeName ref="#Paris">Parigi?</placeName>
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						<persName>
+							<unclear reason="illegible" instant="false">R
+								...
+							</unclear>
+						</persName>
+						<ptr target="#LL1.15_note2"/><note>(Nota Seminara, 2017: p. 343 n. 575)<p part="N">
+							È di certo l'iniziale di un cognome, di difficile decifrazione.
+						</p></note> mi dà sempre
+						<choice><abbr>vre<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>re</expan></choice>
+						<lb facs="#LL1.15_line_1r_17" n="17" xml:id="LL1.15_lb_1r_17"/>
+						nuove e mi parlò di una certa
+						<persName>Miss</persName>
+							<lb facs="#LL1.15_line_1r_18" n="18" xml:id="LL1.15_lb_1r_18"/>
+							<persName><hi rend="underline">Waite</hi>,
+						</persName> che
+						<choice resp="#DS #LM"><orig>ne</orig><reg instant="false">né</reg></choice> io
+						<choice resp="#DS #LM"><orig>ne</orig><reg instant="false">né</reg></choice> lui abbiamo l'<w lemma="onore" part="N">ono
+							<lb break="no" facs="#LL1.15_line_1r_19" n="19" rend="double-stroke" xml:id="LL1.15_lb_1r_19"/>
+							re</w> di conoscere. —
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						È passato da qua
+						<lb facs="#LL1.15_line_1r_20" n="20" xml:id="LL1.15_lb_1r_20"/>
+						il
+						<persName ref="#CavendishWilliam" type="person">duca di Devonshire,</persName> e sono stato <w lemma="spesso" part="N">spes
+							<lb break="no" facs="#LL1.15_line_1r_21" n="21" rend="double-stroke" xml:id="LL1.15_lb_1r_21"/>
+							so</w> con lui che l'ho trovato <w lemma="incantato" part="N">incanta
+							<lb break="no" facs="#LL1.15_line_1r_22" n="22" rend="double-stroke" xml:id="LL1.15_lb_1r_22"/>
+							to</w> della mia povera
+						<rs ref="TEI-ListWork.xml#Beatrice_di_Tenda" resp="#EC" type="work">
+							<hi rend="underline">Beatrice</hi>,
+						</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>Beatrice di Tenda<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Felice Romani<label rend="bold"> [Prima rappresentazione]: </label>Teatro La Fenice, Venezia, 16 marzo 1833<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Ispirata a un dramma di Carlo Tebaldi Flores, <hi rend="italic">Beatrice di Tenda</hi> fu messa in scena al Teatro La Fenice il 16 marzo 1833 con Giuditta Pasta nel ruolo della protagonista. La prima rappresentazione dell'opera fu un «sollenne fiasco», come avrebbe riconosciuto lo stesso Bellini in una lettera del successivo 21 marzo al compositore Giuseppe Bornaccini (Ancona, 1802-1881), suo condiscepolo al Collegio di San Sebastiano in Napoli.
+							</p>
+						</note></note> che
+						<lb facs="#LL1.15_line_1r_23" n="23" xml:id="LL1.15_lb_1r_23"/>
+						ha inteso a
+						<placeName ref="#PA">Palermo,</placeName> ove facea gran
+						<!-- secondo foglio -->
+						<pb n="LL1.15.1v" xml:id="LL1.15_fol_1v" facs="data/test-img/LL1.15/LL1-15_0002.dzi"/>
+						<lb facs="#LL1.15_line_1v_01" n="1" xml:id="LL1.15_lb_1v_01"/>
+						piacere; ed ogni sera il <term ref="TEI-ListTerm.xml#quintetto" subtype="music-term">quintetto</term><note type="comment" n="T"><seg>
+                [QUINTETTO]
+            </seg><gloss xml:lang="it" target="#quintetto" type="translation" resp="#PPS" source="https://doi.org/10.1093/gmo/9781561592630.article.22722">Una <term subtype="music-term" ref="#composizione">composizione</term> o parte di una composizione per cinque voci o strumenti, o una formazione che esegue questo tipo di composizione. Le più importanti forme di musica da camera sono il quintetto d'archi (normalmente per un quartetto d'archi di due violini, viola e violoncello con una viola o un violoncello aggiuntivi), il quintetto per pianoforte (solitamente per pianoforte e quartetto d'archi) e il quintetto di fiati (flauto, oboe, clarinetto, fagotto e corno).
+						</gloss><seg>
+                (https://doi.org/10.1093/gmo/9781561592630.article.22722)
+            </seg></note>
+						<ptr target="#LL1.15_note3"/><note resp="#GS" xml:id="LL1.15_note3" anchored="true">
+						<p part="N">
+							Bellini si riferisce al Quintetto «Al tuo fallo ammenda festi» dal secondo atto di
+							<hi rend="italic">Beatrice di Tenda</hi>.
+						</p>
+					</note> del
+						<lb facs="#LL1.15_line_1v_02" n="2" xml:id="LL1.15_lb_1v_02"/>
+						<choice><abbr>2<am instant="false">:</am><hi rend="sup">do</hi></abbr><expan instant="false">secondo</expan></choice>
+						<term ref="TEI-ListTerm.xml#atto" subtype="music-term">atto</term><note type="comment" n="T"><seg>
+                [ATTO]
+            </seg><gloss xml:lang="it" target="#atto" source="TEI-ListBibl.xml#DellaSeta2010">
+							Unità di suddivisione principale di un dramma, di un’<term subtype="music-term" ref="#opera">opera</term> o di un <term subtype="music-term" ref="#balletto">balletto,</term> che può essere ulteriormente suddivisa in <term subtype="music-term">quadri</term> – sezioni di norma caratterizzate da unità di luogo e tempo – e in scene. Implicita nella struttura della tragedia greca, la divisione in atti, di solito cinque separati da intervalli, fu introdotta in epoca romana e fu istituzionalizzata dalle poetiche classicistiche del Cinquecento. [...]Nell’opera italiana si affermarono presto altri modelli: il <term subtype="music-term">dramma per musica</term> tra Sei e Settecento era sempre in tre atti (separati da due <term subtype="music-term">intermezzi</term> e spesso seguiti da un <term subtype="music-term" ref="#balletto">ballo</term>conclusivo), tra Settecento e Ottocento prevalse la divisione in due atti (con un ballo nell’intervallo e un altro in conclusione), nel pieno Ottocento furono adottati modelli che andavano da due a quattro atti, eventualmente preceduti da un <term subtype="music-term">prologo.</term> [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> doveano cantarlo tre volte. —
+					</s>
+				</ab>
+				<ab n="ab_04" type="paragraph" part="N">
+					<s n="s_10" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.15_line_1v_03" n="3" xml:id="LL1.15_lb_1v_03"/>
+						Vi prego
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<persName ref="#JohnstonePlatamoneSophia" type="person">Duchessa</persName> di scrivere
+						<lb facs="#LL1.15_line_1v_04" n="4" xml:id="LL1.15_lb_1v_04"/>
+						al
+						<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice> avvocato a
+						<placeName ref="#London">Londra</placeName> riguardo
+						<lb facs="#LL1.15_line_1v_05" n="5" xml:id="LL1.15_lb_1v_05"/>
+						alla lettera di cambio che ho sopra
+						<lb facs="#LL1.15_line_1v_06" n="6" xml:id="LL1.15_lb_1v_06"/>
+						<choice><abbr>M<am instant="false">:</am><hi rend="sup">r</hi></abbr><expan instant="false">M<ex instant="false">onsieu</ex>r</expan></choice>
+						<persName ref="#LaportePierreFrancois">Laporte,</persName> perchè la presenti
+						<lb facs="#LL1.15_line_1v_07" n="7" xml:id="LL1.15_lb_1v_07"/>
+						a questi nel giorno di sua scadenza.
+					</s>
+					<s n="s_11" type="sentence" part="N">
+						<lb facs="#LL1.15_line_1v_08" n="8" xml:id="LL1.15_lb_1v_08"/>
+						Non <del rend="erasure" instant="false" status="unremarkable">vi</del> dimenticate di farmi questo <w part="N">fa
+						<lb break="no" facs="#LL1.15_line_1v_09" n="9" rend="double-stroke" xml:id="LL1.15_lb_1v_09"/>vore,</w> perchè non abbia <persName ref="#LaportePierreFrancois">Laporte</persName> <w part="N">alcu
+						<lb break="no" facs="#LL1.15_line_1v_10" n="10" rend="double-stroke" xml:id="LL1.15_lb_1v_10"/>na</w> scusa per non pagare. —
+					</s>
+				</ab>
+				<ab n="ab_05" type="paragraph" part="N">
+					<s n="s_12" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.15_line_1v_11" n="11" xml:id="LL1.15_lb_1v_11"/>
+						Ho scritto alla
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<persName ref="#CantuTurinaGiuditta">Giuditta Turina,</persName>
+						<lb facs="#LL1.15_line_1v_12" n="12" xml:id="LL1.15_lb_1v_12"/>
+						perciò non vi prego di miei saluti per essa.
+					</s>
+				</ab>
+			</div>
+			<!-- formula di chiusura-->
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_06" type="paragraph" part="N">
+					<s n="s_13" type="sentence" rend="first_line_indented" part="N">
+						<lb facs="#LL1.15_line_1v_13" n="13" xml:id="LL1.15_lb_1v_13"/>
+						Aggradite le assicurazioni della
+						<lb facs="#LL1.15_line_1v_14" n="14" xml:id="LL1.15_lb_1v_14"/>
+						mia stima e considerazione e
+						<choice><abbr>cred<am instant="false">:</am><hi rend="sup">mi</hi></abbr><expan instant="false">cred<ex instant="false">ete</ex>mi</expan></choice>
+						<lb facs="#LL1.15_line_1v_15" n="15" xml:id="LL1.15_lb_1v_15"/>
+						sempre
+					</s>
+				</ab>
+
+				<salute n="ab_06">
+					<s n="s_14" type="sentence" part="N">
+						<lb facs="#LL1.15_line_1v_16" n="16" xml:id="LL1.15_lb_1v_16"/>
+						<hi rend="align(right)">
+							<choice><abbr>Vro<g ref="g01" rend="sup"/></abbr><expan instant="false">V<ex instant="false">ost</ex>ro</expan></choice>
+							<choice><abbr> affssmo</abbr><expan instant="false">aff<ex instant="false">ezionati</ex>ss<ex instant="false">i</ex>mo</expan></choice>
+						</hi>
+						<lb facs="#LL1.15_line_1v_17" n="17" xml:id="LL1.15_lb_1v_17"/>
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName>
+				</signed>
+				<lb/>
+			</div>
+		</body>
+		<!-- appendici del testo -->
+		<back><div type="hotspot"/></back>
+	</text>
+</TEI>

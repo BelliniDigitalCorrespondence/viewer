@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giovanni Battista Perucchini, in Napoli, 28 gennaio 1832</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-09" instant="false">September 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Claudia Scroccow</name>
+					<name full="yes" instant="false">Miriana Troccoli</name>
+					<name full="yes" instant="false">Rebecca Di Gisi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_9.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="178" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="254" to="256" unit="page">254-256</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.9</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.9"><idno type="inventory">LL1.9</idno><title>Vincenzo Bellini a Giovanni Battista Perucchini, in Napoli, 28 gennaio 1832</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="178"><locus from="254" to="256">n. 178, p. 254-256.</locus></citedRange></bibl><bibl>Salvioli, 1884, p. 13-14. </bibl><bibl>Cambi, 1943, p. 299-300. </bibl><bibl>Seminara, 2001, p. 24-27. </bibl><bibl>Neri, 2005, p. 207-208. </bibl><incipit><fw>Incipit </fw>Incipit non presente</incipit><explicit><fw>Explicit </fw>
+				
+				
+					
+						
+						Ricevete i miei
+						 abbracci  e
+						 credetemi  sempre
+					
+				
+				
+					
+						
+						Il
+							 vostro 
+							 affezionatissimo 
+							 Amico 
+						
+						
+					
+				
+				
+					
+						 Vincenzo  Bellini
+					
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#NA">Napoli</placeName>
+					<date type="postmark" when="1832-01-28" instant="false">28 gennaio 1832</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#PerucchiniGiovanniBattista">Giovanni Battista Perucchini</persName>
+					<placeName ref="#VE">Venezia</placeName>
+					<date cert="high" resp="#GS" type="postmark" when="1832-02" instant="false">Febbraio 1832</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.9_facsimile">
+		<surface n="LL1.9.1" xml:id="LL1.9_folio_1r" corresp="#LL1.9_fol_1r"><graphic url="data/test-img/LL1.9/LL1-9_0001.dzi" width="1604px" height="2591px"/><zone ulx="39.67" uly="31.10" lrx="707.67" lry="94.66" rendition="line" xml:id="LL1.9_line_1r_01"/><zone ulx="39.67" uly="88.35" lrx="707.67" lry="151.45" rendition="line" xml:id="LL1.9_line_1r_02"/><zone ulx="39.67" uly="151.45" lrx="707.67" lry="206.89" rendition="line" xml:id="LL1.9_line_1r_03"/><zone ulx="39.67" uly="202.84" lrx="707.67" lry="275.86" rendition="line" xml:id="LL1.9_line_1r_04"/><zone ulx="39.67" uly="275.86" lrx="707.67" lry="343.47" rendition="line" xml:id="LL1.9_line_1r_05"/><zone ulx="39.67" uly="343.47" lrx="707.67" lry="412.89" rendition="line" xml:id="LL1.9_line_1r_06"/><zone ulx="39.67" uly="414.69" lrx="707.67" lry="482.30" rendition="line" xml:id="LL1.9_line_1r_07"/><zone ulx="39.67" uly="485.00" lrx="707.67" lry="559.83" rendition="line" xml:id="LL1.9_line_1r_08"/><zone ulx="39.67" uly="565.24" lrx="707.67" lry="631.95" rendition="line" xml:id="LL1.9_line_1r_09"/><zone ulx="39.67" uly="633.75" lrx="707.67" lry="706.77" rendition="line" xml:id="LL1.9_line_1r_10"/><zone ulx="39.67" uly="701.36" lrx="707.67" lry="768.98" rendition="line" xml:id="LL1.9_line_1r_11"/><zone ulx="39.67" uly="771.68" lrx="707.67" lry="838.39" rendition="line" xml:id="LL1.9_line_1r_12"/><zone ulx="39.67" uly="840.19" lrx="707.67" lry="910.51" rendition="line" xml:id="LL1.9_line_1r_13"/><zone ulx="39.67" uly="911.41" lrx="707.67" lry="964.60" rendition="line" xml:id="LL1.9_line_1r_14"/><zone ulx="39.67" uly="965.50" lrx="707.67" lry="1032.21" rendition="line" xml:id="LL1.9_line_1r_15"/><zone ulx="39.67" uly="1028.61" lrx="707.67" lry="1090.81" rendition="line" xml:id="LL1.9_line_1r_16"/><zone ulx="39.67" uly="1090.81" lrx="707.67" lry="1139.49" rendition="line" xml:id="LL1.9_line_1r_17"/><zone ulx="597.24" uly="1124.17" lrx="699.56" lry="1150.31" rendition="HotSpot" xml:id="LL1.9_hotspot_1r_01" corresp="#LL1.9_hotspot_1r_01h" start="#LL1.9_hotspot_1r_01h"/></surface>
+		<surface n="LL1.9.2" xml:id="LL1.9_folio_1v" corresp="#LL1.9_fol_1v"><graphic url="data/test-img/LL1.9/LL1-9_0002.dzi" width="1622px" height="2588px"/><zone ulx="31.20" uly="31.20" lrx="704.28" lry="99.85" rendition="line" xml:id="LL1.9_line_1v_01"/><zone ulx="31.20" uly="86.47" lrx="704.28" lry="152.45" rendition="line" xml:id="LL1.9_line_1v_02"/><zone ulx="31.20" uly="147.10" lrx="704.28" lry="205.04" rendition="line" xml:id="LL1.9_line_1v_03"/><zone ulx="31.20" uly="208.61" lrx="704.28" lry="271.91" rendition="line" xml:id="LL1.9_line_1v_04"/><zone ulx="31.20" uly="260.32" lrx="704.28" lry="341.44" rendition="line" xml:id="LL1.9_line_1v_05"/><zone ulx="31.20" uly="335.20" lrx="704.28" lry="401.17" rendition="line" xml:id="LL1.9_line_1v_06"/><zone ulx="31.20" uly="410.09" lrx="704.28" lry="476.06" rendition="line" xml:id="LL1.9_line_1v_07"/><zone ulx="31.20" uly="478.73" lrx="704.28" lry="536.68" rendition="line" xml:id="LL1.9_line_1v_08"/><zone ulx="31.20" uly="531.33" lrx="704.28" lry="597.30" rendition="line" xml:id="LL1.9_line_1v_09"/><zone ulx="31.20" uly="598.19" lrx="704.28" lry="673.08" rendition="line" xml:id="LL1.9_line_1v_10"/><zone ulx="31.20" uly="673.08" lrx="704.28" lry="747.96" rendition="line" xml:id="LL1.9_line_1v_11"/><zone ulx="31.20" uly="755.09" lrx="704.28" lry="825.52" rendition="line" xml:id="LL1.9_line_1v_12"/><zone ulx="31.20" uly="821.06" lrx="704.28" lry="887.93" rendition="line" xml:id="LL1.9_line_1v_13"/><zone ulx="31.20" uly="892.38" lrx="704.28" lry="947.66" rendition="line" xml:id="LL1.9_line_1v_14"/><zone ulx="31.20" uly="941.42" lrx="704.28" lry="1009.17" rendition="line" xml:id="LL1.9_line_1v_15"/><zone ulx="31.20" uly="1009.17" lrx="704.28" lry="1076.92" rendition="line" xml:id="LL1.9_line_1v_16"/><zone ulx="31.20" uly="1069.79" lrx="704.28" lry="1127.74" rendition="line" xml:id="LL1.9_line_1v_17"/></surface>
+		<surface n="LL1.9.3" xml:id="LL1.9_folio_2r" corresp="#LL1.9_fol_2r"><graphic url="data/test-img/LL1.9/LL1-9_0003.dzi" width="1604px" height="2591px"/><zone ulx="40.57" uly="35.16" lrx="704.07" lry="89.25" rendition="line" xml:id="LL1.9_line_2r_01"/><zone ulx="401.17" uly="84.74" lrx="689.64" lry="121.70" rendition="line" xml:id="LL1.9_line_2r_02"/><zone ulx="401.17" uly="117.19" lrx="689.64" lry="184.81" rendition="line" xml:id="LL1.9_line_2r_03"/><zone ulx="113.59" uly="171.28" lrx="233.49" lry="220.87" rendition="line" xml:id="LL1.9_line_2r_04"/><zone ulx="83.84" uly="221.77" lrx="419.20" lry="270.45" rendition="line" xml:id="LL1.9_line_2r_05"/><zone ulx="83.84" uly="272.25" lrx="419.20" lry="329.05" rendition="line" xml:id="LL1.9_line_2r_06"/></surface>
+		<surface n="LL1.9.4" xml:id="LL1.9_folio_2v" corresp="#LL1.9_fol_2v"><graphic url="data/test-img/LL1.9/LL1-9_0004.dzi" width="1622px" height="2588px"/><zone ulx="102.52" uly="798.78" lrx="178.74" lry="930.72" rendition="HotSpot" xml:id="LL1.9_hotspot_2v_01" corresp="#LL1.9_hotspot_2v_01h" start="#LL1.9_hotspot_2v_01h"/><zone ulx="102.52" uly="490.32" lrx="206.83" lry="704.28" rendition="HotSpot" xml:id="LL1.9_hotspot_2v_02" corresp="#LL1.9_hotspot_2v_02h" start="#LL1.9_hotspot_2v_02h"/><zone ulx="102.52" uly="331.64" lrx="219.75" lry="491.21" rendition="HotSpot" xml:id="LL1.9_hotspot_2v_03" corresp="#LL1.9_hotspot_2v_03h" start="#LL1.9_hotspot_2v_03h"/><zone ulx="172.06" uly="459.12" lrx="255.86" lry="930.72" rendition="line" xml:id="LL1.9_line_2v_01"/><zone ulx="244.27" uly="320.94" lrx="343.22" lry="930.72" rendition="line" xml:id="LL1.9_line_2v_02"/><zone ulx="322.72" uly="320.94" lrx="414.54" lry="624.04" rendition="line" xml:id="LL1.9_line_2v_03"/><zone ulx="503.69" uly="628.50" lrx="608.89" lry="793.43" rendition="HotSpot" xml:id="LL1.9_hotspot_2v_04" corresp="#LL1.9_hotspot_2v_04h" start="#LL1.9_hotspot_2v_04h"/><zone ulx="540.24" uly="695.36" lrx="634.74" lry="901.30" rendition="HotSpot" xml:id="LL1.9_hotspot_2v_05" corresp="#LL1.9_hotspot_2v_05h" start="#LL1.9_hotspot_2v_05h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.9" xml:id="LL1.9">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Giovanni Battista Perucchini, in Napoli, 28 gennaio 1832</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        178  p. 254-256</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Lettera facente parte del Carteggio Perucchini e in esso catalogata con la segnatura CP1.2. Si tratta della seconda parte della lettera; la prima parte si trova al Museo Correr di Venezia.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.9</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>129x213<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>
+										Sulla parte sinistra della piegatura centrale della carta 2v sono presenti l'ombra di un timbro di frontiera riportante "SP" (Stato Pontificio) e il timbro dello Stato Pontificio. Sulla parte destra rispetto alla piegatura centrale sono presenti un timbro di arrivo riportante "VENEZIA FEB." e il timbro di partenza riportante "NAP. 1832 28 GEN.".
+									</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su tre facciate con indirizzo del
+									destinatario nella carta 2v. Il secondo folio presenta una duplice piegatura asimmetrica, con il margine superiore piegato più ampio.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche. Sulla parte sinistra della carta 2v è presente uno strappo probabilmente causato quando è stato staccato il sigillo in ceralacca. Lo strappo è riportato anche sulla carta 2r.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera leggibile.
+							 
+								
+									La facciata della carta 1r presenta nella parte inferiore un'annotazione di catalogo di seconda mano che riporta: "AM 82.0".
+								
+							 
+								
+									Un
+									segno d'inchiostro indecifrabile, posto sopra l'indirizzo del destinatario.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Sull'estremità destra del verso è presente un sigillo in ceralacca rossa per la chiusura della lettera.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Napoli</p><p><fw> 
+                            Data di spedizione 
+                        </fw>28 gennaio 1832</p><p><fw> 
+                            Destinatario
+                        </fw>Giovanni Battista Perucchini</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Venezia</p><p><fw> 
+                            Data di destinazione
+                        </fw>[Febbraio 1832]</p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.9.1r" xml:id="LL1.9_fol_1r" facs="data/test-img/LL1.9/LL1-9_0001.dzi"/>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" next="#LL1.9_ab_04_1v" part="I" xml:id="LL1.9_ab_04_1r">
+					<s n="s_08" type="sentence" part="N">
+						<ptr target="#LL1.9_note1"/><note>(Nota Seminara, 2017: p. 254 n. 423)<p part="N">
+							Salvioli era a conoscenza soltanto della prima parte della lettera; l'autografo corrispondente, che si riteneva perduto, è stato rinvenuto al Museo Correr di Venezia. La seconda metà della missiva faceva parte del Fondo Perucchini, acquistato dal Comune di Catania in un'asta promossa da Christie's a Roma nel dicembre 1998, ed è adesso custodita nel Museo Civico Belliniano della città etnea.
+						</p></note>
+						<lb facs="#LL1.9_line_1r_01" n="1" xml:id="LL1.9_lb_1r_01"/>
+						aver guadagnato con l'introito serale, son
+						<lb facs="#LL1.9_line_1r_02" n="2" xml:id="LL1.9_lb_1r_02"/>
+						sicuro che ritrarrà la somma di <num type="cardinal" value="15000">15000<am instant="false">:</am></num> lire
+						<lb facs="#LL1.9_line_1r_03" n="3" xml:id="LL1.9_lb_1r_03"/>
+						con la sola vendita che farà dello
+						<term ref="TEI-ListTerm.xml#spartito" subtype="music-term">spartito.</term><note type="comment" n="T"><seg>
+                [SPARTITO]
+            </seg><gloss xml:lang="it" target="#spartito" source="TEI-ListBibl.xml#DellaSeta2010">
+							Riduzione di una partitura operistica (ma anche di <term subtype="music-term">oratorio</term> o <term subtype="music-term" ref="#balletto">balletto</term>), consistente nelle parti vocali originali e in una sintesi per pianoforte delle parti orchestrali. Nacque come strumento professionale per cantanti e <term subtype="music-term">maestri accompagnatori</term> alla fine del Settecento, ma conobbe grande diffusione nei due secoli successivi, in funzione del successo mondiale del genere operistico e dell’allargamento della composizione sociale del pubblico, grazie all’abbassamento dei costi della stampa musicale consentito da tecniche quali la litografia. In questo contesto lo spartito era destinato prevalentemente al consumo domestico dei lavori teatrali più recenti e popolari: si usava infatti pubblicare dapprima solo le sezioni di maggior successo e di più facile esecuzione (<term subtype="music-term" ref="#aria">arie</term> e <term subtype="music-term" ref="#duetto">duetti</term>), e solo se l’opera si affermava stabilmente nel <term subtype="music-term">repertorio</term> veniva pubblicato lo spartito completo. Tali pubblicazioni rappresentavano spesso l’unico tramite tra il mondo del teatro e quanti avevano difficilmente accesso a esso. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						<lb facs="#LL1.9_line_1r_04" n="4" xml:id="LL1.9_lb_1r_04"/>
+						Vi ho scritto tutti questi dettagli, perché
+						<lb facs="#LL1.9_line_1r_05" n="5" xml:id="LL1.9_lb_1r_05"/>
+						non credino i
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ri</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ri</expan></choice> Veneziani che io
+						<lb facs="#LL1.9_line_1r_06" n="6" xml:id="LL1.9_lb_1r_06"/>
+						non sia memore ancora della loro <w part="N">affezio
+							<lb break="no" facs="#LL1.9_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.9_lb_1r_07"/>
+							ne,</w> e che io nutro perciò un vero
+						<lb facs="#LL1.9_line_1r_08" n="8" xml:id="LL1.9_lb_1r_08"/>
+						trasporto per scrivere pel loro <w part="N">tea
+							<lb break="no" facs="#LL1.9_line_1r_09" n="9" rend="double-stroke" xml:id="LL1.9_lb_1r_09"/>
+							tro;</w> ma che non posso facilitare <w part="N">al
+							<lb break="no" facs="#LL1.9_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.9_lb_1r_010"/>
+							l'</w><term ref="TEI-ListTerm.xml#impresario" subtype="music-term">Impressario</term><note type="comment" n="T"><seg>
+                [IMPRESARIO]
+            </seg><gloss xml:lang="it" target="#impresario" source="TEI-ListBibl.xml#DellaSeta2010">
+							Imprenditore che si assume in prima persona la responsabilità economica di uno spettacolo teatrale, occupandosi dell’organizzazione logistica e della formazione del cast in accordo con i proprietari dei teatri. Come figura professionale la sua data di nascita coincide con quella degli spettacoli pubblici a Venezia nel 1637 [...]. Per questa prima fase si parla di opera mercenaria, cioè a pagamento; successivamente, tra Sei e Settecento, la figura dell’impresario si istituzionalizzò, dando vita a un sistema di produzione noto come opera impresariale, in cui si affittavano i teatri cittadini o delle famiglie nobili per periodi di tempo sempre più lunghi, al fine di potervi tenere una o più <term subtype="music-term">stagioni,</term> incentrate sul reclutamento di una compagnia di canto e di ballo. Nella prima metà dell’Ottocento impresari quali <persName>Domenico Barbaja</persName> o <persName>Alessandro Lanari</persName> giunsero a controllare contemporaneamente più teatri in diverse città in Italia e all’estero. Nella seconda metà del secolo, a causa di un sistema produttivo sempre più di tipo industriale, l’iniziativa della produzione operistica fu assunta direttamente dalle case editrici (in Italia Ricordi, Lucca, Sonzogno), che soppiantarono progressivamente la figura dell’impresario nel determinare le scelte dei compositori e dei cantanti nei maggiori teatri del mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> nel prezzo, perché <w part="N">lede
+							<lb break="no" facs="#LL1.9_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.9_lb_1r_11"/>
+							rei</w> al corso della mia carriera; <w part="N">men
+							<lb break="no" facs="#LL1.9_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.9_lb_1r_12"/>
+							tre</w> per lo più non scrivo che un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term"><w part="N">ope
+								<lb break="no" facs="#LL1.9_line_1r_13" n="13" rend="double-stroke" xml:id="LL1.9_lb_1r_13"/>
+								ra</w>
+						</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> all'anno, e gli altri maestri ne
+						<lb facs="#LL1.9_line_1r_14" n="14" xml:id="LL1.9_lb_1r_14"/>
+						scrivono tre, e così guadagnono anche
+						<lb facs="#LL1.9_line_1r_15" n="15" xml:id="LL1.9_lb_1r_15"/>
+						piú di me in pochi mesi. —
+					</s>
+					<s n="s_10" next="#LL1.9_s_10_1v" part="I" type="sentence" xml:id="LL1.9_s_10_1r">
+						Frattanto
+						<lb facs="#LL1.9_line_1r_16" n="16" xml:id="LL1.9_lb_1r_16"/>
+						qui la corte desidera che io scriva un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term"><w part="N">ope
+							<lb break="no" facs="#LL1.9_line_1r_17" n="17" rend="double-stroke" xml:id="LL1.9_lb_1r_17"/>
+							ra;</w></term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> ma io per scrivere in
+						<placeName ref="#NA">Napoli,</placeName> pretendo
+					</s>
+					<lb/>
+				</ab>
+				<ab facs="#LL1.9_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">AM 82.0</idno>
+					</fw>
+				</ab>
+				<pb n="LL1.9.1v" xml:id="LL1.9_fol_1v" facs="data/test-img/LL1.9/LL1-9_0002.dzi"/>
+				<ab n="ab_04" part="F" prev="#LL1.9_ab_04_1r" type="parag" xml:id="LL1.9_ab_04_1v">
+					<s n="s_10" part="F" prev="#LL1.9_s_10_1r" type="sentence" xml:id="LL1.9_s_10_1v">
+						<lb facs="#LL1.9_line_1v_01" n="1" xml:id="LL1.9_lb_1v_01"/>
+						una forte <term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia,</term><note type="comment" n="T"><seg>
+                [COMPAGNIA]
+            </seg><gloss xml:lang="it" target="#compagnia" source="TEI-ListBibl.xml#DellaSeta2010">
+							Insieme degli artisti che partecipano all'<term subtype="music-term">allestimento</term> di un'<term subtype="music-term" ref="#opera">opera.</term> Tra il 1600 e il 1670 circa le compagnie, formate sul modello della compagnia dell'arte da cantanti-attori, compositori, poeti e scenografi, erano itineranti: esse si spostavano di città in città per allestire le stesse opere in diversi teatri di corte o pubblici. [...]Successivamente, soprattutto in Italia fino a tutto l'Ottocento, il termine passò a indicare l'insieme dei cantanti ingaggiati da un teatro per un'intera <term subtype="music-term">stagione;</term> nel resto d'Europa, e in particolare a Parigi, le compagnie erano permanenti e restavano legate anche per diversi anni a un singolo teatro. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> e quindi stò a <w part="N">ve
+							<lb break="no" facs="#LL1.9_line_1v_02" n="2" rend="double-stroke" xml:id="LL1.9_lb_1v_02"/>
+							dere</w> quali saranno i scritturati, e <w part="N">for
+							<lb break="no" facs="#LL1.9_line_1v_03" n="3" rend="double-stroke" xml:id="LL1.9_lb_1v_03"/>
+							se,</w> trattenendomi sino ad aprile, avrò il <w part="N">cam
+							<lb break="no" facs="#LL1.9_line_1v_04" n="4" rend="double-stroke" xml:id="LL1.9_lb_1v_04"/>
+							po</w> di sentirli, perché tutta la
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term><note type="comment" n="T"><seg>
+                [COMPAGNIA]
+            </seg><gloss xml:lang="it" target="#compagnia" source="TEI-ListBibl.xml#DellaSeta2010">
+							Insieme degli artisti che partecipano all'<term subtype="music-term">allestimento</term> di un'<term subtype="music-term" ref="#opera">opera.</term> Tra il 1600 e il 1670 circa le compagnie, formate sul modello della compagnia dell'arte da cantanti-attori, compositori, poeti e scenografi, erano itineranti: esse si spostavano di città in città per allestire le stesse opere in diversi teatri di corte o pubblici. [...]Successivamente, soprattutto in Italia fino a tutto l'Ottocento, il termine passò a indicare l'insieme dei cantanti ingaggiati da un teatro per un'intera <term subtype="music-term">stagione;</term> nel resto d'Europa, e in particolare a Parigi, le compagnie erano permanenti e restavano legate anche per diversi anni a un singolo teatro. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note>
+						<lb facs="#LL1.9_line_1v_05" n="5" xml:id="LL1.9_lb_1v_05"/>
+						debbutta col
+						<choice><abbr>1<am instant="false">:</am><hi rend="sup">°</hi></abbr><expan instant="false">primo</expan></choice> giorno di Pasqua. —
+					</s>
+					<s n="s_11" type="sentence" part="N">
+						<lb facs="#LL1.9_line_1v_06" n="6" xml:id="LL1.9_lb_1v_06"/>
+						Se
+						<persName ref="#LanariAlessandro">Lanari</persName> avesse l'intenzione di <w part="N">scrit
+							<lb break="no" facs="#LL1.9_line_1v_07" n="7" rend="double-stroke" xml:id="LL1.9_lb_1v_07"/>
+							turarmi,</w> bisogna che mi mandi anche
+						<lb facs="#LL1.9_line_1v_08" n="8" xml:id="LL1.9_lb_1v_08"/>
+						la nota della
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term><note type="comment" n="T"><seg>
+                [COMPAGNIA]
+            </seg><gloss xml:lang="it" target="#compagnia" source="TEI-ListBibl.xml#DellaSeta2010">
+							Insieme degli artisti che partecipano all'<term subtype="music-term">allestimento</term> di un'<term subtype="music-term" ref="#opera">opera.</term> Tra il 1600 e il 1670 circa le compagnie, formate sul modello della compagnia dell'arte da cantanti-attori, compositori, poeti e scenografi, erano itineranti: esse si spostavano di città in città per allestire le stesse opere in diversi teatri di corte o pubblici. [...]Successivamente, soprattutto in Italia fino a tutto l'Ottocento, il termine passò a indicare l'insieme dei cantanti ingaggiati da un teatro per un'intera <term subtype="music-term">stagione;</term> nel resto d'Europa, e in particolare a Parigi, le compagnie erano permanenti e restavano legate anche per diversi anni a un singolo teatro. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> che darà
+						<lb facs="#LL1.9_line_1v_09" n="9" xml:id="LL1.9_lb_1v_09"/>
+						alla
+						<orgName ref="#Fenice">Fenice,</orgName> e dopo potremo <w part="N">compina
+							<lb break="no" facs="#LL1.9_line_1v_10" n="10" rend="double-stroke" xml:id="LL1.9_lb_1v_10"/>
+							re,</w> se non avrò nulla fissato con
+						<lb facs="#LL1.9_line_1v_11" n="11" xml:id="LL1.9_lb_1v_11"/>
+						<placeName ref="#NA">Napoli.</placeName> —
+					</s>
+					<s n="s_12" type="sentence" part="N">
+						Ricordatemi a tutti gli
+						<lb facs="#LL1.9_line_1v_12" n="12" xml:id="LL1.9_lb_1v_12"/>
+						amici nostri: vogliatemi bene, e <w part="N">scrive
+							<lb break="no" facs="#LL1.9_line_1v_13" n="13" rend="double-stroke" xml:id="LL1.9_lb_1v_13"/>
+							temi</w> le
+						<choice><abbr>vre<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>re</expan></choice> notizie e del teatro.
+					</s>
+					<s n="s_13" rend="first_line_indented" type="sentence" part="N">
+						<lb facs="#LL1.9_line_1v_14" n="14" xml:id="LL1.9_lb_1v_14"/>
+						Tante cose ai
+						<choice><abbr>vri<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ri</expan></choice> cari
+						<rs type="personGrp">vecchietti,</rs>
+						<lb facs="#LL1.9_line_1v_15" n="15" xml:id="LL1.9_lb_1v_15"/>
+						ed a tutta la famiglia del <persName type="person">Governato</persName>
+						<lb break="no" facs="#LL1.9_line_1v_16" n="16" rend="double-stroke" xml:id="LL1.9_lb_1v_16"/>
+						<persName type="person">re,</persName> come vi prego di ricordarmi a
+						<persName ref="#PapadopoliAntonio">To</persName>
+						<lb break="no" facs="#LL1.9_line_1v_17" n="17" rend="double-stroke" xml:id="LL1.9_lb_1v_17"/>
+						<persName ref="#PapadopoliAntonio">gnino Pappadopoli</persName> ed a <persName ref="#FannaAntonio">Fanna.</persName>
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<pb n="LL1.9.2r" xml:id="LL1.9_fol_2r" facs="data/test-img/LL1.9/LL1-9_0003.dzi"/>
+				<ab n="ab_06" part="N">
+					<s n="s_14" type="sentence" part="N">
+						<lb facs="#LL1.9_line_2r_01" n="1" xml:id="LL1.9_lb_2r_01"/>
+						Ricevete i miei
+						<choice><abbr>abb<am instant="false">:</am><hi rend="sup">ci</hi></abbr><expan instant="false">abb<ex instant="false">rac</ex>ci</expan></choice> e
+						<choice><abbr>cred<am instant="false">:</am><hi rend="sup">mi</hi></abbr><expan instant="false">cred<ex instant="false">ete</ex>mi</expan></choice> sempre
+					</s>
+				</ab>
+				<salute n="ab_07">
+					<s n="s_15" type="sentence" part="N">
+						<lb facs="#LL1.9_line_2r_02" n="2" xml:id="LL1.9_lb_2r_02"/>
+						<hi rend="align(right)">Il
+							<choice><abbr>vro</abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+							<choice><abbr>affssmo</abbr><expan instant="false">aff<ex instant="false">ezionati</ex>ss<ex instant="false">i</ex>mo</expan></choice>
+							<choice><abbr>Am<hi rend="sup">o</hi></abbr><expan instant="false">Am<ex instant="false">ic</ex>o</expan></choice>
+						</hi>
+						<lb facs="#LL1.9_line_2r_03" n="3" xml:id="LL1.9_lb_2r_03"/>
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">
+						<choice><abbr>V<am instant="false">:</am></abbr><expan instant="false">V<ex instant="false">incenzo</ex></expan></choice> Bellini
+					</persName>
+				</signed>
+			</div>
+			<div type="postscript" part="N" org="uniform" sample="complete">
+				<lb facs="#LL1.9_line_2r_04" n="4" xml:id="LL1.9_lb_2r_04"/>
+				<label>P.S.</label>
+				<ab n="ab_08" rend="align(left)" part="N">
+					<s n="s_16" type="sentence" part="N">
+						<lb facs="#LL1.9_line_2r_05" n="5" xml:id="LL1.9_lb_2r_05"/>
+						V'accludo un piccolo
+						<lb facs="#LL1.9_line_2r_06" n="6" xml:id="LL1.9_lb_2r_06"/>
+						artico<supplied instant="false">lo</supplied> sù <rs ref="TEI-ListWork.xml#Norma" rend="underline" type="work">Norma.</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>Norma<label rend="bold"> [Compositore]: </label>Vincenzo Bellini<label rend="bold"> [Librettista]: </label>Felice Romani<label rend="bold"> [Prima rappresentazione]: </label>Teatro alla Scala, Milano, 26 dicembre 1831<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								<hi rend="italic">Norma</hi>, ispirata a un'omonima tragedia di Alexandre Soumet (<hi rend="italic"><rs type="work" ref="#Norma_tragedia">Norma, ou l'Infanticide</rs></hi>, 1831), fu concepita per il talento ‘enciclopedico' di Giuditta Pasta, alla quale era destinato il ruolo della prima donna. L'opera inaugurò la Stagione di Carnevale del Teatro alla Scala il 26 dicembre 1831; nonostante l'esito incerto della prima rappresentazione, si impose ben presto come il titolo più rappresentativo del compositore di Catania.
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng">(Seminara, 2017: p. 307 n. 503)<p>
+								A Londra <hi rend="italic">Norma</hi> fu messa in scena al King's Theatre il 20 giugno 1833, con Giuditta Pasta nel ruolo della protagonista. Il 21 giugno Giuditta Pasta scriveva a Rachele Negri, madre di Giuditta: «Ieri sera si rappresentò la <hi rend="italic">Norma</hi> pel beneficio della Giuditta. Né la <hi rend="italic">Medea</hi> né l'<hi rend="italic">Anna Bolena</hi> possono vantare miglior successo di questa prima rappresentazione di <hi rend="italic">Norma</hi>; mercé la mia insistenza con Laporte, e dietro la direzione di Bellini per l'orchestra e i cori, quest'opera è montata in maniera che non v'è esempio al Teatro Italiano di Londra, il trionfo quindi della stessa superò il desiderio di Giuditta, e la speranza di Bellini; vi furono applausi straordinari, e lagrime nel secondo atto» (In: Maria Ferranti Giulini, <hi rend="italic">Giuditta Pasta e i suoi tempi</hi>, Milano, Cronotipia Sormani, 1935, pp. 158-159).
+							</p></note></note>
+					</s>
+					<s n="s_17" type="sentence" part="N">
+						<hi rend="underline">Addio.</hi></s>
+				</ab>
+			</div>
+			<pb n="LL1.9.2v" xml:id="LL1.9_fol_2v" facs="data/test-img/LL1.9/LL1-9_0004.dzi"/>
+			<div type="destination" part="N" org="uniform" sample="complete">
+				<ab type="receiver" xml:id="LL1.9_line_2v_01_multiple" part="N">
+					<address>
+						<lb facs="#LL1.9_line_2v_01" n="1" xml:id="LL1.9_lb_2v_01"/>
+						<addrLine>Al
+							<choice><abbr>Pregmo</abbr><expan instant="false">Preg<ex instant="false">iatissi</ex>mo</expan></choice> Signore
+						</addrLine>
+						<lb facs="#LL1.9_line_2v_02" n="2" xml:id="LL1.9_lb_2v_02"/>
+						<addrLine>Al
+							<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">r</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>r</expan></choice>
+							<persName ref="#PerucchiniGiovanniBattista">Giovan Battista Perucchini</persName>
+						</addrLine>
+						<lb facs="#LL1.9_line_2v_03" n="3" xml:id="LL1.9_lb_2v_03"/>
+						<addrLine rend="align(right)">
+							<placeName ref="#VE">Venezia</placeName>
+						</addrLine>
+					</address>
+				</ab>
+				<ab facs="#LL1.9_hotspot_2v_04" type="paratext" xml:id="LL1.9_hs_2v_04" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#VE">VENEZIA</placeName>
+						</mentioned>
+						<mentioned>
+							<date when="1832-02" instant="false">FEB.</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+
+			<div type="sent" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.9_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.9_hs_2v_01" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+				<!-- Timbro del mittente con data -->
+				<ab facs="#LL1.9_hotspot_2v_05" type="paratext" xml:id="LL1.9_hs_2v_05" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#NA">NAP.</placeName>
+							<date when="1832" xml:id="LL1.9_2v_01_1838-01-28" next="LL1.9_2v_02_1838-01-28" instant="false">1832</date>
+						</mentioned>
+						<mentioned>
+							<date when="01-28" xml:id="LL1.9_2v_02_1838-01-28" prev="LL1.9_2v_01_1838-01-28" instant="false">28 GEN.</date>
+						</mentioned>
+					</stamp>
+				</ab>
+				<!-- Timbro del destinatario con data -->
+			</div>
+
+			<div type="stamp" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.9_hotspot_2v_03" type="paratext" xml:id="LL1.9_hs_2v_03" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#SPontificio">SP</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+				<!-- STATO PONTIFICIO -->
+				<ab facs="#LL1.9_hotspot_2v_02" type="paratext" xml:id="LL1.9_hs_2v_02" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#SPontificio">Stato Pontificio</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+				<!-- STATO PONTIFICIO -->
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.9_hotspot_1r_01h" facs="#LL1.9_hotspot_1r_01"><p>annotazione di catalogo di seconda mano che riporta: "AM 82.0"</p></div><div xml:id="LL1.9_hotspot_2v_01h" facs="#LL1.9_hotspot_2v_01"><p>segno d'inchiostro indecifrabile</p></div><div xml:id="LL1.9_hotspot_2v_02h" facs="#LL1.9_hotspot_2v_02"><p>timbro dello Stato Pontificio</p></div><div xml:id="LL1.9_hotspot_2v_03h" facs="#LL1.9_hotspot_2v_03"><p>ombra di un timbro di frontiera riportante "SP" (Stato Pontificio)</p></div><div xml:id="LL1.9_hotspot_2v_04h" facs="#LL1.9_hotspot_2v_04"><p>timbro di arrivo riportante "VENEZIA FEB."</p></div><div xml:id="LL1.9_hotspot_2v_05h" facs="#LL1.9_hotspot_2v_05"><p>timbro di partenza riportante "NAP. 1832 28 GEN."</p></div></div></back>
+	</text>
+</TEI>

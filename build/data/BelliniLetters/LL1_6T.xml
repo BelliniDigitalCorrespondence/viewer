@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Ottavio Tasca, in Como, 24 agosto 1830</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2021-02" instant="false">February 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Francesco Bertoli</name>
+					<name full="yes" instant="false">Federico Boggia</name>
+					<name full="yes" instant="false">Francesca Parra</name>
+					<name full="yes" instant="false">Greta Bernardoni</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="SP" full="yes" instant="false">Santa Pellino</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_6.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="136" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="226" to="226" unit="page">226</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.6</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.6"><idno type="inventory">LL1.6</idno><title>Vincenzo Bellini a Ottavio Tasca, in Como, 24 agosto 1830</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="136"><locus from="226" to="226">n. 136, p. 226.</locus></citedRange></bibl><bibl>Niny Ganguzza, 1970, p. 24-26. </bibl><bibl>Neri, 2005, p. 176-177. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							Como
+							24: Agosto 30:
+						
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						Presenta i miei rispetti al
+							
+							la
+						 Signora 
+						Contessa, e tu ricevi i miei abbracci
+						
+						e non obbliare a chi tanto stima la tua
+						
+						amicizia.
+					
+					
+						Addio
+					
+				
+				
+					
+					
+						Il tuo
+							 amico 
+					
+				
+				
+				
+					
+						 Vincenzo 
+						Bellini
+					
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#CO">Como</placeName>
+					<date type="writing" when="1830-08-24" instant="false">24 agosto 1830</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#TascaOttavioGiulioMaria">Ottavio Tasca</persName>
+					<placeName ref="#BG">Bergamo</placeName>
+					<date cert="low" type="postmark" when="1830-08-27" instant="false">27 agosto 1830</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="scn">Siciliano</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.6_facsimile">
+		<surface n="LL1.6.1" xml:id="LL1.6_folio_1r" corresp="#LL1.6_fol_1r"><graphic url="data/test-img/LL1.6/LL1-6_0001.dzi" width="1672.5px" height="2417.5px"/><zone ulx="31.12" uly="51.44" lrx="116.29" lry="126.66" rendition="HotSpot" xml:id="LL1.6_hotspot_1r_01" corresp="#LL1.6_hotspot_1r_01h" start="#LL1.6_hotspot_1r_01h"/><zone ulx="369.61" uly="43.23" lrx="677.83" lry="99.43" rendition="line" xml:id="LL1.6_line_1r_01"/><zone ulx="101.16" uly="134.87" lrx="327.24" lry="172.05" rendition="line" xml:id="LL1.6_line_1r_02"/><zone ulx="246.40" uly="211.82" lrx="699.44" lry="248.13" rendition="line" xml:id="LL1.6_line_1r_03"/><zone ulx="83.00" uly="258.51" lrx="699.44" lry="295.68" rendition="line" xml:id="LL1.6_line_1r_04"/><zone ulx="83.00" uly="311.25" lrx="699.44" lry="345.83" rendition="line" xml:id="LL1.6_line_1r_05"/><zone ulx="83.00" uly="351.88" lrx="699.44" lry="382.14" rendition="line" xml:id="LL1.6_line_1r_06"/><zone ulx="83.00" uly="392.52" lrx="699.44" lry="427.10" rendition="line" xml:id="LL1.6_line_1r_07"/><zone ulx="83.00" uly="432.29" lrx="699.44" lry="466.87" rendition="line" xml:id="LL1.6_line_1r_08"/><zone ulx="83.00" uly="471.19" lrx="699.44" lry="503.61" rendition="line" xml:id="LL1.6_line_1r_09"/><zone ulx="83.00" uly="510.96" lrx="699.44" lry="545.55" rendition="line" xml:id="LL1.6_line_1r_10"/><zone ulx="83.00" uly="551.17" lrx="699.44" lry="584.88" rendition="line" xml:id="LL1.6_line_1r_11"/><zone ulx="83.00" uly="596.56" lrx="699.44" lry="631.14" rendition="line" xml:id="LL1.6_line_1r_12"/><zone ulx="83.00" uly="635.46" lrx="699.44" lry="667.02" rendition="line" xml:id="LL1.6_line_1r_13"/><zone ulx="83.00" uly="671.34" lrx="699.44" lry="706.79" rendition="line" xml:id="LL1.6_line_1r_14"/><zone ulx="83.00" uly="713.27" lrx="699.44" lry="747.86" rendition="line" xml:id="LL1.6_line_1r_15"/><zone ulx="83.00" uly="752.18" lrx="699.44" lry="786.76" rendition="line" xml:id="LL1.6_line_1r_16"/><zone ulx="83.00" uly="796.27" lrx="699.44" lry="831.72" rendition="line" xml:id="LL1.6_line_1r_17"/><zone ulx="83.00" uly="834.31" lrx="699.44" lry="864.57" rendition="line" xml:id="LL1.6_line_1r_18"/><zone ulx="83.00" uly="877.54" lrx="699.44" lry="909.10" rendition="line" xml:id="LL1.6_line_1r_19"/><zone ulx="83.00" uly="915.58" lrx="699.44" lry="948.01" rendition="line" xml:id="LL1.6_line_1r_20"/><zone ulx="83.00" uly="954.06" lrx="699.44" lry="1000.74" rendition="line" xml:id="LL1.6_line_1r_21"/></surface>
+		<surface n="LL1.6.2" xml:id="LL1.6_folio_1v" corresp="#LL1.6_fol_1v"><graphic url="data/test-img/LL1.6/LL1-6_0002.dzi" width="1663.5px" height="2408.5px"/><zone ulx="60.85" uly="206.45" lrx="705.83" lry="255.99" rendition="line" xml:id="LL1.6_line_1v_01"/><zone ulx="60.85" uly="258.17" lrx="705.83" lry="288.59" rendition="line" xml:id="LL1.6_line_1v_02"/><zone ulx="60.85" uly="299.02" lrx="705.83" lry="333.79" rendition="line" xml:id="LL1.6_line_1v_03"/><zone ulx="60.85" uly="343.35" lrx="705.83" lry="378.12" rendition="line" xml:id="LL1.6_line_1v_04"/><zone ulx="60.85" uly="385.95" lrx="705.83" lry="414.63" rendition="line" xml:id="LL1.6_line_1v_05"/><zone ulx="60.85" uly="425.93" lrx="705.83" lry="465.05" rendition="line" xml:id="LL1.6_line_1v_06"/><zone ulx="60.85" uly="468.09" lrx="705.83" lry="501.99" rendition="line" xml:id="LL1.6_line_1v_07"/><zone ulx="60.85" uly="510.25" lrx="705.83" lry="551.54" rendition="line" xml:id="LL1.6_line_1v_08"/><zone ulx="60.85" uly="553.71" lrx="705.83" lry="586.74" rendition="line" xml:id="LL1.6_line_1v_09"/><zone ulx="60.85" uly="590.66" lrx="705.83" lry="625.86" rendition="line" xml:id="LL1.6_line_1v_10"/><zone ulx="60.85" uly="630.21" lrx="293.37" lry="664.98" rendition="line" xml:id="LL1.6_line_1v_11"/><zone ulx="406.38" uly="657.15" lrx="612.82" lry="697.14" rendition="line" xml:id="LL1.6_line_1v_12"/><zone ulx="282.51" uly="701.05" lrx="612.82" lry="749.73" rendition="line" xml:id="LL1.6_line_1v_13"/></surface>
+		<surface n="LL1.6.3" xml:id="LL1.6_folio_2r" corresp="#LL1.6_fol_2r"><graphic url="data/test-img/LL1.6/LL1-6_0003.dzi" width="1672.5px" height="2417.5px"/></surface>
+		<surface n="LL1.6.4" xml:id="LL1.6_folio_2v" corresp="#LL1.6_fol_2v"><graphic url="data/test-img/LL1.6/LL1-6_0004.dzi" width="1664px" height="2409px"/><zone ulx="138.60" uly="479.68" lrx="232.89" lry="650.44" rendition="HotSpot" xml:id="LL1.6_hotspot_2v_01" corresp="#LL1.6_hotspot_2v_01h" start="#LL1.6_hotspot_2v_01h"/><zone ulx="42.58" uly="610.03" lrx="156.85" lry="803.38" rendition="HotSpot" xml:id="LL1.6_hotspot_2v_02" corresp="#LL1.6_hotspot_2v_02h" start="#LL1.6_hotspot_2v_02h"/><zone ulx="153.38" uly="278.08" lrx="270.26" lry="468.82" rendition="HotSpot" xml:id="LL1.6_hotspot_2v_03" corresp="#LL1.6_hotspot_2v_03h" start="#LL1.6_hotspot_2v_03h"/><zone ulx="234.63" uly="353.68" lrx="432.32" lry="552.24" rendition="HotSpot" xml:id="LL1.6_hotspot_2v_04" corresp="#LL1.6_hotspot_2v_04h" start="#LL1.6_hotspot_2v_04h"/><zone ulx="265.04" uly="203.34" lrx="368.02" lry="821.20" rendition="line" xml:id="LL1.6_line_2v_01"/><zone ulx="373.67" uly="203.34" lrx="437.54" lry="498.37" rendition="line" xml:id="LL1.6_line_2v_02"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.6" xml:id="LL1.6">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Ottavio Tasca, in Como, 24 agosto 1830</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        136  p. 226</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo in francese e un termine in siciliano.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.6</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>197x135<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Sono presenti al centro sulla carta 2v un timbro postale di partenza riportante "COMO" e un  timbro di arrivo riportante "Bergamo 27".
+									</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio); il testo è scritto su due facciate. l'indirizzo si trova nella carta 2v. Il folio presenta segni di piegature asimmetriche che lo suddividono in tre sezioni verticali e tre orizzontali, per un totale nove sezioni. Il folio stesso funge anche da busta con l'indirizzo nella parte centrale del fronte verso.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche. La lettera sulla carta 2r presenta due strappi: uno in basso e l'altro al centro a sinistra. Anche sulla carta 2v sono presenti gli stessi strappi. Il margine inferiore della carta 2v è frastagliato. Sulla carta 2r sono presenti due macchie: una macchia provocata dal sigillo in ceralacca (che ha causato anche uno degli strappi) e un'altra macchia causata dal timbro postale. Sigillo e timbro che hanno provocato le macchie si ritrovano sulla carta 2v.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura di Bellini a mano libera leggibile.
+							 
+								Carta 2v:
+									segno V di significato e origini incerte, ricorrente nell'epistolario di Bellini.
+								
+							 
+								Carta 1r, in alto a sinistra:
+									annotazione a matita che rappresenta il numero 38, probabilmente dovuta ad un catalogatore.
+								
+							 
+								Carta 2v, al centro:
+									annotazione a matita che presenta "Bellini", probabilmente dovuta ad un catalogatore.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>La parte centrale del verso presenta un sigillo in ceralacca rossa parzialmente conservato.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Como</p><p><fw> 
+                            Data di spedizione 
+                        </fw>24 agosto 1830</p><p><fw> 
+                            Destinatario
+                        </fw>Ottavio Tasca</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Bergamo</p><p><fw> 
+                            Data di destinazione
+                        </fw>27 agosto 1830</p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.6.1r" xml:id="LL1.6_fol_1r" facs="data/test-img/LL1.6/LL1-6_0001.dzi"/>
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.6_line_1r_01" n="1" xml:id="LL1.6_lb_1r_01"/>
+						<hi rend="align(right)">
+							<placeName ref="#CO">Como</placeName>
+							<date cert="high" resp="#GS" when="1830-08-24" instant="false">24<am instant="false">:</am> Agosto 30<am instant="false">:</am></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" rend="align(left)" part="N">
+						<lb facs="#LL1.6_line_1r_02" n="2" xml:id="LL1.6_lb_1r_02"/>
+						Mio caro <persName ref="#TascaOttavioGiulioMaria">Tasca</persName>
+					</s>
+				</salute>
+				<lb rend="2-line"/> <!-- prossemica -->
+				<ab n="ab_03" next="#LL1.6_ab_03_1v" part="I" rend="first_line_indented" type="parag" xml:id="LL1.6_ab_03_1r">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.6_line_1r_03" n="3" xml:id="LL1.6_lb_1r_03"/>
+						Mi portai da tua cognata e mi
+						<lb facs="#LL1.6_line_1r_04" n="4" xml:id="LL1.6_lb_1r_04"/>
+						feci annunziare: sfortunatamente era per <w part="N">anda
+						<lb break="no" facs="#LL1.6_line_1r_05" n="5" rend="double-stroke" xml:id="LL1.6_lb_1r_05"/>
+						re</w> a pranzo, e non potei parlare che con suo
+						<lb facs="#LL1.6_line_1r_06" n="6" xml:id="LL1.6_lb_1r_06"/>
+						<persName type="person">marito,</persName> a cui consegnai la tua lettera, <w part="N">dando
+						<lb break="no" facs="#LL1.6_line_1r_07" n="7" rend="double-stroke" xml:id="LL1.6_lb_1r_07"/>
+						gli</w> le relazioni dello stato di tutta la bella
+						<lb facs="#LL1.6_line_1r_08" n="8" xml:id="LL1.6_lb_1r_08"/>
+						tua famiglia.
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						Sò che è sortito l'articolo tuo
+						<lb facs="#LL1.6_line_1r_09" n="9" xml:id="LL1.6_lb_1r_09"/>
+						sù la
+						<rs ref="TEI-ListWork.xml#Straniera" rend="underline" type="work">Straniera,</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>La straniera<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Felice Romani<label rend="bold"> [Prima rappresentazione]: </label>Teatro alla Scala, Milano, 14 febbraio 1829<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								<hi rend="italic">La straniera</hi>, ispirata al romanzo di Charles d'Alincourt <hi rend="italic">L'Étrangere</hi> (pubblicato nel 1825), fu rappresentata al Teatro alla Scala il 14 febbraio 1829. Interpreti principali furono Henriette Méric Lalande, nel ruolo di Alaide, Domenico Reina nel ruolo di Arturo, Antonio Tamburini nel ruolo del barone di Valdeburgo.  L'opera ottenne un grande successo e sancì la definitiva affermazione di Bellini nel panorama operistico del tempo.
+							</p>
+						</note></note> e
+						<persName ref="#BarboGiacomo">Barbò,</persName> che vidi questa <w part="N">mat
+							<lb break="no" facs="#LL1.6_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.6_lb_1r_10"/>
+							tina,</w> me ne disse il contenuto, che io trovai
+						<lb facs="#LL1.6_line_1r_11" n="11" xml:id="LL1.6_lb_1r_11"/>
+						ragionatissimo e condito di qualche saletto: <w part="N">bra
+							<lb break="no" facs="#LL1.6_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.6_lb_1r_12"/>
+							vo</w> il mio
+						<persName ref="#TascaOttavioGiulioMaria" type="person">caro amico;</persName> spero che le lodi che
+						<lb facs="#LL1.6_line_1r_13" n="13" xml:id="LL1.6_lb_1r_13"/>
+						mi dai le possa impiegare sù qualche <w part="N">par
+							<lb break="no" facs="#LL1.6_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.6_lb_1r_14"/>
+							to</w> della tua ricca Musa, semmai non <w part="N">obblie
+							<lb break="no" facs="#LL1.6_line_1r_15" n="15" rend="double-stroke" xml:id="LL1.6_lb_1r_15"/>
+							rai</w> i nostri piani; basta, io spero di vederti
+						<lb facs="#LL1.6_line_1r_16" n="16" xml:id="LL1.6_lb_1r_16"/>
+						qui o in
+						<placeName ref="#MI">Milano,</placeName> ed allora rinfrescherò la
+						<lb facs="#LL1.6_line_1r_17" n="17" xml:id="LL1.6_lb_1r_17"/>
+						tua memoria. —
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Dimmi se la
+						<persName ref="#FavelliStefania">Favelli</persName> ha <w part="N">ripre
+							<lb break="no" facs="#LL1.6_line_1r_18" n="18" rend="double-stroke" xml:id="LL1.6_lb_1r_18"/>
+							so</w> le sue intiere forze. —
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						<rs type="question">La mia
+							<rs ref="TEI-ListWork.xml#Straniera" rend="underline" type="work">Straniera</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>La straniera<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Felice Romani<label rend="bold"> [Prima rappresentazione]: </label>Teatro alla Scala, Milano, 14 febbraio 1829<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								<hi rend="italic">La straniera</hi>, ispirata al romanzo di Charles d'Alincourt <hi rend="italic">L'Étrangere</hi> (pubblicato nel 1825), fu rappresentata al Teatro alla Scala il 14 febbraio 1829. Interpreti principali furono Henriette Méric Lalande, nel ruolo di Alaide, Domenico Reina nel ruolo di Arturo, Antonio Tamburini nel ruolo del barone di Valdeburgo.  L'opera ottenne un grande successo e sancì la definitiva affermazione di Bellini nel panorama operistico del tempo.
+							</p>
+						</note></note>
+							<lb facs="#LL1.6_line_1r_19" n="19" xml:id="LL1.6_lb_1r_19"/>
+							seguita a non disgustare?
+						</rs> ...
+					</s>
+					<s n="s_07" next="#LL1.6_s_07_1v" part="I" type="sentence" xml:id="LL1.6_s_07_1r">
+						<distinct type="dialectal" xml:lang="scn"> Avvisa a
+							<persName ref="#GiordaniGiovanni">Giorda</persName>
+									<lb break="no" facs="#LL1.6_line_1r_20" n="20" rend="double-stroke" xml:id="LL1.6_lb_1r_20"/>
+									<persName ref="#GiordaniGiovanni">ni</persName>
+						</distinct> che prenda un poco più
+						<hi rend="underline">mosso</hi> il tempo della
+						<lb facs="#LL1.6_line_1r_21" n="21" xml:id="LL1.6_lb_1r_21"/>
+						sua
+						<term ref="TEI-ListTerm.xml#aria" subtype="music-term">aria,</term><note type="comment" n="T"><seg>
+                [ARIA]
+            </seg><gloss xml:lang="it" target="#aria" source="TEI-ListBibl.xml#DellaSeta2010">
+							Brano per voce sola appartenente a un’<term subtype="music-term" ref="#opera">opera,</term> <term subtype="music-term"> oratorio,</term> <term subtype="music-term">cantata</term> o ad altro genere di <term subtype="music-term">teatro musicale</term> (nel <term subtype="music-term" ref="#balletto">balletto</term> solo strumentale). Il termine, usato già nel XIV sec. per indicare una melodia dal profilo ben riconoscibile, fu impiegato fin dalle origini dell’opera per designare sezioni cantabili che interrompevano la continuità del <hi rend="italic"><term subtype="music-term">recitar cantando,</term></hi> sia per rappresentare realisticamente l’atto del cantare (“Vi ricorda o boschi ombrosi” nell’<hi rend="italic">Orfeo,</hi> 1607), sia per esprimere uno sfogo affettivo del personaggio. [...] Nell’opera italiana del pieno Ottocento prevalse anche nelle arie la struttura in più movimenti codificata dalle opere di <persName ref="#RossiniGioachino">Rossini</persName> (<term subtype="music-term">numero</term>); questa articolazione favoriva l’integrazione dell’aria nell’azione drammatica in quanto prevedeva l’alternanza tra movimenti dinamici, in cui questa procede (scena [...] e <term subtype="music-term">tempo di mezzo</term>), e momenti di stasi riflessiva (<term subtype="music-term">cantabile</term> e <term subtype="music-term">cabaletta</term>); la transizione tra i diversi momenti era spesso innescata dall’intervento di personaggi secondari (<term subtype="music-term">pertichino</term>) che interloquivano col solista titolare dell’aria. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> <w resp="#LM" part="N">nelle</w> parole
+						<subst rend="underline" instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">Vieni tu meco </del>
+							<add place="above" instant="false" status="unremarkable">Meco tu vieni</add>
+						</subst>
+						<ptr target="#LL1.6_note1"/><note resp="#GS" xml:id="LL1.6_note1" anchored="true">
+						<p part="N">
+							Bellini si riferisce alla cabaletta dell'Aria di Valdeburgo <hi rend="italic">Meco tu vieni, o misera</hi>, dall'Atto II de <hi rend="italic">La straniera</hi>. Il termine “cabaletta” indica, nel melodramma ottocentesco, la sezione conclusiva di un’aria, o più spesso di un duetto, di carattere vivace.
+						</p>
+					</note>
+						ec:,
+						<w next="#LL1.6_1v_01_poiche" part="I" xml:id="LL1.6_1r_01_poiche">poi</w>
+					</s>
+				</ab>
+				<ab facs="#LL1.6_hotspot_1r_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.6_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">38</idno>
+					</fw>
+				</ab>
+				<pb n="LL1.6.1v" xml:id="LL1.6_fol_1v" facs="data/test-img/LL1.6/LL1-6_0002.dzi"/>
+				<ab n="ab_03" part="F" prev="#LL1.6_ab_03_1r" type="parag" xml:id="LL1.6_ab_03_1v">
+					<lb break="no" facs="#LL1.6_line_1v_01" n="1" rend="double-stroke" xml:id="LL1.6_lb_1v_01"/>
+					<s n="s_07" part="F" prev="#LL1.6_s_07_1r" type="sentence" xml:id="LL1.6_s_07_1v">
+						<w part="F" prev="#LL1.6_1r_01_poiche" xml:id="LL1.6_1v_01_poiche">ché</w> è l'unico neo che gli si può imputare,
+						<lb facs="#LL1.6_line_1v_02" n="2" xml:id="LL1.6_lb_1v_02"/>
+						dicendo tutto il resto come stà nel mio pensiero.
+					</s>
+				</ab>
+				<ab n="ab_04" rend="first_line_indented" type="parag" part="N">
+					<s n="s_08" type="sentence" part="N">
+						<lb facs="#LL1.6_line_1v_03" n="3" xml:id="LL1.6_lb_1v_03"/>
+						Io resterò in queste rive, forse, sino alla
+						<date cert="medium" notAfter="1830-09-15" instant="false">mettà
+							<lb facs="#LL1.6_line_1v_04" n="4" xml:id="LL1.6_lb_1v_04"/>
+							dell'entrante mese.</date>
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						Vedendo
+						<persName ref="#ViscontiDAragonaAlessandro">Visconti</persName> tanti e
+						<lb facs="#LL1.6_line_1v_05" n="5" xml:id="LL1.6_lb_1v_05"/>
+						tanti saluti da mia parte come anche alla
+						<lb facs="#LL1.6_line_1v_06" n="6" xml:id="LL1.6_lb_1v_06"/>
+						nostra buona
+						<persName ref="#FavelliStefania">Favelli,</persName> che mi auguro dell'<w part="N">intut
+							<lb break="no" facs="#LL1.6_line_1v_07" n="7" rend="double-stroke" xml:id="LL1.6_lb_1v_07"/>
+							to</w> rimessa.
+					</s>
+					<s n="s_10" type="sentence" part="N">
+						A
+						<persName ref="#ReinaDomenico">Reina</persName> tante cose, e così a
+						<lb facs="#LL1.6_line_1v_08" n="8" xml:id="LL1.6_lb_1v_08"/>
+						tutti gli amici. —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_05" part="N">
+					<s n="s_11" type="sentence" part="N">
+						Presenta i miei rispetti <w part="N">al
+							<lb break="no" facs="#LL1.6_line_1v_09" n="9" rend="double-stroke" xml:id="LL1.6_lb_1v_09"/>
+							la</w>
+						<choice><abbr type="title">Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<persName type="person" role="nobility">Contessa,</persName> e tu ricevi i miei abbracci
+						<lb facs="#LL1.6_line_1v_10" n="10" xml:id="LL1.6_lb_1v_10"/>
+						e non obbliare a chi tanto stima la tua
+						<lb facs="#LL1.6_line_1v_11" n="11" xml:id="LL1.6_lb_1v_11"/>
+						amicizia.
+					</s>
+					<s n="s_12" type="sentence" part="N">
+						Addio
+					</s>
+				</ab>
+				<salute n="ab_06">
+					<lb facs="#LL1.6_line_1v_12" n="12" xml:id="LL1.6_lb_1v_12"/>
+					<s corresp="#splitted_sentence_2" part="N">
+						<hi rend="align(right)">Il tuo
+							<choice><abbr>am<hi rend="sup">o</hi></abbr><expan instant="false">am<ex instant="false">ic</ex>o</expan></choice></hi>
+					</s>
+				</salute>
+				<lb facs="#LL1.6_line_1v_13" n="13" xml:id="LL1.6_lb_1v_13"/>
+				<signed rend="align(right)">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">
+						<choice><abbr type="">Vin<am instant="false">:</am><hi rend="sup">zo</hi></abbr><expan instant="false">Vin<ex instant="false">cen</ex>zo</expan></choice>
+						Bellini
+					</persName>
+				</signed>
+			</div>
+			<pb n="LL1.6.2r" xml:id="LL1.6_fol_2r" facs="data/test-img/LL1.6/LL1-6_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.6.2v" xml:id="LL1.6_fol_2v" facs="data/test-img/LL1.6/LL1-6_0004.dzi"/>
+			<div type="destination" part="N" org="uniform" sample="complete">
+				<ab type="receiver" xml:id="LL1.6_line_2v_01_multiple" part="N">
+					<address xml:lang="fr">
+						<lb facs="#LL1.6_line_2v_01" n="1" xml:id="LL1.6_lb_2v_01"/>
+						<addrLine>
+							Monsieur le Comte
+							<persName ref="#TascaOttavioGiulioMaria">Octave Tasca</persName>
+						</addrLine>
+						<lb facs="#LL1.6_line_2v_02" n="2" xml:id="LL1.6_lb_2v_02"/>
+						<addrLine rend="align(right)">
+							à
+							<placeName ref="#BG">Bergame</placeName>
+						</addrLine>
+					</address>
+				</ab>
+				<ab facs="#LL1.6_hotspot_2v_02" type="paratext" xml:id="LL1.6_hs_2v_02" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#BG">BERG<unclear reason="illegible" instant="false">AMO</unclear></placeName>
+							+++
+						</mentioned>
+						<mentioned>
+							<date instant="false">27</date>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.6_hotspot_2v_03" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.6_hs_2v_04" part="N">
+					<!-- seconda mano -->
+					<unclear instant="false"><persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName></unclear>
+				</ab>
+				<ab facs="#LL1.6_hotspot_2v_04" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.6_hs_2v_05" part="N">
+					+++
+				</ab>
+			</div>
+			<div type="sent" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.6_hotspot_2v_01" type="paratext" xml:id="LL1.6_hs_2v_01" part="N">
+					<stamp type="postmark">
+						<mentioned>
+							<placeName ref="#CO">COMO</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.6_hotspot_1r_01h" facs="#LL1.6_hotspot_1r_01"><p>annotazione a matita che rappresenta il numero 38, probabilmente dovuta ad un catalogatore</p></div><div xml:id="LL1.6_hotspot_2v_01h" facs="#LL1.6_hotspot_2v_01"><p>timbro postale di partenza riportante "COMO"</p></div><div xml:id="LL1.6_hotspot_2v_02h" facs="#LL1.6_hotspot_2v_02"><p> timbro di arrivo riportante "Bergamo 27"</p></div><div xml:id="LL1.6_hotspot_2v_03h" facs="#LL1.6_hotspot_2v_03"><p>annotazione a matita che presenta "Bellini", probabilmente dovuta ad un catalogatore</p></div><div xml:id="LL1.6_hotspot_2v_04h" facs="#LL1.6_hotspot_2v_04"><p>segno V di significato e origini incerte, ricorrente nell'epistolario di Bellini</p></div></div></back>
+	</text>
+</TEI>

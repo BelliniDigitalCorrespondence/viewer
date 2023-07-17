@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-07" instant="false">July 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Adriano Cateni</name>
+					<name full="yes" instant="false">Matteo Gallini</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_24.II.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="430" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="502" to="502" unit="page">502</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.24.II</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 2, I (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.24.II"><idno type="inventory">LL1.24.II</idno><title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="430"><locus from="502" to="502">n. 430, p. 502.</locus></citedRange></bibl><bibl>Neri, 2005, p. 421. </bibl><incipit><fw>Incipit </fw>Incipit non presente</incipit><explicit><fw>Explicit </fw>
+				
+				
+					
+						
+						Milles amitiés de
+					
+				
+				
+					
+						
+						
+							votre
+						
+					
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-05" instant="false">Maggio 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.24.II_facsimile">
+		<surface n="LL1.24.II.1" xml:id="LL1.24.II_folio_1r" corresp="#LL1.24.II_fol_1r"><graphic url="data/test-img/LL1.24.II/LL1-24-II_0001.dzi" width="2468px" height="1610px"/><zone ulx="82.03" uly="278.30" lrx="266.58" lry="356.81" rendition="HotSpot" xml:id="LL1.24.II_hotspot_1r_01" corresp="#LL1.24.II_hotspot_1r_01h" start="#LL1.24.II_hotspot_1r_01h"/><zone ulx="106.05" uly="19.04" lrx="158.19" lry="88.47" rendition="HotSpot" xml:id="LL1.24.II_hotspot_1r_02" corresp="#LL1.24.II_hotspot_1r_02h" start="#LL1.24.II_hotspot_1r_02h"/><zone ulx="278.30" uly="69.72" lrx="319.32" lry="189.83" rendition="HotSpot" xml:id="LL1.24.II_hotspot_1r_03" corresp="#LL1.24.II_hotspot_1r_03h" start="#LL1.24.II_hotspot_1r_03h"/><zone ulx="374.98" uly="15.23" lrx="712.45" lry="49.22" rendition="line" xml:id="LL1.24.II_line_1r_01"/><zone ulx="374.98" uly="41.60" lrx="712.45" lry="68.84" rendition="line" xml:id="LL1.24.II_line_1r_02"/><zone ulx="374.98" uly="68.84" lrx="712.45" lry="97.26" rendition="line" xml:id="LL1.24.II_line_1r_03"/><zone ulx="374.98" uly="96.09" lrx="712.45" lry="128.31" rendition="line" xml:id="LL1.24.II_line_1r_04"/><zone ulx="374.98" uly="118.64" lrx="712.45" lry="151.75" rendition="line" xml:id="LL1.24.II_line_1r_05"/><zone ulx="374.98" uly="146.47" lrx="712.45" lry="181.04" rendition="line" xml:id="LL1.24.II_line_1r_06"/><zone ulx="374.98" uly="171.38" lrx="712.45" lry="212.39" rendition="line" xml:id="LL1.24.II_line_1r_07"/><zone ulx="374.98" uly="205.06" lrx="642.15" lry="240.80" rendition="line" xml:id="LL1.24.II_line_1r_08"/><zone ulx="547.23" uly="251.94" lrx="622.52" lry="285.63" rendition="line" xml:id="LL1.24.II_line_1r_09"/></surface>
+		<surface n="LL1.24.II.2" xml:id="LL1.24.II_folio_1v" corresp="#LL1.24.II_fol_1v"><graphic url="data/test-img/LL1.24.II/LL1-24-II_0002.dzi" width="2468px" height="1610px"/><zone ulx="432.98" uly="271.86" lrx="700.74" lry="379.37" rendition="HotSpot" xml:id="LL1.24.II_hotspot_1v_01" corresp="#LL1.24.II_hotspot_1v_01h" start="#LL1.24.II_hotspot_1v_01h"/><zone ulx="30.76" uly="55.07" lrx="678.18" lry="465.79" rendition="HotSpot" xml:id="LL1.24.II_hotspot_1v_02" corresp="#LL1.24.II_hotspot_1v_02h" start="#LL1.24.II_hotspot_1v_02h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.24.II" xml:id="LL1.24.II">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a destinatario sconosciuto, in Parigi, [maggio 1835]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        430  p. 502</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Nel verso della minuta si trova la <hi facs="#LL1.24.II_hotspot_1v_02">lettera LL1.24.I, ruotata di 90°</hi>. La lettera fa quindi parte della stessa unità codicologica di LL1.24.I, da cui la Seminara deduce la datazione della presente.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Testo e altre mani in Francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.24.II</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>133x204<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Lettera composta da un solo foglio, piegata verticalmente a metà. Sulla carta 1r testo scritto da sinistra verso destra che occupa metà pagina; sulla carta 1v testo ruotato di 90° in senso orario.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera parzialmente rovinata dal tempo con alcuni fori. Sembra stata strappata da un quaderno. È composta da un folio con scritte su entrambe le facciate. Leggera piegatura sul vertice sinistro della carta 1r.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+								Scrittura a mano libera.
+							 
+								
+								
+									Nella carta 1r troviamo una
+									scritta in blu di un'altra mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 19 tra parentesi.
+								
+							 
+								
+								
+									Nella parte superiore a sinistra della carta 1v troviamo
+									una sigla in blu di una terza mano, attribuibili molto probabilmente a un catalogatore e riportante probabilmente il testo "N 22".
+								
+							 
+								
+								
+									Nella carta 1v troviamo una
+									scritta di un'altra mano difficilmente leggibile, probabilmente una firma.
+								
+							 
+								
+								
+									Scrittura a mano libera poco leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingt-troisième
+									significa
+									ventitreesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Maggio 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="fr">
+			<!--Body in lingua francese-->
+			<pb n="LL1.24.II.1r" xml:id="LL1.24.II_fol_1r" facs="data/test-img/LL1.24.II/LL1-24-II_0001.dzi"/>
+			<!-- recto-->
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_03" type="parag" part="N">
+					<s n="s_06" type="sentence" part="N">
+						<ptr target="#LL1.24.II_note1"/><note>(Nota Seminara, 2017: p. 502 n. 858)<p part="N">
+							<supplied resp="#LM" instant="false">La lettera è incompleta.</supplied> Nel <hi rend="italic">recto</hi> del medesimo foglio vi è una minuta a un destinatario sconosciuto <supplied resp="#DS" instant="false">(si veda <hi rend="italic">infra,</hi> Lettera 429, catalogata come LL1.24.I).</supplied>
+						</p></note>
+						<lb facs="#LL1.24.II_line_1r_01" n="1" xml:id="LL1.24.II_lb_1r_01"/>
+						en assurant
+						<persName ref="#LaportePierreFrancois">
+							<choice><abbr>M<am instant="false">:</am><hi rend="sup">r</hi></abbr><expan instant="false">M<ex instant="false">onsieu</ex>r</expan></choice>
+							Laporte,
+						</persName>
+						qui vous
+						<lb facs="#LL1.24.II_line_1r_02" n="2" xml:id="LL1.24.II_lb_1r_02"/>
+						lui rendra à sa premiere demande,
+						<lb facs="#LL1.24.II_line_1r_03" n="3" xml:id="LL1.24.II_lb_1r_03"/>
+						<unclear reason="damage" instant="false">
+						[+++]<!--Parola rovinata non leggibile-->
+						</unclear>qui dans ce moment est
+						<lb facs="#LL1.24.II_line_1r_04" n="4" xml:id="LL1.24.II_lb_1r_04"/>
+						necessaire pour vous comme <w resp="#DS" part="N">pour</w>
+						<lb facs="#LL1.24.II_line_1r_05" n="5" xml:id="LL1.24.II_lb_1r_05"/>
+						le theatre,
+						<del rend="strikethrough" instant="false" status="unremarkable">plaisir qui</del> je suis
+						<lb facs="#LL1.24.II_line_1r_06" n="6" xml:id="LL1.24.II_lb_1r_06"/>
+						sûre qui ne vous
+						<choice><orig>rifusera </orig><reg instant="false">refusera</reg></choice>
+						<!--Parte di testo danneggiata per sfregamento-->
+						de
+						<lb facs="#LL1.24.II_line_1r_07" n="7" xml:id="LL1.24.II_lb_1r_07"/>
+						vous faire ce plaisir —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<!--Chiusura della lettera-->
+				<ab n="ab_04" part="N">
+					<s n="s_07" type="sentence" part="N">
+						<lb facs="#LL1.24.II_line_1r_08" n="8" xml:id="LL1.24.II_lb_1r_08"/>
+						Milles amitiés <supplied cert="high" reason="lost" instant="false">de</supplied>
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_08" type="sentence" part="N">
+						<lb facs="#LL1.24.II_line_1r_09" n="9" xml:id="LL1.24.II_lb_1r_09"/>
+						<hi rend="align(right)">
+							<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco" type="person" role="composer">votre</persName>
+						</hi>
+					</s>
+				</salute>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<!--3 segni grafici in fondo al recto-->
+				<ab facs="#LL1.24.II_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.24.II_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 22</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.24.II_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.24.II_hs_1r_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(19)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.24.II_hotspot_1r_03" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.24.II_hs_1r_03" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.24.II.1v" xml:id="LL1.24.II_fol_1v" facs="data/test-img/LL1.24.II/LL1-24-II_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<!-- verso-->
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<!--3 segni grafici in fondo al recto-->
+				<ab facs="#LL1.24.II_hotspot_1v_01" hand="#h4" subtype="addition" type="paratext" xml:id="LL.1.24.II_hs_1v_01" part="N">
+					<fw>
+						<unclear instant="false">
+							Vingt-troisième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.24.II_hotspot_1r_01h" facs="#LL1.24.II_hotspot_1r_01"><p>una sigla in blu di una terza mano, attribuibili molto probabilmente a un catalogatore e riportante probabilmente il testo "N 22"</p></div><div xml:id="LL1.24.II_hotspot_1r_02h" facs="#LL1.24.II_hotspot_1r_02"><p>scritta in blu di un'altra mano, attribuibile molto probabilmente a un catalogatore, che presenta il numero 19 tra parentesi</p></div><div xml:id="LL1.24.II_hotspot_1r_03h" facs="#LL1.24.II_hotspot_1r_03"><p>scritta di un'altra mano difficilmente leggibile, probabilmente una firma</p></div><div xml:id="LL1.24.II_hotspot_1v_01h" facs="#LL1.24.II_hotspot_1v_01"><p>
+								
+								
+									Scrittura a mano libera poco leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									vingt-troisième
+									significa
+									ventitreesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.24.II_hotspot_1v_02h" facs="#LL1.24.II_hotspot_1v_02"><p>lettera LL1.24.I, ruotata di 90°</p></div></div></back>
+	</text>
+</TEI>

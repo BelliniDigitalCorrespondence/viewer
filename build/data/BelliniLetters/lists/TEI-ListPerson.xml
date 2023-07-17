@@ -1,0 +1,2484 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					<!-- Insert title for this digital text -->
+				</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2021-04">April 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="DS">Daria Spampinato</name>
+					<name xml:id="EC">Erica Capizzi</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<p>
+					<!-- Insert information about the publication of this digital text -->
+				</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listPerson xml:id="listperson">
+
+					<person xml:id="BarboGiacomo">
+						<persName>
+							<forename>Giacomo</forename>
+							<surname>Barbò</surname>
+							<roleName type="nobility">conte di <placeName>Casalmorano</placeName></roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1786">1786</date>
+							<placeName ref="TEI-ListPlace.xml#BG">
+								<settlement type="municipality">Bergamo</settlement>
+								<settlement type="provincia" key="BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1849">1849</date>
+							<placeName ref="TEI-ListPlace.xml#BG">
+								<settlement type="municipality">Bergamo</settlement>
+								<settlement type="provincia" key="BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="131">
+							<bibl>
+								<citedRange unit="page" from="105" to="105">105</citedRange>
+							</bibl>
+							<p>
+								Giacomo Barbò <gap reason="editorial"/> era un coltivatore all’avanguardia nell’allevamento dei bachi da seta. Musicista dilettante, fu autore dei <hi rend="italic">Cenni illustrativi sulla nuova opera seria “<rs type="work" ref="TEI-ListWork.xml#Straniera">La Straniera</rs>”</hi>, pubblicati a Milano da Bianchi nel 1829.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="BelliniRosario" sameAs="http://viaf.org/viaf/6051130">
+						<persName role="harpsichordist composer organist choirmaster">
+							<ref target="https://opac.rism.info/search?id=pe20001181&amp;View=rism"/>
+							<forename>Rosario</forename>
+							<surname>Bellini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1776">1776</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1840">1840</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="4">
+							<bibl>
+								<citedRange unit="page" from="65" to="65">65</citedRange>
+							</bibl>
+							<p>
+								Rosario Bellini (Catania, 1776 - 1840). Padre di Vincenzo, aveva sposato Agata Ferlito il 17 gennaio 1801; con lei si stabilì in un modesto appartamento di tre stanze ricavato dalle <hi rend="italic">dépendances</hi> del settecentesco palazzo Gravina Cruylas, situato in Largo San Francesco a Catania. I due coniugi ebbero sette figli: Vincenzo, il primogenito, nel 1801, Carmelo nel 1803, Francesco nel 1804, Michela nel 1806, Giuseppa nel 1807, Mario nel 1810, Maria nel 1813. Come il padre Vincenzo Tobia e come i fratelli Carmelo e Mario, anche Rosario Bellini operò a Catania come musicista e si dedicò prevalentemente al genere sacro.
+							</p>
+						</note>
+					</person>
+					
+					<person xml:id="BelliniVincenzoSalvatoreCarmeloFrancesco" sameAs="http://viaf.org/viaf/39560983">
+						<persName role="composer">
+							<ref target="https://opac.rism.info/search?id=pe11648&amp;View=rism http://www.treccani.it/enciclopedia/vincenzo-bellini_(Dizionario-Biografico)"/>
+							<forename>Vincenzo</forename>
+							<forename>Salvatore</forename>
+							<forename>Carmelo</forename>
+							<forename>Francesco</forename>
+							<surname>Bellini</surname>
+							<addName type="epiteth">Il Cigno</addName>
+							<roleName type="honorific">Cavaliere della Legione d'onore</roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1801-11-03">3 novembre 1801</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1835-09-23">23 settembre 1835</date>
+							<placeName ref="TEI-ListPlace.xml#Put">
+								<settlement type="municipality">Puteaux</settlement>
+								<settlement type="département" key="Paris">Paris</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="https://www.studibelliniani.eu/biografia" resp="DS">
+							<p>
+								Fu il primo dei sette figli di Rosario e Agata Ferlito, e nipote di Vincenzo Tobia, rinomato organista e compositore. I primi lavori furono un <hi rend="italic">“Gallus cantavit”</hi> e alcune composizioni sacre per organo o orchestra. Nel giugno del 1819 iniziò a frequentare, grazie a una borsa di studio, il Conservatorio di Napoli, dove iniziò la stretta amicizia con Francesco Florimo. Nel 1825, Bellini presentò l'opera semiseria <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Adelson_e_Salvini">Adelson e Salvini</rs></hi>. L'anno successivo andò in scena al Teatro San Carlo <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Bianca_e_Gernando">Bianca e Gernando</rs></hi>. Il 27 ottobre 1827 al Teatro alla Scala di Milano venne rappresentata <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Pirata">Il pirata</rs></hi>, con libretto di Felice Romani. Dal 1827 al 1833 Bellini risedette prevalentemente a Milano. In questi anni compose <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Straniera">La straniera</rs></hi> e <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Zaira">Zaira</rs></hi>. All’inizio del 1830 il musicista si recò a Venezia per la prima rappresentazione de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Capuleti">I Capuleti e i Montecchi</rs></hi>. Nel 1831 compose <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">La sonnambula</rs></hi> e <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma</rs></hi>, rappresentate a Milano. All’inizio del 1832 Bellini intraprese un lungo viaggio nel Sud dell’Italia, che lo portò prima a Napoli, poi in Sicilia. Nel 1833 a Venezia fu messa in scena <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Beatrice_di_Tenda">Beatrice di Tenda</rs></hi>. Alla fine di aprile del 1833 si trasferì a Londra, dove furono messe in scena alcune sue opere. Nell’aprile 1834 Bellini ricevette un incarico dal Théâtre-Italien: compose <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">I puritani</rs></hi> su libretto di Carlo Pepoli, rappresentata con esito trionfale. Morì di colera a Puteaux, sobborgo di Parigi. Gioacchino Rossini si occupò di inviare alla famiglia i beni di Bellini, e organizzò il 2 ottobre 1835 una solenne cerimonia funebre agli <hi rend="italic">Invalides</hi>. Il corpo imbalsamato fu sepolto a Parigi, e nel 1876 fu trasferito a Catania.
+							</p>
+						</note>
+						<listEvent>
+							<head>Vita di Bellini</head>
+							<event type="birth" when="1801-11-03" where="Catania">
+								<label>Nascita</label>
+							</event>
+							<event type="studies" when="1819-06" where="Napoli">
+								<label>Inizio degli studi al <orgName>Conservatorio di 
+									<placeName ref="TEI-ListPlace.xml#NA">Napoli</placeName>
+								</orgName></label>
+							</event>
+							<event type="work" when="1825-02" where="Napoli">
+								<label>Prima di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Adelson_e_Salvini">Adelson e Salvini</rs></hi></label>
+							</event>
+							<event type="work" when="1826-05-30" where="Napoli">
+								<label>Prima di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Bianca_e_Gernando">Bianca e Gernando</rs></hi></label>
+							</event>
+							<event type="work" when="1827-10-27" where="Milano">
+								<label>Prima de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Pirata">Il pirata</rs></hi></label>
+							</event>
+							<event type="residence" from="1827" to="1833" where="Milano">
+								<label>Residenza a <placeName ref="TEI-ListPlace.xml#MI">Milano</placeName></label>
+							</event>
+							<event type="work" when="1829-02-14" where="Milano">
+								<label>Prima de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Straniera">La straniera</rs></hi></label>
+							</event>
+							<event type="work" when="1829-05-16" where="Parma">
+								<label>Prima di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Zaira">Zaira</rs></hi></label>
+							</event>
+							<event type="work" when="1830-03-11" where="Venezia">
+								<label>Prima de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Capuleti">I Capuleti e i Montecchi</rs></hi></label>
+							</event>
+							<event type="work" when="1831-03-06" where="Milano">
+								<label>Prima de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">La sonnambula</rs></hi></label>
+							</event>
+							<event type="work" when="1831-12-26" where="Parma">
+								<label>Prima di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma</rs></hi></label>
+							</event>
+							<event type="travel" when="1832" where="Napoli Sicilia">
+								<label>Viaggio nel Sud Italia</label>
+							</event>
+							<event type="work" when="1833-03-16">
+								<label>Prima di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Beatrice_di_Tenda">Beatrice di Tenda</rs></hi></label>
+							</event>
+							<event type="residence" from="1833-04" where="Londra">
+								<label>Residenza a Londra</label>
+							</event>
+							<event type="work" when="1835-01-24" where="Parigi">
+								<label>Prima de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">I puritani</rs></hi></label>
+							</event>
+							<event type="death" when="1835-09-23" where="Puteaux">
+								<label>Morte</label>
+							</event>
+						</listEvent>
+					</person>
+
+					<person xml:id="BelliniVincenzoTobiaNicola" sameAs="http://viaf.org/viaf/62666262">
+						<persName role="composer">
+							<ref target="https://www.treccani.it/enciclopedia/vincenzo-tobia-nicola-bellini_%28Dizionario-Biografico%29/"/>
+							<forename>Vincenzo</forename>
+							<forename>Tobia</forename>
+							<forename>Nicola</forename>
+							<surname>Bellini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1744-05-12">12 maggio 1744</date>
+							<placeName>
+								<settlement type="municipality">Torricella Peligna</settlement>
+								<settlement type="provincia" key="CH">Chieti</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1829-06-08">8 giugno 1829</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="5">
+							<bibl>
+								<citedRange unit="page" from="65" to="65">65</citedRange>
+							</bibl>
+							<p>
+								Vincenzo Tobia Bellini (Torricella Peligna, 1744 - Catania, 1829). Nonno di Vincenzo, studiò a Napoli al Conservatorio di Sant’Onofrio a Capuana con Carlo Cotumacci e Giuseppe Dol. Dal 1769 è attestata la sua presenza a Catania; risale a quell’anno il matrimonio con Michela Burzì, celebrato nella chiesa dei SS. Filippo e Giacomo. Nella città etnea compose drammi sacri e oratori, operò come maestro di cappella presso il Monastero benedettino di S. Nicolò l’Arena tra il 1784 e il 1793 e fu stabilmente al servizio di Ignazio Paternò Castello, V principe di Biscari (Catania, 1719 - 1786).
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="BeltramePietro" sameAs="http://viaf.org/viaf/69282998">
+						<persName role="librettist poet">
+							<ref target="https://opac.rism.info/search?id=pe30026048&amp;View=rism"/>
+							<forename>Pietro</forename>
+							<surname>Beltrame</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1810" cert="medium">1810</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1840" cert="medium">1840</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="857">
+							<bibl>
+								<citedRange unit="page" from="502" to="502">502</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Pietro Beltrame (Venezia, 1810 ca. - dopo il 1840). Autore del libretto de <hi rend="italic"><rs type="work">La fidanzata di Lammermoor</rs></hi> (dal romanzo di Walter Scott <hi rend="italic"><rs type="work">The Bride of Lammermoor</rs></hi>), messa in musica da Alberto Mazzucato e rappresentata al Teatro Nuovissimo di Padova il 24 febbraio 1834, scrisse un’ode A Vincenzo Bellini, che venne pubblicata su «L’Eco» di Milano il 18 maggio 1835.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="BossiRosa">
+						<persName>
+							<forename>Rosa</forename>
+							<surname>Bossi</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1796">1796</date>
+							<placeName>
+								<settlement type="municipality">Castelleone</settlement>
+								<settlement type="provincia" key="CR" ref="TEI-ListPlace.xml#CR">Cremona</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1830">1830</date>
+							<placeName ref="TEI-ListPlace.xml#Casal">
+								<settlement type="municipality">Casalbuttano</settlement>
+								<settlement type="provincia" key="CR" ref="TEI-ListPlace.xml#CR">Cremona</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="259">
+							<bibl>
+								<citedRange unit="page" from="165" to="165">165</citedRange>
+							</bibl>
+							<p>
+								Rosa Bossi (Castelleone, 1796-Casalbuttano, 1830), moglie di Bartolomeo Turina (detto “Bartolo”) e cognata di Ferdinando e Giuditta Turina. Dal marito ebbe quattro figli, ma ne sopravvissero solo due: Francesca, nata nel 1818, e Fortunato, nato nel 1825.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CarafaMichele" sameAs="http://viaf.org/viaf/61792392">
+						<persName role="composer">
+							<ref target="https://opac.rism.info/search?id=pe30000580&amp;View=rism https://www.treccani.it/enciclopedia/michele-enrico-carafa_(Dizionario-Biografico) https://it.wikipedia.org/wiki/Michele_Carafa"/>
+							<forename>Michele</forename>
+							<surname>Carafa</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1787-11-17">17 novembre 1787</date>
+							<placeName ref="TEI-ListPlace.xml#NA">
+								<settlement type="municipality">Napoli</settlement>
+								<settlement type="provincia" key="NA">Napoli</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1872-07-26">1872</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="505">
+							<bibl>
+								<citedRange unit="page" from="308" to="308">308</citedRange>
+							</bibl>
+							<p>
+								Michele Carafa (Napoli, 1787-Parigi, 1872) era figlio cadetto di Giovanni, principe di Colubrano e duca di Alvito. Studiò a Napoli con Fenaroli e a Parigi con Cherubini e raggiunse il successo con <hi rend="italic"><rs type="work">Gabriella di Vergy</rs></hi> su libretto di Tottola, rappresentata al Teatro del Fondo di Napoli il 3 luglio 1816; si impose quindi a Parigi con il “drame lyrique” <hi rend="italic"><rs type="work">Jeanne d’Arc à Orléans</rs></hi> su libretto di Marie-Emmanuel Théaulon de Lambert e François Victor Armand d’Artois, messo in scena all’Opéra-comique il 10 marzo 1821. Nel 1834 assunse la cittadinanza francese, nel 1837 divenne direttore dell’Académie des Beaux-Arts e dal 1840 al 1858 tenne la cattedra di Contrappunto al Conservatorio di Parigi.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CantuTurinaGiuditta" sameAs="http://viaf.org/viaf/3324410">
+						<persName>
+							<ref target="https://opac.rism.info/search?id=pe40216349&amp;View=rism"/>
+							<forename>Giuditta</forename>
+							<surname type="maiden">Cantù</surname>
+							<surname type="married">Turina</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1803">1803</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1871">1871</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="260">
+							<bibl>
+								<citedRange unit="page" from="165" to="165">165</citedRange>
+							</bibl>
+							<p>Giuditta Cantù (Milano, 1803-1871) era figlia di Giuseppe Cantù, un agiato commerciante, e della nobile Carolina Sopransi. Nel 1819 aveva sposato il facoltoso imprenditore Ferdinando Turina (Casalbuttano, 1795 - Milano, 1869), dal quale non aveva avuto figli.</p>
+						</note>
+						<note resp="#GS">
+							<p>
+								Conobbe Bellini nell’aprile del 1828, in occasione dell’inaugurazione del Teatro Carlo Felice di Genova con l’opera <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Bianca_e_Gernando">Bianca e Fernando</rs>,</hi> e iniziò con lui una relazione sentimentale che sarebbe durata fino alla partenza del musicista per Londra nell’aprile del 1833. A lei Bellini dedicò la «Gran Scena ed aria finale “Deh non ferir, ah, sentimi”» dell’opera <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Bianca_e_Gernando">Bianca e Fernando</rs></hi>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CavendishWilliam" sameAs="http://viaf.org/viaf/25344590">
+						<persName>
+							<ref target="https://it.wikipedia.org/wiki/William_Cavendish,_VI_duca_di_Devonshire"/>
+							<forename>William</forename>
+							<surname>Cavendish</surname>
+							<roleName type="nobility">VI duca di <placeName>Devonshire</placeName></roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1790-05-21">21 maggio 1790</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1858-01-18">18 gennaio 1858</date>
+							<placeName>
+								<settlement>Hardwick Hall</settlement>
+								<settlement type="county">Derbyshire</settlement>
+								<country key="GB">Great Britain</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="576">
+							<bibl>
+								<citedRange unit="page" from="343" to="343">343</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> William Cavendish (1790 - 1858), VI duca di Devonshire e fratello di Harriet Cavendish Granville.
+							</p>
+						</note>
+						<note resp="#GS">
+							<p>
+								Harriet Cavendish Granville (Londra, 1785 - 1862). Sposa del conte Granville (1773 - 1846), ambasciatore d’Inghilterra a Parigi tra il 1830 e il 1835, quest’ultima conobbe Bellini nel 1833, in occasione del suo soggiorno a Londra, e si adoperò per introdurre il musicista negli ambienti aristocratici della capitale francese.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="Ceriali">
+						<persName>
+							<forename type="unknown"/>
+							<surname>Ceriali</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="318">
+							<bibl>
+								<citedRange unit="page" from="202" to="202">202</citedRange>
+							</bibl>
+							<p>
+								Ceriali era un ricco possidente di Casalbuttano.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CobianchiGaetano">
+						<persName role="banker">
+							<forename>Gaetano</forename>
+							<surname>Cobianchi</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1794">1794</date>
+							<placeName>
+								<settlement type="municipality">Novara</settlement>
+								<settlement type="provincia" key="NO">Novara</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1866">1866</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="750">
+							<bibl>
+								<citedRange unit="page" from="445" to="445">445</citedRange>
+							</bibl>
+							<p>
+								Gaetano Cobianchi (Novara, 1794-Parigi, 1866), esule italiano a Parigi e funzionario della banca Hagermann, risiedeva a Place de la Madeleine. Intrattenne rapporti di amicizia con Bellini e Donizetti durante il soggiorno dei due musicisti nella capitale francese.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CostaMichele" sameAs="http://viaf.org/viaf/17415171">
+						<persName role="composer"> <!-- valori di @role: composer, librettist, tenore, editor, ...-->
+							<ref target="https://opac.rism.info/search?id=pe30009076&amp;View=rism"/>
+							<forename>Michele</forename>
+							<surname>Costa</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1808-02-04">4 febbraio 1808</date>
+							<placeName ref="TEI-ListPlace.xml#NA">
+								<settlement type="municipality">Napoli</settlement>
+								<settlement type="provincia" key="NA">Napoli</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1884-04-29">29 aprile 1884</date>
+							<placeName>
+								<settlement type="municipality">Hove</settlement>
+								<country key="GB">Great Britain</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="871">
+							<bibl>
+								<citedRange unit="page" from="510" to="510">510</citedRange>
+							</bibl>
+							<p>
+								Michele Costa (Napoli, 1808 - Hove, Sussex, 1884), al quale l'impresario del King's Theatre, Pierre François Laporte, aveva affidato la direzione dei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">Puritani</rs></hi>. Costa aveva studiato al Real Collegio di Musica di San Sebastiano con Tritto, Furno e Zingarelli; nel 1829 si era trasferito in Inghilterra ed era stato assunto - prima come maestro al cembalo, poi come direttore d'orchestra - al King's Theatre di Londra. Qui nel 1835 diresse sia <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">I Puritani</rs></hi> che il Marin Faliero, con gli stessi interpreti che avevano cantato a Parigi.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CrivelliGiuseppe">
+						<persName role="impresario">
+							<forename>Giuseppe</forename>
+							<surname>Crivelli</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1770" cert="medium">1770</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date when="1831">1831</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="167">
+							<bibl>
+								<citedRange unit="page" from="125" to="125">125</citedRange>
+							</bibl>
+							<p>
+								Giuseppe Crivelli (1770 ca. - Milano, 1831), impresario. Tra il 1804 e il 1806 tenne in gestione il Teatro Regio di Torino e nel 1821 rilevò l’impresa del Teatro La Fenice. Dal 1826 amministrava anche il Teatro alla Scala insieme a Domenico Barbaja, Carlo Balocchi e Giovanni Battista Villa.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="CurioniAlberico" sameAs="http://viaf.org/viaf/314801529">
+						<persName role="tenor">
+							<ref target="https://www.treccani.it/enciclopedia/alberico-curioni_(Dizionario-Biografico)/ https://doi.org/10.1093/gmo/9781561592630.article.06956"/>
+							<forename>Alberico</forename>
+							<surname>Curioni</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1785">1785</date>
+							<placeName>
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1875">1875</date>
+							<placeName>
+								<settlement type="municipality">Torno</settlement>
+								<settlement type="provincia" key="CO">Como</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="479">
+							<bibl>
+								<citedRange unit="page" from="291" to="464">291</citedRange>
+							</bibl>
+							<p>
+								Alberico Curioni (Milano, 1785-Torno, 1875), tenore, era stato scritturato dal Teatro La Fenice per la Stagione di Carnevale che doveva aprirsi il 26 dicembre 1832 con la messa in scena di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma</rs></hi>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="DelCarrettoFrancescoSaverio" sameAs="http://viaf.org/viaf/1194158982590256190003">
+						<persName>
+							<ref target="https://www.treccani.it/enciclopedia/del-carretto-francesco-saverio/"/>
+							<roleName type="nobility">marchese</roleName>
+							<forename>Francesco</forename>
+							<forename>Saverio</forename>
+							<surname>Del Carretto</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1777-09-11">11 settembre 1777</date>
+							<placeName>
+								<settlement type="municipality">Barletta</settlement>
+								<settlement type="provincia" key="TurinaBartolomeo">Barletta-Andria-Trani</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1861-11-21">21 novembre 1861</date>
+							<placeName ref="TEI-ListPlace.xml#NA">
+								<settlement type="municipality">Napoli</settlement>
+								<settlement type="provincia" key="NA">Napoli</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="782">
+							<bibl>
+								<citedRange unit="page" from="464" to="464">464</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Francesco Saverio Del Carretto (Barletta, 1777-Napoli, 1861) <gap reason="editorial"/>nel 1831 era diventato Ministro di Polizia del Regno delle Due Sicilie e aveva quindi acquisito i titoli di marchese e di cavaliere dell’Ordine di S. Giorgio.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="DenzaGiuseppe">
+						<persName role="opera_singer">
+							<forename>Giuseppe</forename>
+							<surname>Denza</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="608">
+							<bibl>
+								<citedRange unit="page" from="364" to="364">364</citedRange>
+							</bibl>
+							<p>
+								Giuseppe Denza era un giovane cantante italiano, che risiedeva a Londra; a lui Bellini aveva dato in custodia una copia di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma</rs></hi>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="DocaFedericoMassimiliano">
+						<persName>
+							<forename>Federico</forename>
+							<forename>Massimiliano</forename>
+							<surname>Doca</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="910">
+							<bibl>
+								<citedRange unit="page" from="535" to="535">535</citedRange>
+							</bibl>
+							<p>
+								Federico <sic>Massimilano</sic> Doca operava come impresario a Londra; curò la traduzione inglese del libretto dei <hi rend="italic">Puritani</hi> in occasione del primo allestimento dell’opera al King’s Theatre.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="FannaAntonio" sameAs="http://viaf.org/viaf/280375627">
+						<persName role="composer pianist">
+							<ref target="https://opac.rism.info/search?id=pe30081147&amp;View=rism"/>
+							<forename>Antonio</forename>
+							<surname>Fanna</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1792">1792</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1846-03-15">15 marzo 1846</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="371">
+							<bibl>
+								<citedRange unit="page" from="226" to="226">226</citedRange>
+							</bibl>
+							<p>
+								Antonio Fanna (1792-1846) era pianista e compositore. Autore di pezzi brillanti e parafrasi operistiche, nel 1837 pubblicò presso Ricordi una <hi rend="italic"><rs type="work">Gran fantasia per pianoforte</rs> sopra alcuni motivi dell’opera del Cav.e Bellini <rs type="work" ref="TEI-ListWork.xml#Puritani">I Puritani</rs></hi>. 
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="FavelliStefania" sameAs="http://viaf.org/viaf/302105211">
+						<persName role="soprano">
+							<ref target="https://opac.rism.info/search?id=pe30032310&amp;View=rism"/>
+							<forename>Stefania</forename>
+							<surname>Favelli</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1800" cert="medium">1800</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date notBefore="1860">1860</date>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="128">
+							<bibl>
+								<citedRange unit="page" from="104" to="104">104</citedRange>
+							</bibl>
+							<p>
+								Stefania Favelli (1800 ca. - dopo il 1860), soprano. Dopo l’esordio a Parigi nel 1820 ne <hi rend="italic">Le nozze di Figaro</hi> di Mozart, fu attiva a Vienna e nei maggiori teatri d’Italia. Tenne il ruolo di Alaide nell’allestimento della <hi rend="italic"><rs type="work" ref="#Straniera">Straniera</rs></hi> che si diede al Teatro Ricciardi di Bergamo il 17 agosto 1830.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="FerlitoAgata">
+						<persName>
+							<forename>Agata</forename>
+							<surname>Ferlito</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1778">1778</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1842">1842</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note resp="#GS">
+							<p>
+								Agata Ferlito (Catania, 1778-1842) apparteneva a una famiglia relativamente agiata poiché il padre Carmelo era funzionario presso l’amministrazione catanese. Sposò Rosario Bellini il 17 gennaio 1801 e con lui si stabilì in un modesto appartamento di tre stanze ricavato dalle <hi rend="italic">dépendances</hi> del settecentesco palazzo Gravina Cruylas, situato in Largo San Francesco a Catania. I due coniugi ebbero sette figli: Vincenzo, il primogenito, nel 1801, Carmelo nel 1803, Francesco nel 1804, Michela nel 1806, Giuseppa nel 1807, Mario nel 1810, Maria nel 1813.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="FerlitoFrancesco">
+						<persName>
+							<forename>Francesco</forename>
+							<surname>Ferlito</surname>
+							<addName type="alias">Don Ciccio</addName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1770" cert="medium">1770</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1850" cert="medium">1840</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="47">
+							<bibl>
+								<citedRange unit="page" from="79" to="79">79</citedRange>
+							</bibl>
+							<p>
+								Bellini si riferiva allo zio materno Francesco Ferlito (Catania, 1770 ca. - 1840 ca.). Impiegato presso l’Università di Catania, aveva sposato Agata Urzì e da lei aveva avuto tre figli.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="FerlitoVincenzo">
+						<persName>
+							<forename>Vincenzo</forename>
+							<surname>Ferlito</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1780" cert="medium">1780</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1850">1850</date>
+							<placeName ref="TEI-ListPlace.xml#London">
+								<settlement type="municipality">London</settlement>
+								<country key="GB">Great Britain</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="38">
+							<bibl>
+								<citedRange unit="page" from="77" to="77">77</citedRange>
+							</bibl>
+							<p>
+								Vincenzo Ferlito (Catania, 1780 ca. - 1850) era zio materno di Bellini; aveva sposato Rosaria Maugeri, indicata dal musicista come “zia Sara”. Bellini si rivolgeva a lui per far pervenire proprie notizie alla famiglia.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="FlorimoFrancesco" sameAs="http://viaf.org/viaf/44522632">
+						<persName role="composer arranger writer_on_music singing_teacher librarian">
+							<ref target="https://opac.rism.info/search?id=pe174832&amp;View=rism https://www.treccani.it/enciclopedia/francesco-florimo/ https://it.wikipedia.org/wiki/Francesco_Florimo"/>
+							<forename>Francesco</forename>
+							<surname>Florimo</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1800-10-12">12 ottobre 1800</date>
+							<placeName>
+								<settlement type="municipality">San Giorgio Morgeto</settlement>
+								<settlement type="provincia" key="RC">Reggio Calabria</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1888-12-18">18 dicembre 1888</date>
+							<placeName ref="TEI-ListPlace.xml#NA">
+								<settlement type="municipality">Napoli</settlement>
+								<settlement type="provincia">Napoli</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="33">
+							<bibl>
+								<citedRange unit="page" from="75" to="75">75</citedRange>
+							</bibl>
+							<p>
+								Francesco Florimo (San Giorgio Morgeto, 1800 - Napoli, 1888) fu condiscepolo di Bellini al Collegio di San Sebastiano e destinatario privilegiato delle missive del compositore di Catania. Nel 1826 subentrò a Giuseppe Sigismondo nella direzione della biblioteca del Conservatorio di Napoli, trasferito proprio in quell’anno nella nuova sede di San Pietro a Majella. Dopo la morte prematura di Bellini, decise di dedicare la propria vita alla memoria dell’amico: nel 1882 pubblicò la monografia <hi rend="italic">Bellini. Memorie e lettere</hi> (Firenze, Barbèra); nel 1878 coinvolse alcuni tra i massimi musicisti del tempo (Cajkovskij, Hiller, Liszt, Rubinstein, Cesi, Martucci, Rendano, Sgambati) per la realizzazione di un <hi rend="italic">Album per pianoforte</hi> dedicato a Bellini, che venne pubblicato a Napoli dalla Società Musicale Industriale (e quindi a Milano nel 1884 dallo Stabilimento Musicale Ricordi); nel 1886 inaugurò a Napoli un monumento a Bellini, realizzato dallo scultore Alfonso Balzico e finanziato con una pubblica sottoscrizione, alla quale aderirono numerose personalità italiane ed europee.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GabussiVincenzo" sameAs="http://viaf.org/viaf/88959020">
+						<persName role="composer">
+							<ref target="https://opac.rism.info/search?id=pe30005398&amp;View=rism http://www.treccani.it/enciclopedia/vincenzo-gabussi_(Dizionario-Biografico)/"/>
+							<forename>Vincenzo</forename>
+							<surname>Gabussi</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1800">1800</date>
+							<placeName>
+								<settlement type="municipality">Bologna</settlement>
+								<settlement type="provincia" key="BO">Bologna</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1846-12-12">12 dicembre 1846</date>
+							<placeName ref="TEI-ListPlace.xml#London">
+								<settlement type="municipality">London</settlement>
+								<country key="GB">Great Britain</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="508">
+							<bibl>
+								<citedRange unit="page" from="309" to="309">309</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Il compositore bolognese Vincenzo Gabussi (Bologna, 1800 - Londra, 1846), dopo gli studi con Stanislao Mattei, aveva esordito come operista al Teatro Comunale di Modena il 12 febbraio 1825 con <hi rend="italic"><rs type="work">I furbi al cimento</rs></hi>; nella seconda metà degli anni Venti si era trasferito a Londra, dove si era affermato come insegnante di canto e come autore di romanze da camera.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GaleotaGiovanni" sameAs="http://viaf.org/viaf/9321902">
+						<persName role="composer arranger">
+							<ref target="https://opac.rism.info/search?id=pe30007240&amp;View=rism"/>
+							<forename>Giovanni</forename>
+							<surname>Galeota</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="547">
+							<bibl>
+								<citedRange unit="page" from="328" to="328">328</citedRange>
+							</bibl>
+							<p>
+								Giovanni Galeota era segretario della Compagnia d’Industria e Belle Arti, che nel 1834 aveva rilevato la gestione del Teatro di San Carlo. 
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GambaroSofia">
+						<persName>
+							<forename>Sofia</forename>
+							<surname>Gambaro</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="473">
+							<bibl>
+								<citedRange unit="page" from="286" to="286">286</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> La genovese Sofia Gambaro aveva sposato Mercadante l’8 luglio 1832.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GaspariniPolliniMarianna" sameAs="http://viaf.org/viaf/36148120743694791995">
+						<persName role="performer harpist dedicatee mezzo-soprano">
+							<ref target="https://opac.rism.info/search?id=pe30069809&amp;View=rism"/>
+							<forename>Marianna</forename>
+							<surname>Gasparini</surname>
+							<surname type="married">Pollini</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1775">1775</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="67">
+							<bibl>
+								<citedRange unit="page" from="82" to="82">82</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Marianna Gasparini, cantante dilettante, che nel 1798 aveva sposato il compositore e didatta Francesco Pollini (Lubiana, 1762 - Milano, 1846). Questi aveva studiato con Mozart a Vienna e a Napoli con Zingarelli ed era autore di musica sacra e strumentale; aveva anche scritto un <hi rend="italic"><rs type="work">Metodo pel clavicembalo</rs></hi> (Milano, Ricordi, 1812) impiegato in quegli anni al Conservatorio di Milano, dove nel 1809 era stato chiamato a occupare la cattedra di pianoforte. A Marianna Pollini Bellini dedicò le <hi rend="italic"><rs type="work">Sei ariette per camera</rs></hi> pubblicate da Ricordi nel 1831; dedicata a Francesco Pollini è invece la riduzione per canto e pianoforte della <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula,</rs></hi> edita da Ricordi nel 1831.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GiordaniGiovanni" sameAs="http://viaf.org/viaf/217152742909827731561">
+						<persName role="bass">
+							<ref target="https://opac.rism.info/search?id=pe30068614&amp;View=rism https://www.treccani.it/enciclopedia/giovanni-battista-giordani_(Dizionario-Biografico)/"/>
+							<forename>Giovanni</forename>
+							<surname>Giordani</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1801">1801</date>
+							<placeName ref="#BG">
+								<settlement type="municipality">Bergamo</settlement>
+								<settlement type="provincia" key="BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1875">1875</date> 
+							<placeName ref="#RO" cert="medium"> 
+								<settlement type="municipality">Roma</settlement>
+								<settlement type="provincia" key="RO">Roma</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="373">
+							<bibl>
+								<citedRange unit="page" from="226" to="226">226</citedRange>
+							</bibl>
+							<p>
+								Giovanni Giordani (Bergamo, 1801 - Roma, 1875), basso, tenne il ruolo di Valdeburgo nella rappresentazione bergamasca de <hi rend="italic"><rs type="work" ref="#Straniera">La straniera</rs></hi>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GioviodellaTorreMartiniVirginia"> 
+						<persName>
+							<roleName type="nobility">contessa</roleName>
+							<forename>Virginia</forename>
+							<surname type="maiden">Giovio della Torre</surname>
+							<surname type="married">Martini</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1778">1778</date>
+							<placeName ref="#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1836">1836</date>
+							<placeName ref="#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="834">
+							<bibl>
+								<citedRange unit="page" from="491" to="491">491</citedRange>
+							</bibl>
+							<p>
+								Virginia Giovio della Torre (Milano, 1778-1836) era una nobile milanese, amica di Giuditta Pasta e di Giuditta Turina. Moglie del conte Francesco Martini, nel 1820 era stata ritratta nelle vesti di Diana da Francesco Hayez in uno dei suoi più celebri dipinti.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GiuffridaPaolaAngelica">
+						<persName>
+							<forename>Angelica</forename>
+							<surname type="maiden">Giuffrida</surname>
+							<surname type="married">Paola</surname>
+							<addName type="alias">Lidda</addName>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1811">1811</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1844">1844</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="440">
+							<bibl>
+								<citedRange unit="page" from="263" to="263">263</citedRange>
+							</bibl>
+							<p>
+								Angelica Paola Giuffrida (Catania, 1811 - 1844), chiamata confidenzialmente “Lidda”, figlia di Ignazio Giuffrida Moschetti e Giuseppa Nicotra e consorte di Gaetano Paola. A lei Bellini dedicò una versione della Cavatina per canto e pianoforte <rs type="work">«Dolente immagine di Fille mia»</rs>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GiuffridaMoschettiIgnazio">
+						<persName>
+							<forename>Ignazio</forename>
+							<surname>Giuffrida</surname>
+							<surname>Moschetti</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="437">
+							<bibl>
+								<citedRange unit="page" from="262" to="262">262</citedRange>
+							</bibl>
+							<p>
+								Ignazio Giuffrida Moschetti, catanese, era amico della famiglia Bellini e padre di Angelica Paola Giuffrida.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="JohnstonePlatamoneSophia" sameAs="http://viaf.org/viaf/103559713">
+						<persName>
+							<ref target="https://www.britishmuseum.org/collection/term/BIOG235899"/>
+							<forename>Sophia</forename>
+							<surname>Johnstone</surname>
+							<surname type="married">Platamone</surname>
+							<roleName type="nobility">duchessa di 
+								<placeName ref="TEI-ListPlace.xml#Ca">Cannizzaro</placeName>
+							</roleName>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName>
+								<settlement type="country" key="Scotland">Scozia</settlement>
+								<country key="GB">Great Britain</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1841">1841</date>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="509">
+							<bibl>
+								<citedRange unit="page" from="309" to="309">309</citedRange>
+							</bibl>
+							<p>
+								Sophia Johnstone, scozzese di nascita, che nel 1814 aveva sposato Francis Platamone, conte di Sant’Antonio; questi, di nobili ascendenze siciliane, nel 1830 aveva acquisito il titolo di duca di Cannizzaro. La coppia si muoveva tra Londra e Parigi, ma privilegiava la splendida residenza di Wimbledon, nota come “Warren House”, dove teneva <hi rend="italic">soirées</hi> musicali destinate all’alta società londinese.
+							</p>
+						</note>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="574">
+							<bibl>
+								<citedRange unit="page" from="343" to="343">343</citedRange>
+							</bibl>
+							<p>
+								A Sophia Johnstone, duchessa di Cannizzaro, Bellini dedicò l’arietta <rs type="work">«Odia la pastorella»,</rs> che reca la stessa data di questa lettera; dalla missiva si evince che il testo, desunto da un libretto di Metastasio (<hi rend="italic"><rs type="work">Issipile,</rs></hi> atto iii, scena 6), fu suggerito dalla stessa dedicataria.
+							</p>
+						</note>
+					</person>
+					<person xml:id="LanariAlessandro" sameAs="http://viaf.org/viaf/30590930">
+						<persName role="impresario">
+							<ref target="https://opac.rism.info/search?id=pe20002174&amp;View=rism http://www.treccani.it/enciclopedia/alessandro-lanari_(Dizionario-Biografico)/"/>
+							<forename>Alessandro</forename>
+							<surname>Lanari</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1787-01-25">25 gennaio 1787</date>
+							<placeName>
+								<settlement type="municipality">San Marcello</settlement>
+								<settlement type="provincia" key="AN">Ancona</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1852-10-07">7 ottobre 1852</date>
+							<placeName ref="TEI-ListPlace.xml#FI">
+								<settlement type="municipality">Firenze</settlement>
+								<settlement type="provincia" key="FI">Firenze</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="317">
+							<bibl>
+								<citedRange unit="page" from="201" to="201">201</citedRange>
+							</bibl>
+							<p>
+								Alessandro Lanari (<sic>1790</sic>-1852), impresario. Nel 1829 era entrato in società con Giuseppe Crivelli per la gestione del Teatro alla Scala e del Teatro La Fenice e aveva ripreso l’appalto del Teatro della Pergola di Firenze, che aveva già tenuto dal 1823 al 1828.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="LaportePierreFrancois" sameAs="http://viaf.org/viaf/56437876">
+						<persName role="impresario">
+							<ref target="https://doi.org/10.1093/gmo/9781561592630.article.O005884"/>
+							<forename>Pierre</forename>
+							<forename>François</forename>
+							<surname>Laporte</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1799">1799</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date when="1841-09-25">25 settembre 1841</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="478">
+							<bibl>
+								<citedRange unit="page" from="290" to="291">290-291</citedRange>
+							</bibl>
+							<p>
+								Pierre-François Laporte (<sic>1790</sic> – Parigi, 1841) era un impresario francese che dirigeva il King’s Theatre di Londra. Nel 1828 propose a Bellini una scrittura che prevedeva la messa in scena del <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Pirata">Pirata</rs></hi> e la composizione di una nuova opera per il principale teatro londinese, ma il progetto non andò in porto per le eccessive pretese finanziarie del musicista.
+							</p>
+						</note>
+						<note resp="#GS">
+							<p>
+								Alla fine del 1832 Bellini riprese i contatti con Laporte e il 1<hi rend="sup">°</hi> maggio 1833 giunse a Londra; dopo aver assistito al Teatro Drury Lane a una versione in lingua inglese di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula</rs></hi> con Maria Malibran nella parte di Amina, il 20 giugno 1833 mise in scena <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma</rs></hi> al King’s Theatre, con Giuditta Pasta nel ruolo della protagonista.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="LevySolomon">
+						<persName>
+							<forename>Solomon</forename>
+							<surname>Levy</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="825">
+							<bibl>
+								<citedRange unit="page" from="485" to="485">485</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Solomon Levy (o Lewis), secondo figlio del ricco ebreo inglese Michael Abraham Levy, «un commerciante di abiti confezionati, la cui ditta aveva sede in un grande magazzino nell’East End di Londra» (John Rosselli, <hi rend="italic">Bellini</hi> cit., p. 173). Levy – che era sposato e viveva nel sobborgo di Stoke Newington – si spostava spesso nel continente: nel 1830 fu a Milano, dove conobbe Giuditta Pasta e forse lo stesso Bellini, e negli anni 1834-35 si trattenne stabilmente a Parigi. Levy apparteneva alla cerchia delle più ristrette frequentazioni di Bellini; risiedeva in un lussuoso appartamento in Boulevard des Capucines, ma possedeva anche una residenza a Puteaux, nella quale ospitò a più riprese il musicista.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="LewisMarianna" sameAs="http://viaf.org/viaf/242159032529701180714">
+						<persName role="soprano">
+							<ref target="https://opac.rism.info/search?id=pe40203422&amp;View=rism"/>
+							<forename>Marianna</forename>
+							<surname>Lewis</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date notBefore="1780" notAfter="1789" cert="high" resp="#DS">178?</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date notBefore="1860" notAfter="1869" cert="high" resp="#DS">186?</date>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="375">
+							<bibl>
+								<citedRange unit="page" from="228" to="228">228</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Soprano inglese, Marianna Lewis (prima metà del secolo XIX) <gap reason="editorial"/> aveva studiato con Giuditta Pasta a Parigi e con Davide Banderali a Milano. Il 26 gennaio 1828 aveva preso parte all’allestimento dell’opera di Rossini <hi rend="italic"><rs type="work">Eduardo e Cristina</rs></hi> al Teatro alla Scala.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="LittaViscontiAresePompeo" sameAs="http://viaf.org/viaf/6495151717071113900000">
+						<persName>
+							<roleName type="nobility">duca</roleName>
+							<forename>Pompeo</forename>
+							<surname>Litta</surname>
+							<surname>Visconti</surname>
+							<surname>Arese</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1785-09-13">13 settembre 1785</date>
+							<placeName>
+								<settlement type="municipality">Zulkier</settlement>
+								<country type="unknown"/>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1835-12-08">8 dicembre 1835</date>
+							<placeName>
+								<settlement type="municipality" ref="TEI-ListPlace.xml#Wien">Vienna</settlement>
+								<country key="TortelliAlessandro">Österreich</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="354">
+							<bibl>
+								<citedRange unit="page" from="221" to="221">221</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Conte Pompeo Litta Visconti Arese (Zulkier, 1785-Vienna, 1835), figlio di Alfonso e <gap reason="editorial"/> contessa Maximiliana von Haimhausen; alla moglie, Camilla Lomellini, Bellini aveva dedicato lo spartito de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Pirata">Il pirata</rs></hi>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="MalibranMaria" sameAs="http://viaf.org/viaf/9855564">
+						<persName role="composer performer mezzo-soprano">
+							<ref target="https://opac.rism.info/search?id=pe14264&amp;View=rism https://www.treccani.it/enciclopedia/maria-felicita-malibran_%28Enciclopedia-Italiana%29/ https://it.wikipedia.org/wiki/Maria_Malibran"/>
+							<forename>Maria</forename>
+							<surname>Malibran</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1808-03-24">24 marzo 1808</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1836-09-23">23 settembre 1836</date>
+							<placeName>
+								<settlement type="municipality">Manchester</settlement>
+								<settlement type="county">Greater Manchester</settlement>
+								<country key="GB">Great Britain</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="465">
+							<bibl>
+								<citedRange unit="page" from="282" to="282">282</citedRange>
+							</bibl>
+							<p>
+								Maria Malibran (Parigi, 1808 - Manchester, 1836), mezzosoprano, era figlia del celebre tenore Manuel García. Aveva esordito al King’s Theater di Londra nel 1825, tenendo il ruolo di Rosina ne <hi rend="italic"><rs type="work">Il barbiere di Siviglia</rs></hi> di Rossini. Dopo una tournée in America negli anni 1825 e 1826, durante la quale aveva sposato il banchiere Eugène Malibran, nel 1827 era tornata in Europa e – tra il 1828 e il 1831 – si era esibita all’Opéra e al Théâtre Italien e di nuovo al King’s Theater. Dopo la fine del matrimonio con Eugène Malibran, si era legata al violinista e compositore francese Charles-Auguste de Bériot, che avrebbe sposato nel 1836 e dal quale avrebbe avuto un figlio. Nel 1833 fu attiva al Teatro di San Carlo, dove si esibì ne <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Capuleti">I Capuleti e i Montecchi,</rs></hi> in <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula</rs></hi> e in <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma;</rs></hi> nel 1834 fu scritturata dal duca Carlo Visconti di Modrone al Teatro alla Scala, dove cantò in diversi allestimenti di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma</rs></hi> nonché in <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula,</rs></hi> nei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Capuleti">Capuleti</rs></hi> e in <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Beatrice_di_tenda">Beatrice di Tenda.</rs></hi>
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="MariettiGiuseppe">
+						<persName role="businessman">
+							<forename>Giuseppe</forename>
+							<surname>Marietti</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1797-01-10">10 gennaio 1797</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1865-04-01">14 febbraio 1864</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="355">
+							<bibl>
+								<citedRange unit="page" from="221" to="221">221</citedRange>
+							</bibl>
+							<p>
+								Giuseppe Marietti e Pietro Soresi erano imprenditori impegnati soprattutto nel commercio internazionale della seta. Insieme al conte Pompeo Litta assunsero l’appalto del Teatro Carcano di Milano per la Stagione 1830-1831.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="MaugeriRosaria">
+						<persName>
+							<forename>Rosaria</forename>
+							<surname>Maugeri</surname>
+							<addName type="alias">zia Sara</addName>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note resp="#GS">
+							<p>
+								<gap reason="editorial"/> Rosaria Maugeri, moglie di Vincenzo Ferlito, che Bellini indicava nelle lettere come “zia Sara”.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="MercadanteSaverioGiuseppeRaffaele" sameAs="http://viaf.org/viaf/42026042">
+						<persName role="dedicatee music_director possessor conductor composer maestro_di_cappella music_teacher">
+							<ref target="https://opac.rism.info/search?id=pe89350&amp;View=rism https://www.treccani.it/enciclopedia/saverio-mercadante_(Dizionario-Biografico)/"/>
+							<forename>Saverio</forename>
+							<forename>Giuseppe</forename>
+							<forename>Raffaele</forename>
+							<surname>Mercadante</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1795-09-17">17 settembre 1795</date>
+							<placeName>
+								<settlement type="municipality">Altamura</settlement>
+								<settlement type="provincia" key="BA">Bari</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1870-12-17">17 dicembre 1870</date>
+							<placeName ref="TEI-ListPlace.xml#NA">
+								<settlement type="municipality">Napoli</settlement>
+								<settlement type="provincia">Napoli</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="28">
+							<bibl>
+								<citedRange unit="page" from="73" to="73">73</citedRange>
+							</bibl>
+							<p>
+								Saverio Mercadante (Altamura, 1795 - Napoli, 1870) studiò al Collegio di San Sebastiano con Furno, Tritto e Zingarelli. Esordì al Teatro di San Carlo il 19 agosto 1819 con <hi rend="italic"><rs type="work">L’apoteosi di Ercole</rs></hi> su libretto di Giovanni Schmidt; il successo di <hi rend="italic"><rs type="work">Donna Caritea, regina di Spagna,</rs></hi> composta su versi di Paolo Pola e messa in scena al Teatro La Fenice di Venezia il 21 febbraio 1826, gli valse fama europea e le sue opere vennero rappresentate a Madrid, Lisbona, Vienna e Parigi. Amico e sodale del più giovane collega, lo aiutò in occasione del suo arrivo a Milano e restò in contatto con lui anche dopo il trasferimento di Bellini a Parigi.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="NotarbartoloStefano">
+						<persName>
+							<forename>Stefano</forename>
+							<surname>Notarbartolo</surname>
+							<roleName type="nobility">duca di Sammartino</roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1787-04-18">18 aprile 1787</date>
+							<placeName ref="TEI-ListPlace.xml#PA">
+								<settlement type="municipality">Palermo</settlement>
+								<settlement type="provincia" key="PA">Palermo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1856-05-30">30 maggio 1856</date>
+							<placeName ref="TEI-ListPlace.xml#PA">
+								<settlement type="municipality">Palermo</settlement>
+								<settlement type="provincia" key="PA">Palermo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="1">
+							<bibl>
+								<citedRange unit="page" from="65" to="65">65</citedRange>
+							</bibl>
+							<p>
+								Stefano Notarbartolo, duca di Sammartino (Palermo 1787 - 1856), nel 1818 era stato nominato Intendente del Valle di Catania.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="NegriPastaGiuditta" sameAs="http://viaf.org/viaf/3966152684016223430002">
+						<persName role="soprano">
+							<ref target="https://opac.rism.info/search?id=pe5370&amp;View=rism https://www.treccani.it/enciclopedia/pasta-giuditta-nata-negri_(Enciclopedia-Italiana)/"/>
+							<forename>Giuditta</forename>
+							<surname>Negri</surname>
+							<surname type="married">Pasta</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1797-10-26">26 ottobre 1797</date>
+							<placeName>
+								<settlement type="municipality">Saronno</settlement>
+								<settlement type="provincia" key="VA">Varese</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1865-04-01">1 aprile 1865</date>
+							<placeName>
+								<settlement type="municipality">Blevio</settlement>
+								<settlement type="provincia" key="CO">Como</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="69">
+							<bibl>
+								<citedRange unit="page" from="201" to="201">83</citedRange>
+							</bibl>
+							<p>
+								Giuditta Negri (Saronno, 1797 - Como, 1865), soprano, nel 1816 aveva sposato l’avvocato Giuseppe Pasta e ne aveva assunto il cognome. Cantò la parte di Corinna nella <hi rend="italic">première</hi> de <hi rend="italic"><rs type="work">Il viaggio a Reims</rs></hi> di Rossini (Théâtre Italien, 19 giugno 1825) e fu apprezzata nei ruoli di Nina in <hi rend="italic"><rs type="work">Nina, o sia La pazza per amore</rs></hi> di Paisiello, di Romeo in <hi rend="italic"><rs type="work">Giulietta e Romeo</rs></hi> di Zingarelli, di Medea in <hi rend="italic"><rs type="work">Medea in Corinto</rs></hi> di Johann Simon Mayr. Erede della tradizione belcantistica tramandata dal celebre sopranista Girolamo Crescentini, venne ammirata anche per le doti attoriali; tenne il ruolo della protagonista nelle prime rappresentazioni di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula,</rs></hi> <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Norma">Norma,</rs></hi> <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Beatrice_di_Tenda">Beatrice di Tenda.</rs></hi>
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="dOrleansLuigiFilippo" sameAs="http://viaf.org/viaf/55392984"> 
+						<persName> 
+							<ref target="http://www.treccani.it/enciclopedia/luigi-filippo-re-dei-francesi https://www.treccani.it/enciclopedia/luigi-filippo-i_%28Dizionario-di-Storia%29/"/>
+							<roleName type="nobility">re</roleName>
+							<addName type="royal_name">Luigi Filippo I</addName>
+							<forename>Luigi</forename>
+							<forename>Filippo</forename>
+							<surname>d'Orléans</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1773-10-06" cert="high">6 ottobre 1773</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1850-09-26" cert="high">26 agosto 1850</date>
+							<placeName>
+								<settlement type="municipality">Esher</settlement>
+								<settlement type="county">Surrey</settlement>
+								<country key="UK">Great Britain</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="776">
+							<bibl>
+								<citedRange unit="page" from="461" to="461">461</citedRange>
+							</bibl>
+							<p>
+								Luigi Filippo d’Orléans (Parigi, 1773-<sic>Claremont</sic>, 1850). Figlio di Filippo d’Orléans e di Luisa di Borbone, a seguito della rivoluzione del luglio 1830 aveva conquistato il trono di Francia, con il sostegno della borghesia liberale del paese.
+							</p>
+						</note> 
+					</person>
+
+					<person xml:id="PapadopoliAntonio" sameAs="http://viaf.org/viaf/1416151595762605470005">
+						<persName role="literatus patron">
+							<ref target="https://www.treccani.it/enciclopedia/antonio-papadopoli_%28Dizionario-Biografico%29/ https://it.wikipedia.org/wiki/Antonio_Papadopoli"/>
+							<roleName type="nobility">conte</roleName>
+							<addName type="alias">Tognino</addName>
+							<forename>Antonio</forename>
+							<surname>Papadopoli</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1802-03-06">6 marzo 1802</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1844-12-25">25 dicembre 1844</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="352">
+							<bibl>
+								<citedRange unit="page" from="220" to="220">220</citedRange>
+							</bibl>
+							<p>
+								Il conte Antonio Papadopoli (Venezia, 1802-1844), erudito e promotore di importanti iniziative editoriali (come <hi rend="italic"><rs type="work">La Commedia</rs></hi> di Dante con il commento di Niccolò Tommaseo, Venezia, Il Gondoliere, 1837), fu figura di spicco della vita culturale veneziana. Amico di Giovanni Battista Perucchini e Giuditta Pasta, conobbe Bellini in occasione del primo soggiorno del musicista nella città lagunare.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PaternoCastelloAntonino">
+						<persName>
+							<forename>Antonino</forename>
+							<surname>Paternò</surname>
+							<surname>Castello</surname>
+							<roleName type="nobility">IV principe di <placeName>Sperlinga</placeName></roleName>
+							<roleName type="nobility">IV principe di Manganelli</roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1817">1817</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date when="1888">1888</date>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="863">
+							<bibl>
+								<citedRange unit="page" from="506" to="506">506</citedRange>
+							</bibl>
+							<p>
+								Colui che Bellini designava come “principino Manganelli” era Antonino Paternò Castello (1817-1888), che nel 1838 – alla morte del padre Giuseppe Alvaro – sarebbe diventato IV Principe di Sperlinga e IV Principe di Manganelli.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PaternoCastelloFrancesco" sameAs="http://viaf.org/viaf/208235133">
+						<persName>
+							<ref target="https://it.wikipedia.org/wiki/Francesco_Paternò_Castello"/>
+							<forename>Francesco</forename>
+							<surname>Paternò</surname>
+							<surname>Castello</surname>
+							<roleName type="nobility">duca di <placeName>Carcaci</placeName></roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1786-08-15">15 agosto 1786</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1854-04-08">8 aprile 1854</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="353">
+							<bibl>
+								<citedRange unit="page" from="220" to="220">220</citedRange>
+							</bibl>
+							<p>
+								Francesco Paternò Castello (Catania, 1786 - 1854), nel 1838 – alla morte del nipote Mario – sarebbe diventato VII duca di Carcaci e Gentiluomo di Camera di Ferdinando II, re delle Due Sicilie. Nel 1826 venne nominato primo direttore dell’Accademia Gioenia di Catania e fu autore di una <hi rend="italic">Descrizione di Catania e delle cose notevoli ne’ dintorni di essa</hi> (Catania, Giuntini, 1841). Compositore dilettante, era un ammiratore del musicista che si premurava di inviargli gli spartiti delle proprie opere.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PaternoCastelloGiovanni" sameAs="http://viaf.org/viaf/89302649">
+						<persName>
+							<forename>Giovanni</forename>
+							<surname>Paternò</surname>
+							<surname>Castello</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1805">1805</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date cert="medium">seconda metà del secolo XIX</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="862">
+							<bibl>
+								<citedRange unit="page" from="505" to="505">505</citedRange>
+							</bibl>
+							<p>
+								Con Mario Paternò Castello, VI duca di Carcaci, vi era a Parigi il giovane zio Giovanni Paternò Castello (Catania, 1805 - seconda metà del secolo XIX), fratello del padre.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PaternoCastelloGiuseppeAlvaro">
+						<persName>
+							<forename>Giuseppe</forename>
+							<forename>Alvaro</forename>
+							<surname>Paternò</surname>
+							<surname>Castello</surname>
+							<roleName type="nobility">III principe di <placeName>Sperlinga</placeName></roleName>
+							<roleName type="nobility">III principe di Manganelli</roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1784">1784</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1836">1836</date>
+							<placeName ref="TEI-ListPlace.xml#NA">
+								<settlement type="municipality">Napoli</settlement>
+								<settlement type="provincia" key="NA">Napoli</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="863">
+							<bibl>
+								<citedRange unit="page" from="506" to="506">506</citedRange>
+							</bibl>
+							<p>
+								Giuseppe Alvaro Paternò Castello, III principe di Sperlinga e III principe di Manganelli (Catania, 1784 - Napoli, 1836), che fu successore di Stefano Notarbartolo nel ruolo di Intendente del Valle di Catania.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PaternoCastelloMario">
+						<persName>
+							<forename>Mario</forename>
+							<surname>Paternò</surname>
+							<surname>Castello</surname>
+							<roleName type="nobility">VI duca di <placeName>Carcaci</placeName></roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1812">1812</date>
+							<placeName ref="TEI-ListPlace.xml#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1838">1838</date>
+							<placeName ref="TEI-ListPlace.xml#FI">
+								<settlement type="municipality">Firenze</settlement>
+								<settlement type="provincia" key="FI">Firenze</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="846">
+							<bibl>
+								<citedRange unit="page" from="495" to="495">495</citedRange>
+							</bibl>
+							<p>
+								Mario Paternò Castello (Catania, 1812 - Firenze, 1838) nel 1834 – alla morte del padre Vincenzo Emanuele – era divenuto VI duca di Carcaci.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PepoliCarlo" sameAs="http://viaf.org/viaf/79049762">
+						<persName role="librettist">
+							<ref target="https://opac.rism.info/search?id=pe30101038&amp;View=rism http://www.treccani.it/enciclopedia/carlo-pepoli_(Dizionario-Biografico)"/>
+							<roleName type="nobility">conte</roleName>
+							<forename>Carlo</forename>
+							<surname>Pepoli</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1796-07-22">22 luglio 1796</date>
+							<placeName>
+								<settlement type="municipality">Bologna</settlement>
+								<settlement type="provincia" key="BO">Bologna</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1881-12-07">7 dicembre 1881</date>
+							<placeName>
+								<settlement type="municipality">Bologna</settlement>
+								<settlement type="provincia" key="BO">Bologna</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="551">
+							<bibl>
+								<citedRange unit="page" from="331" to="331">331</citedRange>
+							</bibl>
+							<p>
+								Carlo Pepoli (Bologna, 1796 - 1881) aveva predisposto il libretto dei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">Puritani.</rs></hi> Amico di Giacomo Leopardi, aveva partecipato ai moti carbonari del 1831 e - dopo esser stato detenuto in carcere a Venezia - nel 1833 si era recato in esilio a Parigi; in quello stesso anno aveva pubblicato una raccolta di scritti in due volumi (Prose. Volume primo e Versi. Volume primo) presso l'editore Vignier di Ginevra. Il poeta bolognese conobbe Bellini nel salotto di Cristina Trivulzio di Belgiojoso, nel quale si fece apprezzare anche come autore di testi per musica: i suoi versi furono intonati da Michele Costa, Vincenzo Gabussi, Rossini e Vaccaj, nonché dallo stesso Bellini.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PerucchiniGiovanniBattista" sameAs="http://viaf.org/viaf/27812792">
+						<persName role="jurist composer">
+							<ref target="https://opac.rism.info/search?id=pe30006229&amp;View=rism https://www.treccani.it/enciclopedia/giovanni-battista-perucchini_(Dizionario-Biografico)/"/>
+							<forename>Giovanni</forename>
+							<forename>Battista</forename>
+							<surname>Perucchini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1784-06-08">8 giugno 1784</date>
+							<placeName ref="TEI-ListPlace.xml#BG">
+								<settlement type="municipality">Bergamo</settlement>
+								<settlement type="provincia" key="BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1870-02-06">6 febbraio 1870</date>
+							<placeName ref="TEI-ListPlace.xml#VE">
+								<settlement type="municipality">Venezia</settlement>
+								<settlement type="provincia" key="VE">Venezia</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="346">
+							<bibl>
+								<citedRange unit="page" from="219" to="219">219</citedRange>
+							</bibl>
+							<p>
+								Giovanni Battista Perucchini (Bergamo, 1784 - Venezia, 1870), giurista, fu compositore dilettante e rinomato autore di romanze da camera; le sue 24 <hi rend="italic"><term subtype="music-term" ref="TEI-ListTerm.xml#arietta">Ariette</term></hi> per canto e pianoforte, pubblicate a Milano da Scotti nel 1824 in diverse sillogi (op. 3-6), ebbero diffusione europea. Strinse legami d’amicizia con i principali protagonisti della vita musicale coeva, documentati da un vastissimo <hi rend="italic">corpus</hi> epistolare che è custodito in gran parte nel Museo Belliniano di Catania e nel Museo Correr di Venezia.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PolliniFrancesco" sameAs="http://viaf.org/viaf/22328380">
+						<persName role="composer">
+							<ref target="https://opac.rism.info/search?id=pe26730&amp;View=rism"/>
+							<forename>Francesco</forename>
+							<surname>Pollini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1762-03-26">26 marzo 1762</date>
+							<placeName>
+								<settlement type="municipality">Lubiana</settlement>
+								<country key="LevySolomon">Slovenija</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1846-09-17">17 settembre 1846</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note resp="#GS">
+							<p>
+								Compositore e didatta, Francesco Pollini (Lubiana, 1762 - Milano, 1846)  aveva studiato con Mozart a Vienna e a Napoli con Zingarelli ed era autore di musica sacra e strumentale; aveva anche scritto un <hi rend="italic">Metodo pel clavicembalo</hi> (Milano, Ricordi, 1812) impiegato in quegli anni al Conservatorio di Milano, dove nel 1809 era stato chiamato a occupare la cattedra di pianoforte. Insieme alla moglie Marianna Gasparini, che era cantante dilettante, Pollini accolse Bellini come un figlio quando il giovane musicista giunse a Milano. A lui Bellini dedicò la riduzione per canto e pianoforte della <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula,</rs></hi> edita da Ricordi nel 1831; dedicate a Marianna Pollini, sono invece le <hi rend="italic">Sei ariette per camera,</hi> pubblicate da Ricordi in quello stesso anno.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PonzaniPietro">
+						<persName role="lawyer">
+							<forename>Pietro</forename>
+							<surname>Ponzani</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1780">1780</date>
+							<placeName>
+								<settlement type="municipality">Novara</settlement>
+								<settlement type="provincia" key="NO">Novara</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1860">1860</date>
+							<placeName>
+								<settlement type="municipality">Novara</settlement>
+								<settlement type="provincia" key="NO">Novara</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="267">
+							<bibl>
+								<citedRange unit="page" from="170" to="170">170</citedRange>
+							</bibl>
+							<p>
+								Pietro Ponzani (Novara, 1780-1860), avvocato. Erede di una cospicua fortuna, risiedeva a Milano in contrada dei Borromei e apparteneva alla cerchia delle amicizie milanesi di Bellini. Fu tra i più assidui corrispondenti del musicista durante il soggiorno di questi a Parigi.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="PugniCesare" sameAs="http://viaf.org/viaf/59351015">
+						<persName role="composer">
+							<ref target="https://opac.rism.info/search?id=pe30005053&amp;View=rism https://www.treccani.it/enciclopedia/cesare-pugni/"/>
+							<forename>Cesare</forename>
+							<surname>Pugni</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1802-05-31">31 maggio 1802</date>
+							<placeName>
+								<settlement type="municipality">Genova</settlement>
+								<settlement type="provincia" key="GE">Genova</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1870-01-26">26 gennaio 1870</date>
+							<placeName>
+								<settlement type="municipality">San Pietroburgo</settlement>
+								<country key="RUS">Russia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="645">
+							<bibl>
+								<citedRange unit="page" from="383" to="383">383</citedRange>
+							</bibl>
+							<p>
+								Cesare Pugni (Genova, 1802-San Pietroburgo, 1870) aveva studiato al Conservatorio di Milano con Bonifazio Asioli e aveva esordito come operista nel 1831 al Teatro della Canobbiana con <hi rend="italic"><rs type="work">Il disertore svizzero</rs></hi> su libretto di Romani. Nel 1834 si trasferì a Parigi e fu ingaggiato da Bellini per la copiatura della partitura dei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">Puritani.</rs></hi>
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="ReinaDomenico" sameAs="https://viaf.org/viaf/40181193">
+						<persName role="tenor">
+							<ref target="https://opac.rism.info/search?id=pe30070011&amp;View=rism"/>
+							<forename>Domenico</forename>
+							<surname>Reina</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1796">1796</date> 
+							<placeName ref="#LVGA">
+								<settlement type="municipality">Lugano</settlement>
+								<settlement type="provincia" key="LVGA">Lugano</settlement>
+								<country key="CH">Svizzera</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1843">1843</date>
+							<placeName ref="#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="199">
+							<bibl>
+								<citedRange unit="page" from="138" to="138">138</citedRange>
+							</bibl>
+							<p>
+								Domenico Reina (Lugano, 1796-Milano, 1843), tenore. Dopo l’esordio in Italia, nel 1823 al King’s Theatre di Londra prese parte agli allestimenti delle opere di Rossini <hi rend="italic">Ricciardo e Zoraide</hi>, <hi rend="italic">La donna del lago</hi> e <hi rend="italic">Matilde di Shabran</hi>. Tenne il ruolo di Arturo nella prima rappresentazione de <hi rend="italic"><rs type="work" ref="#Straniera">La straniera</rs></hi>, messa in scena al Teatro alla Scala il 14 febbraio 1829. Ancora alla Scala cantò insieme a Maria Malibran in <hi rend="italic"><rs type="work" ref="#Norma">Norma</rs></hi> (27 settembre 1834) e nei <hi rend="italic"><rs type="work" ref="#Capuleti">Capuleti</rs></hi> (9 ottobre 1934). 
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="RicordiGiovanni" sameAs="http://viaf.org/viaf/43394665">
+						<persName role="publisher">
+							<ref target="https://opac.rism.info/search?id=pe53595&amp;View=rism https://it.wikipedia.org/wiki/Giovanni_Ricordi"/>
+							<forename>Giovanni</forename>
+							<surname>Ricordi</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1785-03-03">3 marzo 1785</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1853-03-15">15 marzo 1853</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="52">
+							<bibl>
+								<citedRange unit="page" from="80" to="80">80</citedRange>
+							</bibl>
+							<p>
+								Giovanni Ricordi (Milano, 1785-1853) nel 1808 aveva fondato a Milano una stamperia di musica e vi aveva introdotto le tecniche di calcografia apprese in Germania dagli editori Breitkopf Härtel. Nel 1814 acquisì il diritto di copiare i materiali musicali del Teatro alla Scala, di cui nel 1825 acquistò l’archivio; ben presto Ricordi si assicurò la produzione dei massimi operisti del tempo e si impose come il principale editore di musica in Italia.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="RomaniFelice" sameAs="http://viaf.org/viaf/19683628">
+						<persName role="librettist">
+							<ref target="https://opac.rism.info/search?id=pe30028772&amp;View=rism https://www.treccani.it/enciclopedia/felice-romani_(Dizionario-Biografico)/"/>
+							<forename>Felice</forename>
+							<surname>Romani</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1788-01-31">31 gennaio 1788</date>
+							<placeName>
+								<settlement type="municipality">Genova</settlement>
+								<settlement type="provincia" key="GE">Genova</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1865-01-28">28 gennaio 1865</date>
+							<placeName>
+								<settlement type="municipality">Moneglia</settlement>
+								<settlement type="provincia" key="GE">Genova</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="32">
+							<bibl>
+								<citedRange unit="page" from="75" to="75">75</citedRange>
+							</bibl>
+							<p>
+								Felice Romani (Genova, 1788 - Moneglia, 1865), librettista. Bellini, che lo conobbe al suo arrivo a Milano, a lui si affidò per i libretti di tutte le opere composte tra il 1827 e il 1833, dal <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Pirata">Pirata</rs></hi> a <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Beatrice_di_Tenda">Beatrice di Tenda.</rs></hi> Sul profilo intellettuale e artistico di Romani cfr. Alessandro Roccatagliati, <hi rend="italic">Felice Romani librettista</hi>, Lucca, LIM, 1996.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="RossiniGioachino" sameAs="http://viaf.org/viaf/34644407">
+						<persName role="composer">
+							<ref target="https://opac.rism.info/search?id=pe63766&amp;View=rism http://www.treccani.it/enciclopedia/gioacchino-rossini/"/>
+							<forename>Gioachino</forename>
+							<surname>Rossini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1792-02-29">29 febbraio 1792</date>
+							<placeName>
+								<settlement type="municipality">Pesaro</settlement>
+								<settlement type="provincia" key="PU">Pesaro e Urbino</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1868-11-13">13 novembre 1868</date>
+							<placeName>
+								<settlement type="municipality">Passy</settlement>
+								<settlement type="département" key="Paris" ref="TEI-ListPlace.xml#Paris">Paris</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+					</person>
+
+					<person xml:id="RubiniGiovanniBattista" sameAs="http://viaf.org/viaf/89373781">
+						<persName role="tenor">
+							<ref target="https://opac.rism.info/search?id=pe67506&amp;View=rism http://www.treccani.it/enciclopedia/giovanni-battista-rubini_(Dizionario-Biografico)"/>
+							<forename>Giovanni</forename>
+							<forename>Battista</forename>
+							<surname>Rubini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1794-04-07">7 aprile 1794</date>
+							<placeName>
+								<settlement type="municipality">Romano di Lombardia</settlement>
+								<settlement type="provincia" key="BG" ref="TEI-ListPlace.xml#BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1854-03-03">3 marzo 1854</date>
+							<placeName>
+								<settlement type="municipality">Romano di Lombardia</settlement>
+								<settlement type="provincia" key="BG" ref="TEI-ListPlace.xml#BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="43">
+							<bibl>
+								<!--  note dell'edizione critica della Seminara -->
+								<citedRange unit="page" from="77" to="77">77</citedRange>
+							</bibl>
+							<p>
+								Giovanni Battista Rubini (Bergamo, 1794 - 1854) era un tenore di straordinario talento, dotato di una grande estensione nel registro acuto. Tenne il ruolo di Gernando nella prima rappresentazione di <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Bianca_e_Gernando">Bianca e Gernando</rs></hi> e fu creatore delle parti di Gualtiero nel <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Pirata">Pirata,</rs></hi> di Elvino in <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Sonnambula">Sonnambula</rs></hi> e di Arturo nei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">Puritani;</rs></hi> con queste interpretazioni contribuì al successo delle tre opere belliniane e si impose come prototipo del tenore romantico.
+							</p>
+						</note>
+						<note resp="#EC">
+							<p>
+								Rubini fu il tenore interprete di Arturo nella prima assoluta dei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">Puritani</rs></hi> il 24 gennaio 1835 al Théâtre de la comédie italienne, a Parigi.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="SantocanaleFilippo">
+						<persName role="lawyer">
+							<ref target="https://storia.camera.it/deputato/filippo-santocanale-1797"/>
+							<forename>Filippo</forename>
+							<surname>Santocanale</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1797">1797</date>
+							<placeName ref="TEI-ListPlace.xml#PA">
+								<settlement type="municipality">Palermo</settlement>
+								<settlement type="provincia" key="PA">Palermo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1884">1884</date>
+							<placeName ref="TEI-ListPlace.xml#PA">
+								<settlement type="municipality">Palermo</settlement>
+								<settlement type="provincia" key="PA">Palermo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="447">
+							<bibl>
+								<citedRange unit="page" from="268" to="268">268</citedRange>
+							</bibl>
+							<p>
+								Filippo Santocanale (Palermo, 1798-1884), avvocato. Bellini strinse amicizia con lui nel 1832 durante il soggiorno a Palermo; in quell’occasione il musicista ebbe modo di frequentare anche la cerchia degli amici di Santocanale (i cosiddetti “conciarioti”), che avrebbe sempre ricordato nelle sue lettere. 
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="SantocanaleGiuseppe">
+						<persName>
+							<forename>Giuseppe</forename>
+							<surname>Santocanale</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note resp="#GS">
+							<p>
+								<gap reason="editorial"/> Giuseppe Santocanale, fratello di Filippo.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="ScammaccaMaria"> 
+						<persName>
+							<forename>Maria</forename>
+							<surname>Scammacca</surname>
+							<roleName type="nobility">duchessa di <placeName>Carcaci</placeName></roleName>
+						</persName>
+						<sex>F </sex>
+						<birth>
+							<date when="1790">1790</date>
+							<placeName ref="#CT">
+								<settlement type="municipality">Catania</settlement>
+								<settlement type="provincia" key="CT">Catania</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date type="unknown" />
+							<placeName type="unknown" />
+						</death>
+					    <note resp="#GS">
+					        <p>
+					            Baronessa Maria Scammacca (Catania 1790 – prima metà del XIX secolo), figlia di Guglielmo, Barone della Bruca e di Crisciunà, e di Giovanna Arezzo dei Baroni di Donnafugata. Nel 1806 aveva sposato Vincenzo Emanuele Giovanni Paternò Castello (1783-1834), V Duca di Carcaci, dal quale ebbe quattro figli tra cui Mario, destinato a diventare il VI Duca di Carcaci.
+					        </p>
+					    </note>	
+					</person>
+
+					<person xml:id="SeveriniCarlo" sameAs="http://viaf.org/viaf/78808209">
+						<persName role="impresario">
+							<forename>Carlo</forename>
+							<surname>Severini</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1793">1793</date>
+							<placeName>
+								<settlement type="municipality">Bologna</settlement>
+								<settlement type="provincia" key="BO">Bologna</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1838">1838</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="513">
+							<bibl>
+								<citedRange unit="page" from="310" to="310">310</citedRange>
+							</bibl>
+							<p>
+								Carlo Severini (Bologna, 1793-Parigi, 1838), dopo aver lavorato a Milano con Ricordi, dal 1830 era “Régisseur-Général-Caissier” del Théâtre Italien, che dirigeva insieme a Edouard Robert.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="SommaLuigi">
+						<persName role="composer">
+							<ref target="https://rennes.catholique.fr/annuaire/services/musique-liturgique/patrimoine/331110-luigi-somma-1801-1869/ https://opac.rism.info/search?id=pe41016638&amp;View=rism"/>
+							<forename>Luigi</forename>
+							<surname>Somma</surname>
+						</persName>
+						<birth>
+							<date when="1801-08-23">23 agosto 1801</date>
+							<placeName ref="#PA">
+								<settlement type="municipality">Palermo</settlement>
+								<settlement type="provincia" key="PA">Palermo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1869-10-16">16 ottobre 1869</date>
+							<placeName>
+								<settlement type="municipality">Saint-Malo</settlement>
+								<settlement type="département">Ille-et-Vilaine</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="860">
+							<bibl>
+								<citedRange unit="page" from="503" to="503">503</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Luigi Somma (Palermo, 1801 - <sic>Saint-Servan-sur Mer</sic>, <sic>1870</sic>), che aveva composto una cantata in occasione della serata organizzata in onore di Bellini dall’Accademia Filarmonica di Palermo il 12 aprile 1832. Il 20 aprile 1835 era stata messa in scena al Teatro della Canobbiana di Milano con scarso successo l’opera <hi rend="italic"><rs type="work">Ildegonda e Rizzardo,</rs></hi> composta da Somma su libretto di Giuseppe Sapio.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="SoresiPietro">
+						<persName role="businessman">
+							<forename>Pietro</forename>
+							<surname>Soresi</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="355">
+							<bibl>
+								<citedRange unit="page" from="221" to="221">221</citedRange>
+							</bibl>
+							<p>
+								Giuseppe Marietti e Pietro Soresi erano imprenditori impegnati soprattutto nel commercio internazionale della seta. Insieme al conte Pompeo Litta assunsero l’appalto del Teatro Carcano di Milano per la Stagione 1830-1831.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="SoumetAlexandre" sameAs="http://viaf.org/viaf/84147270355635700000">
+						<persName role="writer poet">
+							<ref target="https://opac.rism.info/search?id=pe149444&amp;View=rism https://www.treccani.it/enciclopedia/alexandre-soumet_%28Enciclopedia-Italiana%29/"/>
+							<forename>Alexandre</forename>
+							<surname>Soumet</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1786-02-08">8 febbraio 1786</date>
+							<placeName>
+								<settlement type="municipality">Castelnaudary</settlement>
+								<settlement type="département">Aude</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1845-03-30">30 marzo 1845</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="provincia" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note resp="#DS">
+							<p>
+								Alexandre Soumet, poeta francese, è stato autore della tragedia <hi rend="italic">Norma, ou L'infanticide</hi>, adattata da Bellini per la sua opera <hi rend="italic">Norma</hi>.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="StatellaEleonora" sameAs="http://viaf.org/viaf/265922795">
+						<persName>
+							<forename>Eleonora</forename>
+							<surname>Statella</surname>
+							<roleName type="nobility">duchessa di Sammartino</roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1791">1791</date>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date when="1836">1836</date>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="677">
+							<bibl>
+								<citedRange unit="page" from="400" to="400">400</citedRange>
+							</bibl>
+							<p>
+								Eleonora Statella (1791-1836), discendente dalla famiglia dei principi di Cassaro, era consorte di Stefano Notarbatolo, duca di Sammartino; quando nel 1818 questi era stato nominato Intendente del Valle di Catania, si era trasferita con lui nella città etnea. Nella residenza catanese la duchessa di Sammartino accolse con liberalità il giovane Bellini, che divenne compagno di svaghi e di musica del fratello Enrico.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="TascaOttavioGiulioMaria" sameAs="https://viaf.org/viaf/73431371">
+						<persName role="literatus">
+							<ref target="https://www.treccani.it/enciclopedia/ottavio-giulio-maria-tasca_(Dizionario-Biografico)"/>
+							<roleName type="nobility">conte</roleName>
+							<forename>Ottavio</forename>
+							<forename>Giulio</forename>
+							<forename>Maria</forename>
+							<surname>Tasca</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1795-03-03">3 marzo 1795</date>
+							<placeName ref="#SE">
+								<settlement type="municipality">Bergamo</settlement>
+								<settlement type="provincia" key="BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1872-12-29">29 dicembre 1872</date>
+							<placeName ref="#SE">
+								<settlement type="municipality">Seriate</settlement>
+								<settlement type="provincia" key="BG">Bergamo</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="372">
+							<bibl>
+								<citedRange unit="page" from="226" to="226">226</citedRange>
+							</bibl>
+							<p>
+							Il conte Ottavio Tasca (Seriate, Bergamo, 1795 - 1872), patriota e letterato, risiedeva a Bergamo; nel <bibl><title level="j">«Giornale della Provincia di Bergamo»</title></bibl> aveva pubblicato un articolo sull’allestimento de <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Straniera">La Straniera</rs></hi> al Teatro Ricciardi nell’agosto del 1830.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="TortelliAlessandro">
+						<persName role="1st_cello">
+							<forename>Alessandro</forename>
+							<surname>Tortelli</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="477">
+							<bibl>
+								<citedRange unit="page" from="290" to="290">290</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Alessandro Tortelli, primo violoncello nell’orchestra del Teatro Comunale di Catania.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="TroupenasEugeneTheodore" sameAs="http://viaf.org/viaf/20457151">
+						<persName role="mathematician publisher musicologist">
+							<ref target="https://opac.rism.info/search?id=pe30040259&amp;View=rism"/>
+							<forename>Eugène</forename>
+							<forename>Théodore</forename>
+							<surname>Troupenas</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1798-12-17">17 dicembre 1798</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1850-04-11">11 aprile 1850</date>
+							<placeName ref="TEI-ListPlace.xml#Paris">
+								<settlement type="municipality">Parigi</settlement>
+								<settlement type="département" key="Paris">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="535">
+							<bibl>
+								<citedRange unit="page" from="321" to="321">321</citedRange>
+							</bibl>
+							<p>
+								Eugène-Théodore Troupenas (Parigi, 1799-1850) era proprietario dell’omonima casa editrice, che aveva fondato a Parigi nel 1825. Aveva pubblicato le opere francesi di Rossini e si apprestava a dare alle stampe la nuova opera che Bellini doveva comporre per il Théâtre Italien.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="TurinaBartolomeo">
+						<persName>
+							<forename>Bartolomeo</forename>
+							<surname>Turina</surname>
+							<addName type="alias">Bartolo</addName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</birth>
+						<death>
+							<date type="unknown"/>
+							<placeName type="unknown"/>
+						</death>
+						<note resp="#DS">
+							<p>
+								Marito di Rosa Bossi, fratello di Ferdinando e quindi cognato di Giuditta Turina.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="TurinaFerdinando">
+						<persName role="businessman">
+							<forename>Ferdinando</forename>
+							<surname>Turina</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1795">1795</date>
+							<placeName ref="TEI-ListPlace.xml#Casal">
+								<settlement type="municipality">Casalbuttano</settlement>
+								<settlement type="provincia" key="CR" ref="TEI-ListPlace.xml#CR">Cremona</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1869">1869</date>
+							<placeName ref="TEI-ListPlace.xml#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note resp="#GS">
+							<p>
+								Ferdinando Turina (Casalbuttano, 1795 - Milano, 1869). Facoltoso imprenditore impegnato nella produzione e nel commercio della seta, era marito di Giuditta Cantù. Definito da Bellini «Ferdinando l’impassibile» (lettera a Giuditta dell’11 gennaio 1830), nel 1833 divorziò dalla moglie.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="ViscontiDAragonaAlessandro">
+						<persName>
+							<roleName type="nobility">marchese</roleName>
+							<forename>Alessandro</forename>
+							<surname>Visconti</surname>
+							<surname>D'Aragona</surname>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1785">1785</date>
+							<placeName ref="#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1851-01-06">6 gennaio 1851</date> 
+							<placeName ref="#MI">
+								<settlement type="municipality">Milano</settlement>
+								<settlement type="provincia" key="MI">Milano</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</death>
+						<note resp="#DS">
+							<p>
+								Alessandro Visconti D'Aragona (Milano, 1785-1851). Marchese d'Invorio, secondo marito di Vittoria Gherardini Visconti, patrigno di Cristina Trivulzio di Belgiojoso.
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="GherardiniViscontiDAragonaVittoria">
+						<persName>
+							<ref target="https://opac.rism.info/search?id=pe30067729&amp;View=rism"/>
+							<roleName type="nobility">marchesa</roleName>
+							<forename>Vittoria</forename>
+							<surname type="maiden">Gherardini</surname>
+							<surname type="married">Visconti</surname>
+							<surname type="married">D'Aragona</surname>
+						</persName>
+						<sex>F</sex>
+						<birth>
+							<date when="1790">1790</date>
+							<placeName ref="#TO">
+								<settlement type="municipality">Torino</settlement>
+								<settlement type="provincia" key="TO">Torino</settlement>
+								<country key="IT">Italia</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1836">1836</date> 
+							<placeName>
+								<settlement type="municipality">Parigi</settlement>
+								<country key="FR">France</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="598">
+							<bibl>
+								<citedRange unit="page" from="356" to="356">356</citedRange>
+							</bibl>
+							<p>
+								Vittoria Visconti d’Aragona (Torino, 1790-Parigi, 1836) era figlia del marchese Maurizio Gherardini e della marchesa Teresa Litta. In prime nozze aveva sposato il marchese Gerolamo Trivulzio dal quale aveva avuto Cristina, divenuta principessa a seguito delle nozze con Emilio Barbiano di Belgiojoso d’Este; rimasta vedova, nel 1813 andò in sposa al marchese Alessandro Visconti d’Aragona, dal quale ebbe quattro figli. Quando Bellini si trasferì a Parigi, la marchesa Visconti scrisse alla figlia Cristina perché lo accogliesse nel proprio salotto. 
+							</p>
+						</note>
+					</person>
+
+					<person xml:id="WildingGeorgWilhelmKarl">
+						<persName>
+							<forename>Georg</forename>
+							<forename>Wilhelm</forename>
+							<forename>Karl</forename>
+							<surname>Wilding</surname>
+							<roleName type="nobility">principe di <placeName>Butera</placeName> e di <placeName>Radali</placeName></roleName>
+						</persName>
+						<sex>M</sex>
+						<birth>
+							<date when="1790">1790</date>
+							<placeName>
+								<settlement type="municipality">Ulezen</settlement>
+								<country key="DE">Deutschland</country>
+							</placeName>
+						</birth>
+						<death>
+							<date when="1841">1841</date> 
+							<placeName>
+								<settlement type="municipality">Wiesbaden</settlement>
+								<country key="DE">Deutschland</country>
+							</placeName>
+						</death>
+						<note source="TEI-ListBibl.xml#Bellini-Seminara2017" resp="#GS" ana="537">
+							<bibl>
+								<citedRange unit="page" from="323" to="323">323</citedRange>
+							</bibl>
+							<p>
+								<gap reason="editorial"/> Georg Wilhelm Karl Wilding (Ulezen, 1790-Wiesbaden, 1841), principe di Butera e di Radali a seguito delle prime nozze con la principessa Caterina Branciforti. Al servizio diplomatico dei Borboni, nel 1834 era stato inviato a Parigi come ambasciatore del Regno delle due Sicilie; dopo il trionfo dei <hi rend="italic"><rs type="work" ref="TEI-ListWork.xml#Puritani">Puritani,</rs></hi> si adoperò perché anche il re Ferdinando II conferisse una menzione a Bellini.
+							</p>
+						</note>
+					</person>
+
+					<listRelation>
+						<relation name="spouse" mutual="#VF #RM"/>
+						<relation name="mother" active="#FerlitoAgata" passive="#BelliniVincenzoSalvatoreCarmeloFrancesco"/>
+						<relation name="sibling" mutual="#AF #VF"/>
+						<relation name="sibling" mutual="#AF #FF"/>
+						<relation name="spouse" mutual="#AF #RB"/>
+						<relation name="father" active="#BelliniRosario" passive="#BelliniVincenzoSalvatoreCarmeloFrancesco"/>
+						<relation name="father" active="#BelliniVincenzoTobiaNicola" passive="#BelliniRosario"/>
+						<relation name="spouse" mutual="#RBo #BT"/>
+						<relation name="sibling" mutual="#BT #FT"/>  <!--oppure usare sibling-->
+						<relation name="spouse" mutual="#GCT #FT" to="1833"/>
+						<relation name="spouse" mutual="#SG #SM" from="1832-07-08"/>
+						<relation name="spouse" mutual="#MGP #FP"/>
+						<relation name="father" active="#PaternoCastelloGiuseppeAlvaro" passive="#PaternoCastelloAntonino"/>
+						<relation name="father" active="#GiuffridaMoschettiIgnazio" passive="#GiuffridaPaolaAngelica"/>
+						<relation name="mother" active="#ScammaccaMaria" passive="#PaternoCastelloMario"/>
+						<relation name="sibling-in-law" mutual="#FPC #MS"/>
+						<relation name="sibling-in-law" mutual="#GPC #MS"/>
+						<relation name="sibling" mutual="#FPC #GPC"/>
+						<relation name="uncle" active="#PaternoCastelloGiovanni" passive="#PaternoCastelloMario"/>
+						<relation name="uncle" active="#PaternoCastelloFrancesco" passive="#PaternoCastelloMario"/>
+						<relation name="sibling" mutual="#FS #GSan"/>
+						<relation name="spouse" mutual="#ES #SN"/>
+						<relation name="spouse" mutual="#AVD #VVD"/>
+					</listRelation>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>This is a template for a minimal TEI header with the mandatory components</p>
+		</body>
+	</text>
+</TEI>

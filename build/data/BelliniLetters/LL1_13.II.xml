@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt xml:id="title">
+				<title>Vincenzo Bellini a Giovanni Galeota, in Parigi, 14 febbraio 1834</title>
+				<!--formato titolo: mittente a destinatario, in luogo, data di scrittura della lettera -->
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-09">September 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Camilla Zucchi</name>
+					<name>Erika Pistolesi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="SP">Santa Pellino</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_13.II.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="266/1" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="328" to="328" unit="page">328</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<!-- riferimento al catalogo delle sigle dei musei in cui è definito I-CATm -->
+						<!-- mettere come secondo valore di ref del tag repository l'URI del nodo museo del dataset del Belliniano -->
+						<idno type="inventory">LL1.13.II</idno>
+						<!-- segnatura della singola lettera -->
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, III b (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+						<!-- collocazione della lettera al museo -->
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#GaleotaGiovanni">Giovanni Galeota</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="high" resp="#GS" when="1834-02-14">14 febbraio 1834</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="it fr">Italiano di inizio Ottocento con altre mani sia in italiano che in francese.</textLang>
+							<note>La lettera fa parte della stessa unità codicologica di LL1.13.I.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di timbri o francobolli.</stamp>
+								</support>
+								<extent>
+									<measure corresp="#LL1.13.II" type="folio">1</measure>
+									<dimensions corresp="#LL1.13.II" unit="mm">
+										<height>204</height>
+										<width>133</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Minuta di lettera. Entrambe le carte recano del testo.
+								</collation>
+								<condition>
+									<p>La carta 1r, in alto a sinistra, è sciupata e poco leggibile. La carta 1v a sua volta è sciupata in alto al centro e, oltre a numerose cancellazioni, contiene due righe scritte in verticale.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<handNote>
+								<p>Scrittura a mano libera abbastanza leggibile. Presenti cancellature sia nel recto che nel verso, nel quale si notano anche due macchie. Nella 1r si notano, inoltre, anche un'annotazione accompagnata da un ghirigoro, una scritta sbiadita di colore rosa, una sigla di colore blu e una correzione interlineare; nel verso, invece, sono tre le correzioni interlineari.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>La carta 1r presenta una
+									<hi facs="#LL1.13.II_hotspot_1r_01" >porzione di testo in francese, probabilmente del catalogatore, redatta a mano libera e difficilmente leggibile contenente un numero ordinale, una parola e una sigla. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term> indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">quatrième</term> significa<space />
+									<num type="ordinal" value="4">quarto</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term> terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.</hi>
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>Sulla carta 1r, in alto a sinistra,
+									<hi facs="#LL1.13.II_hotspot_1r_03">annotazione, probabilmente dovuta a un catalogatore, di colore rosa, difficilmente leggibile poichè sbiadita, forse "N 15"</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<p>Sulla carta 1r, nella parte centrale inferiore,
+									<hi facs="#LL1.13.II_hotspot_1r_04">annotazione probabilmente dovuta a un catalogatore, di colore blu, che presenta forse il numero 11 tra parentesi</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h4">
+								<p>Sulla carta 1r in alto
+									<hi facs="#LL1.13.II_hotspot_1r_02">annotazione di incerta origine poco leggibile. Sembra riportare
+										<quote>"risposta alla lettera del cav. Galeota"</quote></hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="#LL1.13.II">
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris" type="writing">Parigi</placeName>
+					<date when="1834-02-14"><date type="writing">14 febbraio</date>
+					<date cert="high" resp="#GS">1834</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#GaleotaGiovanni" role="composer">Giovanni Galeota</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords>
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.13.II_folio_1r">
+			<graphic height="2482px" url="LL1.13.II_0001.jpg" width="1654px" />
+			<zone lrx="1544" lry="135" rendition="Line" ulx="1124" uly="65" xml:id="LL1.13.II_line_1r_01" />
+			<zone lrx="1203" lry="198" rendition="Line" ulx="409" uly="144" xml:id="LL1.13.II_line_1r_02" />
+			<zone lrx="1585" lry="398" rendition="Line" ulx="262" uly="265" xml:id="LL1.13.II_line_1r_03" />
+			<zone lrx="1620" lry="482" rendition="Line" ulx="50" uly="400" xml:id="LL1.13.II_line_1r_04" />
+			<zone lrx="1550" lry="590" rendition="Line" ulx="50" uly="485" xml:id="LL1.13.II_line_1r_05" />
+			<zone lrx="1615" lry="688" rendition="Line" ulx="50" uly="590" xml:id="LL1.13.II_line_1r_06" />
+			<zone lrx="1598" lry="820" rendition="Line" ulx="50" uly="688" xml:id="LL1.13.II_line_1r_07" />
+			<zone lrx="1598" lry="895" rendition="Line" ulx="50" uly="785" xml:id="LL1.13.II_line_1r_08" />
+			<zone lrx="1585" lry="965" rendition="Line" ulx="50" uly="865" xml:id="LL1.13.II_line_1r_09" />
+			<zone lrx="1590" lry="1072" rendition="Line" ulx="50" uly="940" xml:id="LL1.13.II_line_1r_10" />
+			<zone lrx="1542" lry="1165" rendition="Line" ulx="50" uly="1058" xml:id="LL1.13.II_line_1r_11" />
+			<zone lrx="1568" lry="1272" rendition="Line" ulx="50" uly="1165" xml:id="LL1.13.II_line_1r_12" />
+			<zone lrx="1612" lry="1385" rendition="Line" ulx="50" uly="1260" xml:id="LL1.13.II_line_1r_13" />
+			<zone lrx="1608" lry="1498" rendition="Line" ulx="50" uly="1375" xml:id="LL1.13.II_line_1r_14" />
+			<zone lrx="1592" lry="1585" rendition="Line" ulx="50" uly="1475" xml:id="LL1.13.II_line_1r_15" />
+			<zone lrx="1600" lry="1710" rendition="Line" ulx="50" uly="1590" xml:id="LL1.13.II_line_1r_16" />
+			<zone lrx="1611" lry="1810" rendition="Line" ulx="50" uly="1710" xml:id="LL1.13.II_line_1r_17" />
+			<zone lrx="1583" lry="1909" rendition="Line" ulx="50" uly="1811" xml:id="LL1.13.II_line_1r_18" />
+			<zone lrx="1553" lry="2001" rendition="Line" ulx="50" uly="1929" xml:id="LL1.13.II_line_1r_19" />
+			<zone lrx="1569" lry="2065" rendition="Line" ulx="50" uly="2007" xml:id="LL1.13.II_line_1r_20" />
+			<zone lrx="1613" lry="2153" rendition="Line" ulx="50" uly="2085" xml:id="LL1.13.II_line_1r_21" />
+			<zone lrx="1605" lry="2243" rendition="Line" ulx="50" uly="2163" xml:id="LL1.13.II_line_1r_22" />
+			<zone lrx="1607" lry="2311" rendition="Line" ulx="50" uly="2251" xml:id="LL1.13.II_line_1r_23" />
+			<zone lrx="1607" lry="2411" rendition="Line" ulx="50" uly="2307" xml:id="LL1.13.II_line_1r_24" />
+			<zone lrx="1458" lry="879" rendition="HotSpot" ulx="1175" uly="118" xml:id="LL1.13.II_hotspot_1r_01" />
+			<!-- hotspot catalogatore con firma -->
+			<zone lrx="1092" lry="110" rendition="HotSpot" ulx="305" uly="43" xml:id="LL1.13.II_hotspot_1r_02" />
+			<!-- annotazione in alto-->
+			<zone lrx="820" lry="822" rendition="HotSpot" ulx="194" uly="212" xml:id="LL1.13.II_hotspot_1r_03" />
+			<!--scritta rosa del catalogatore con N 15-->
+			<zone lrx="1537" lry="1625" rendition="HotSpot" ulx="1399" uly="1545" xml:id="LL1.13.II_hotspot_1r_04" />
+			<!-- scritta del catalogatore con (11) in blu-->
+		</surface>
+		<surface n="2" xml:id="LL1.13.II_folio_1v">
+			<graphic height="2482px" url="LL1.13.II_0002.jpg" width="1654px" />
+			<zone lrx="1631" lry="2399" rotate="0" ulx="71" uly="119" xml:id="LL1.13.II_box_1v_01">
+				<zone lrx="1613" lry="189" rendition="Line" ulx="151" uly="119" xml:id="LL1.13.II_line_1v_01" />
+				<zone lrx="1595" lry="297" rendition="Line" ulx="93" uly="193" xml:id="LL1.13.II_line_1v_02" />
+				<zone lrx="1627" lry="369" rendition="Line" ulx="99" uly="287" xml:id="LL1.13.II_line_1v_03" />
+				<zone lrx="1605" lry="483" rendition="Line" ulx="95" uly="371" xml:id="LL1.13.II_line_1v_04" />
+				<zone lrx="1615" lry="603" rendition="Line" ulx="107" uly="489" xml:id="LL1.13.II_line_1v_05" />
+				<zone lrx="1607" lry="695" rendition="Line" ulx="99" uly="595" xml:id="LL1.13.II_line_1v_06" />
+				<zone lrx="1627" lry="799" rendition="Line" ulx="123" uly="651" xml:id="LL1.13.II_line_1v_07" />
+				<zone lrx="1631" lry="913" rendition="Line" ulx="109" uly="785" xml:id="LL1.13.II_line_1v_08" />
+				<zone lrx="1591" lry="999" rendition="Line" ulx="105" uly="909" xml:id="LL1.13.II_line_1v_09" />
+				<zone lrx="1565" lry="1077" rendition="Line" ulx="107" uly="1001" xml:id="LL1.13.II_line_1v_10" />
+				<zone lrx="1617" lry="1187" rendition="Line" ulx="71" uly="1099" xml:id="LL1.13.II_line_1v_11" />
+				<zone lrx="1613" lry="1263" rendition="Line" ulx="97" uly="1189" xml:id="LL1.13.II_line_1v_12" />
+				<zone lrx="1607" lry="1371" rendition="Line" ulx="99" uly="1269" xml:id="LL1.13.II_line_1v_13" />
+				<zone lrx="1607" lry="1475" rendition="Line" ulx="109" uly="1385" xml:id="LL1.13.II_line_1v_14" />
+				<zone lrx="1615" lry="1589" rendition="Line" ulx="105" uly="1489" xml:id="LL1.13.II_line_1v_15" />
+				<zone lrx="1591" lry="1699" rendition="Line" ulx="101" uly="1601" xml:id="LL1.13.II_line_1v_16" />
+				<zone lrx="1585" lry="1799" rendition="Line" ulx="111" uly="1713" xml:id="LL1.13.II_line_1v_17" />
+				<zone lrx="1615" lry="1903" rendition="Line" ulx="99" uly="1805" xml:id="LL1.13.II_line_1v_18" />
+				<zone lrx="1537" lry="1997" rendition="Line" ulx="93" uly="1911" xml:id="LL1.13.II_line_1v_19" />
+				<zone lrx="1573" lry="2079" rendition="Line" ulx="93" uly="2001" xml:id="LL1.13.II_line_1v_20" />
+				<zone lrx="1611" lry="2187" rendition="Line" ulx="79" uly="2081" xml:id="LL1.13.II_line_1v_21" />
+				<zone lrx="1611" lry="2249" rendition="Line" ulx="85" uly="2195" xml:id="LL1.13.II_line_1v_22" />
+				<zone lrx="1613" lry="2325" rendition="Line" ulx="91" uly="2257" xml:id="LL1.13.II_line_1v_23" />
+				<zone lrx="1601" lry="2399" rendition="Line" ulx="87" uly="2331" xml:id="LL1.13.II_line_1v_24" />
+			</zone>
+			<zone lrx="147" lry="2285" rotate="270" ulx="31" uly="35" xml:id="LL1.13.II_box_1v_02">
+				<zone lrx="147" lry="2285" rendition="Line" ulx="31" uly="35" xml:id="LL1.13.II_line_1v_25" />
+				<zone lrx="217" lry="2095" rendition="Line" ulx="99" uly="213" xml:id="LL1.13.II_line_1v_26" />
+			</zone>
+		</surface>
+	</facsimile>
+	<text n="LL1.13.II" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.13.II">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.13.II_folio_1r" n="1" xml:id="LL1.13.II_fol_1r" />
+			<!-- Fronte -->
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.13.II_line_1r_01" n="1" xml:id="LL1.13.II_lb_1r_01" />
+						<hi rend="align(right)">
+							<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName><space />
+							<date>14<am>:</am> Feb<supplied resp="#GS">rajo</supplied></date></hi></s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" rend="align(center)">
+						<lb facs="#LL1.13.II_line_1r_02" n="2" xml:id="LL1.13.II_lb_1r_02" />
+							<choice>
+								<abbr>Preg<hi rend="sup">mo</hi></abbr>
+								<expan>Preg<ex>iatissi</ex>mo</expan>
+							</choice>
+							<choice>
+								<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+								<expan>Sig<ex>no</ex>r</expan>
+							</choice>
+							<rs ref="TEI-ListPerson.xml#GaleotaGiovanni" type="person">Cavaliere</rs></s>
+				</salute>
+				<space quantity="1" unit="line" /> <!-- prossemica -->
+				<ab n="ab_03" next="#LL1.13.II_ab_03_1v" part="I" rend="first_line_indented" type="parag" xml:id="LL1.13.II_ab_03_1r">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.13.II_line_1r_03" n="3" xml:id="LL1.13.II_lb_1r_03" />
+						Il lusinghiero invito che per suo mezzo
+						<lb facs="#LL1.13.II_line_1r_04" n="4" xml:id="LL1.13.II_lb_1r_04" />
+						ricevo della
+						<orgName>Nobile Società</orgName> per scrivere
+						<lb facs="#LL1.13.II_line_1r_05" n="5" xml:id="LL1.13.II_lb_1r_05" />
+						un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term> al nostro
+						<orgName ref="TEI-ListOrganization.xml#San_Carlo" resp="#EC" type="theatre">Gran teatro,</orgName> mi
+						<lb facs="#LL1.13.II_line_1r_06" n="6" xml:id="LL1.13.II_lb_1r_06" />
+						reca la più piacevole sodisfazione che
+						<lb facs="#LL1.13.II_line_1r_07" n="7" xml:id="LL1.13.II_lb_1r_07" />
+						si possa sentire;
+					</s>
+					<s n="s_04" type="sentence">
+						io non potrei <w>ris
+							<lb break="no" facs="#LL1.13.II_line_1r_08" n="8" rend="double-stroke" xml:id="LL1.13.II_lb_1r_08" />
+							pondere</w> a tale onore che <w>impegnando
+							<lb break="no" facs="#LL1.13.II_line_1r_09" n="9" rend="double-stroke" xml:id="LL1.13.II_lb_1r_09" />
+							mi</w> vi è più a comporre l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term> che mi
+						<lb facs="#LL1.13.II_line_1r_10" n="10" xml:id="LL1.13.II_lb_1r_10" />
+						si chiede con tutta l'attenzione,
+						<subst>
+							<del rend="strikethrough">ed </del>
+							<add place="supralinear">e con</add>
+						</subst> quei
+						<lb facs="#LL1.13.II_line_1r_11" n="11" xml:id="LL1.13.II_lb_1r_11" />
+						mezzi che la natura m'accorda, e
+						<lb facs="#LL1.13.II_line_1r_12" n="12" xml:id="LL1.13.II_lb_1r_12" />
+						perciò sono nel dispiacente caso di non
+						<lb facs="#LL1.13.II_line_1r_13" n="13" xml:id="LL1.13.II_lb_1r_13" />
+						potermi applicare e finire il mio
+						<term xml:id="LL1.13.II_1r_13_spartito" next="#LL1.13.II_1r_14_spartito" ref="TEI-ListTerm.xml#spartito" subtype="music-term">spar
+								<lb break="no" facs="#LL1.13.II_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.13.II_lb_1r_14" />
+								tito</term> per l'epoca che si desidera; stante
+						<lb facs="#LL1.13.II_line_1r_15" n="15" xml:id="LL1.13.II_lb_1r_15" />
+						un contratto conchiuso co<subst resp="#LM">
+							<del rend="overwritten">n</del>
+							<add place="superimposed">l</add>
+						</subst>
+						<del rend="strikethrough">questo</del>
+						<orgName xml:id="LL1.13.II_1r_15_RegioTeatro" next="#LL1.13.II_1r_16_RegioTeatro" ref="TEI-ListOrganization.xml#Teatro_italiano" type="theatre">
+							R.</orgName>
+							<lb facs="#LL1.13.II_line_1r_16" n="16" xml:id="LL1.13.II_lb_1r_16" />
+							<orgName xml:id="LL1.13.II_1r_16_RegioTeatro" prev="#LL1.13.II_1r_15_RegioTeatro" ref="TEI-ListOrganization.xml#Teatro_italiano" type="theatre">T. Italiano
+						</orgName> di
+						<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName> per comporre
+						<lb facs="#LL1.13.II_line_1r_17" n="17" xml:id="LL1.13.II_lb_1r_17" />
+						un'<rs ref="TEI-ListWork.xml#Puritani" type="work"><term ref="TEI-ListTerm.xml#opera_seria" subtype="music-term">opera seria,</term></rs>
+						e darla in scena nella
+						<lb facs="#LL1.13.II_line_1r_18" n="18" xml:id="LL1.13.II_lb_1r_18" />
+						fine di quest'anno.
+					</s>
+					<s n="s_05" next="#LL1.13.II_s_05_1v" part="I" type="sentence" xml:id="LL1.13.II_s_05_1r">
+						È mio sistema
+						<lb facs="#LL1.13.II_line_1r_19" n="18" xml:id="LL1.13.II_lb_1r_19" />
+						<del rend="strikethrough">per scrivere</del> di mai accollarmi tanta
+						<lb facs="#LL1.13.II_line_1r_20" n="19" xml:id="LL1.13.II_lb_1r_20" />
+						fattiga in una volta,
+						<subst>
+							<del instant="true" rend="strikethrough">per fare il più</del>
+							<lb facs="#LL1.13.II_line_1r_21" n="20" xml:id="LL1.13.II_lb_1r_21" />
+							<del instant="true" rend="strikethrough"><gap extent="several-characters" reason="deleted" /> possibile </del>
+							<add place="inline">per evitare i fiaschi</add>
+						</subst>
+						<lb facs="#LL1.13.II_line_1r_22" n="21" xml:id="LL1.13.II_lb_1r_22" />
+						per quanto mi è sempre possibile, e così
+						<del rend="strikethrough">giu</del>
+						<lb facs="#LL1.13.II_line_1r_23" n="22" xml:id="LL1.13.II_lb_1r_23" />
+						giustificare il prezzo che richiedono le
+						<lb facs="#LL1.13.II_line_1r_24" n="23" xml:id="LL1.13.II_lb_1r_24" />
+						mie
+						<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opere,</term> ove
+						<add place="supralinear">
+							<del rend="strikethrough">ne</del>
+						</add> impiego
+						<add place="supralinear">di tempo</add> in ognuna quanto
+					</s>
+				</ab> 
+				<ab facs="#LL1.13.II_hotspot_1r_02" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.13.II_hs_1r_02">
+					<lb />
+					<fw>
+						risposta alla lettera del <persName ref="TEI-ListPerson.xml#GaleotaGiovanni" type="person">cav. Galeota</persName>
+					</fw>
+				</ab>
+				<ab facs="#LL1.13.II_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.13.II_hs_1r_01">
+					<fw>
+						<unclear>
+							<lb />
+							quatrieme
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.13.II_hotspot_1r_04" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.13.II_hs_1r_04">
+					<!-- terza mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">(11)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.13.II_hotspot_1r_03" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.13.II_hs_1r_03">
+					<fw type="catalogNum">
+						<unclear><idno type="oldCat">N 15</idno></unclear>
+					</fw>
+				</ab>
+				<pb facs="#LL1.13.II_folio_1v" n="2" xml:id="LL1.13.II_fol_1v" />
+				<ab n="ab_03" part="F" prev="#LL1.13.II_ab_03_1r" type="parag" xml:id="LL1.13.II_ab_03_1v">
+					<s n="s_05" part="F" prev="#LL1.13.II_s_05_1r" type="sentence" xml:id="LL1.13.II_s_05_1v">
+						<lb facs="#LL1.13.II_line_1v_01" n="1" xml:id="LL1.13.II_lb_1v_01" />
+						i miei colleghi in tre o quattro;
+					</s>
+					<s n="s_06" type="sentence">
+						quindi
+						<lb facs="#LL1.13.II_line_1v_02" n="2" xml:id="LL1.13.II_lb_1v_02" />
+						io sono pronto
+						<add place="supralinear">e con estremo piacere</add> ad accettare l'impegno
+						<lb facs="#LL1.13.II_line_1v_03" n="3" xml:id="LL1.13.II_lb_1v_03" />
+						di scrivere un'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term> pel
+						<add place="interlinear">mio</add> paese che
+						<lb facs="#LL1.13.II_line_1v_04" n="4" xml:id="LL1.13.II_lb_1v_04" />
+						mi
+						<subst>
+							<del instant="true" rend="strikethrough">allevò</del>
+							<add place="above"> vide</add>
+						</subst> crescere e m'allevò nella
+						<lb facs="#LL1.13.II_line_1v_05" n="5" xml:id="LL1.13.II_lb_1v_05" />
+						difficile mia arte;
+					</s>
+					<s n="s_07" type="sentence">
+						ma non posso <w>pro
+							<lb break="no" facs="#LL1.13.II_line_1v_06" n="6" rend="double-stroke" xml:id="LL1.13.II_lb_1v_06" />
+							mettere</w> d'applicarmi al lavoro <w>pri
+							<lb break="no" facs="#LL1.13.II_line_1v_07" n="7" rend="double-stroke" xml:id="LL1.13.II_lb_1v_07" />
+							ma</w> d'aver finito quello per
+						<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+						<lb facs="#LL1.13.II_line_1v_08" n="8" xml:id="LL1.13.II_lb_1v_08" />
+						ma potrei forse dar l'<rs ref="TEI-ListWork.xml#Puritani" resp="#EC" type="work"><term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term></rs> pel
+						<date when="1835-05-30">
+							<add place="supralinear">30<am>:</am></add><space/><w>Mag
+								<lb break="no" facs="#LL1.13.II_line_1v_09" n="9" rend="double-stroke" xml:id="LL1.13.II_lb_1v_09" />
+								gio</w> del 1835<am>:</am></date> toltone circostanze <w>im
+							<lb break="no" facs="#LL1.13.II_line_1v_10" n="10" rend="double-stroke" xml:id="LL1.13.II_lb_1v_10" />
+							previste</w> che ne potrebbero ritardare
+						<lb facs="#LL1.13.II_line_1v_11" n="11" xml:id="LL1.13.II_lb_1v_11" />
+						quest'epoca di qualche mese.
+					</s>
+					<s n="s_08" type="sentence">
+						Così <w>ri
+							<lb break="no" facs="#LL1.13.II_line_1v_12" n="12" rend="double-stroke" xml:id="LL1.13.II_lb_1v_12" />
+							fletterei</w> alla scelta del
+						<term ref="TEI-ListTerm.xml#libretto" resp="#EC" subtype="music-term">libro</term> oggimai
+						<lb facs="#LL1.13.II_line_1v_13" n="13" xml:id="LL1.13.II_lb_1v_13" />
+						fatta più difficile ancora
+						<subst>
+							<del rend="strikethrough">di comporre </del>
+							<add place="supralinear">dell'istesso</add>
+						</subst>
+						<lb facs="#LL1.13.II_line_1v_14" n="14" xml:id="LL1.13.II_lb_1v_14" />
+						creare musica,
+						<add place="supralinear">e</add>
+						<orgName>La Nobile Società,</orgName> dalla
+						<lb facs="#LL1.13.II_line_1v_15" n="15" xml:id="LL1.13.II_lb_1v_15" />
+						sua parte, cercherebbe di procurarmi una
+						<lb facs="#LL1.13.II_line_1v_16" n="16" xml:id="LL1.13.II_lb_1v_16" />
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term> eccellente, e così con calma
+						<lb facs="#LL1.13.II_line_1v_17" n="17" xml:id="LL1.13.II_lb_1v_17" />
+						imprendere la cosa, e sperarne qualche
+						<lb facs="#LL1.13.II_line_1v_18" n="18" xml:id="LL1.13.II_lb_1v_18" />
+						esito. —
+					</s>
+					<s n="s_09" type="sentence">
+						In conseguenza, Ella
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">r</hi></abbr>
+							<expan>Sig<ex>no</ex>r</expan>
+						</choice>
+						<rs ref="TEI-ListPerson.xml#GaleotaGiovanni" type="person">Cavaliere,</rs>
+						<lb facs="#LL1.13.II_line_1v_19" n="19" xml:id="LL1.13.II_lb_1v_19" />
+						subito che
+						<subst>
+							<del rend="strikethrough">
+								<gap quantity="4" reason="deleted" unit="char" />
+							</del>
+							<add place="superimposed"> al</add>
+						</subst>
+						<orgName ref="TEI-ListOrganization.xml#San_Carlo" type="theatre">Teatro</orgName> avrà fissato la
+						<lb facs="#LL1.13.II_line_1v_20" n="20" xml:id="LL1.13.II_lb_1v_20" />
+						<term ref="TEI-ListTerm.xml#compagnia" subtype="music-term">compagnia</term> del
+						<date when="1835">1835<am>:</am>,</date>
+						<del rend="strikethrough">avrà la bontà</del>
+						<lb facs="#LL1.13.II_line_1v_21" n="21" xml:id="LL1.13.II_lb_1v_21" />
+						<del rend="strikethrough">di scrivermi</del> (perché
+						<rs ref="TEI-ListPerson.xml#GaleotaGiovanni" type="person">Ella</rs> sà che mai ho
+						<subst resp="#LM">
+							<add place="above">fissato </add>
+							<del rend="strikethrough">accetta</del>
+									<lb break="no" facs="#LL1.13.II_line_1v_22" n="22" rend="double-stroke" xml:id="LL1.13.II_lb_1v_22" />
+									<del rend="strikethrough">to</del>
+						</subst> contratti senza prima sapere per quali persone
+						<lb facs="#LL1.13.II_line_1v_23" n="23" xml:id="LL1.13.II_lb_1v_23" />
+						dovrò scrivere) e che la
+						<orgName>Nobile Società</orgName>
+						<subst>
+							<del instant="true" rend="strikethrough">mi corderà</del>
+							<lb facs="#LL1.13.II_line_1v_24" n="24" xml:id="LL1.13.II_lb_1v_24" />
+							<add place="inline">nutrirà</add>
+						</subst> il pensiero d'avere una mia
+						<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera,</term> avrà
+						<lb facs="#LL1.13.II_line_1v_25" n="25" xml:id="LL1.13.II_lb_1v_25" />
+						<ptr target="#LL1.13.II_note1" />
+						La bontà di rendermi avvisato ed allora parlarmi degli obblighi
+						<lb facs="#LL1.13.II_line_1v_26" n="26" xml:id="LL1.13.II_lb_1v_26" />
+						che dovrà
+						<gap extent="several-characters" reason="deleted" /> racchiudere il contratto. —
+						<ptr target="#LL1.13.II_note2" />
+					</s>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="548" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.13.II_note1">
+						<bibl>
+							<citedRange from="328" to="328" unit="page">328</citedRange>
+						</bibl>
+						<p>Questa porzione di testo è scritta trasversalmente nel margine sinistro della seconda facciata.</p>
+					</note>
+					<note resp="#GS" xml:id="LL1.13.II_note2">
+						<p>
+							La lettera è incompleta.
+						</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_13.II_bibliography">
+
+					<head>Bibliografia della lettera LL1.13.II</head>
+					<bibl xml:id="LL1_13.II_Amore">
+						<ref target="TEI-ListBibl.xml#Amore1892">
+							<bibl>
+								<author>Amore</author>
+								<date when="1892">1892</date>
+								<citedRange from="325" to="326" unit="page">325-326</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_13.II_Cambi">
+						<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+							<bibl>
+								<author>Cambi</author>
+								<date when="1943">1943</date>
+								<citedRange from="385" to="385" unit="page">385</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_13.II_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2005">2005</date>
+								<citedRange from="275" to="276" unit="page">275-276</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

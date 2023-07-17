@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Pietro Ponzani, in Parigi, 30 maggio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Trascription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-06">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Eva Anatra</name>
+					<name>Luca Poggianti</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_28.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="442/1" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="512" to="512" unit="page">512</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.28</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 2, III (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+								a
+								<persName ref="TEI-ListPerson.xml#PonzaniPietro">Pietro Ponzani</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="high" resp="#GS" when="1835-05-30">30 maggio 1835</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr">Italiano di inizio Ottocento con indirizzo e altre mani in francese.</textLang>
+							<note>L'anno di redazione della minuta di lettera è stato attribuito da Seminara e non è presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>
+										La carta 1r, nell'angolo superiore sinistro, presenta la <hi facs="#LL1.28_hotspot_1r_01">traccia di un timbro circolare, quasi completamente sbiadito</hi>.
+									</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>134</height>
+										<width>204</width>
+									</dimensions>
+								</extent>
+								<collation>Il folio è piegato sul recto (nei due angoli superiori, e in quello inferiore sinistro) e sul verso (nei due angoli superiori e in quello destro).</collation>
+								<condition>
+									<p>Lettera in buone condizioni fisiche; la carta presenta delle macchie.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<handNote>
+								<p>Scrittura leggibile a mano libera, in corsivo.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>
+									Sulla carta 1r, nell'angolo in basso a destra, è presente un'<hi facs="#LL1.28_hotspot_1r_03">annotazione di una mano non riconducibile a quella di Bellini</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h2">
+								<p>
+									Sulla carta 1v è presente un'<hi facs="#LL1.28_hotspot_1v_02">annotazione in blu, probabilmente dovute al catalogatore, che riporta la scritta "N 27"</hi>.
+								</p>
+							</handNote>
+							<handNote facs="#LL1.28_hotspot_1r_02" xml:id="h3">
+								<p>
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									<term xml:lang="fr">cote</term>
+									indica la numerazione dei cartoni di un fondo archivistico e
+									<term xml:lang="fr">sixième</term>
+									significa<space />
+									<num type="ordinal" value="6">sesto</num>. I caratteri che sembrano corrispondere alla parola
+									<term xml:lang="fr">fil</term>
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								</p>
+							</handNote>
+							<handNote xml:id="h4">
+								<p>
+									Sulla carta 1v è presente una<hi facs="#LL1.28_hotspot_1v_01">piccola annotazione in blu che riporta il numero "24" tra parentesi tonde</hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris" type="writing">Parigi</placeName>
+					<date when="1835-05-30"><date type="writing">30 maggio</date>
+					<date resp="#GS" cert="high">1835</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#PonzaniPietro" role="lawyer">Pietro Ponzani</persName>
+					<placeName ref="TEI-ListPlace.xml#Put" type="writing">Puteaux, Parigi</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.28_folio_1r">
+			<!-- FRONTE -->
+			<graphic height="2468px" url="LL1.28_0001.jpg" width="1660px" />
+			<zone lrx="1611" lry="226" rendition="Line" ulx="559" uly="142" xml:id="LL1.28_line_1r_01" />
+			<zone lrx="1633" lry="312" rendition="Line" ulx="1128" uly="205" xml:id="LL1.28_line_1r_02" />
+			<zone lrx="1634" lry="418" rendition="Line" ulx="963" uly="295" xml:id="LL1.28_line_1r_03" />
+			<zone lrx="883" lry="522" rendition="Line" ulx="250" uly="383" xml:id="LL1.28_line_1r_04" />
+			<zone lrx="1634" lry="701" rendition="Line" ulx="659" uly="569" xml:id="LL1.28_line_1r_05" />
+			<zone lrx="1610" lry="802" rendition="Line" ulx="192" uly="698" xml:id="LL1.28_line_1r_06" />
+			<zone lrx="1630" lry="916" rendition="Line" ulx="192" uly="806" xml:id="LL1.28_line_1r_07" />
+			<zone lrx="1626" lry="1010" rendition="Line" ulx="193" uly="894" xml:id="LL1.28_line_1r_08" />
+			<zone lrx="1592" lry="1123" rendition="Line" ulx="209" uly="976" xml:id="LL1.28_line_1r_09" />
+			<zone lrx="1613" lry="1202" rendition="Line" ulx="211" uly="1063" xml:id="LL1.28_line_1r_10" />
+			<zone lrx="1564" lry="1290" rendition="Line" ulx="240" uly="1172" xml:id="LL1.28_line_1r_11" />
+			<zone lrx="1627" lry="1388" rendition="Line" ulx="241" uly="1259" xml:id="LL1.28_line_1r_12" />
+			<zone lrx="1620" lry="1478" rendition="Line" ulx="248" uly="1354" xml:id="LL1.28_line_1r_13" />
+			<zone lrx="1585" lry="1573" rendition="Line" ulx="230" uly="1440" xml:id="LL1.28_line_1r_14" />
+			<zone lrx="1624" lry="1702" rendition="Line" ulx="232" uly="1541" xml:id="LL1.28_line_1r_15" />
+			<zone lrx="1558" lry="1731" rendition="Line" ulx="227" uly="1650" xml:id="LL1.28_line_1r_16" />
+			<zone lrx="1601" lry="1842" rendition="Line" ulx="256" uly="1732" xml:id="LL1.28_line_1r_17" />
+			<zone lrx="1570" lry="1949" rendition="Line" ulx="259" uly="1814" xml:id="LL1.28_line_1r_18" />
+			<zone lrx="1565" lry="2024" rendition="Line" ulx="262" uly="1908" xml:id="LL1.28_line_1r_19" />
+			<zone lrx="1557" lry="2136" rendition="Line" ulx="282" uly="1999" xml:id="LL1.28_line_1r_20" />
+			<zone lrx="1377" lry="2207" rendition="Line" ulx="282" uly="2106" xml:id="LL1.28_line_1r_21" />
+			<zone lrx="322" lry="241" rendition="HotSpot" ulx="83" uly="34" xml:id="LL1.28_hotspot_1r_01" />
+			<!-- timbro sbiadito o ombra di sigillo -->
+			<zone lrx="510" lry="920" rendition="HotSpot" ulx="221" uly="113" xml:id="LL1.28_hotspot_1r_02" />
+			<!-- testo a lato -->
+			<zone lrx="1615" lry="2354" rendition="HotSpot" ulx="1464" uly="2130" xml:id="LL1.28_hotspot_1r_03" />
+			<!-- firma -->
+		</surface>
+		<surface n="2" xml:id="LL1.28_folio_1v">
+			<graphic height="2468px" url="LL1.28_0002.jpg" width="1660px" />
+			<zone lrx="399" lry="918" rendition="HotSpot" ulx="126" uly="718" xml:id="LL1.28_hotspot_1v_01" />
+			<!-- numero 24 tra parentesi -->
+			<zone lrx="928" lry="1034" rendition="HotSpot" ulx="529" uly="343" xml:id="LL1.28_hotspot_1v_02" />
+			<!-- nota catalogatore -->
+		</surface>
+	</facsimile>
+	<text n="LL1.28" subtype="manuscript" type="minuta_di_lettera" xml:id="LL1.28">
+		<front>
+			<div type="envelope">
+				<gap extent="unknown" reason="lost" />
+				<note>Non abbiamo a disposizione la busta della lettera LL1.28.</note>
+			</div>
+		</front>
+
+		<body xml:lang="it">
+			<pb facs="#LL1.28_folio_1r" n="1" xml:id="LL1.28_fol_1r" />
+			<!-- FRONTE -->
+			<div n="o_01" type="opener">
+				<!-- apertura -->
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.28_line_1r_01" n="1" xml:id="LL1.28_lb_1r_01" />
+						<date when="--05-30" rend="align(right)">30<am>:</am><space/>Maggio</date> –
+						(<address xml:lang="fr">
+							<street>rampe de pont</street>
+							<lb facs="#LL1.28_line_1r_02" n="2" xml:id="LL1.28_lb_1r_02" />
+							<street rend="align(right)">de <placeName ref="TEI-ListPlace.xml#NSS">Neuilly</placeName><space /><hi rend="underline"><num type="cardinal" value="19">19</num><space />bis</hi></street>
+							<lb facs="#LL1.28_line_1r_03" n="3" xml:id="LL1.28_lb_1r_03" />
+							<region rend="underline align(right)">pres de <placeName ref="TEI-ListPlace.xml#Paris">Paris</placeName> à <placeName ref="TEI-ListPlace.xml#Put">Puteaux</placeName></region>
+						</address>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.28_line_1r_04" n="4" xml:id="LL1.28_lb_1r_04" />
+							Mio caro
+							<persName ref="TEI-ListPerson.xml#PonzaniPietro" role="lawyer">Ponzani</persName></s>
+				</salute>
+				<space quantity="1" unit="line" /> <!-- prossemica -->
+				<ab n="ab_03" type="parag">
+					<s n="s_03" type="sentence" rend="first_line_indented">
+						<lb facs="#LL1.28_line_1r_05" n="5" xml:id="LL1.28_lb_1r_05" />
+						<persName ref="TEI-ListPerson.xml#BarboGiacomo">Barbò</persName>
+						ha dovuto scriverti
+						<lb facs="#LL1.28_line_1r_06" n="6" xml:id="LL1.28_lb_1r_06" />
+						che io avea ricevuto la tua lettera, e che
+						<lb facs="#LL1.28_line_1r_07" n="7" xml:id="LL1.28_lb_1r_07" />
+						avea spedito a
+						<placeName ref="TEI-ListPlace.xml#London">Londra</placeName>
+						quella di
+						<persName ref="TEI-ListPerson.xml#LevySolomon">Levy,</persName>
+						ove
+						<lb facs="#LL1.28_line_1r_08" n="8" xml:id="LL1.28_lb_1r_08" />
+						questi si trovava.
+					</s>
+					<s n="s_04" type="sentence">
+						Ora è qui, e mi dà
+						<lb facs="#LL1.28_line_1r_09" n="9" xml:id="LL1.28_lb_1r_09" />
+						la commissione di farti pagare il suo
+						<lb facs="#LL1.28_line_1r_10" n="10" xml:id="LL1.28_lb_1r_10" />
+						debito;
+					</s>
+					<s n="s_05" type="sentence">
+						ma come non se ne capisce <w>pre
+							<lb break="no" facs="#LL1.28_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.28_lb_1r_11" />
+							cisamente</w> la cifra non posso dare
+						<lb facs="#LL1.28_line_1r_12" n="12" xml:id="LL1.28_lb_1r_12" />
+						alcun'ordine perché ti sii sborsato;
+					</s>
+					<s n="s_06" type="sentence">
+						ora,
+						<lb facs="#LL1.28_line_1r_13" n="13" xml:id="LL1.28_lb_1r_13" />
+						se tu vedi la
+						<choice>
+							<abbr>Sig<am>:</am><hi rend="sup">ra</hi></abbr>
+							<expan>Sig<ex>no</ex>ra</expan>
+						</choice>
+						<persName ref="TEI-ListPerson.xml#CantuTurinaGiuditta">
+							G. Turina
+						</persName>
+						puoi
+						<del rend="erasure">da</del>
+						a
+						<lb facs="#LL1.28_line_1r_14" n="14" xml:id="LL1.28_lb_1r_14" />
+						lei dire se sono<space />
+						<num type="cardinal" value="160">160<am>:</am></num><space />o<space />
+						<num type="cardinal" value="60">60<am>:</am></num><space />
+						<choice>
+							<abbr>f<am>:</am><hi rend="sup">i</hi></abbr>
+							<expan>f<ex>ranch</ex>i</expan>
+						</choice>
+						che ti
+						<lb facs="#LL1.28_line_1r_15" n="15" xml:id="LL1.28_lb_1r_15" />
+						si deve, e pregar lei che te li paghi
+						<lb facs="#LL1.28_line_1r_16" n="16" xml:id="LL1.28_lb_1r_16" />
+						e me ne carichi a me il debito: hai
+						<lb facs="#LL1.28_line_1r_17" n="17" xml:id="LL1.28_lb_1r_17" />
+						capito?
+					</s>
+					<s n="s_07" type="sentence">
+						Nel caso poi che tu non vedi
+						<lb facs="#LL1.28_line_1r_18" n="18" xml:id="LL1.28_lb_1r_18" />
+						più la
+						<choice>
+							<abbr resp="#LM">sud<am>:</am><hi rend="sup">tta</hi></abbr>
+							<expan>sud<ex>de</ex>tta</expan>
+						</choice>
+						scrivimi precisamente
+						<lb facs="#LL1.28_line_1r_19" n="19" xml:id="LL1.28_lb_1r_19" />
+						la cifra che io darò commissione ad
+						<lb facs="#LL1.28_line_1r_20" n="20" xml:id="LL1.28_lb_1r_20" />
+						altro perché ti sia pagata —
+					</s>
+					<s n="s_08" type="sentence">
+						Questa
+						<lb facs="#LL1.28_line_1r_21" n="21" xml:id="LL1.28_lb_1r_21" />
+						mia la riceverai da
+						<choice>
+							<abbr>M<am>:</am><hi rend="sup">e</hi></abbr>
+							<expan>M<ex>adame</ex></expan>
+						</choice>
+						<persName ref="TEI-ListPerson.xml#GaspariniPolliniMarianna">Pollini</persName>
+						<ptr target="#LL1.28_note1" />
+					</s>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.28_hotspot_1r_01" subtype="addition" type="paratext" xml:id="LL1.28_hs_1r_01">
+					<lb />
+					<stamp>
+						<mentioned>
+							<gap reason="illegible" extent="unknown"/>
+						</mentioned>
+					</stamp>
+				</ab>
+				<ab facs="#LL1.28_hotspot_1r_03" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.28_hs_1r_03">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+				<ab facs="#LL1.28_hotspot_1r_02" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.28_hs_1r_02">
+					<fw>
+						<unclear>
+							Sixième
+							<lb/>
+							Cotefil
+							<lb/>
+							<gap extent="one-word" reason="illegible" />
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb facs="#LL1.28_folio_1v" n="2" xml:id="LL1.28_fol_1v" />
+			<div type="paratext">
+				<ab facs="#LL1.28_hotspot_1v_01" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.28_hs_1v_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">(24)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.28_hotspot_1v_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.28_hs_1v_02">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 27</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">				
+				<div type="ann_notes">
+					<note resp="#GS" xml:id="LL1.28_note1">
+						<p>
+							La lettera è incompleta.
+						</p>
+					</note>
+				</div>
+				<div type="bibliography">
+					<listBibl xml:id="LL1_28_bibliography">
+
+						<head>Bibliografia della lettera LL1.28</head>
+						<bibl xml:id="LL1_28_Amore">
+							<ref target="TEI-ListBibl.xml#Amore1892">
+								<bibl>
+									<author>Amore</author>
+									<date when="1894">1892</date>
+									<citedRange from="366" to="367" unit="page">366-367</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_28_Cambi">
+							<ref target="TEI-ListBibl.xml#Bellini-Cambi1943">
+								<bibl>
+									<author>Cambi</author>
+									<date when="1943">1943</date>
+									<citedRange from="559" to="559" unit="page">559</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+						<bibl xml:id="LL1_28_Neri">
+							<ref target="TEI-ListBibl.xml#Neri2005">
+								<bibl>
+									<author>Neri</author>
+									<date when="2005">2005</date>
+									<citedRange from="413" to="413" unit="page">413</citedRange>
+								</bibl>
+							</ref>
+						</bibl>
+					</listBibl>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>

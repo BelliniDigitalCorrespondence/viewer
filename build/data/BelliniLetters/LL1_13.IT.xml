@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 2 febbraio 1834</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition> Digital edition
+					<date when="2021-03" instant="false">March 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordineted by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Irene Parlanti</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_13.I.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="263" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="323" to="324" unit="page">323-324</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.13.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 4, ripiano 1, III a (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.13.I"><idno type="inventory">LL1.13.I</idno><title>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 2 febbraio 1834</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="263"><locus from="323" to="324">n. 263, p. 323-324.</locus></citedRange></bibl><bibl>Amore, 1892, p. 325. </bibl><bibl>Cambi, 1943, p. 382. </bibl><bibl>Neri, 2005, p. 272-273. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							Parigi
+							2:Febrajo 34:
+						
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+						
+						Gradisca le proteste della mia sincera stima
+					
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date type="writing" when="1834-02-02" instant="false">2 febbraio 1834</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.13.I_facsimile">
+		<surface n="LL1.13.I.1" xml:id="LL1.13.I_folio_1r" corresp="#LL1.13.I_fol_1r"><graphic url="data/test-img/LL1.13.I/LL1-13-I_0001.dzi" width="1632px" height="603px"/><zone ulx="366.82" uly="62.91" lrx="703.51" lry="126.26" rendition="line" xml:id="LL1.13.I_line_1r_01"/><zone ulx="134.23" uly="145.31" lrx="594.08" lry="210.88" rendition="line" xml:id="LL1.13.I_line_1r_02"/><zone ulx="89.05" uly="119.61" lrx="276.88" lry="214.86" rendition="HotSpot" xml:id="LL1.13.I_hotspot_1r_01" corresp="#LL1.13.I_hotspot_1r_01h" start="#LL1.13.I_hotspot_1r_01h"/><zone ulx="17.72" uly="26.58" lrx="114.74" lry="108.54" rendition="HotSpot" xml:id="LL1.13.I_hotspot_1r_02" corresp="#LL1.13.I_hotspot_1r_02h" start="#LL1.13.I_hotspot_1r_02h"/></surface>
+		<surface n="LL1.13.I.2" xml:id="LL1.13.I_folio_1v" corresp="#LL1.13.I_fol_1v"><graphic url="data/test-img/LL1.13.I/LL1-13-I_0002.dzi" width="1632px" height="603px"/><zone ulx="124.04" uly="47.40" lrx="711.48" lry="97.46" rendition="line" xml:id="LL1.13.I_line_1v_01"/><zone ulx="93.03" uly="101.89" lrx="711.48" lry="132.02" rendition="line" xml:id="LL1.13.I_line_1v_02"/><zone ulx="93.03" uly="131.58" lrx="711.48" lry="177.21" rendition="line" xml:id="LL1.13.I_line_1v_03"/><zone ulx="93.03" uly="173.66" lrx="476.24" lry="198.47" rendition="line" xml:id="LL1.13.I_line_1v_04"/><zone ulx="156.83" uly="188.72" lrx="711.48" lry="230.81" rendition="line" xml:id="LL1.13.I_line_1v_05"/><zone ulx="17.72" uly="63.79" lrx="203.79" lry="150.62" rendition="HotSpot" xml:id="LL1.13.I_hotspot_1v_01" corresp="#LL1.13.I_hotspot_1v_01h" start="#LL1.13.I_hotspot_1v_01h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.13.I" xml:id="LL1.13.I">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a destinatario sconosciuto, in Parigi, 2 febbraio 1834</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        263  p. 323-324</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La minuta di lettera fa parte della stessa unità codicologica di LL1.13.II.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.13.I</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di color beige chiaro, inchiostro nero/marrone.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>47x135<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>
+										Filigrana ottagonale situata in alto a sinistra, evidente sulla carta 1r.
+									</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Minuta di lettera, un frammento di foglio a due facciate con testo su entrambi i lati.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Frammento in buone condizioni. Sembra esser stato strappato da un foglio più grande, come osservabile sul lato corto a sinistra di entrambi i lati del frammento, sul lato lungo in basso della carta 1r e in alto sulla carta 1v. Il documento viene capovolto infatti sul lato lungo. Il documento presenta una macchia di inchiostro che è più evidente sulla carta 1v in alto ma osservabile anche in basso sulla carta 1r.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera abbastanza leggibile. Presenta una cancellazione nella carta 1v. La carta 1v presenta sul margine sinistro un'annotazione poco chiara probabilmente di altra mano, orientata da sinistra a destra e dal basso verso l'alto: probabilmente si tratta di una nota di un catalogatore con un glifo molto marcato che si sovrappone all'incipit.
+							 
+								Un'annotazione in blu, un numero forse dovuto ad un catalogatore recante forse il numero 825.
+								
+							 
+								La carta 1v presenta una 
+									porzione di testo in francese a mano libera difficilmente leggibile contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e
+									treizième significa
+									tredicesimo. I caratteri che sembrano corrispondere alla parola
+									fil terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>2 febbraio 1834</p><p><fw> 
+                            Destinatario
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.13.I.1r" xml:id="LL1.13.I_fol_1r" facs="data/test-img/LL1.13.I/LL1-13-I_0001.dzi"/>
+			<!-- recto -->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.13.I_line_1r_01" n="1" xml:id="LL1.13.I_lb_1r_01"/>
+						<hi rend="align(right)">
+							<placeName ref="#Paris">Parigi</placeName>
+							<date when="1834-02-02" instant="false">2<am instant="false">:</am> Febrajo 34<am instant="false">:</am></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" part="N">
+						<lb facs="#LL1.13.I_line_1r_02" n="2" xml:id="LL1.13.I_lb_1r_02"/>
+						Mia
+						<choice><abbr>Pregsma</abbr><expan instant="false">Preg<ex instant="false">iati</ex>s<ex instant="false">si</ex>ma</expan></choice>
+						<!--Preg<add>iati</add>s<add>si</add>ma-->
+						<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<persName>Contessa</persName>
+					</s>
+				</salute>
+				<!--seconda mano, forse catalogazione-->
+				<ab facs="#LL1.13.I_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.13.I_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<unclear reason="faded" instant="false">
+							<idno type="oldCat">825</idno>
+						</unclear>
+					</fw>
+				</ab>
+				<pb n="LL1.13.I.1v" xml:id="LL1.13.I_fol_1v" facs="data/test-img/LL1.13.I/LL1-13-I_0002.dzi"/>
+				<ab n="ab_03" type="parag" part="N">
+					<s n="s_03" part="N">
+						<lb facs="#LL1.13.I_line_1v_01" n="1" xml:id="LL1.13.I_lb_1v_01"/>
+						Io d'ora innanzi mi dichiaro a Lei <w part="N">rico
+							<lb break="no" facs="#LL1.13.I_line_1v_02" n="2" rend="double-stroke" xml:id="LL1.13.I_lb_1v_02"/>
+							noscente</w> per tutto quello che Ella potrà
+						<lb facs="#LL1.13.I_line_1v_03" n="3" xml:id="LL1.13.I_lb_1v_03"/>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">giovarmi</del>
+							<add place="above" instant="false" status="unremarkable"> concorrere</add>
+						</subst>, perché io colga gloria sul
+						<lb facs="#LL1.13.I_line_1v_04" n="4" xml:id="LL1.13.I_lb_1v_04"/>
+						suolo della mia Patria.
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" rend="first_line_indented" type="parag" part="N">
+					<s n="s_04" part="N">
+						<lb facs="#LL1.13.I_line_1v_05" n="5" xml:id="LL1.13.I_lb_1v_05"/>
+						Gradisca le proteste della mia sincera stima
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.13.I_hotspot_1v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.13.I_hs_1v_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Treizième 
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.13.I_hotspot_1r_01h" facs="#LL1.13.I_hotspot_1r_01"><p>annotazione in blu, un numero forse dovuto ad un catalogatore recante forse il numero 825</p></div><div xml:id="LL1.13.I_hotspot_1r_02h" facs="#LL1.13.I_hotspot_1r_02"><p>Filigrana</p></div><div xml:id="LL1.13.I_hotspot_1v_01h" facs="#LL1.13.I_hotspot_1v_01"><p>
+									porzione di testo in francese a mano libera difficilmente leggibile contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e
+									treizième significa
+									tredicesimo. I caratteri che sembrano corrispondere alla parola
+									fil terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.</p></div></div></back>
+	</text>
+</TEI>

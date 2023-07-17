@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Passero, Parigi, 23 maggio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2021-04" instant="false">April 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name ref="#SP" full="yes" instant="false">Santa Pellino</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+					<name xml:id="SP" full="yes" instant="false">Santa Pellino</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_27.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="439" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="509" to="510" unit="page">509-510</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.27</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 2, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.27"><idno type="inventory">LL1.27</idno><title>Vincenzo Bellini a Passero, Parigi, 23 maggio 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="439"><locus from="509" to="510">n. 439, p. 509-510.</locus></citedRange></bibl><bibl>Amore, 1892, p. 364. </bibl><bibl>Cambi, 1943, p. 556. </bibl><bibl>Neri, 2005, p. 410-411. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							N: 19: bis rampe du pont de Neuilly à  Puteaux
+						
+						
+						23: Maggio
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Puteaux, Parigi</placeName>
+					<date when="1835-05-23" instant="false">
+						<date type="writing" instant="false">23 maggio</date>
+						<date resp="#GS" cert="high" instant="false">1835</date>
+					</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName>unknown</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.27_facsimile">
+		<surface n="LL1.27.1" xml:id="LL1.27_folio_1r" corresp="#LL1.27_fol_1r"><graphic url="data/test-img/LL1.27/LL1-27_0001.dzi" width="1661px" height="2468px"/><zone ulx="75.74" uly="47.88" lrx="701.67" lry="104.47" rendition="line" xml:id="LL1.27_line_1r_01"/><zone ulx="302.08" uly="104.47" lrx="473.15" lry="139.29" rendition="line" xml:id="LL1.27_line_1r_02"/><zone ulx="117.96" uly="174.11" lrx="354.75" lry="217.64" rendition="line" xml:id="LL1.27_line_1r_03"/><zone ulx="279.01" uly="191.52" lrx="697.75" lry="277.27" rendition="line" xml:id="LL1.27_line_1r_04"/><zone ulx="89.23" uly="261.17" lrx="703.41" lry="295.99" rendition="line" xml:id="LL1.27_line_1r_05"/><zone ulx="81.40" uly="295.99" lrx="706.02" lry="343.87" rendition="line" xml:id="LL1.27_line_1r_06"/><zone ulx="28.73" uly="337.34" lrx="695.58" lry="389.14" rendition="line" xml:id="LL1.27_line_1r_07"/><zone ulx="88.36" uly="387.40" lrx="470.97" lry="439.63" rendition="line" xml:id="LL1.27_line_1r_08"/><zone ulx="78.35" uly="439.63" lrx="709.51" lry="474.46" rendition="line" xml:id="LL1.27_line_1r_09"/><zone ulx="63.12" uly="474.46" lrx="693.84" lry="515.81" rendition="line" xml:id="LL1.27_line_1r_10"/><zone ulx="78.35" uly="509.28" lrx="696.01" lry="548.45" rendition="line" xml:id="LL1.27_line_1r_11"/><zone ulx="78.35" uly="548.45" lrx="689.48" lry="591.98" rendition="line" xml:id="LL1.27_line_1r_12"/><zone ulx="81.40" uly="591.98" lrx="693.40" lry="639.86" rendition="line" xml:id="LL1.27_line_1r_13"/><zone ulx="78.35" uly="644.21" lrx="700.37" lry="674.68" rendition="line" xml:id="LL1.27_line_1r_14"/><zone ulx="88.36" uly="679.04" lrx="705.59" lry="718.21" rendition="line" xml:id="LL1.27_line_1r_15"/><zone ulx="81.40" uly="718.21" lrx="707.33" lry="770.45" rendition="line" xml:id="LL1.27_line_1r_16"/><zone ulx="81.40" uly="766.09" lrx="706.02" lry="809.62" rendition="line" xml:id="LL1.27_line_1r_17"/><zone ulx="80.53" uly="800.92" lrx="676.86" lry="837.91" rendition="line" xml:id="LL1.27_line_1r_18"/><zone ulx="86.62" uly="840.09" lrx="258.99" lry="874.91" rendition="line" xml:id="LL1.27_line_1r_19"/><zone ulx="491.87" uly="827.03" lrx="670.33" lry="1035.97" rendition="HotSpot" xml:id="LL1.27_hotspot_1r_01" corresp="#LL1.27_hotspot_1r_01h" start="#LL1.27_hotspot_1r_01h"/></surface>
+		<surface n="LL1.27.2" xml:id="LL1.27_folio_1v" corresp="#LL1.27_fol_1v"><graphic url="data/test-img/LL1.27/LL1-27_0002.dzi" width="1661px" height="2468px"/><zone ulx="561.08" uly="143.21" lrx="667.72" lry="225.04" rendition="HotSpot" xml:id="LL1.27_hotspot_1v_01" corresp="#LL1.27_hotspot_1v_01h" start="#LL1.27_hotspot_1v_01h"/><zone ulx="315.58" uly="660.75" lrx="529.30" lry="1018.12" rendition="HotSpot" xml:id="LL1.27_hotspot_1v_02" corresp="#LL1.27_hotspot_1v_02h" start="#LL1.27_hotspot_1v_02h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.27" xml:id="LL1.27">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Passero, Parigi, 23 maggio 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        439  p. 509-510</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>L'anno di redazione della minuta di lettera è stato attribuito da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo e altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.27</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>133x203<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>
+										Filigrana sbiadita non identificabile, posta in alto a sinistra vicino all'angolo del folio.
+									</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+										Il folio non presenta piegature; sono tuttavia visibili alcune pieghe causate dall'usura.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									
+										Lettera in buone condizioni fisiche. Sul folio sono presenti alcuni segni di usura. Nella parte centrale del verso del folio è presente un pezzo di carta con un segno lasciato da una graffetta.
+									
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile.
+								
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									septième
+									significa
+									settimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+									Sulla carta 1v in basso è presente un'annotazione, probabilmente scritta da un catalogatore, posizionata in verticale, redatta con inchiostro di colore blu, indicante "N 23".
+								
+							 
+								
+									Sulla carta 1v in altro a destra è presente un'annotazione, probabilmente scritta da un catalogatore, composta dal numero 9 tra parentesi.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Puteaux, Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[
+						23 maggio
+						1835
+					]</p><p><fw> 
+                            Destinatario
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.27.1r" xml:id="LL1.27_fol_1r" facs="data/test-img/LL1.27/LL1-27_0001.dzi"/>
+			<!-- recto -->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.27_line_1r_01" n="1" xml:id="LL1.27_lb_1r_01"/>
+						<address xml:lang="fr">
+							<street>N<am instant="false">:</am> 19<am instant="false">:</am> bis rampe du pont de <placeName ref="#NSS">Neuilly</placeName> à</street> <placeName ref="#Put"> <hi rend="underline">Puteaux</hi></placeName>
+						</address>
+						<lb facs="#LL1.27_line_1r_02" n="2" xml:id="LL1.27_lb_1r_02"/>
+						<date rend="align(center)" resp="#GS" when="1835-05-23" instant="false">23<am instant="false">:</am> Maggio</date>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.27_line_1r_03" n="3" xml:id="LL1.27_lb_1r_03"/>
+							Mio caro
+							<persName>Passero</persName>
+							<ptr target="#LL1.27_note1"/><note>(Nota Seminara, 2017: p. 509 n. 870)<p part="N">
+							Non è stato possibile reperire informazioni sul destinatario di questa lettera.
+						</p></note></s>
+				</salute>
+				<ab n="ab_03" type="parag" part="N">
+					<s n="s_03" rend="first_line_indented" type="sentence" part="N">
+						<lb facs="#LL1.27_line_1r_04" n="4" xml:id="LL1.27_lb_1r_04"/>
+						Avendo saputo che
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">il nostro </del>
+							<add place="above" instant="false" status="unremarkable">
+								<choice><abbr>S<am instant="false">.</am> A<am instant="false">.</am> R<am instant="false">.</am></abbr><expan instant="false">S<ex instant="false">ua</ex> A<ex instant="false">ltezza</ex> R<ex instant="false">eale</ex></expan></choice>
+							</add>
+						</subst>
+						il
+						<lb facs="#LL1.27_line_1r_05" n="5" xml:id="LL1.27_lb_1r_05"/>
+						<persName>Principe di Siracusa</persName>
+						si trova a
+						<placeName ref="#Paris">Parigi</placeName>
+						vorrei
+						<lb facs="#LL1.27_line_1r_06" n="6" xml:id="LL1.27_lb_1r_06"/>
+						presentargli i miei omaggi;
+						<del rend="dotted" instant="false" status="unremarkable">quindi</del>
+						<add place="supralinear" instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">che</del>
+						</add>
+						<del rend="strikethrough" instant="false" status="unremarkable">consiglia</del>
+						<lb facs="#LL1.27_line_1r_07" n="7" xml:id="LL1.27_lb_1r_07"/>
+						<add place="supralinear" instant="false" status="unremarkable">
+							quindi
+							<add place="supralinear" instant="false" status="unremarkable">ti</add>
+							prego
+							<add place="supralinear" instant="false" status="unremarkable">di domandare parere</add>
+							al Sig.
+							<persName ref="#WildingGeorgWilhelmKarl">Principe Butera</persName>
+							se
+							<del rend="strikethrough" instant="false" status="unremarkable">[...]</del>
+							la mia visita
+							<milestone unit="line"/>
+							potrà incommodare
+							<persName>
+								<choice><abbr>S<am instant="false">.</am> A<am instant="false">.</am></abbr><expan instant="false">S<ex instant="false">ua</ex> A<ex instant="false">ltezza</ex></expan></choice>
+							</persName>
+						</add>
+						<del rend="strikethrough" instant="false" status="unremarkable">
+							l'<persName>Ambasciatore</persName>
+						</del>
+						<del rend="strikethrough" instant="false" status="unremarkable">
+							crederà che
+							<persName>il principe</persName>
+						</del>
+						<lb facs="#LL1.27_line_1r_08" n="8" xml:id="LL1.27_lb_1r_08"/>
+						<del rend="strikethrough" instant="false" status="unremarkable">abbia piacere di ricevermi</del>
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.27_line_1r_09" n="9" xml:id="LL1.27_lb_1r_09"/>
+						quindi,
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">da me essere
+								<add place="above" instant="false" status="unremarkable">aver</add>
+							</del>
+							<add place="supralinear" instant="false" status="unremarkable">ti prego di</add>
+						</subst>
+						domandare parere al Sig.
+						<lb facs="#LL1.27_line_1r_10" n="10" xml:id="LL1.27_lb_1r_10"/>
+						<persName ref="#WildingGeorgWilhelmKarl">Principe Butera,</persName>
+						se egli crede che la
+						<lb facs="#LL1.27_line_1r_11" n="11" xml:id="LL1.27_lb_1r_11"/>
+						mia visita incommodasse
+						<persName>
+							<choice><abbr>S<am instant="false">.</am> A<am instant="false">.</am></abbr><expan instant="false">S<ex instant="false">ua</ex> A<ex instant="false">ltezza</ex></expan></choice>,
+						</persName>
+						desiderei
+						<lb facs="#LL1.27_line_1r_12" n="12" xml:id="LL1.27_lb_1r_12"/>
+						che almeno
+						<persName>
+							<choice><abbr>S<am instant="false">.</am> A<am instant="false">.</am></abbr><expan instant="false">S<ex instant="false">ua</ex> A<ex instant="false">ltezza</ex></expan></choice>:
+						</persName>
+						saprebbe
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">che io </del>
+							<add place="above" instant="false" status="unremarkable">la mia</add>
+						</subst>
+						<lb facs="#LL1.27_line_1r_13" n="13" xml:id="LL1.27_lb_1r_13"/>
+						intenzione, nel caso che il
+							<subst instant="false" status="unremarkable">
+								<del rend="strikethrough" instant="false" status="unremarkable">principe </del>
+								<add place="supralinear" instant="false" status="unremarkable">
+									<del rend="strikethrough" instant="false" status="unremarkable">ambasciatore </del>
+								</add>
+								<add place="inline" instant="false" status="unremarkable">Sig</add>
+								<lb facs="#LL1.27_line_1r_14" n="14" xml:id="LL1.27_lb_1r_14"/>
+								<add instant="false" status="unremarkable"><persName ref="#WildingGeorgWilhelmKarl">principe</persName></add>
+							</subst>
+						crede potermi egli stesso presentare,
+						<lb facs="#LL1.27_line_1r_15" n="15" xml:id="LL1.27_lb_1r_15"/>
+						cosa che mi sarebbe maggiormente cara, <w part="N">av
+							<lb break="no" facs="#LL1.27_line_1r_16" n="16" rend="double-stroke" xml:id="LL1.27_lb_1r_16"/>
+							visamene</w> un giorno prima
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">perché </del>
+							<add place="above" instant="false" status="unremarkable">o vieni</add>
+						</subst>
+						a farti
+						<add place="supralinear" instant="false" status="unremarkable">tu stesso</add>
+						<del rend="strikethrough" instant="false" status="unremarkable">
+							[...]
+						</del>
+						<lb facs="#LL1.27_line_1r_17" n="17" xml:id="LL1.27_lb_1r_17"/>
+						una passeggiata sin a
+						<placeName ref="#Put">Puteaux,</placeName>
+						perché
+						<lb facs="#LL1.27_line_1r_18" n="18" xml:id="LL1.27_lb_1r_18"/>
+						io non manchi all'ora che
+						<persName>
+							<choice><abbr>S<am instant="false">.</am> A<am instant="false">.</am></abbr><expan instant="false">S<ex instant="false">ua</ex> A<ex instant="false">ltezza</ex></expan></choice>
+						</persName>
+						mi
+						<lb facs="#LL1.27_line_1r_19" n="19" xml:id="LL1.27_lb_1r_19"/>
+						<subst instant="false" status="unremarkable">
+							<del rend="strikethrough" instant="false" status="unremarkable">chiamerà </del>
+							<add place="above" instant="false" status="unremarkable">assegnerà</add>
+						</subst>
+						<ptr target="#LL1.27_note2"/><note resp="#GS" xml:id="LL1.27_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.27_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.27_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Septième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.27.1v" xml:id="LL1.27_fol_1v" facs="data/test-img/LL1.27/LL1-27_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<!-- verso -->
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.27_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.27_hs_1v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(9)</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.27_hotspot_1v_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.27_hs_1v_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">N 23</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.27_hotspot_1r_01h" facs="#LL1.27_hotspot_1r_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									septième
+									significa
+									settimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.27_hotspot_1v_01h" facs="#LL1.27_hotspot_1v_01"><p>annotazione, probabilmente scritta da un catalogatore, composta dal numero 9 tra parentesi</p></div><div xml:id="LL1.27_hotspot_1v_02h" facs="#LL1.27_hotspot_1v_02"><p>annotazione, probabilmente scritta da un catalogatore, posizionata in verticale, redatta con inchiostro di colore blu, indicante "N 23"</p></div></div></back>
+	</text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Eugène Troupenas, in Parigi, [giugno 1835]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2021-09" instant="false">September 2021</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Ada Desideri</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_31.II.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="457/1" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="526" to="526" unit="page">526</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.31.II</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 6, ripiano 1, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.31.II"><idno type="inventory">LL1.31.II</idno><title>Vincenzo Bellini a Eugène Troupenas, in Parigi, [giugno 1835]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="457/1"><locus from="526" to="526">n. 457/1, p. 526.</locus></citedRange></bibl><bibl>Neri, 2005, p. 422. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						J'aurais besoin de savoir
+						
+						le nom de la personne qui
+						
+						vous a demandé la
+						partition
+						
+						des
+						Puritains
+						pour le
+						
+						Theatre de Dresde
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="#LL1.31.II" default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date cert="medium" resp="#GS" when="1835-06" instant="false">Giugno 1835</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#TroupenasEugeneTheodore">Eugène Troupenas</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.31.II_facsimile">
+		<surface n="LL1.31.II.1" xml:id="LL1.31.II_folio_1r" corresp="#LL1.31.II_fol_1r"><graphic url="data/test-img/LL1.31.II/LL1-31-II_0001.dzi" width="1646px" height="2642px"/><zone ulx="130.02" uly="72.48" lrx="565.75" lry="132.65" rendition="line" xml:id="LL1.31.II_line_1r_01"/><zone ulx="89.61" uly="134.41" lrx="565.75" lry="182.73" rendition="line" xml:id="LL1.31.II_line_1r_02"/><zone ulx="89.61" uly="182.73" lrx="565.75" lry="231.04" rendition="line" xml:id="LL1.31.II_line_1r_03"/><zone ulx="89.61" uly="228.41" lrx="565.75" lry="285.51" rendition="line" xml:id="LL1.31.II_line_1r_04"/><zone ulx="89.61" uly="285.51" lrx="452.42" lry="333.83" rendition="line" xml:id="LL1.31.II_line_1r_05"/><zone ulx="364.57" uly="351.40" lrx="500.74" lry="636.91" rendition="HotSpot" xml:id="LL1.31.II_hotspot_1r_01" corresp="#LL1.31.II_hotspot_1r_01h" start="#LL1.31.II_hotspot_1r_01h"/><zone ulx="21.08" uly="639.54" lrx="713.34" lry="1147.31" rendition="HotSpot" xml:id="LL1.31.II_hotspot_1r_02" corresp="#LL1.31.II_hotspot_1r_02h" start="#LL1.31.II_hotspot_1r_02h"/></surface>
+		<surface n="LL1.31.II.2" xml:id="LL1.31.II_folio_1v" corresp="#LL1.31.II_fol_1v"><graphic url="data/test-img/LL1.31.II/LL1-31-II_0002.dzi" width="1646px" height="2646px"/></surface>
+		<surface n="LL1.31.II.3" xml:id="LL1.31.II_folio_2r" corresp="#LL1.31.II_fol_2r"><graphic url="data/test-img/LL1.31.II/LL1-31-II_0003.dzi" width="1257px" height="1643px"/></surface>
+		<surface n="LL1.31.II.4" xml:id="LL1.31.II_folio_2v" corresp="#LL1.31.II_fol_2v"><graphic url="data/test-img/LL1.31.II/LL1-31-II_0004.dzi" width="1667px" height="2657px"/><zone ulx="455.83" uly="563.83" lrx="643.20" lry="691.77" rendition="HotSpot" xml:id="LL1.31.II_hotspot_2v_01" corresp="#LL1.31.II_hotspot_2v_01h" start="#LL1.31.II_hotspot_2v_01h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.31.II" xml:id="LL1.31.II">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Eugène Troupenas, in Parigi, [giugno 1835]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        457/1  p. 526</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La data di redazione della minuta di lettera è stata attribuita da Seminara e non è presente nel documento originale. Il foglio della lettera è incollato, nella parte inferiore, ad un altro foglio, contenente la
+								<hi facs="#LL1.31.II_hotspot_1r_02">minuta di lettera LL1.31.I</hi>. Le due parti, quindi, fanno parte della medesima unità codicologica.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Testo e altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.31.II</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>135x102<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La minuta di lettera non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio) ed è redatta su una sola facciata.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Il foglio è in condizioni abbastanza buone.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile.
+								
+							 
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e cinquième significaquinto. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+									Nella carta 2v sono presenti tracce di scrittura a mano libera ben leggibile: sono probabilmente numeri di una vecchia catalogazione, a matita blu, riportanti il testo "(108) ('7)".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Parigi]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Giugno 1835]</p><p><fw> 
+                            Destinatario
+                        </fw>[Eugène Troupenas]</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="fr">
+			<pb n="LL1.31.II.1r" xml:id="LL1.31.II_fol_1r" facs="data/test-img/LL1.31.II/LL1-31-II_0001.dzi"/>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_01" rend="all_indented" type="parag" part="N">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.31.II_note1"/><note resp="#GS" xml:id="LL1.31.II_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+						<lb facs="#LL1.31.II_line_1r_01" n="1" xml:id="LL1.31.II_lb_1r_01"/>
+						J'aurais besoin de savoir
+						<lb facs="#LL1.31.II_line_1r_02" n="2" xml:id="LL1.31.II_lb_1r_02"/>
+						le nom de la personne qui
+						<lb facs="#LL1.31.II_line_1r_03" n="3" xml:id="LL1.31.II_lb_1r_03"/>
+						vous a demandé la
+						<term ref="TEI-ListTerm.xml#partitura" type="music-term">partition</term><note type="comment" n="T"><seg>
+                [PARTITURA]
+            </seg><gloss xml:lang="it" target="#partitura" type="translation" resp="#PPS" source="https://doi.org/10.1093/gmo/9781561592630.article.25241">
+							L'atto di tracciare linee verticali attraverso uno o più righi musicali per formare battute era originariamente descritto, in latino, come <hi rend="italic">partire</hi> o <hi rend="italic">cancellare,</hi> da cui derivava il termine <hi rend="italic">partitura cancellata</hi> (abbreviato <hi rend="italic">partitura</hi>), divisa cioè in compartimenti (cancelli). Il sostantivo "partitura" significa: (a) una forma di musica manoscritta o stampata in cui i pentagrammi, collegati da stanghette, sono scritti uno sopra l'altro, in modo da rappresentare visivamente la coordinazione musicale; (b) una pagina, volume, fascicolo o altro manufatto contenente una copia completa di un'opera musicale; e (c) per estensione, un brano musicale scritto abitualmente "in partitura".
+						</gloss><seg>
+                (https://doi.org/10.1093/gmo/9781561592630.article.25241)
+            </seg></note>
+						<lb facs="#LL1.31.II_line_1r_04" n="4" xml:id="LL1.31.II_lb_1r_04"/>
+						des
+						<rs ref="TEI-ListWork.xml#Puritani" rend="underline" type="work">Puritains</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I puritani<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label> Carlo Pepoli<label rend="bold"> [Prima rappresentazione]: </label>Théâtre de la comédie italienne, Paris, 24 gennaio 1835<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								Composti da Bellini su libretto di Carlo Pepoli, <hi rend="italic">I puritani</hi> si ispiravano al dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> di Jacques-Arsène Ancelot e Joseph-Xavier-Boniface Saintine, che era andato in scena al Théâtre du Vaudeville il 25 settembre 1833 e in quello stesso anno era stato pubblicato a Parigi dall'editore Barba. L'opera fu rappresentata al Théâtre Italien di Parigi il 24 gennaio 1835 e incontrò uno trionfale successo, grazie anche all'interpretazione del “quartetto” di cantanti Giulia Grisi (soprano), Giovanni Battista Rubini (tenore), Antonio Taburini (baritono), Luigi Lablache (basso).
+							</p>
+						</note><label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#EC">
+							<p>
+								Opera seria in tre atti. Il dramma storico <hi rend="italic">Têtes rondes et Cavaliers</hi> a sua volta era derivato dal romanzo <hi rend="italic">Old mortality</hi> (1816) di Walter Scott che fu tradotto in Italia nel 1822 col titolo <hi rend="italic">I puritani di Scozia</hi>. Essendo in rotta con il librettista Felice Romani, Bellini accettò il testo approntato dal conte Pepoli, distinto letterato ma che non aveva alcuna esperienza di teatro: l'ultima opera del Cigno fu composta pertanto nell'arco di ben nove mesi, un tempo decisamente ampio durante il quale musicista e librettista lavorarono fianco a fianco nella costruzione dell'impianto drammaturgico.
+							</p>
+						</note></note>
+						pour le
+						<lb facs="#LL1.31.II_line_1r_05" n="5" xml:id="LL1.31.II_lb_1r_05"/>
+						<orgName ref="#Semperoper">Theatre de Dresde</orgName>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.31.II_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.31.II_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							Cinquieme
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.31.II.1v" xml:id="LL1.31.II_fol_1v" facs="data/test-img/LL1.31.II/LL1-31-II_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.31.II.2r" xml:id="LL1.31.II_fol_2r" facs="data/test-img/LL1.31.II/LL1-31-II_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.31.II.2v" xml:id="LL1.31.II_fol_2v" facs="data/test-img/LL1.31.II/LL1-31-II_0004.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.31.II_hotspot_2v_01" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.31.II_hs_2v_01" part="N">
+					<fw type="catalogNum">
+						<unclear instant="false">
+							<idno cert="medium" type="oldCat">(108) ('7)</idno>
+						</unclear>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.31.II_hotspot_1r_01h" facs="#LL1.31.II_hotspot_1r_01"><p>
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile, contenente un numero ordinale, una parola e una sigla, probabilmente del catalogatore. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote indica la numerazione dei cartoni di un fondo archivistico e cinquième significaquinto. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.31.II_hotspot_1r_02h" facs="#LL1.31.II_hotspot_1r_02"><p>minuta di lettera LL1.31.I</p></div><div xml:id="LL1.31.II_hotspot_2v_01h" facs="#LL1.31.II_hotspot_2v_01"><p>scrittura a mano libera ben leggibile: sono probabilmente numeri di una vecchia catalogazione, a matita blu, riportanti il testo "(108) ('7)"</p></div></div></back>
+	</text>
+</TEI>

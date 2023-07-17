@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giovanni Battista Perucchini, in Milano, novembre 1830</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-08" instant="false">August 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="DB" full="yes" instant="false">Daniele Borghesi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_7.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="140" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="228" to="229" unit="page">228-229</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.7</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, V (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.7"><idno type="inventory">LL1.7</idno><title>Vincenzo Bellini a Giovanni Battista Perucchini, in Milano, novembre 1830</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="140"><locus from="228" to="229">n. 140, p. 228-229.</locus></citedRange></bibl><bibl>Neri, 2005, p. 179. </bibl><incipit><fw>Incipit </fw>
+						
+						
+							Milano
+							25
+								 Novembre 
+						
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+					
+						Il
+						 vostro 
+						
+					
+				
+				
+					Bellini
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#MI">Milano</placeName>
+					<date when="1830-11-25" instant="false"><date type="writing" instant="false">25 novembre</date>
+					<date cert="high" resp="#GS" instant="false">1830</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#PerucchiniGiovanniBattista">Giovanni Battista Perucchini</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.7_facsimile">
+		<surface n="LL1.7.1" xml:id="LL1.7_folio_1r" corresp="#LL1.7_fol_1r"><graphic url="data/test-img/LL1.7/LL1-7_0001.dzi" width="1519px" height="2453px"/><zone ulx="380.30" uly="57.59" lrx="628.76" lry="98.05" rendition="line" xml:id="LL1.7_line_1r_01"/><zone ulx="168.02" uly="150.41" lrx="387.92" lry="187.06" rendition="line" xml:id="LL1.7_line_1r_02"/><zone ulx="276.54" uly="235.61" lrx="699.68" lry="285.58" rendition="line" xml:id="LL1.7_line_1r_03"/><zone ulx="89.48" uly="287.96" lrx="699.68" lry="344.13" rendition="line" xml:id="LL1.7_line_1r_04"/><zone ulx="89.48" uly="336.51" lrx="699.68" lry="394.58" rendition="line" xml:id="LL1.7_line_1r_05"/><zone ulx="89.48" uly="383.16" lrx="699.68" lry="437.42" rendition="line" xml:id="LL1.7_line_1r_06"/><zone ulx="89.48" uly="427.42" lrx="699.68" lry="484.54" rendition="line" xml:id="LL1.7_line_1r_07"/><zone ulx="89.48" uly="475.97" lrx="699.68" lry="530.23" rendition="line" xml:id="LL1.7_line_1r_08"/><zone ulx="89.48" uly="512.62" lrx="699.68" lry="579.73" rendition="line" xml:id="LL1.7_line_1r_09"/><zone ulx="89.48" uly="568.31" lrx="699.68" lry="625.43" rendition="line" xml:id="LL1.7_line_1r_10"/><zone ulx="89.48" uly="620.67" lrx="699.68" lry="663.50" rendition="line" xml:id="LL1.7_line_1r_11"/><zone ulx="89.48" uly="657.79" lrx="699.68" lry="718.24" rendition="line" xml:id="LL1.7_line_1r_12"/><zone ulx="89.48" uly="701.58" lrx="699.68" lry="762.98" rendition="line" xml:id="LL1.7_line_1r_13"/><zone ulx="89.48" uly="745.85" lrx="699.68" lry="810.10" rendition="line" xml:id="LL1.7_line_1r_14"/><zone ulx="89.48" uly="789.16" lrx="699.68" lry="849.61" rendition="line" xml:id="LL1.7_line_1r_15"/><zone ulx="89.48" uly="835.81" lrx="699.68" lry="889.11" rendition="line" xml:id="LL1.7_line_1r_16"/><zone ulx="89.48" uly="881.97" lrx="699.68" lry="922.43" rendition="line" xml:id="LL1.7_line_1r_17"/><zone ulx="89.48" uly="925.29" lrx="699.68" lry="979.55" rendition="line" xml:id="LL1.7_line_1r_18"/><zone ulx="89.48" uly="967.65" lrx="699.68" lry="1021.91" rendition="line" xml:id="LL1.7_line_1r_19"/><zone ulx="89.48" uly="1014.77" lrx="699.68" lry="1075.22" rendition="line" xml:id="LL1.7_line_1r_20"/><zone ulx="89.48" uly="1057.61" lrx="699.68" lry="1110.44" rendition="line" xml:id="LL1.7_line_1r_21"/><zone ulx="89.48" uly="1102.82" lrx="699.68" lry="1147.09" rendition="line" xml:id="LL1.7_line_1r_22"/><zone ulx="38.08" uly="21.42" lrx="118.99" lry="47.60" rendition="HotSpot" xml:id="LL1.7_hotspot_1r_01" corresp="#LL1.7_hotspot_1r_01h" start="#LL1.7_hotspot_1r_01h"/></surface>
+		<surface n="LL1.7.2" xml:id="LL1.7_folio_1v" corresp="#LL1.7_fol_1v"><graphic url="data/test-img/LL1.7/LL1-7_0002.dzi" width="1541px" height="2468px"/><zone ulx="63.34" uly="228.02" lrx="688.28" lry="300.27" rendition="line" xml:id="LL1.7_line_1v_01"/><zone ulx="63.34" uly="283.85" lrx="688.28" lry="347.19" rendition="line" xml:id="LL1.7_line_1v_02"/><zone ulx="63.34" uly="328.42" lrx="688.28" lry="393.17" rendition="line" xml:id="LL1.7_line_1v_03"/><zone ulx="63.34" uly="375.81" lrx="688.28" lry="423.67" rendition="line" xml:id="LL1.7_line_1v_04"/><zone ulx="63.34" uly="421.32" lrx="688.28" lry="483.72" rendition="line" xml:id="LL1.7_line_1v_05"/><zone ulx="63.34" uly="467.77" lrx="688.28" lry="520.79" rendition="line" xml:id="LL1.7_line_1v_06"/><zone ulx="63.34" uly="513.75" lrx="688.28" lry="560.67" rendition="line" xml:id="LL1.7_line_1v_07"/><zone ulx="63.34" uly="557.85" lrx="688.28" lry="606.18" rendition="line" xml:id="LL1.7_line_1v_08"/><zone ulx="63.34" uly="596.32" lrx="542.84" lry="658.72" rendition="line" xml:id="LL1.7_line_1v_09"/><zone ulx="429.30" uly="657.78" lrx="557.85" lry="714.55" rendition="line" xml:id="LL1.7_line_1v_10"/><zone ulx="429.30" uly="722.06" lrx="652.62" lry="776.96" rendition="line" xml:id="LL1.7_line_1v_11"/></surface>
+		<surface n="LL1.7.3" xml:id="LL1.7_folio_2r" corresp="#LL1.7_fol_2r"><graphic url="data/test-img/LL1.7/LL1-7_0003.dzi" width="1501px" height="2439px"/></surface>
+		<surface n="LL1.7.4" xml:id="LL1.7_folio_2v" corresp="#LL1.7_fol_2v"><graphic url="data/test-img/LL1.7/LL1-7_0004.dzi" width="1494px" height="2468px"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.7" xml:id="LL1.7">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Giovanni Battista Perucchini, in Milano, novembre 1830</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        140  p. 228-229</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Lettera facente parte del Carteggio Perucchini e in esso catalogata con la segnatura CP1.1. L'anno di redazione della lettera è stata attribuito da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.7</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>202x120<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di sigilli, timbri o francobolli. Lettera priva di indirizzo.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su due facciate. Le pieghe verticali sono centrali e molto vicine tra loro. Le pieghe orizzontali sono equamente distanziate e suddividono la lettera in tre parti uguali. In tutto si osservano 12 sezioni: 6 più grandi e 6 più piccole centrali.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni, con testo pienamente leggibile. Sono presenti alcuni strappi: uno  laterale e due strappi centrali (fori) visibili sulle carte 1r e 1v. Le stesse condizioni si riscontrano anche nelle pagine 2r e 2v. In queste ultime due carte è presente anche una macchia di colore grigio, di forma rotonda e ben visibile.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								Scrittura a mano libera ben leggibile.
+							 
+								Nella pagina 1r, nell'angolo in alto a sinistra, è presente un'annotazione di seconda mano che riporta la sigla "AM840".
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Milano</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[25 novembre
+					1830]</p><p><fw> 
+                            Destinatario
+                        </fw>Giovanni Battista Perucchini</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.7.1r" xml:id="LL1.7_fol_1r" facs="data/test-img/LL1.7/LL1-7_0001.dzi"/>
+			<!--fronte-recto-->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<lb facs="#LL1.7_line_1r_01" n="1" xml:id="LL1.7_lb_1r_01"/>
+						<hi rend="align(right)">
+							<placeName ref="#MI">Milano</placeName>
+							<date when="1830-09-25" instant="false">25
+								<choice><abbr>Nov<am instant="false">:</am><hi rend="sup">e</hi></abbr><expan instant="false">Nov<ex instant="false">embr</ex>e</expan></choice></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.7_line_1r_02" n="2" xml:id="LL1.7_lb_1r_02"/>
+						Mio caro
+						<persName ref="#PerucchiniGiovanniBattista" type="person" role="composer">amico</persName>
+					</s>
+				</salute>
+				<lb rend="2-line"/> <!-- prossemica -->
+				<ab n="ab_03" next="#LL1.7_ab_03_1v" part="I" rend="first_line_indented" type="parag" xml:id="LL1.7_ab_03_1r">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.7_line_1r_03" n="3" xml:id="LL1.7_lb_1r_03"/>
+						Son sicuro che mi sgridereste
+						<lb facs="#LL1.7_line_1r_04" n="4" xml:id="LL1.7_lb_1r_04"/>
+						se non vi raccomandassi la mia amica
+						<choice><abbr>Mad<am instant="false">:</am><hi rend="sup">a</hi></abbr><expan instant="false">Mad<ex instant="false">am</ex>a</expan></choice>
+						<lb facs="#LL1.7_line_1r_05" n="5" xml:id="LL1.7_lb_1r_05"/>
+						<persName ref="#LewisMarianna">Levis,</persName> la quale si porta in
+						<distinct>cotesta</distinct> per <w part="N">can
+							<lb break="no" facs="#LL1.7_line_1r_06" n="6" rend="double-stroke" xml:id="LL1.7_lb_1r_06"/>
+							tare</w> in qualità di prima donna al
+						<orgName ref="#Fenice">teatro della</orgName>
+							<lb facs="#LL1.7_line_1r_07" n="7" xml:id="LL1.7_lb_1r_07"/>
+							<orgName ref="#Fenice">Fenice.</orgName>
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						<persName ref="#LewisMarianna" type="person">Ella stessa</persName> ha desiderato una lettera
+						<lb facs="#LL1.7_line_1r_08" n="8" xml:id="LL1.7_lb_1r_08"/>
+						per voi, stimandovi come tutta <name type="place" full="yes" instant="false">Europa,</name>
+						<lb facs="#LL1.7_line_1r_09" n="9" xml:id="LL1.7_lb_1r_09"/>
+						l'<name type="epiteth" full="yes" instant="false"><persName ref="#PerucchiniGiovanniBattista" type="person" role="composer">Apollo Veneto.</persName>
+						</name>
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						Io ho adempiuto al mio
+						<lb facs="#LL1.7_line_1r_10" n="10" xml:id="LL1.7_lb_1r_10"/>
+						dovere col procurarle l'occasione d'<w part="N">avvi
+							<lb break="no" facs="#LL1.7_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.7_lb_1r_11"/>
+							cinare</w> una persona, come voi, o mio caro
+						<persName ref="#PerucchiniGiovanniBattista" type="person" role="composer">a</persName>
+								<lb break="no" facs="#LL1.7_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.7_lb_1r_12"/>
+								<persName ref="#PerucchiniGiovanniBattista" type="person" role="composer">mico,</persName> piena di sapere e d'amabilità, e
+						<lb facs="#LL1.7_line_1r_13" n="13" xml:id="LL1.7_lb_1r_13"/>
+						vi prego di non abbandonarla coi
+						<choice><abbr>vri<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ri</expan></choice> <w part="N">con
+							<lb break="no" facs="#LL1.7_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.7_lb_1r_14"/>
+							sigli</w> concernenti l'arte, ed il modo che
+						<lb facs="#LL1.7_line_1r_15" n="15" xml:id="LL1.7_lb_1r_15"/>
+						necessiterebbe per presentarsi alle persone
+						<lb facs="#LL1.7_line_1r_16" n="16" xml:id="LL1.7_lb_1r_16"/>
+						più riguardevoli di
+						<placeName ref="#VE">Venezia.</placeName>
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						Non vi parlo
+						<lb facs="#LL1.7_line_1r_17" n="17" xml:id="LL1.7_lb_1r_17"/>
+						della sua abilità, perché credo che l'avrete
+						<lb facs="#LL1.7_line_1r_18" n="18" xml:id="LL1.7_lb_1r_18"/>
+						inteso in
+						<placeName ref="#MI">Milano;</placeName> ma posso assicurarvi che
+						<lb facs="#LL1.7_line_1r_19" n="19" xml:id="LL1.7_lb_1r_19"/>
+						in tutto la troverete più brava, essendo
+						<lb facs="#LL1.7_line_1r_20" n="20" xml:id="LL1.7_lb_1r_20"/>
+						una <distinct>giovine</distinct> instancabile nell'esercitarsi
+						<lb facs="#LL1.7_line_1r_21" n="21" xml:id="LL1.7_lb_1r_21"/>
+						giornalmente.
+					</s>
+					<s n="s_07" next="#LL1.7_s_07_1v" part="I" type="sentence" xml:id="LL1.7_s_07_1r">
+						Per qualità d'animo è la
+						<lb facs="#LL1.7_line_1r_22" n="22" xml:id="LL1.7_lb_1r_22"/>
+						più buona ed amabile ragazza, e senza <w next="#LL1.7_1v_01_affettazione" part="I" xml:id="LL1.7_1r_01_affettazione">affet</w>
+					</s>
+				</ab>
+				<ab facs="#LL1.7_hotspot_1r_01" subtype="addition" type="paratext" xml:id="LL1.7_hs_1r_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">AM840</idno>
+					</fw>
+				</ab>
+				<pb n="LL1.7.1v" xml:id="LL1.7_fol_1v" facs="data/test-img/LL1.7/LL1-7_0002.dzi"/>
+				<ab n="ab_03" next="#LL1.7_ab_03_1r" part="F" type="parag" xml:id="LL1.7_ab_03_1v">
+					<s n="s_07" next="#LL1.7_s_07_1r" part="F" type="sentence" xml:id="LL1.7_s_07_1v">
+						<lb break="no" facs="#LL1.7_line_1v_01" n="1" rend="double-stroke" xml:id="LL1.7_lb_1v_01"/>
+						<w part="F" prev="#LL1.7_1r_01_affettazione" xml:id="LL1.7_1v_01_affettazione">tazione</w> alcuna.
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						Conoscerete anche la sua
+							<choice><abbr>Sig<am instant="false">:</am><hi rend="sup">ra</hi></abbr><expan instant="false">Sig<ex instant="false">no</ex>ra</expan></choice>
+						<lb facs="#LL1.7_line_1v_02" n="2" xml:id="LL1.7_lb_1v_02"/>
+						<persName type="person">madre,</persName> poiché è una donna gentilissima ed assai
+						<lb facs="#LL1.7_line_1v_03" n="3" xml:id="LL1.7_lb_1v_03"/>
+						socievole, avendo una buona dose di spirito.
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						<lb facs="#LL1.7_line_1v_04" n="4" xml:id="LL1.7_lb_1v_04"/>
+						Ecco il ritratto di queste mie amiche, che
+						<lb facs="#LL1.7_line_1v_05" n="5" xml:id="LL1.7_lb_1v_05"/>
+						troverete somigliante nel trattarle.
+					</s>
+				</ab>
+				<ab n="ab_04" type="parag" part="N">
+					<s n="s_10" type="sentence" part="N">
+						Aspet
+						<lb break="no" facs="#LL1.7_line_1v_06" n="6" rend="double-stroke" xml:id="LL1.7_lb_1v_06"/>
+						to
+						<choice><abbr>vre<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>re</expan></choice> nuove, che ne sono digiuno da gran
+						<lb facs="#LL1.7_line_1v_07" n="7" xml:id="LL1.7_lb_1v_07"/>
+						tempo.
+					</s>
+					<s n="s_11" type="sentence" part="N">
+						Ricordatemi ai
+						<choice><abbr>vri<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ri</expan></choice>
+						<persName type="person">vecchietti</persName> ed
+						<lb facs="#LL1.7_line_1v_08" n="8" xml:id="LL1.7_lb_1v_08"/>
+						a tutti i nostri amici.
+					</s>
+					<s n="s_12" type="sentence" part="N">
+						Ricevete i miei
+						<lb facs="#LL1.7_line_1v_09" n="9" xml:id="LL1.7_lb_1v_09"/>
+						<choice><abbr>abb<am instant="false">:</am><hi rend="sup">ci</hi></abbr><expan instant="false">abb<ex instant="false">rac</ex>ci</expan></choice> e
+						<choice><abbr>cred<am instant="false">:</am><hi rend="sup">mi</hi></abbr><expan instant="false">cred<ex instant="false">ete</ex>mi</expan></choice> a tutte
+						<distinct>pruove</distinct>
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<salute n="ab_06">
+					<lb facs="#LL1.7_line_1v_10" n="10" xml:id="LL1.7_lb_1v_10"/>
+					<s n="s_13" type="sentence" rend="align(right)" part="N">
+						Il
+						<choice><abbr>vro<g ref="g01" rend="sup"/></abbr><expan instant="false">v<ex instant="false">ost</ex>ro</expan></choice>
+						<lb facs="#LL1.7_line_1v_11" n="11" xml:id="LL1.7_lb_1v_11"/>
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Bellini</persName>
+				</signed>
+			</div>
+			<pb n="LL1.7.2r" xml:id="LL1.7_fol_2r" facs="data/test-img/LL1.7/LL1-7_0003.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<pb n="LL1.7.2v" xml:id="LL1.7_fol_2v" facs="data/test-img/LL1.7/LL1-7_0004.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.7_hotspot_1r_01h" facs="#LL1.7_hotspot_1r_01"><p>annotazione di seconda mano che riporta la sigla "AM840"</p></div></div></back>
+	</text>
+</TEI>

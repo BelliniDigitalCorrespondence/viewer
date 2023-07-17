@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Vincenzo Ferlito, in Milano, [luglio 1830]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2019-06" instant="false">June 2019</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="EC" full="yes" instant="false">Erica Capizzi</name>
+					<name ref="#DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_4.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="129" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="220" to="220" unit="page">220</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.4</idno>
+						<!-- segnatura della singola lettera -->
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, III b (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+						<!-- collocazione della lettera al museo -->
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.4"><idno type="inventory">LL1.4</idno><title>Vincenzo Bellini a Vincenzo Ferlito, in Milano, [luglio 1830]</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="129"><locus from="220" to="220">n. 129, p. 220.</locus></citedRange></bibl><bibl>Delogu, 1931, p. 169. </bibl><bibl>Cambi, 1943, p. 252-253. </bibl><bibl>Neri, 2005, p. 172-173. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						vi dissi che volea darvi un cenno sù la malattia sofferta ed ecco:
+					</incipit><explicit><fw>Explicit </fw>
+				
+					
+					
+						Vostro
+							 affezionatissimo  nipote
+					
+				
+				
+				
+					Vincenzo
+				
+			</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#MI">Milano</placeName>
+					<date cert="medium" resp="#GS" when="1830-07" instant="false">Luglio 1830</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#FerlitoVincenzo">Vincenzo Ferlito</persName>
+					<placeName ref="#CT">Catania</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it"><!-- soggettario della Biblioteca Nazionale di Firenze -->
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.4_facsimile">
+		<surface n="LL1.4.1" xml:id="LL1.4_folio_1r" corresp="#LL1.4_fol_1r"><graphic url="data/test-img/LL1.4/LL1-4_0001.dzi" width="2406px" height="3274px"/><zone ulx="22.54" uly="26.44" lrx="706.17" lry="53.49" rendition="line" xml:id="LL1.4_line_1r_01"/><zone ulx="22.54" uly="54.09" lrx="706.17" lry="81.74" rendition="line" xml:id="LL1.4_line_1r_02"/><zone ulx="22.54" uly="83.54" lrx="706.17" lry="110.58" rendition="line" xml:id="LL1.4_line_1r_03"/><zone ulx="22.54" uly="111.18" lrx="706.17" lry="147.24" rendition="line" xml:id="LL1.4_line_1r_04"/><zone ulx="22.54" uly="148.15" lrx="706.17" lry="181.50" rendition="line" xml:id="LL1.4_line_1r_05"/><zone ulx="22.54" uly="182.10" lrx="706.17" lry="215.76" rendition="line" xml:id="LL1.4_line_1r_06"/><zone ulx="22.54" uly="216.36" lrx="706.17" lry="251.22" rendition="line" xml:id="LL1.4_line_1r_07"/><zone ulx="22.54" uly="251.82" lrx="706.17" lry="280.06" rendition="line" xml:id="LL1.4_line_1r_08"/><zone ulx="22.54" uly="282.47" lrx="706.17" lry="320.93" rendition="line" xml:id="LL1.4_line_1r_09"/><zone ulx="22.54" uly="324.54" lrx="585.97" lry="360.60" rendition="line" xml:id="LL1.4_line_1r_10"/><zone ulx="22.54" uly="364.20" lrx="585.97" lry="406.27" rendition="line" xml:id="LL1.4_line_1r_11"/><zone ulx="22.54" uly="409.28" lrx="585.97" lry="438.73" rendition="line" xml:id="LL1.4_line_1r_12"/><zone ulx="22.54" uly="441.73" lrx="585.97" lry="474.79" rendition="line" xml:id="LL1.4_line_1r_13"/><zone ulx="22.54" uly="479.60" lrx="585.97" lry="512.65" rendition="line" xml:id="LL1.4_line_1r_14"/><zone ulx="22.54" uly="518.66" lrx="706.17" lry="554.72" rendition="line" xml:id="LL1.4_line_1r_15"/><zone ulx="22.54" uly="555.92" lrx="706.17" lry="587.78" rendition="line" xml:id="LL1.4_line_1r_16"/><zone ulx="22.54" uly="588.98" lrx="706.17" lry="623.84" rendition="line" xml:id="LL1.4_line_1r_17"/><zone ulx="22.54" uly="626.84" lrx="706.17" lry="662.90" rendition="line" xml:id="LL1.4_line_1r_18"/><zone ulx="22.54" uly="664.70" lrx="706.17" lry="700.76" rendition="line" xml:id="LL1.4_line_1r_19"/><zone ulx="96.16" uly="703.17" lrx="706.17" lry="736.82" rendition="line" xml:id="LL1.4_line_1r_20"/><zone ulx="22.54" uly="739.23" lrx="706.17" lry="766.27" rendition="line" xml:id="LL1.4_line_1r_21"/><zone ulx="22.54" uly="768.07" lrx="706.17" lry="808.34" rendition="line" xml:id="LL1.4_line_1r_22"/><zone ulx="22.54" uly="808.94" lrx="709.78" lry="849.21" rendition="line" xml:id="LL1.4_line_1r_23"/><zone ulx="22.54" uly="845.00" lrx="706.17" lry="878.06" rendition="line" xml:id="LL1.4_line_1r_24"/><zone ulx="22.54" uly="878.66" lrx="706.17" lry="909.61" rendition="line" xml:id="LL1.4_line_1r_25"/><zone ulx="22.54" uly="910.51" lrx="706.17" lry="937.56" rendition="line" xml:id="LL1.4_line_1r_26"/><zone ulx="441.73" uly="938.16" lrx="706.17" lry="952.58" rendition="line" xml:id="LL1.4_line_1r_27"/><zone ulx="510.85" uly="949.58" lrx="661.10" lry="964.60" rendition="line" xml:id="LL1.4_line_1r_28"/><zone ulx="93.15" uly="935.15" lrx="438.73" lry="955.59" rendition="line" xml:id="LL1.4_line_1r_29"/><zone ulx="93.15" uly="951.98" lrx="438.73" lry="967.61" rendition="line" xml:id="LL1.4_line_1r_30"/></surface>
+		<surface n="LL1.4.2" xml:id="LL1.4_folio_1v" corresp="#LL1.4_fol_1v"><graphic url="data/test-img/LL1.4/LL1-4_0002.dzi" width="2406px" height="3274px"/><zone ulx="243.70" uly="482.30" lrx="310.42" lry="661.10" rendition="line" xml:id="LL1.4_line_1v_01"/><zone ulx="291.48" uly="282.47" lrx="338.96" lry="452.55" rendition="line" xml:id="LL1.4_line_1v_02"/><zone ulx="325.74" uly="223.87" lrx="383.44" lry="670.11" rendition="line" xml:id="LL1.4_line_1v_03"/><zone ulx="406.27" uly="477.79" lrx="453.75" lry="626.24" rendition="line" xml:id="LL1.4_line_1v_04"/><zone ulx="408.68" uly="237.39" lrx="467.58" lry="483.80" rendition="line" xml:id="LL1.4_line_1v_05"/><zone ulx="225.98" uly="231.08" lrx="304.71" lry="335.36" rendition="HotSpot" xml:id="LL1.4_hotspot_1v_01" corresp="#LL1.4_hotspot_1v_01h" start="#LL1.4_hotspot_1v_01h"/><zone ulx="210.35" uly="435.42" lrx="264.44" lry="541.80" rendition="HotSpot" xml:id="LL1.4_hotspot_1v_02" corresp="#LL1.4_hotspot_1v_02h" start="#LL1.4_hotspot_1v_02h"/><zone ulx="43.57" uly="518.66" lrx="149.05" lry="627.44" rendition="HotSpot" xml:id="LL1.4_hotspot_1v_03" corresp="#LL1.4_hotspot_1v_03h" start="#LL1.4_hotspot_1v_03h"/><zone ulx="81.13" uly="430.61" lrx="208.25" lry="631.35" rendition="HotSpot" xml:id="LL1.4_hotspot_1v_04" corresp="#LL1.4_hotspot_1v_04h" start="#LL1.4_hotspot_1v_04h"/></surface>
+	</facsimile>
+	<text type="lettera" n="1.4" xml:id="LL1.4">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Vincenzo Ferlito, in Milano, [luglio 1830]</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        129  p. 220</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>Lettera incompleta. La data di redazione della lettera è stata attribuita da Seminara e non è presente nel documento originale.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con indirizzo in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.4</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige con inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>269x195<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>
+										Sono presenti nella carta 1v un timbro postale di passaggio con scritto "COMO" e un'ombra di timbro. 
+									</p><p>
+									</p></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Lettera composta da un solo folio, La lettera è scritta su una facciata, l'indirizzo si trova sulla carta 1v. Il folio presenta segni di piegature asimmetriche che lo suddividono in nove sezioni. Così il folio stesso funge anche da busta con l'indirizzo nella parte centrale della carta 1v.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in discrete condizioni fisiche. La lettera presenta due strappi: uno in alto e uno al centro.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile.
+								
+							 
+								
+									Annotazione, probabilmente dovuta ad un catalogatore, che presenta il numero 24.
+								
+							 
+								
+									La carta 1r, nella parte centrale, presenta un'annotazione di seconda mano.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>La carta 1v, nella parte centrale destra, presenta un frammento di sigillo di ceralacca rossa.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>[Milano]</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[Luglio 1830]</p><p><fw> 
+                            Destinatario
+                        </fw>Vincenzo Ferlito</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>Catania</p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.4.1r" xml:id="LL1.4_fol_1r" facs="data/test-img/LL1.4/LL1-4_0001.dzi"/>
+			<!--Fronte -->
+			<div n="t_01" type="letter-body" part="N" org="uniform" sample="complete">
+				<ab n="ab_01" type="parag" part="N">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.4_note1"/><note resp="#GS" xml:id="LL1.4_note1" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+						<lb facs="#LL1.4_line_1r_01" n="1" xml:id="LL1.4_lb_1r_01"/>
+						<persName ref="#FerlitoVincenzo" type="person">vi</persName> dissi che volea darvi un cenno sù la malattia sofferta ed ecco:
+					</s>
+					<s n="s_02" type="sentence" part="N">
+						<lb facs="#LL1.4_line_1r_02" n="2" xml:id="LL1.4_lb_1r_02"/>
+						La principale ragione fù l'aver scritto a <placeName ref="#VE">Venezia</placeName> i <rs ref="TEI-ListWork.xml#Capuleti" type="work">Capuleti</rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I Capuleti e i Montecchi<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label>
+							Felice Romani
+						<label rend="bold"> [Prima rappresentazione]: </label>Teatro La Fenice, Venezia, 11 marzo 1830<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								La «tragedia lirica» <hi rend="italic">I Capuleti e i Montecchi</hi> fu composta da Bellini su commissione di Alessandro Lanari, impresario del Teatro La Fenice di Venezia: il musicista, che si trovava nella città lagunare dal dicembre 1829 per seguire la rappresentazione del <hi rend="italic"><rs type="work" ref="#Pirata">Pirata</rs></hi>, aveva accettato la proposta di sostituire l'inadempiente Pacini per la stagione del Carnevale del 1830. La ristrettezza del tempo indusse Felice Romani a riutilizzare il libretto di <hi rend="italic">Giulietta e Romeo</hi>, scritto nel 1825 per Nicola Vaccaj; a sua volta Bellini si avvalse delle musiche già composte per <hi rend="italic"><rs type="work" ref="#Zaira">Zaira</rs></hi>, l'opera con la quale il 16 maggio 1829 aveva inaugurato il Teatro Ducale di Parma incontrando un sostanziale insuccesso. Fu invece trionfale l'accoglienza riservata dal pubblico veneziano ai <hi rend="italic">Capuleti</hi>, che andarono in scena al Teatro La Fenice l'11 marzo 1830.
+							</p>
+						</note></note> in
+						<lb facs="#LL1.4_line_1r_03" n="3" xml:id="LL1.4_lb_1r_03"/>
+						<num type="cardinal" value="26">26<am instant="false">:</am></num> giorni, ove m'applicava <num type="cardinal" value="10">10<am instant="false">:</am></num> ore di seguito nella mattina ed
+						<lb facs="#LL1.4_line_1r_04" n="4" xml:id="LL1.4_lb_1r_04"/>
+						altre <num type="cardinal" value="4">quattro</num> nella sera.
+					</s>
+					<s n="s_03" type="sentence" part="N">
+						là qualche volta mi puzzava il <w part="N">fia
+							<lb break="no" facs="#LL1.4_line_1r_05" n="5" rend="double-stroke" xml:id="LL1.4_lb_1r_05"/>
+							to</w> per le cattive digestioni:
+					</s>
+					<s n="s_04" type="sentence" part="N">
+						la stagione orrida si era unita pure
+						<lb facs="#LL1.4_line_1r_06" n="6" xml:id="LL1.4_lb_1r_06"/>
+						a farmi soffrire:
+					</s>
+					<s n="s_05" type="sentence" part="N">
+						in Aprile ritornai in <placeName ref="#MI">Milano</placeName> e stiedi senza
+						<lb facs="#LL1.4_line_1r_07" n="7" xml:id="LL1.4_lb_1r_07"/>
+						appetito sino che ai <date when="1830-5-21" instant="false">21<am instant="false">:</am> di Maggio</date> mi scoppiò una tremenda
+						<lb facs="#LL1.4_line_1r_08" n="8" xml:id="LL1.4_lb_1r_08"/>
+						febbre inflamatoria gastrica biliosa che bisognò farmi un
+						<lb facs="#LL1.4_line_1r_09" n="9" xml:id="LL1.4_lb_1r_09"/>
+						salasso e poi darmi l'emetico:
+					</s>
+					<s n="s_06" type="sentence" part="N">
+						il terzo giorno <persName ref="#PolliniFrancesco">Pollini</persName> con l'<w part="N">in
+							<lb break="no" facs="#LL1.4_line_1r_10" n="10" rend="double-stroke" xml:id="LL1.4_lb_1r_10"/>
+							tervento</w> del <persName type="person">dottore</persName> volle farmi trasportare in sua
+						<lb facs="#LL1.4_line_1r_11" n="11" xml:id="LL1.4_lb_1r_11"/>
+						casa, perché la mia abitazione era composta di
+						<lb facs="#LL1.4_line_1r_12" n="12" xml:id="LL1.4_lb_1r_12"/>
+						cammere strette e basse di tetto, cosa che
+						<lb facs="#LL1.4_line_1r_13" n="13" xml:id="LL1.4_lb_1r_13"/>
+						era pericolosa pel carattere della malattia che
+						<lb facs="#LL1.4_line_1r_14" n="14" xml:id="LL1.4_lb_1r_14"/>
+						potea farla degenerare in putrida maligna:
+					</s>
+					<s n="s_07" type="sentence" part="N">
+						<lb facs="#LL1.4_line_1r_15" n="15" xml:id="LL1.4_lb_1r_15"/>
+						in casa <persName ref="#PolliniFrancesco">Pollini,</persName> in una parola fui assistito con tanta <w part="N">pre
+							<lb break="no" facs="#LL1.4_line_1r_16" n="16" rend="double-stroke" xml:id="LL1.4_lb_1r_16"/>
+							mura</w> ed affetto che non posso descriverlo.
+					</s>
+					<s n="s_08" type="sentence" part="N">
+						Si sono ancora
+						<lb facs="#LL1.4_line_1r_17" n="17" xml:id="LL1.4_lb_1r_17"/>
+						dispendiati, perché io non ho pagato altro che il medico
+						<lb facs="#LL1.4_line_1r_18" n="18" xml:id="LL1.4_lb_1r_18"/>
+						ed i medicamenti;
+					</s>
+					<s n="s_09" type="sentence" part="N">
+						perciò vedete quanti obblighi professo
+						<lb facs="#LL1.4_line_1r_19" n="19" xml:id="LL1.4_lb_1r_19"/>
+						a questa buona <rs type="personGrp">
+							<choice><abbr>fam<am instant="false">:</am><hi rend="sup">a</hi></abbr><expan instant="false">fam<ex instant="false">igli</ex>a</expan></choice>
+						</rs> che mi ama più che figlio.
+					</s>
+				</ab>
+				<ab n="ab_02" rend="first_line_indented" type="parag" part="N">
+					<s n="s_10" type="sentence" part="N">
+						<lb facs="#LL1.4_line_1r_20" n="20" xml:id="LL1.4_lb_1r_20"/>
+						La scrittura che forse combinerò con la <orgName ref="#Scala">Scala,</orgName><w part="N">for
+							<lb break="no" facs="#LL1.4_line_1r_21" n="21" rend="double-stroke" xml:id="LL1.4_lb_1r_21"/>
+							se</w> sarà per <num type="cardinal" value="2">due</num> <term ref="TEI-ListTerm.xml#opera" subtype="music-term">opere</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> da scriverle <num type="cardinal" value="1">una</num> nell'autunno
+						<lb facs="#LL1.4_line_1r_22" n="22" xml:id="LL1.4_lb_1r_22"/>
+						del <date when="1831" instant="false">1831<am instant="false">:</am></date> ed <num type="cardinal" value="1">una</num> nel carnevale del <date rend="underline" when="1832" instant="false">1832<am instant="false">:</am></date> e per queste
+						<lb facs="#LL1.4_line_1r_23" n="23" xml:id="LL1.4_lb_1r_23"/>
+						l'<term ref="TEI-ListTerm.xml#impresario" subtype="music-term">impressario</term><note type="comment" n="T"><seg>
+                [IMPRESARIO]
+            </seg><gloss xml:lang="it" target="#impresario" source="TEI-ListBibl.xml#DellaSeta2010">
+							Imprenditore che si assume in prima persona la responsabilità economica di uno spettacolo teatrale, occupandosi dell’organizzazione logistica e della formazione del cast in accordo con i proprietari dei teatri. Come figura professionale la sua data di nascita coincide con quella degli spettacoli pubblici a Venezia nel 1637 [...]. Per questa prima fase si parla di opera mercenaria, cioè a pagamento; successivamente, tra Sei e Settecento, la figura dell’impresario si istituzionalizzò, dando vita a un sistema di produzione noto come opera impresariale, in cui si affittavano i teatri cittadini o delle famiglie nobili per periodi di tempo sempre più lunghi, al fine di potervi tenere una o più <term subtype="music-term">stagioni,</term> incentrate sul reclutamento di una compagnia di canto e di ballo. Nella prima metà dell’Ottocento impresari quali <persName>Domenico Barbaja</persName> o <persName>Alessandro Lanari</persName> giunsero a controllare contemporaneamente più teatri in diverse città in Italia e all’estero. Nella seconda metà del secolo, a causa di un sistema produttivo sempre più di tipo industriale, l’iniziativa della produzione operistica fu assunta direttamente dalle case editrici (in Italia Ricordi, Lucca, Sonzogno), che soppiantarono progressivamente la figura dell’impresario nel determinare le scelte dei compositori e dei cantanti nei maggiori teatri del mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> m'ha offerto <num rend="underline" type="cardinal" value="4000">4000<am instant="false">:</am></num> ducati;
+					</s>
+					<s n="s_11" type="sentence" part="N">
+						ma io pretendo
+						<lb facs="#LL1.4_line_1r_24" n="24" xml:id="LL1.4_lb_1r_24"/>
+						di più, ossia altri <num rend="underline" type="cardinal" value="600">600<am instant="false">:</am></num> ducati, che vengono ad essere
+						<lb facs="#LL1.4_line_1r_25" n="25" xml:id="LL1.4_lb_1r_25"/>
+						<num rend="underline" type="cardinal" value="20000">20,000</num> <choice><abbr>f<am instant="false">:</am><hi rend="sup">i</hi></abbr><expan instant="false">f<ex instant="false">ranch</ex>i</expan></choice>
+						cosa che si risolverà fra giorni.
+					</s>
+					<s n="s_12" type="sentence" part="N">
+						Intanto
+						<lb facs="#LL1.4_line_1r_26" n="26" xml:id="LL1.4_lb_1r_26"/>
+						ricevetevi i miei
+						<choice><abbr>abb<am instant="false">:</am><hi rend="sup">ci</hi></abbr><expan instant="false">abb<ex instant="false">racc</ex>i</expan></choice> e le tante cose per tutti i
+						<rs type="personGrp">parenti</rs>
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer" part="N" org="uniform" sample="complete">
+				<salute n="ab_03">
+					<lb facs="#LL1.4_line_1r_27" n="27" xml:id="LL1.4_lb_1r_27"/>
+					<s n="s_13" type="sentence" rend="align(right)" part="N">
+						Vostro
+							<choice><abbr>affssmo</abbr><expan instant="false">affezionatissimo</expan></choice> nipote
+					</s>
+				</salute>
+				<lb facs="#LL1.4_line_1r_28" n="28" xml:id="LL1.4_lb_1r_28"/>
+				<signed rend="align(right)">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo</persName>
+				</signed>
+			</div>
+			<div type="postscript" part="N" org="uniform" sample="complete">
+				<ab n="ab_04" type="parag" part="N">
+					<s n="s_14" type="sentence" part="N">
+						<lb facs="#LL1.4_line_1r_29" n="29" xml:id="LL1.4_lb_1r_29"/>
+						Subito completata l'<term ref="TEI-ListTerm.xml#opera" subtype="music-term">opera</term><note type="comment" n="T"><seg>
+                [OPERA]
+            </seg><gloss xml:lang="it" target="#opera" source="TEI-ListBibl.xml#DellaSeta2010">
+							(dal plurale del latino <hi rend="italic">opus,</hi> nel senso di “manufatto”) Spettacolo teatrale in cui l’azione si manifesta principalmente attraverso la musica e l’espressione canora dei personaggi. L’opera è un genere complesso, fondato sulla cooperazione tra testo letterario (<term subtype="music-term" ref="#libretto">libretto</term>), allestimento scenico e musica, che ha comunque una funzione essenziale nel caratterizzare drammaticamente il lavoro (drammaturgia musicale). [...] L’opera nacque nell’Italia del primo Seicento (Firenze, Mantova, Roma) come spettacolo di corte con carattere prevalentemente celebrativo. Dalla fine degli anni Trenta, con l’apertura a Venezia dei primi teatri pubblici a pagamento, si impose il modello dell’opera <term subtype="music-term" ref="#impresario">impresariale,</term> che produsse in Italia, con la rapida e diffusa circolazione di cantanti, compositori, scenografi, l’attività di una miriade di sale teatrali sparse sul territorio (dalle grandi capitali dotate di numerosi palcoscenici ai piccoli centri) e una produzione sterminata di nuovi lavori [...]. Tale modello si diffuse ben presto in Europa, imponendo nel Settecento – nelle tre declinazioni dell’<term subtype="music-term" ref="#opera_seria">opera seria,</term> dell’<term subtype="music-term">opera buffa</term> e poi dell’<term subtype="music-term">opera semiseria</term> – il predominio italiano che perdura ancor oggi nei cartelloni dei teatri di tutto il mondo. [...]
+						</gloss><seg>
+                (TEI-ListBibl.xml#DellaSeta2010)
+            </seg></note> dei <rs ref="TEI-ListWork.xml#Capuleti" type="work">
+							<hi rend="underline">Capuleti</hi></rs><note type="comment" n="O"><label rend="bold">[Titolo]: </label>I Capuleti e i Montecchi<label rend="bold"> [Compositore]: </label>
+							Vincenzo Bellini
+						<label rend="bold"> [Librettista]: </label>
+							Felice Romani
+						<label rend="bold"> [Prima rappresentazione]: </label>Teatro La Fenice, Venezia, 11 marzo 1830<label rend="bold"> [Nota]: </label><note xmlns="" xmlns:mei="https://music-encoding.org/schema/4.0.1/mei-all.rng" resp="#GS">
+							<p>
+								La «tragedia lirica» <hi rend="italic">I Capuleti e i Montecchi</hi> fu composta da Bellini su commissione di Alessandro Lanari, impresario del Teatro La Fenice di Venezia: il musicista, che si trovava nella città lagunare dal dicembre 1829 per seguire la rappresentazione del <hi rend="italic"><rs type="work" ref="#Pirata">Pirata</rs></hi>, aveva accettato la proposta di sostituire l'inadempiente Pacini per la stagione del Carnevale del 1830. La ristrettezza del tempo indusse Felice Romani a riutilizzare il libretto di <hi rend="italic">Giulietta e Romeo</hi>, scritto nel 1825 per Nicola Vaccaj; a sua volta Bellini si avvalse delle musiche già composte per <hi rend="italic"><rs type="work" ref="#Zaira">Zaira</rs></hi>, l'opera con la quale il 16 maggio 1829 aveva inaugurato il Teatro Ducale di Parma incontrando un sostanziale insuccesso. Fu invece trionfale l'accoglienza riservata dal pubblico veneziano ai <hi rend="italic">Capuleti</hi>, che andarono in scena al Teatro La Fenice l'11 marzo 1830.
+							</p>
+						</note></note>
+						<lb facs="#LL1.4_line_1r_30" n="30" xml:id="LL1.4_lb_1r_30"/>
+						spedirò le solite copie ed una per <persName ref="#PaternoCastelloFrancesco">Carcaci.</persName>
+					</s>
+				</ab>
+			</div>
+			<pb n="LL1.4.1v" xml:id="LL1.4_fol_1v" facs="data/test-img/LL1.4/LL1-4_0002.dzi"/>
+			<div type="destination" part="N" org="uniform" sample="complete">
+				<ab type="receiver" xml:id="LL1.4_line_1v_01_multiple" part="N">
+					<address xml:lang="fr">
+						<lb facs="#LL1.4_line_1v_01" n="1" xml:id="LL1.4_lb_1v_01"/>
+						<addrLine rend="underline"><region>Deux Siciles</region></addrLine>
+						<lb facs="#LL1.4_line_1v_02" n="2" xml:id="LL1.4_lb_1v_02"/>
+						<addrLine rend="align(right)">Monsieur</addrLine>
+						<lb facs="#LL1.4_line_1v_03" n="3" xml:id="LL1.4_lb_1v_03"/>
+						<addrLine>Monsieur
+							<persName ref="#FerlitoVincenzo">Vincent Ferliti</persName>
+						</addrLine>
+						<lb facs="#LL1.4_line_1v_04" n="4" xml:id="LL1.4_lb_1v_04"/>
+						<addrLine>
+							<placeName ref="#NA">Naples</placeName>
+						</addrLine>
+						<lb facs="#LL1.4_line_1v_05" n="5" xml:id="LL1.4_lb_1v_05"/>
+						<addrLine>pour
+							<placeName ref="#CT">Catane</placeName>
+						</addrLine>
+					</address>
+				</ab>
+			</div>
+			<div type="sent" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.4_hotspot_1v_02" type="paratext" xml:id="LL1.4_hs_1v_02" part="N">
+					<stamp type="postmark">
+						<!-- timbro del mittente -->
+						<mentioned>
+							<placeName ref="#CO">COMO</placeName>
+						</mentioned>
+					</stamp>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.4_hotspot_1v_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.4_hs_1v_01" part="N">
+					<!-- seconda mano del bibliotecario -->
+					<fw type="catalogNum">
+						<idno type="oldCat">24</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.4_hotspot_1v_03" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.2_hs_1v_03" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+				<ab facs="#LL1.4_hotspot_1v_04" subtype="addition" type="paratext" xml:id="LL1.2_hs_1v_04" part="N">
+					<fw>
+						+++
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.4_hotspot_1v_01h" facs="#LL1.4_hotspot_1v_01"><p>Annotazione, probabilmente dovuta ad un catalogatore, che presenta il numero 24</p></div><div xml:id="LL1.4_hotspot_1v_02h" facs="#LL1.4_hotspot_1v_02"><p>timbro postale di passaggio con scritto "COMO"</p></div><div xml:id="LL1.4_hotspot_1v_03h" facs="#LL1.4_hotspot_1v_03"><p>annotazione di seconda mano</p></div><div xml:id="LL1.4_hotspot_1v_04h" facs="#LL1.4_hotspot_1v_04"><p>ombra di timbro</p></div></div></back>
+	</text>
+</TEI>

@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Saverio Mercadante, in Milano, [3 novembre 1832]</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-09">September 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by </resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Giulio Canapa</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_10.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="214" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="286" to="286" unit="page">286</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.10</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">Primo piano, armadio sala pianoforti (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#MercadanteSaverioGiuseppeRaffaele">Saverio Mercadante</persName>, in
+								<placeName ref="TEI-ListPlace.xml#MI">Milano</placeName>,
+								<date cert="medium" resp="#GS" when="1832-11-03">3 novembre 1832</date>
+							</title>
+							<textLang mainLang="it-x-800" otherLangs="fr-x-800 scn">Italiano di inizio Ottocento con indirizzo in francese e un termine in siciliano.</textLang>
+							<note>La data di redazione della lettera è stata attribuita da Seminara e non presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Nella lettera non sono presenti timbri.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>128</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Il biglietto è composto da due carte (un bifoglio). Il testo è scritto su due facciate, l'indirizzo del destinatario si trova nella carta 2v. Il folio presenta al centro una piegatura verticale, che lo suddivide in quattro sezioni. Sono inoltre presenti quattro sottili piegature orizzontali: si presume che il biglietto sia stato piegato su sè stesso prima di essere spedito.
+								</collation>
+								<condition>
+									<p>Biglietto in buone condizioni fisiche, non presenta strappi. Sulla parte alta si nota al centro un piccolo foro che attraversa tutte e quattro le carte. </p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<handNote>
+								<p>Scrittura a mano libera leggibile.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>In alto a destra sulla carta 1r,
+									<hi facs="#LL1.10_hotspot_1r_01">annotazione a matita, probabilmente dovuta ad un catalogatore, indicante il numero 65</hi></p>.
+							</handNote>
+							<handNote xml:id="h2">
+								<p>In basso a sinistra sulla carta 1r
+									<hi facs="#LL1.10_hotspot_1r_02">una piccola annotazione a matita illeggibile</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h3">
+								<p>A destra sulla carta 2v, è possibile notare un
+									<hi facs="#LL1.10_hotspot_2v_01">segno sbiadito</hi>.
+								</p>
+							</handNote>
+							<handNote xml:id="h4">
+								<p>Sul lato destro della carta 2v
+									<hi facs="#LL1.10_hotspot_2v_02">annotazione poco chiara scritta in verticale</hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal type="wax">
+								<p>La carta 2v, in alto a sinistra, presenta un frammento di sigillo di ceralacca rossa e in basso a sinistra, presenta due piccole macchie di ceralacca rossa.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName cert="high" ref="TEI-ListPlace.xml#MI" resp="#GS">Milano</placeName>
+					<date cert="medium" resp="#GS" when="1832-11-03">3 novembre 1832</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#MercadanteSaverioGiuseppeRaffaele" role="composer">Saverio Mercadante</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Biglietto</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr-x-800">Francese di inizio Ottocento</language>
+				<language ident="scn">Siciliano</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.10_folio_1r">
+			<graphic height="1559.4px" url="LL1.10_0001.jpg" width="1236.4px" />
+			<zone lrx="737" lry="436" rendition="Line" ulx="188" uly="358" xml:id="LL1.10_line_1r_01" />
+			<zone lrx="1193" lry="585" rendition="Line" ulx="402" uly="502" xml:id="LL1.10_line_1r_02" />
+			<zone lrx="1193" lry="664" rendition="Line" ulx="188" uly="576" xml:id="LL1.10_line_1r_03" />
+			<zone lrx="1193" lry="760" rendition="Line" ulx="188" uly="683" xml:id="LL1.10_line_1r_04" />
+			<zone lrx="1193" lry="856" rendition="Line" ulx="188" uly="776" xml:id="LL1.10_line_1r_05" />
+			<zone lrx="1193" lry="959" rendition="Line" ulx="188" uly="878" xml:id="LL1.10_line_1r_06" />
+			<zone lrx="1193" lry="1079" rendition="Line" ulx="188" uly="977" xml:id="LL1.10_line_1r_07" />
+			<zone lrx="1193" lry="1170" rendition="Line" ulx="188" uly="1072" xml:id="LL1.10_line_1r_08" />
+			<zone lrx="1193" lry="1268" rendition="Line" ulx="188" uly="1181" xml:id="LL1.10_line_1r_09" />
+			<zone lrx="1193" lry="1348" rendition="Line" ulx="188" uly="1274" xml:id="LL1.10_line_1r_10" />
+			<zone lrx="1193" lry="1415" rendition="Line" ulx="188" uly="1342" xml:id="LL1.10_line_1r_11" />
+			<zone lrx="1193" lry="1492" rendition="Line" ulx="188" uly="1424" xml:id="LL1.10_line_1r_12" />
+			<zone lrx="1160" lry="151" rendition="HotSpot" ulx="942" uly="60" xml:id="LL1.10_hotspot_1r_01" />
+			<!--annotazione a matita, si legge il numero 65-->
+			<zone lrx="145" lry="1524" rendition="HotSpot" ulx="38" uly="1442" xml:id="LL1.10_hotspot_1r_02" />
+			<!--scrittura a matita, illeggibile-->
+		</surface>
+		<surface n="2" xml:id="LL1.10_folio_1v">
+			<graphic height="1581.4px" url="LL1.10_0002.jpg" width="1250.4px" />
+			<zone lrx="1210" lry="606" rendition="Line" ulx="132" uly="504" xml:id="LL1.10_line_1v_01" />
+			<zone lrx="1210" lry="706" rendition="Line" ulx="132" uly="589" xml:id="LL1.10_line_1v_02" />
+			<zone lrx="1210" lry="808" rendition="Line" ulx="132" uly="706" xml:id="LL1.10_line_1v_03" />
+			<zone lrx="781" lry="878" rendition="Line" ulx="132" uly="807" xml:id="LL1.10_line_1v_04" />
+			<zone lrx="1035" lry="978" rendition="Line" ulx="375" uly="884" xml:id="LL1.10_line_1v_05" />
+			<zone lrx="1112" lry="1055" rendition="Line" ulx="707" uly="972" xml:id="LL1.10_line_1v_06" />
+			<zone lrx="1157" lry="1188" rendition="Line" ulx="705" uly="1062" xml:id="LL1.10_line_1v_07" />
+			<zone lrx="833" lry="1277" rendition="Line" ulx="190" uly="1183" xml:id="LL1.10_line_1v_08" />
+		</surface>
+		<surface n="3" xml:id="LL1.10_folio_2r">
+			<graphic height="1559.4px" url="LL1.10_0003.jpg" width="1250.4px" />
+		</surface>
+		<surface n="4" xml:id="LL1.10_folio_2v">
+			<graphic height="1563.4px" url="LL1.10_0004.jpg" width="1250.4px" />
+			<zone lrx="1061" lry="726" rendition="Line" ulx="217" uly="631" xml:id="LL1.10_line_2v_01" />
+			<zone lrx="1078" lry="900" rendition="Line" ulx="737" uly="775" xml:id="LL1.10_line_2v_02" />
+			<zone lrx="1189" lry="677" rendition="HotSpot" ulx="893" uly="285" xml:id="LL1.10_hotspot_2v_01" />
+			<!--scrittura a matita poco leggibile-->
+			<zone lrx="1218" lry="928" rendition="HotSpot" ulx="1062" uly="542" xml:id="LL1.10_hotspot_2v_02" />
+			<!--Annotazione poco chiara scritta in verticale sul lato destro della pagina del fronte-verso-->
+		</surface>
+	</facsimile>
+	<text n="LL1.10" subtype="manuscript" type="biglietto" xml:id="LL1.10">
+		<front xml:lang="fr">
+			<pb facs="#LL1.10_folio_2v" n="4" xml:id="LL1.10_fol_2v_front" />
+			<div type="envelope">
+				<div type="destination">
+					<ab copyOf="#LL1.10_line_2v_01_multiple" type="receiver">
+						<address>
+							<lb facs="#LL1.10_line_2v_01" n="1" xml:id="LL1.10_lb_2v_01_front" />
+							<addrLine>à Monsieur
+								<persName ref="TEI-ListPerson.xml#MercadanteSaverioGiuseppeRaffaele" role="composer">Mercadante</persName>
+							</addrLine>
+							<lb facs="#LL1.10_line_2v_02" n="2" xml:id="LL1.10_lb_2v_02_front" />
+							<addrLine>Chez–lui</addrLine>
+						</address>
+					</ab>
+				</div>
+			</div>
+		</front>
+
+		<body xml:lang="it">
+			<pb facs="#LL1.10_folio_1r" n="1" xml:id="LL1.10_fol_1r" />
+			<div type="letter-body">
+				<salute n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.10_line_1r_01" n="1" xml:id="LL1.10_lb_1r_01" />
+						Mio caro
+						<rs ref="TEI-ListPerson.xml#MercadanteSaverioGiuseppeRaffaele" role="composer" type="person">amico</rs>
+					</s>
+				</salute>
+				<space quantity="1" unit="line" /> <!-- prossemica -->
+				<ab n="ab_02" next="#LL1.10_ab_01_1v" part="I" rend="first_line_indented" type="parag" xml:id="LL1.10_ab_01_1r">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.10_line_1r_02" n="2" xml:id="LL1.10_lb_1r_02" />
+						Mi affretto a rapportarvi
+						<lb facs="#LL1.10_line_1r_03" n="3" xml:id="LL1.10_lb_1r_03" />
+						che le pellicce sono di
+						<choice>
+							<abbr>vra<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex resp="#GS">ost</ex>ra</expan>
+						</choice> <w>pro
+							<lb break="no" facs="#LL1.10_line_1r_04" n="4" rend="double-stroke" xml:id="LL1.10_lb_1r_04" />
+							prietà</w> mediante<space /><num type="cardinal" value="16">sedici</num><space />zecchini:
+					</s>
+					<s n="s_03" type="question">
+						<lb facs="#LL1.10_line_1r_05" n="5" xml:id="LL1.10_lb_1r_05" />
+						siete contento?
+					</s>
+					<s n="s_04" type="sentence">
+						Questa sera spero
+						<lb facs="#LL1.10_line_1r_06" n="6" xml:id="LL1.10_lb_1r_06" />
+						vedervi in teatro. —
+					</s>
+					<s n="s_05" type="sentence">
+						V'è il
+						<term ref="TEI-ListTerm.xml#balletto" subtype="music-term">ballo novo,</term>
+						<ptr target="#LL1.10_note1" />
+						<lb facs="#LL1.10_line_1r_07" n="7" xml:id="LL1.10_lb_1r_07" />
+						e la povera
+						<persName ref="TEI-ListPerson.xml#GambaroSofia">Sofia</persName> vi deve essere,
+						<lb facs="#LL1.10_line_1r_08" n="8" xml:id="LL1.10_lb_1r_08" />
+						dunque son sicuro che andrà in una
+						<lb facs="#LL1.10_line_1r_09" n="9" xml:id="LL1.10_lb_1r_09" />
+						gran collera;
+					</s>
+					<s n="s_06" type="sentence">
+						quindi a rivederci:
+					</s>
+					<s n="s_07" type="sentence">
+						già
+						<lb facs="#LL1.10_line_1r_10" n="10" xml:id="LL1.10_lb_1r_10" />
+						sarete al solito: vicino alla volta celeste
+						<lb facs="#LL1.10_line_1r_11" n="11" xml:id="LL1.10_lb_1r_11" />
+						della
+						<orgName ref="TEI-ListOrganization.xml#Scala" type="theatre">Scala!</orgName> —
+					</s>
+					<s n="s_08" next="#LL1.10_s_08_1v" part="I" type="sentence" xml:id="LL1.10_s_08_1r">
+						Gradite i miei
+						<choice>
+							<abbr>abb<am>:</am><hi rend="sup">ci</hi></abbr>
+							<expan>abb<ex>rac</ex>ci</expan>
+						</choice> e
+						<lb facs="#LL1.10_line_1r_12" n="12" xml:id="LL1.10_lb_1r_12" />
+						fate i miei cordiali saluti alla
+						<choice>
+							<abbr>vra</abbr>
+							<expan>v<ex>ost</ex>ra</expan>
+						</choice>
+					</s>
+				</ab>
+				<ab facs="#LL1.10_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.10_hs_1r_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">65</idno>
+					</fw>
+				</ab>
+				<ab facs="#LL1.10_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.10_hs_1r_02">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+				<pb facs="#LL1.10_folio_1v" n="2" xml:id="LL1.10_fol_1v" />
+				<ab n="ab_03" part="F" prev="#LL1.10_ab_01_1r" type="parag" xml:id="LL1.10_ab_01_1v">
+					<s n="s_08" part="F" prev="#LL1.10_s_08_1r" type="sentence" xml:id="LL1.10_s_08_1v">
+						<lb facs="#LL1.10_line_1v_01" n="1" xml:id="LL1.10_lb_1v_01" />
+						gentile
+						<rs ref="TEI-ListPerson.xml#GambaroSofia" resp="#EC" type="person">mettà</rs> e
+						<persName>
+							<distinct rend="underline" type="dialectal" xml:lang="scn">cugnaa</distinct><space/>
+							<hi rend="underline">Mariuccia.</hi></persName>
+					</s>
+					<s n="s_09" rend="first_line_indented" type="sentence">
+						<lb facs="#LL1.10_line_1v_02" n="2" xml:id="LL1.10_lb_1v_02" />
+						V'ho scritto perchè la
+						<persName ref="TEI-ListPerson.xml#GambaroSofia">Sofia</persName>
+						<lb facs="#LL1.10_line_1v_03" n="3" xml:id="LL1.10_lb_1v_03" />
+						possa dar disposizione sull'<w>acco
+							<lb break="no" facs="#LL1.10_line_1v_04" n="4" rend="double-stroke" xml:id="LL1.10_lb_1v_04" />
+							modo</w> del vestito ec: ec:
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<ab n="ab_04">
+					<s n="s_10" rend="first_line_indented" type="sentence">
+						<lb facs="#LL1.10_line_1v_05" n="5" xml:id="LL1.10_lb_1v_05" />
+						Credete a tutte prove
+					</s>
+				</ab>
+				<salute n="ab_05">
+					<s n="s_11" type="sentence">
+						<lb facs="#LL1.10_line_1v_06" n="6" xml:id="LL1.10_lb_1v_06" />
+						<hi rend="align(right)">
+							<choice>
+								<abbr>Vro<g ref="g01" rend="sup"/></abbr>
+								<expan>V<ex>ost</ex>ro</expan>
+							</choice>
+							<choice>
+								<abbr>affsmo</abbr>
+								<expan>aff<ex>ezionatis</ex>s<ex>i</ex>mo</expan>
+							</choice>
+							<choice>
+								<abbr>A<hi rend="sup">o</hi></abbr>
+								<expan>A<ex>mic</ex>o</expan>
+							</choice>
+						</hi>
+					</s>
+				</salute>
+				<lb facs="#LL1.10_line_1v_07" n="7" xml:id="LL1.10_lb_1v_07" />
+				<signed rend="align(right)">
+					<hi rend="underline">
+						<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Bellini</persName>
+					</hi>
+				</signed>
+			</div>
+			<div type="postscript">
+				<lb facs="#LL1.10_line_1v_08" n="8" xml:id="LL1.10_lb_1v_08" />
+				<ab n="ab_06">
+					<s n="s_12" type="sentence">
+						Casa — Sabato mattina —
+					</s>
+				</ab>
+			</div>
+
+			<pb facs="#LL1.10_folio_2r" n="3" xml:id="LL1.10_fol_2r" />
+			<pb facs="#LL1.10_folio_2v" n="4" xml:id="LL1.10_fol_2v" />
+			<div type="destination">
+				<ab type="receiver" xml:id="LL1.10_line_2v_01_multiple">
+					<address xml:lang="fr">
+						<lb facs="#LL1.10_line_2v_01" n="1" xml:id="LL1.10_lb_2v_01" />
+						<addrLine>à Monsieur
+							<persName ref="TEI-ListPerson.xml#MercadanteSaverioGiuseppeRaffaele" role="composer">Mercadante</persName>
+						</addrLine>
+						<lb facs="#LL1.10_line_2v_02" n="2" xml:id="LL1.10_lb_2v_02" />
+						<addrLine rend="align(right)">Chez–lui</addrLine>
+					</address>
+				</ab>
+			</div>
+			<div type="paratext">
+				<ab facs="#LL1.10_hotspot_2v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.10_hs_2v_01">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+				<ab facs="#LL1.10_hotspot_2v_02" hand="#h4" subtype="addition" type="paratext" xml:id="LL1.10_hs_2v_02">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+			</div>
+			<!--note sbiadite scritte in verticale non leggibili -->
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="472" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.10_note1">
+						<bibl>
+							<citedRange from="286" to="286" unit="page">286</citedRange>
+						</bibl>
+						<p>Bellini si riferiva probabilmente al ballo di Antonio Monticini <hi rend="italic">Colombo all'isola di Cuba,</hi> che andò in scena al Teatro alla Scala il 3 novembre 1832.</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_10_bibliography">
+
+					<head>Bibliografia della lettera LL1.10</head>
+					<bibl xml:id="LL1_10_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2005">2005</date>
+								<citedRange from="238" to="239" unit="page">238-239</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+					<bibl xml:id="LL1_10_Pastura">
+						<ref target="TEI-ListBibl.xml#Pastura1958">
+							<bibl>
+								<author>Pastura</author>
+								<date when="1958">1958</date>
+								<citedRange from="6" to="6" unit="page">6</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

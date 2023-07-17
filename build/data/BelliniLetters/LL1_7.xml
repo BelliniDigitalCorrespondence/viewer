@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giovanni Battista Perucchini, in Milano, novembre 1830</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-08">August 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name xml:id="DB">Daniele Borghesi</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_7.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="140" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="228" to="229" unit="page">228-229</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.7</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 3, ripiano 1, V (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista">Giovanni Battista Perucchini</persName>, in
+								<placeName ref="TEI-ListPlace.xml#MI">Milano</placeName>,
+								<date cert="high" resp="#GS" when="1830-11-25">25 novembre 1830</date>
+							</title>
+							<textLang mainLang="it-x-800">Italiano di inizio Ottocento.</textLang>
+							<note>Lettera facente parte del Carteggio Perucchini e in esso catalogata con la segnatura CP1.1. L'anno di redazione della lettera è stata attribuito da Seminara e non è presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>La carta non presenta filigrana.</watermark>
+									<stamp>Non sono presenti tracce di sigilli, timbri o francobolli. Lettera priva di indirizzo.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>202</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<collation>
+									La lettera è composta da due carte (un bifoglio). La lettera è scritta su due facciate. Le pieghe verticali sono centrali e molto vicine tra loro. Le pieghe orizzontali sono equamente distanziate e suddividono la lettera in tre parti uguali. In tutto si osservano 12 sezioni: 6 più grandi e 6 più piccole centrali.
+								</collation>
+								<condition>
+									<p>Lettera in buone condizioni, con testo pienamente leggibile. Sono presenti alcuni strappi: uno  laterale e due strappi centrali (fori) visibili sulle carte 1r e 1v. Le stesse condizioni si riscontrano anche nelle pagine 2r e 2v. In queste ultime due carte è presente anche una macchia di colore grigio, di forma rotonda e ben visibile.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<handNote>
+								<p>Scrittura a mano libera ben leggibile.</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>Nella pagina 1r, nell'angolo in alto a sinistra, è presente un'<hi facs="#LL1.7_hotspot_1r_01">annotazione di seconda mano che riporta la sigla "AM840"</hi>.
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal>
+								<p>Non sono presenti sigilli.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#MI" type="writing">Milano</placeName>
+					<date when="1830-11-25"><date type="writing">25 novembre</date>
+					<date cert="high" resp="#GS">1830</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer">Giovanni Battista Perucchini</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.7_folio_1r">
+			<graphic height="2453px" url="LL1.7_0001.jpg" width="1519px" />
+			<zone lrx="1321" lry="206" rendition="Line" ulx="799" uly="121" xml:id="LL1.7_line_1r_01" />
+			<zone lrx="815" lry="393" rendition="Line" ulx="353" uly="316" xml:id="LL1.7_line_1r_02" />
+			<zone lrx="1470" lry="600" rendition="Line" ulx="581" uly="495" xml:id="LL1.7_line_1r_03" />
+			<zone lrx="1470" lry="723" rendition="Line" ulx="188" uly="605" xml:id="LL1.7_line_1r_04" />
+			<zone lrx="1470" lry="829" rendition="Line" ulx="188" uly="707" xml:id="LL1.7_line_1r_05" />
+			<zone lrx="1470" lry="919" rendition="Line" ulx="188" uly="805" xml:id="LL1.7_line_1r_06" />
+			<zone lrx="1470" lry="1018" rendition="Line" ulx="188" uly="898" xml:id="LL1.7_line_1r_07" />
+			<zone lrx="1470" lry="1114" rendition="Line" ulx="188" uly="1000" xml:id="LL1.7_line_1r_08" />
+			<zone lrx="1470" lry="1218" rendition="Line" ulx="188" uly="1077" xml:id="LL1.7_line_1r_09" />
+			<zone lrx="1470" lry="1314" rendition="Line" ulx="188" uly="1194" xml:id="LL1.7_line_1r_10" />
+			<zone lrx="1470" lry="1394" rendition="Line" ulx="188" uly="1304" xml:id="LL1.7_line_1r_11" />
+			<zone lrx="1470" lry="1509" rendition="Line" ulx="188" uly="1382" xml:id="LL1.7_line_1r_12" />
+			<zone lrx="1470" lry="1603" rendition="Line" ulx="188" uly="1474" xml:id="LL1.7_line_1r_13" />
+			<zone lrx="1470" lry="1702" rendition="Line" ulx="188" uly="1567" xml:id="LL1.7_line_1r_14" />
+			<zone lrx="1470" lry="1785" rendition="Line" ulx="188" uly="1658" xml:id="LL1.7_line_1r_15" />
+			<zone lrx="1470" lry="1868" rendition="Line" ulx="188" uly="1756" xml:id="LL1.7_line_1r_16" />
+			<zone lrx="1470" lry="1938" rendition="Line" ulx="188" uly="1853" xml:id="LL1.7_line_1r_17" />
+			<zone lrx="1470" lry="2058" rendition="Line" ulx="188" uly="1944" xml:id="LL1.7_line_1r_18" />
+			<zone lrx="1470" lry="2147" rendition="Line" ulx="188" uly="2033" xml:id="LL1.7_line_1r_19" />
+			<zone lrx="1470" lry="2259" rendition="Line" ulx="188" uly="2132" xml:id="LL1.7_line_1r_20" />
+			<zone lrx="1470" lry="2333" rendition="Line" ulx="188" uly="2222" xml:id="LL1.7_line_1r_21" />
+			<zone lrx="1470" lry="2410" rendition="Line" ulx="188" uly="2317" xml:id="LL1.7_line_1r_22" />
+			<zone lrx="250" lry="100" rendition="HotSpot" ulx="80" uly="45" xml:id="LL1.7_hotspot_1r_01" />
+			<!-- scritta a matita in alto -->
+		</surface>
+		<surface n="2" xml:id="LL1.7_folio_1v">
+			<graphic height="2468px" url="LL1.7_0002.jpg" width="1541px" />
+			<zone lrx="1467" lry="640" rendition="Line" ulx="135" uly="486" xml:id="LL1.7_line_1v_01" />
+			<zone lrx="1467" lry="740" rendition="Line" ulx="135" uly="605" xml:id="LL1.7_line_1v_02" />
+			<zone lrx="1467" lry="838" rendition="Line" ulx="135" uly="700" xml:id="LL1.7_line_1v_03" />
+			<zone lrx="1467" lry="903" rendition="Line" ulx="135" uly="801" xml:id="LL1.7_line_1v_04" />
+			<zone lrx="1467" lry="1031" rendition="Line" ulx="135" uly="898" xml:id="LL1.7_line_1v_05" />
+			<zone lrx="1467" lry="1110" rendition="Line" ulx="135" uly="997" xml:id="LL1.7_line_1v_06" />
+			<zone lrx="1467" lry="1195" rendition="Line" ulx="135" uly="1095" xml:id="LL1.7_line_1v_07" />
+			<zone lrx="1467" lry="1292" rendition="Line" ulx="135" uly="1189" xml:id="LL1.7_line_1v_08" />
+			<zone lrx="1157" lry="1404" rendition="Line" ulx="135" uly="1271" xml:id="LL1.7_line_1v_09" />
+			<zone lrx="1189" lry="1523" rendition="Line" ulx="915" uly="1402" xml:id="LL1.7_line_1v_10" />
+			<zone lrx="1391" lry="1656" rendition="Line" ulx="915" uly="1539" xml:id="LL1.7_line_1v_11" />
+		</surface>
+		<surface n="3" xml:id="LL1.7_folio_2r">
+			<graphic height="2439px" url="LL1.7_0003.jpg" width="1501px" />
+		</surface>
+		<surface n="4" xml:id="LL1.7_folio_2v">
+			<graphic height="2468px" url="LL1.7_0004.jpg" width="1494px" />
+		</surface>
+	</facsimile>
+	<text n="LL1.7" subtype="manuscript" type="lettera" xml:id="LL1.7">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.7_folio_1r" n="1" xml:id="LL1.7_fol_1r" />
+			<!--fronte-recto-->
+			<div n="o_01" type="opener">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.7_line_1r_01" n="1" xml:id="LL1.7_lb_1r_01" />
+						<hi rend="align(right)">
+							<placeName ref="TEI-ListPlace.xml#MI">Milano</placeName>
+							<date when="1830-09-25">25
+								<choice>
+									<abbr>Nov<am>:</am><hi rend="sup">e</hi></abbr>
+									<expan>Nov<ex>embr</ex>e</expan>
+								</choice></date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div n="t_01" type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.7_line_1r_02" n="2" xml:id="LL1.7_lb_1r_02" />
+						Mio caro
+						<rs ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer" type="person">amico</rs>
+					</s>
+				</salute>
+				<space quantity="2" unit="line" /> <!-- prossemica -->
+				<ab n="ab_03" next="#LL1.7_ab_03_1v" part="I" rend="first_line_indented" type="parag" xml:id="LL1.7_ab_03_1r">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.7_line_1r_03" n="3" xml:id="LL1.7_lb_1r_03" />
+						Son sicuro che mi sgridereste
+						<lb facs="#LL1.7_line_1r_04" n="4" xml:id="LL1.7_lb_1r_04" />
+						se non vi raccomandassi la mia amica
+						<choice>
+							<abbr>Mad<am>:</am><hi rend="sup">a</hi></abbr>
+							<expan>Mad<ex>am</ex>a</expan>
+						</choice>
+						<lb facs="#LL1.7_line_1r_05" n="5" xml:id="LL1.7_lb_1r_05" />
+						<persName ref="TEI-ListPerson.xml#LewisMarianna" rend="underline" resp="#GS" role="soprano">Levis,</persName> la quale si porta in
+						<distinct>cotesta</distinct> per <w>can
+							<lb break="no" facs="#LL1.7_line_1r_06" n="6" rend="double-stroke" xml:id="LL1.7_lb_1r_06" />
+							tare</w> in qualità di prima donna al
+						<orgName xml:id="LL1.7_1r_06_Fenice" next="#LL1.7_1r_07_Fenice" ref="TEI-ListOrganization.xml#Fenice" type="theatre">teatro della</orgName>
+							<lb facs="#LL1.7_line_1r_07" n="7" xml:id="LL1.7_lb_1r_07" />
+							<orgName xml:id="LL1.7_1r_07_Fenice" prev="#LL1.7_1r_06_Fenice" ref="TEI-ListOrganization.xml#Fenice" type="theatre">Fenice.</orgName>
+					</s>
+					<s n="s_04" type="sentence">
+						<rs ref="TEI-ListPerson.xml#LewisMarianna" type="person">Ella stessa</rs> ha desiderato una lettera
+						<lb facs="#LL1.7_line_1r_08" n="8" xml:id="LL1.7_lb_1r_08" />
+						per voi, stimandovi come tutta <name type="place">Europa,</name>
+						<lb facs="#LL1.7_line_1r_09" n="9" xml:id="LL1.7_lb_1r_09" />
+						l'<name type="epiteth"><rs ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer" type="person">Apollo Veneto.</rs>
+						</name>
+					</s>
+					<s n="s_05" type="sentence">
+						Io ho adempiuto al mio
+						<lb facs="#LL1.7_line_1r_10" n="10" xml:id="LL1.7_lb_1r_10" />
+						dovere col procurarle l'occasione d'<w>avvi
+							<lb break="no" facs="#LL1.7_line_1r_11" n="11" rend="double-stroke" xml:id="LL1.7_lb_1r_11" />
+							cinare</w> una persona, come voi, o mio caro
+						<rs xml:id="LL1.7_1r_11_amico" next="#LL1.7_1r_12_amico" ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer" type="person">a</rs>
+								<lb break="no" facs="#LL1.7_line_1r_12" n="12" rend="double-stroke" xml:id="LL1.7_lb_1r_12" />
+								<rs xml:id="LL1.7_1r_12_amico" prev="#LL1.7_1r_11_amico" ref="TEI-ListPerson.xml#PerucchiniGiovanniBattista" role="composer" type="person">mico,</rs> piena di sapere e d'amabilità, e
+						<lb facs="#LL1.7_line_1r_13" n="13" xml:id="LL1.7_lb_1r_13" />
+						vi prego di non abbandonarla coi
+						<choice>
+							<abbr>vri<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ri</expan>
+						</choice> <w>con
+							<lb break="no" facs="#LL1.7_line_1r_14" n="14" rend="double-stroke" xml:id="LL1.7_lb_1r_14" />
+							sigli</w> concernenti l'arte, ed il modo che
+						<lb facs="#LL1.7_line_1r_15" n="15" xml:id="LL1.7_lb_1r_15" />
+						necessiterebbe per presentarsi alle persone
+						<lb facs="#LL1.7_line_1r_16" n="16" xml:id="LL1.7_lb_1r_16" />
+						più riguardevoli di
+						<placeName ref="TEI-ListPlace.xml#VE">Venezia.</placeName>
+					</s>
+					<s n="s_06" type="sentence">
+						Non vi parlo
+						<lb facs="#LL1.7_line_1r_17" n="17" xml:id="LL1.7_lb_1r_17" />
+						della sua abilità, perché credo che l'avrete
+						<lb facs="#LL1.7_line_1r_18" n="18" xml:id="LL1.7_lb_1r_18" />
+						inteso in
+						<placeName ref="TEI-ListPlace.xml#MI">Milano;</placeName> ma posso assicurarvi che
+						<lb facs="#LL1.7_line_1r_19" n="19" xml:id="LL1.7_lb_1r_19" />
+						in tutto la troverete più brava, essendo
+						<lb facs="#LL1.7_line_1r_20" n="20" xml:id="LL1.7_lb_1r_20" />
+						una <distinct>giovine</distinct> instancabile nell'esercitarsi
+						<lb facs="#LL1.7_line_1r_21" n="21" xml:id="LL1.7_lb_1r_21" />
+						giornalmente.
+					</s>
+					<s n="s_07" next="#LL1.7_s_07_1v" part="I" type="sentence" xml:id="LL1.7_s_07_1r">
+						Per qualità d'animo è la
+						<lb facs="#LL1.7_line_1r_22" n="22" xml:id="LL1.7_lb_1r_22" />
+						più buona ed amabile ragazza, e senza <w next="#LL1.7_1v_01_affettazione" part="I" xml:id="LL1.7_1r_01_affettazione">affet</w>
+					</s>
+				</ab>
+				<ab facs="#LL1.7_hotspot_1r_01" subtype="addition" type="paratext" xml:id="LL1.7_hs_1r_01">
+					<fw type="catalogNum">
+						<idno type="oldCat">AM840</idno>
+					</fw>
+				</ab>
+				<pb break="no" facs="#LL1.7_folio_1v" n="2" xml:id="LL1.7_fol_1v" />
+				<ab n="ab_03" next="#LL1.7_ab_03_1r" part="F" type="parag" xml:id="LL1.7_ab_03_1v">
+					<s n="s_07" next="#LL1.7_s_07_1r" part="F" type="sentence" xml:id="LL1.7_s_07_1v">
+						<lb break="no" facs="#LL1.7_line_1v_01" n="1" rend="double-stroke" xml:id="LL1.7_lb_1v_01" />
+						<w part="F" prev="#LL1.7_1r_01_affettazione" xml:id="LL1.7_1v_01_affettazione">tazione</w> alcuna.
+					</s>
+					<s n="s_08" type="sentence">
+						Conoscerete anche la sua
+							<choice>
+								<abbr>Sig<am>:</am><hi rend="sup">ra</hi></abbr>
+								<expan>Sig<ex>no</ex>ra</expan>
+							</choice>
+						<lb facs="#LL1.7_line_1v_02" n="2" xml:id="LL1.7_lb_1v_02" />
+						<rs type="person">madre,</rs> poiché è una donna gentilissima ed assai
+						<lb facs="#LL1.7_line_1v_03" n="3" xml:id="LL1.7_lb_1v_03" />
+						socievole, avendo una buona dose di spirito.
+					</s>
+					<s n="s_09" type="sentence">
+						<lb facs="#LL1.7_line_1v_04" n="4" xml:id="LL1.7_lb_1v_04" />
+						Ecco il ritratto di queste mie amiche, che
+						<lb facs="#LL1.7_line_1v_05" n="5" xml:id="LL1.7_lb_1v_05" />
+						troverete somigliante nel trattarle.
+					</s>
+				</ab>
+				<ab n="ab_04" type="parag">
+					<s n="s_10" type="sentence">
+						Aspet
+						<lb break="no" facs="#LL1.7_line_1v_06" n="6" rend="double-stroke" xml:id="LL1.7_lb_1v_06" />
+						to
+						<choice>
+							<abbr>vre<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>re</expan>
+						</choice> nuove, che ne sono digiuno da gran
+						<lb facs="#LL1.7_line_1v_07" n="7" xml:id="LL1.7_lb_1v_07" />
+						tempo.
+					</s>
+					<s n="s_11" type="sentence">
+						Ricordatemi ai
+						<choice>
+							<abbr>vri<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ri</expan>
+						</choice>
+						<rs type="person" subtype="personGrp">vecchietti</rs> ed
+						<lb facs="#LL1.7_line_1v_08" n="8" xml:id="LL1.7_lb_1v_08" />
+						a tutti i nostri amici.
+					</s>
+					<s n="s_12" type="sentence">
+						Ricevete i miei
+						<lb facs="#LL1.7_line_1v_09" n="9" xml:id="LL1.7_lb_1v_09" />
+						<choice>
+							<abbr>abb<am>:</am><hi rend="sup">ci</hi></abbr>
+							<expan>abb<ex>rac</ex>ci</expan>
+						</choice> e
+						<choice>
+							<abbr>cred<am>:</am><hi rend="sup">mi</hi></abbr>
+							<expan>cred<ex>ete</ex>mi</expan>
+						</choice> a tutte
+						<distinct>pruove</distinct>
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<salute n="ab_06">
+					<lb facs="#LL1.7_line_1v_10" n="10" xml:id="LL1.7_lb_1v_10" />
+					<s n="s_13" type="sentence" rend="align(right)">
+						Il
+						<choice>
+							<abbr>vro<g ref="g01" rend="sup"/></abbr>
+							<expan>v<ex>ost</ex>ro</expan>
+						</choice>
+						<lb facs="#LL1.7_line_1v_11" n="11" xml:id="LL1.7_lb_1v_11" />
+					</s>
+				</salute>
+				<signed rend="align(right)">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Bellini</persName>
+				</signed>
+			</div>
+			<pb facs="#LL1.7_folio_2r" n="3" xml:id="LL1.7_fol_2r" />
+			<pb facs="#LL1.7_folio_2v" n="4" xml:id="LL1.7_fol_2v" />
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_7_bibliography">
+
+					<head>Bibliografia della lettera LL1.7</head>
+					<bibl xml:id="LL1_7_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005">
+							<bibl>
+								<author>Neri</author>
+								<date when="2005">2005</date>
+								<citedRange from="179" to="179" unit="page">179</citedRange>
+							</bibl>
+						</ref>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

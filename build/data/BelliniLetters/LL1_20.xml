@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Vincenzo Ferlito, in Parigi, 18 febbraio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Digital edition
+					<date when="2020-06">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG">Angelo Mario Del Grosso</name>
+					<name xml:id="DS">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name>Claudio De Martino</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC">Carla Congiu</name>
+					<name xml:id="PPS">Pietro Sichera</name>
+					<name xml:id="LM">Laura Mazzagufo</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<authority>Consiglio Nazionale delle Ricerche</authority>
+				<availability status="free">
+					<p>© Cnr Edizioni, 2023</p>
+				</availability>
+				<publisher />
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_20.xml</idno>
+				<date when="2023">2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl ana="387" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017">
+					<citedRange from="467" to="467" unit="page">467</citedRange>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.20</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 1, II (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" xml:lang="it">Vincenzo Bellini</author>
+							<title type="uniform" xml:lang="it">
+								<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName> a
+								<persName ref="TEI-ListPerson.xml#FerlitoVincenzo">Vincenzo Ferlito</persName>, in
+								<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>,
+								<date cert="high" resp="#GS" when="1835-02-18">18 febbraio 1835</date>
+							</title>
+							<textLang mainLang="it-x-800">Italiano di inizio Ottocento.</textLang>
+							<note>La data di redazione della lettera è stata attribuita da Seminara e non è presente nel documento originale.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>Carta sottile di colore beige, inchiostro nero.</material>
+									<watermark>Filigrana non visibile, probabilmente illeggibile o sbiadita.</watermark>
+									<stamp>Nella lettera non sono presenti timbri.</stamp>
+								</support>
+								<extent>
+									<measure type="folio">1</measure>
+									<dimensions unit="mm">
+										<height>203</height>
+										<width>133</width>
+									</dimensions>
+								</extent>
+								<collation>
+									Lettera composta da un solo folio. Il testo della lettera è disposto nella carta 1r, senza indirizzo. Il folio presenta segni di piegature asimmetriche e irregolari, che lo suddividono in circa dodici sezioni.
+								</collation>
+								<condition>
+									<p>Lettera in scarse condizioni fisiche. Presenta buchi e strappi sparsi, la maggior parte di piccola entità. Sono presenti anche molte macchie di vario genere sul folio.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<handNote>
+								<p>Scrittura a mano libera leggibile.
+								</p>
+							</handNote>
+							<handNote xml:id="h1">
+								<p>
+									Nel verso della pagina è presente un <hi facs="#LL1.20_hotspot_1v_01">segno sbiadito, non meglio identificato, forse un "2".</hi>
+								</p>
+							</handNote>
+						</handDesc>
+						<sealDesc>
+							<seal type="wax">
+								<p>Nella parte superiore della carta 1v è presente una macchia non uniforme di colore rosa chiaro: probabilmente si tratta di un frammento di ceralacca proveniente dal sigillo staccato.</p>
+							</seal>
+						</sealDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" role="composer">Vincenzo Bellini</persName>
+					<placeName ref="TEI-ListPlace.xml#Paris" type="writing">Parigi</placeName>
+					<date when="1835-02-18"><date type="writing">18 febbraio</date>
+					<date cert="high" resp="#GS">1835</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="TEI-ListPerson.xml#FerlitoVincenzo">Vincenzo Ferlito</persName>
+					<placeName>unknown</placeName>
+					<date>unknown</date>
+				</correspAction>
+				<correspContext>
+					<p>Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass>
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="published">
+			<change status="final-draft" when="2021-09">Final draft available in September 2021</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" xml:id="LL1.20_folio_1r">
+			<!-- 1r  -->
+			<graphic height="2460px" url="LL1.20_0001.jpg" width="1639px" />
+			<zone lrx="1005" lry="246" rendition="Line" ulx="426" uly="136" xml:id="LL1.20_line_1r_01" />
+			<zone lrx="816" lry="496" rendition="Line" ulx="320" uly="417" xml:id="LL1.20_line_1r_02" />
+			<zone lrx="1552" lry="654" rendition="Line" ulx="469" uly="530" xml:id="LL1.20_line_1r_03" />
+			<zone lrx="1590" lry="789" rendition="Line" ulx="206" uly="656" xml:id="LL1.20_line_1r_04" />
+			<zone lrx="1467" lry="921" rendition="Line" ulx="201" uly="809" xml:id="LL1.20_line_1r_05" />
+			<zone lrx="1406" lry="1075" rendition="Line" ulx="201" uly="946" xml:id="LL1.20_line_1r_06" />
+			<zone lrx="1589" lry="1220" rendition="Line" ulx="185" uly="1098" xml:id="LL1.20_line_1r_07" />
+			<zone lrx="1404" lry="1364" rendition="Line" ulx="179" uly="1241" xml:id="LL1.20_line_1r_08" />
+			<zone lrx="1567" lry="1527" rendition="Line" ulx="123" uly="1376" xml:id="LL1.20_line_1r_09" />
+			<zone lrx="1606" lry="1692" rendition="Line" ulx="127" uly="1534" xml:id="LL1.20_line_1r_10" />
+			<zone lrx="1606" lry="1815" rendition="Line" ulx="127" uly="1692" xml:id="LL1.20_line_1r_11" />
+			<zone lrx="1534" lry="1947" rendition="Line" ulx="124" uly="1815" xml:id="LL1.20_line_1r_12" />
+			<zone lrx="1506" lry="2077" rendition="Line" ulx="136" uly="1926" xml:id="LL1.20_line_1r_13" />
+			<zone lrx="1620" lry="2212" rendition="Line" ulx="151" uly="2051" xml:id="LL1.20_line_1r_14" />
+			<zone lrx="1622" lry="2311" rendition="Line" ulx="136" uly="2185" xml:id="LL1.20_line_1r_15" />
+			<zone lrx="1581" lry="2357" rendition="Line" ulx="87" uly="2281" xml:id="LL1.20_line_1r_16" />
+			<zone lrx="1484" lry="2420" rendition="Line" ulx="130" uly="2354" xml:id="LL1.20_line_1r_17" />
+			<zone lrx="1597" lry="2421" rendition="Line" ulx="1161" uly="2390" xml:id="LL1.20_line_1r_18" />
+		</surface>
+		<surface n="2" xml:id="LL1.20_folio_1v">
+			<!-- 1v -->
+			<graphic height="2471px" url="LL1.20_0002.jpg" width="1656px" />
+			<zone lrx="1182" lry="1652" rendition="HotSpot" ulx="768" uly="1246" xml:id="LL1.20_hotspot_1v_01" />
+			<!-- segno -->
+		</surface>
+	</facsimile>
+	<text n="LL1.20" subtype="manuscript" type="lettera" xml:id="LL1.20">
+		<front />
+
+		<body xml:lang="it">
+			<pb facs="#LL1.20_folio_1r" n="1" xml:id="LL1.20_fol_1r" />
+			<!-- fronte -->
+			<div n="o_01" type="opener">
+				<dateline n="ab_01" xml:id="indented">
+					<s n="s_01" type="sentence">
+						<lb facs="#LL1.20_line_1r_01" n="1" xml:id="LL1.20_lb_1r_01" />
+						<hi rend="align(center)">
+							<placeName ref="TEI-ListPlace.xml#Paris">Parigi</placeName>
+							<date resp="#GS" when="1835-02-18">18<am>:</am> Febrajo</date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body">
+				<salute n="ab_02">
+					<s n="s_02" type="sentence">
+						<lb facs="#LL1.20_line_1r_02" n="2" xml:id="LL1.20_lb_1r_02" /><supplied>Mi</supplied>o caro
+						<rs ref="TEI-ListPerson.xml#FerlitoVincenzo" type="person">Zio</rs>
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag">
+					<s n="s_03" type="sentence">
+						<lb facs="#LL1.20_line_1r_03" n="3" xml:id="LL1.20_lb_1r_03" />
+						due parole per dirvi che stò
+						<lb facs="#LL1.20_line_1r_04" n="4" xml:id="LL1.20_lb_1r_04" />
+						bene in salute, ma che ancora i miei
+						<lb facs="#LL1.20_line_1r_05" n="5" xml:id="LL1.20_lb_1r_05" />
+						nervi sono
+						<choice resp="#DS #LM">
+							<orig>si</orig>
+							<reg>sì</reg>
+						</choice> affettati che non posso
+						<lb facs="#LL1.20_line_1r_06" n="6" xml:id="LL1.20_lb_1r_06" />
+						scrivere a lung<supplied>o.</supplied> —
+					</s>
+					<s n="s_04" type="sentence">
+						Alla Corte
+						<lb facs="#LL1.20_line_1r_07" n="7" xml:id="LL1.20_lb_1r_07" />
+						si è dato un <term ref="TEI-ListTerm.xml#concerto" subtype="music-term">concerto</term> composto di tutta
+						<lb facs="#LL1.20_line_1r_08" n="8" xml:id="LL1.20_lb_1r_08" />
+						mia musica;
+					</s>
+					<s n="s_05" type="sentence">
+						di pezzi scelti della
+						<lb facs="#LL1.20_line_1r_09" n="9" xml:id="LL1.20_lb_1r_09" />
+						<rs ref="TEI-ListWork.xml#Norma" type="work">
+							<hi rend="underline">Norma</hi>,
+						</rs> e d'altri dei
+						<rs ref="TEI-ListWork.xml#Puritani" type="work"><hi rend="underline">Puritani</hi></rs> —
+					</s>
+				</ab>
+				<ab n="ab_04" type="parag">
+					<s n="s_06" type="sentence">
+						<lb facs="#LL1.20_line_1r_10" n="10" xml:id="LL1.20_lb_1r_10" />
+						Le
+						<rs type="personGrp">loro
+							<choice>
+								<abbr>M<am>.</am></abbr>
+								<expan>M<ex>aestà</ex></expan>
+							</choice>
+						</rs>
+						<ptr target="#LL1.20_note1" />
+						sono restati contentissimi
+						<lb facs="#LL1.20_line_1r_11" n="11" xml:id="LL1.20_lb_1r_11" />
+						e diverse volte tanto il
+						<rs type="person">rè</rs> che la
+						<rs type="person">Regina</rs>
+						<lb facs="#LL1.20_line_1r_12" n="12" xml:id="LL1.20_lb_1r_12" />
+						si avvicinarono al piano per congratularsi
+						<lb facs="#LL1.20_line_1r_13" n="13" xml:id="LL1.20_lb_1r_13" />
+						meco:
+					</s>
+					<s n="s_07" type="sentence">
+						se resterò a
+						<placeName ref="TEI-ListPlace.xml#Paris">Parigi,</placeName> come vi
+						<lb facs="#LL1.20_line_1r_14" n="14" xml:id="LL1.20_lb_1r_14" />
+						sono tutte le probabilità, la loro protezione
+						<lb facs="#LL1.20_line_1r_15" n="15" xml:id="LL1.20_lb_1r_15" />
+						mi gioverà assai assai —
+					</s>
+					<s n="s_08" type="sentence">
+						Le cose più <w>affettuo
+							<lb break="no" facs="#LL1.20_line_1r_16" n="16" rend="double-stroke" xml:id="LL1.20_lb_1r_16" />
+							se</w> a la mia <rs type="personGrp">famiglia</rs> ed a tutti i miei cari parenti
+						<lb facs="#LL1.20_line_1r_17" n="17" xml:id="LL1.20_lb_1r_17" />
+						ed amici —
+					</s>
+				</ab>
+			</div>
+			<div n="c_01" type="closer">
+				<ab n="ab_05">
+					<s n="s_09" type="sentence">
+						Voi ricevete <supplied>i</supplied> miei
+						<unclear agent="ink" reason="faded">
+							<choice>
+								<abbr>abb<am>:</am><hi rend="sup">ci</hi></abbr>
+								<expan>abb<ex>rac</ex>ci</expan>
+							</choice>
+						</unclear> e
+						<choice>
+							<abbr>cred<am>:</am><hi rend="sup">mi</hi></abbr>
+							<expan>cred<ex>ete</ex>mi</expan>
+						</choice>
+					</s>
+				</ab>
+				<salute n="ab_06">
+					<s n="s_10" type="sentence" xml:id="right">
+						<lb facs="#LL1.20_line_1r_18" n="18" xml:id="LL1.20_lb_1r_18" />
+						<unclear agent="ink" reason="faded" rend="align(right)">
+							<choice>
+								<abbr>aff<am>smo</am></abbr>
+								<expan>aff<ex>ezionatis</ex>s<ex>i</ex>mo</expan>
+							</choice>
+						</unclear>
+						<choice>
+							<abbr>v<am>ro</am><g ref="g01" rend="sup" /></abbr>
+							<expan>v<ex>ost</ex>ro</expan>
+						</choice>
+						<rs ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco" type="person">Nipote</rs>
+					</s>
+				</salute>
+			</div>
+			<!--chiusura closer-->
+			<pb facs="#LL1.20_folio_1v" n="2" xml:id="LL1.20_fol_1v" />
+			<!-- 1v -->
+			<div type="paratext">
+				<ab facs="#LL1.20_hotspot_1v_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.20_hs_1v_01">
+					<fw>
+						<gap reason="illegible" extent="unknown"/>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back xml:lang="it">
+			<div type="notes">
+				<div type="ann_notes">
+					<note ana="788" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" xml:id="LL1.20_note1">
+						<bibl>
+							<citedRange from="467" to="467" unit="page">467</citedRange>
+						</bibl>
+						<p>
+							Nell'autografo MM.
+						</p>
+					</note>
+				</div>
+			</div>
+			<div type="bibliography">
+				<listBibl xml:id="LL1_20_bibliography">
+
+					<head>Bibliografia della lettera LL1.20</head>
+					<bibl xml:id="LL1_20_Zangara">
+						<ref target="TEI-ListBibl.xml#Zangara1906" />
+						<bibl>
+							<author>Zangara</author>
+							<date when="1906">1906</date>
+							<citedRange from="176" to="176" unit="page">176</citedRange>
+						</bibl>
+					</bibl>
+					<bibl xml:id="LL1_20_Cambi">
+						<ref target="TEI-ListBibl.xml#Bellini-Cambi1943" />
+						<bibl>
+							<author>Cambi</author>
+							<date when="1943">1943</date>
+							<citedRange from="521" to="521" unit="page">521</citedRange>
+						</bibl>
+					</bibl>
+					<bibl xml:id="LL1_20_Neri">
+						<ref target="TEI-ListBibl.xml#Neri2005" />
+						<bibl>
+							<author>Neri</author>
+							<date when="2005">2005</date>
+							<citedRange from="381" to="382" unit="page">381-382</citedRange>
+						</bibl>
+					</bibl>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

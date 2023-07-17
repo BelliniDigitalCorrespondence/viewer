@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title>Vincenzo Bellini a Giuseppe Denza, in Parigi, 10 maggio 1835</title>
+				<author ref="TEI-ListPerson.xml#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name xml:id="GS" full="yes" instant="false">Graziella Seminara</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					Digital edition
+					<date when="2020-06" instant="false">June 2020</date>
+				</edition>
+				<respStmt>
+					<resp>Digital edition project coordinated by</resp>
+					<name xml:id="AMDG" full="yes" instant="false">Angelo Mario Del Grosso</name>
+					<name xml:id="DS" full="yes" instant="false">Daria Spampinato</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding by</resp>
+					<name full="yes" instant="false">Sara Maenza</name>
+					<name full="yes" instant="false">Fabiola Frontuto</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoding revision by</resp>
+					<name xml:id="CC" full="yes" instant="false">Carla Congiu</name>
+					<name xml:id="PPS" full="yes" instant="false">Pietro Sichera</name>
+					<name xml:id="LM" full="yes" instant="false">Laura Mazzagufo</name>
+				</respStmt>
+				<funder>Patto per Catania</funder>
+			</editionStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability default="false">
+					<licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+				</availability>
+				<idno type="filename">LL1_23.I.xml</idno>
+				<date when="2021-09" instant="false">September 2021</date>
+			</publicationStmt>
+			<sourceDesc default="false">
+				<bibl ana="426" resp="#GS" source="TEI-ListBibl.xml#Bellini-Seminara2017" default="false" status="draft">
+					<citedRange from="501" to="501" unit="page">501</citedRange>
+				</bibl>
+				<msDesc><msIdentifier>
+						<country>Italy</country>
+						<settlement>Catania</settlement>
+						<repository n="I-CATm" ref="http://www.rism.info/typo3conf/ext/user_apachesolr/result.php?q=id:30003436" role="museum">Museo Belliniano Catania</repository>
+						<idno type="inventory">LL1.23.I</idno>
+						<altIdentifier>
+							<idno type="collocation" when="2018-06">In esposizione nella casa natale, sala B, vetrina 5, ripiano 1, IV (aggiornamento giugno 2018)</idno>
+						</altIdentifier>
+					</msIdentifier><msContents><msItem xml:id="msItem-LL1.23.I"><idno type="inventory">LL1.23.I</idno><title>Vincenzo Bellini a Giuseppe Denza, in Parigi, 10 maggio 1835</title><bibl><fw>Bibliografia </fw>Seminara, 2017, <citedRange source="#Seminara2017" resp="#GS" ana="426"><locus from="501" to="501">n. 426, p. 501.</locus></citedRange></bibl><bibl>Cambi, 1943, p. 549. </bibl><bibl>Neri, 2005, p. 404. </bibl><incipit><fw>Incipit </fw>
+						
+						
+						
+							Parigi
+							10: Maggio
+						
+					</incipit><explicit><fw>Explicit </fw>Esplicit non presente</explicit></msItem></msContents></msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc default="false">
+				<correspAction type="sent">
+					<persName ref="#BelliniVincenzoSalvatoreCarmeloFrancesco">Vincenzo Bellini</persName>
+					<placeName ref="#Paris">Parigi</placeName>
+					<date when="1835-05-10" instant="false"><date type="writing" instant="false">10 maggio</date>
+					<date resp="#GS" cert="high" instant="false">1835</date></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="#DenzaGiuseppe">Giuseppe Denza</persName>
+					<placeName>unknown</placeName>
+					<date instant="false">unknown</date>
+				</correspAction>
+				<correspContext>
+					<p part="N">Nessun contesto di riferimento</p>
+				</correspContext>
+			</correspDesc>
+			<textClass default="false">
+				<keywords scheme="http://thes.bncf.firenze.sbn.it">
+					<term resp="#GS">Minuta di lettera</term>
+				</keywords>
+			</textClass>
+			<langUsage default="false">
+				<language ident="it">Italiano</language>
+				<language ident="it-x-800">Italiano di inizio Ottocento</language>
+				<language ident="fr">Francese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<facsimile xml:id="LL1.23.I_facsimile">
+		<surface n="LL1.23.I.1" xml:id="LL1.23.I_folio_1r" corresp="#LL1.23.I_fol_1r"><graphic url="data/test-img/LL1.23.I/LL1-23-I_0001.dzi" width="1635px" height="2468px"/><zone ulx="433.36" uly="91.09" lrx="698.68" lry="159.19" rendition="line" xml:id="LL1.23.I_line_1r_01"/><zone ulx="227.29" uly="128.24" lrx="535.06" lry="203.41" rendition="line" xml:id="LL1.23.I_line_1r_02"/><zone ulx="227.29" uly="221.10" lrx="624.83" lry="287.43" rendition="line" xml:id="LL1.23.I_line_1r_03"/><zone ulx="94.63" uly="46.43" lrx="226.85" lry="482.00" rendition="HotSpot" xml:id="LL1.23.I_hotspot_1r_01" corresp="#LL1.23.I_hotspot_1r_01h" start="#LL1.23.I_hotspot_1r_01h"/><zone ulx="274.17" uly="55.28" lrx="412.57" lry="211.81" rendition="HotSpot" xml:id="LL1.23.I_hotspot_1r_02" corresp="#LL1.23.I_hotspot_1r_02h" start="#LL1.23.I_hotspot_1r_02h"/><zone ulx="37.59" uly="300.70" lrx="709.29" lry="896.79" rendition="HotSpot" xml:id="LL1.23.I_hotspot_1r_03" corresp="#LL1.23.I_hotspot_1r_03h" start="#LL1.23.I_hotspot_1r_03h"/></surface>
+		<surface n="LL1.23.I.2" xml:id="LL1.23.I_folio_1v" corresp="#LL1.23.I_fol_1v"><graphic url="data/test-img/LL1.23.I/LL1-23-I_0002.dzi" width="1635px" height="2468px"/><zone ulx="226.41" uly="969.75" lrx="341.82" lry="1044.92" rendition="HotSpot" xml:id="LL1.23.I_hotspot_1v_01" corresp="#LL1.23.I_hotspot_1v_01h" start="#LL1.23.I_hotspot_1v_01h"/></surface>
+	</facsimile>
+	<text type="minuta_di_lettera" n="1.23.I" xml:id="LL1.23.I">
+		<front><head>
+            Informazioni sulla lettera
+        </head><div type="Title"><fw> 
+                        Titolo
+                    </fw><p>Vincenzo Bellini a Giuseppe Denza, in Parigi, 10 maggio 1835</p></div><div type="Bibliography"><fw>
+                        Bibliografia 
+                    </fw><p>
+                            Seminara 2017, n. 
+                        426  p. 501</p></div><div type="note"><fw>
+                        Note
+                    </fw><p>La carta contiene due lettere che fanno parte della stessa unità codicologica: sono separate da una linea, al di sotto della quale si trova la <hi facs="#LL1.23.I_hotspot_1r_03">lettera LL1.23.II</hi>.</p></div><div type="language"><fw>
+                    Lingua  
+                </fw><p>Italiano di inizio Ottocento con altre mani in francese.</p></div><div type="Collocation"><p><fw>Segnatura </fw>I-CATm, LL1.23.I</p></div><div type="desc"><head>
+                    Descrizione del supporto 
+                </head><p><fw>
+                            Carta
+                        </fw>Carta sottile di colore beige, inchiostro nero.</p><p><fw>
+                            Numero di carte 
+                        </fw>1</p><p><fw>Dimensioni </fw>204x133<unit>  
+                        mm
+                    </unit></p><p><fw>
+                            Watermark
+                        </fw>La carta non presenta filigrana.</p><p><fw>
+                            Timbri
+                        </fw>Non sono presenti tracce di timbri o francobolli.</p><p/></div><div type="piegatura"><p><fw>
+                    Piegatura e disposizione del testo
+                </fw>
+									Minuta di lettera composta da un solo folio, con testo autografo e altre due mani sulla carta 1r, oltre a un'ulteriore mano aggiunta in blu sulla carta 1v.
+								</p></div><div type="condFisica"><p><fw>
+                    Condizioni fisiche 
+                </fw>
+									Lettera in buone condizioni fisiche.
+								</p></div><div type="handnote"><p><fw>
+                    Descrizione delle mani 
+                </fw>
+								
+									Scrittura a mano libera leggibile.
+								
+							 
+								
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									quinzième
+									significa
+									quindicesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							 
+								
+								
+									Nella carta 1r è riconoscibile una terza mano, dovuta probabilmente ad un catalogatore, che riporta in blu il numero 103.
+								
+							 
+								
+								
+									Nella carta 1v è riconoscibile una quarta mano, dovuta probabilmente ad un catalogatore, che riporta in blu il numero 13 tra parentesi.
+								
+							</p></div><div type="sigilli"><p><fw>
+                    Descrizione dei sigilli
+                </fw>Non sono presenti sigilli.</p></div><div type="Corrispondence"><head> 
+                Informazioni sulla Corrispondenza
+                </head><p><fw>  
+                            Mittente 
+                        </fw>Vincenzo Bellini</p><p><fw> 
+                            Luogo di spedizione 
+                        </fw>Parigi</p><p><fw> 
+                            Data di spedizione 
+                        </fw>[10 maggio
+					1835]</p><p><fw> 
+                            Destinatario
+                        </fw>Giuseppe Denza</p><p><fw> 
+                            Luogo di destinazione 
+                        </fw>
+                        Non presente o sconosciuto
+                    </p><p><fw> 
+                            Data di destinazione
+                        </fw>
+                        Non presente o sconosciuta
+                    </p></div></front>
+
+		<body xml:lang="it">
+			<pb n="LL1.23.I.1r" xml:id="LL1.23.I_fol_1r" facs="data/test-img/LL1.23.I/LL1-23-I_0001.dzi"/>
+			<!-- recto -->
+			<div n="o_01" type="opener" part="N" org="uniform" sample="complete">
+				<dateline n="ab_01">
+					<s n="s_01" type="sentence" part="N">
+						<ptr target="#LL1.23.I_note1"/><note>(Nota Seminara, 2017: p. 501 n. 850)<p part="N">Nel margine inferiore della medesima facciata è tracciata una minuta a un destinatario sconosciuto <supplied resp="#DS" instant="false">(Lettera 427 catalogata come LL1.23.II).</supplied></p></note>
+						<lb facs="#LL1.23.I_line_1r_01" n="1" xml:id="LL1.23.I_lb_1r_01"/>
+						<hi rend="align(right)">
+							<placeName ref="#Paris">Parigi</placeName>
+							<date when="1835-05-10" instant="false">10: Maggio</date>
+						</hi>
+					</s>
+				</dateline>
+			</div>
+			<div type="letter-body" part="N" org="uniform" sample="complete">
+				<salute n="ab_02">
+					<s n="s_02" rend="first_line_indented" type="sentence" part="N">
+						<lb facs="#LL1.23.I_line_1r_02" n="2" xml:id="LL1.23.I_lb_1r_02"/>
+						Mio caro
+						<persName ref="#DenzaGiuseppe">Denza</persName>
+					</s>
+				</salute>
+				<ab n="ab_03" rend="first_line_indented" type="parag" part="N">
+					<s n="s_03" type="sentence" part="N">
+						<lb facs="#LL1.23.I_line_1r_03" n="3" xml:id="LL1.23.I_lb_1r_03"/>
+						Se
+						<persName ref="#CurioniAlberico">Curioni</persName>
+						vi domanderà
+						<ptr target="#LL1.23.I_note2"/><note resp="#GS" xml:id="LL1.23.I_note2" anchored="true">
+						<p part="N">
+							La lettera è incompleta.
+						</p>
+					</note>
+					</s>
+				</ab>
+			</div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.23.I_hotspot_1r_01" hand="#h1" subtype="addition" type="paratext" xml:id="LL1.23.I_hs_1r_01" part="N">
+					<fw>
+						<unclear instant="false">
+							<lb/>
+							quinzième
+							<lb/>
+							Cotefil
+							<lb/>
+							+++
+						</unclear>
+					</fw>
+				</ab>
+				<ab facs="#LL1.23.I_hotspot_1r_02" hand="#h2" subtype="addition" type="paratext" xml:id="LL1.23.I_hs_1r_02" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">103</idno>
+					</fw>
+				</ab>
+			</div>
+			<pb n="LL1.23.I.1v" xml:id="LL1.23.I_fol_1v" facs="data/test-img/LL1.23.I/LL1-23-I_0002.dzi"/><div type="extratext"><p>
+                                    La facciata non presenta testo autografo di Bellini relativo a questa lettera
+                                </p></div>
+			<div type="paratext" part="N" org="uniform" sample="complete">
+				<ab facs="#LL1.23.I_hotspot_1v_01" hand="#h3" subtype="addition" type="paratext" xml:id="LL1.23.I_hs_1v_01" part="N">
+					<fw type="catalogNum">
+						<idno type="oldCat">(13)</idno>
+					</fw>
+				</ab>
+			</div>
+		</body>
+		<back><div type="hotspot"><div xml:id="LL1.23.I_hotspot_1r_01h" facs="#LL1.23.I_hotspot_1r_01"><p>
+								
+								
+									Seconda mano corsiva, in francese, difficilmente leggibile. Si presume si tratti di una vecchia catalogazione perché, in francese,
+									cote
+									indica la numerazione dei cartoni di un fondo archivistico e
+									quinzième
+									significa
+									quindicesimo. I caratteri che sembrano corrispondere alla parola
+									fil
+									terminano in un segno che potrebbe essere la firma del catalogatore, forse le sue iniziali.
+								
+							</p></div><div xml:id="LL1.23.I_hotspot_1r_02h" facs="#LL1.23.I_hotspot_1r_02"><p>una terza mano, dovuta probabilmente ad un catalogatore, che riporta in blu il numero 103.</p></div><div xml:id="LL1.23.I_hotspot_1r_03h" facs="#LL1.23.I_hotspot_1r_03"><p>lettera LL1.23.II</p></div><div xml:id="LL1.23.I_hotspot_1v_01h" facs="#LL1.23.I_hotspot_1v_01"><p>una quarta mano, dovuta probabilmente ad un catalogatore, che riporta in blu il numero 13 tra parentesi.</p></div></div></back>
+	</text>
+</TEI>

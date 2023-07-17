@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_cp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI 
+    xmlns="http://www.tei-c.org/ns/1.0">
+       <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- Insert title for this digital text --></title>
+         </titleStmt>
+         <publicationStmt>
+            <p><!-- Insert information about the publication of this digital text --></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p><!-- Insert a bibliographic description of the source for this digital text --></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This is a template for a minimal TEI header with the mandatory components:</p>
+      </body>
+      <back>
+            <div type="notes">
+                <div type="ann_notes">
+                    
+                    <note xml:id="a1" type="footnote" resp="#S" place=" " anchored="yes">
+                        <p>
+                           
+                    </note>
+
+                    <note xml:id="a2" type="ann" resp="" place="" anchored="yes">
+                        <p></p>
+                    </note>
+
+                </div>
+            </div>
+      </back>
+   </text>
+</TEI>
